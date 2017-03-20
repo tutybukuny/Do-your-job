@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>khi_không</N> <V>có</V> <V>báo_hiệu</V> <V>xin</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <C>mà</C> <R>không</R> <V>báo_hiệu</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>giữ</V> <N>khoảng_cách</N> <A>an_toàn</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <A>gần</A> <N>xe</N> <A>trước</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>giữ</V> <N>khoảng_cách</N> <A>an_toàn</A> <V>gây</V> <R>ra</R> <V>va_chạm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><A>va_quệt</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>quyền</N> <V>đi</V> <A>trước</A> <E>cho</E> <N>người</N> <V>đi</V> <N>bộ</N></a> <N>khi</N> <a><V>chuyển_hướng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>người</N> <V>đi</V> <N>bộ</N></a> <N>khi</N> <a><V>rẽ</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>quyền</N> <V>đi</V> <A>trước</A> <E>cho</E> <N>người</N> <N>khuyết_tật</N></a> <N>khi</N> <a><V>chuyển_hướng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>người</N> <N>khuyết_tật</N></a> <N>khi</N> <a><V>rẽ</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>quyền</N> <V>đi</V> <A>trước</A> <E>cho</E> <N>xe</N> <A>thô_sơ</A></a> <N>khi</N> <a><V>chuyển_hướng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <A>thô_sơ</A></a> <N>khi</N> <a><V>rẽ</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><V>chuyển_hướng</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>rẽ</V> <R>không</R> <V>nhường</V> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><V>chuyển_hướng</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>người</N> <V>đi</V> <N>bộ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>rẽ</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>người</N> <V>đi</V> <N>bộ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><V>chuyển_hướng</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>người</N> <N>khuyết_tật</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>rẽ</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>người</N> <N>khuyết_tật</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>lùi</V></a> <tv><N>xe</N> <V>mô_tô</V> <M>3</M> <N>bánh</N></tv> <a><R>không</R> <V>có</V> <N>tín_hiệu</N> <V>báo</V> <A>trước</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe</N> <M>3</M> <V>gác</V></tv> <a><V>lùi</V> <a><R>không</R> xi_nhan</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>lùi</V></a> <tv><N>xe</N> <V>mô_tô</V> <M>3</M> <N>bánh</N></tv> <a><R>không</R> <V>quan_sát</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R> <V>quan_sát</V></a> <N>khi</N> <a><V>lùi</V></a> <tv><N>xe</N> <M>3</M> <V>gác</V></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>sử_dụng</V> <V>đèn_chiếu</V> <A>xa</A></a> <if1><N>khi</N> <V>tránh</V> <N>xe</N> <A>ngược</A> <N>chiều</N></if1> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bật</V> <V>đèn_pha</V></a> <tv><N>xe_máy</N></tv> <if1><N>khi</N> <V>tránh</V> <N>xe</N> <A>ngược</A> <N>chiều</N></if1> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>ngồi</V> <E>trên</E> <tv><N>xe_máy</N></tv> <if3><V>sử_dụng</V> <N>ô</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>ô</N></if3> <N>khi</N> <V>lái</V> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <E>dù</E></if3> <N>khi</N> <V>lái</V> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>tuân_thủ</V> <L>các</L> <N>quy_tắc</N> <V>nhường</V> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm i khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm i khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn_đường</N> <a><R>không</R> đúng</A> <N>nơi</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn</N> <A>sai</A> <N>nơi</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn_đường</N> <R>không</R> <V>có</V> <N>tín_hiệu</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><a><R>không</R> xi_nhan</A> <N>khi</N> <V>chuyển</V> <N>làn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <V>dàn</V> <N>hàng</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><N>dàn</N> <N>hàng</N></a> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>bật</V> <N>đèn</N> <E>trong</E> <N>thời_gian</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R> <V>bật</V> <N>đèn</N></a> <tv><N>xe_máy</N></tv> <N>lúc</N> <if4><M>8h</M> <N>tối</N></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>bật</V> <N>đèn</N></a> <if4><N>khi</N> <V>có</V> <N>sương_mù</N></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R> <V>bật</V> <N>đèn</N></a> <tv><N>xe_máy</N></tv> <if4><N>khi</N> <V>có</V> <N>sương_mù</N></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>bật</V> <N>đèn</N></a> <if4><N>khi</N> <N>thời_tiết</N> <A>xấu</A></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R> <V>bật</V> <N>đèn</N></a> <tv><N>xe_máy</N></tv> <if4><N>khi</N> <N>thời_tiết</N> <A>xấu</A></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>xin</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <V>muốn</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <E>trên</E> <N>đường</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <E>trên</E> <N>đường</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>tránh</V> <N>xe</N> <a><R>không</R> đúng</A> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>tránh</V> <N>xe</N> <A>khác</A> <A>sai</A> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>ngược</V> <N>chiều</N></a> <if4><E>tại</E> <N>nơi</N> <N>đường</N> <A>hẹp</A></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4><N>đường</N> <A>hẹp</A></if4> <C>mà</C> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>ngược</V> <N>chiều</N></a> <if4><E>tại</E> <N>nơi</N> <N>đường</N> <N>dốc</N></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4><E>trên</E> <N>dốc</N></if4> <C>mà</C> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>ngược</V> <N>chiều</N></a> <if4><E>tại</E> <N>nơi</N> <V>có</V> <N>vật</N> <V>cản</V></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <V>ngược</V> <N>chiều</N></a> <if4><E>tại</E> <N>nơi</N> <V>có</V> <N>vật</N> <V>cản</V></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bấm</V> <N>còi</N></a> <if4><E>trong</E> <N>thời_gian</N> <V>cấm</V></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <if4><E>giữa</E> <N>đêm</N> <A>khuya</A></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bấm</V> <N>còi</N></a> <E>trong</E> <N>thời_gian</N> <E>từ</E> <if4><M>22</M> <N>giờ</N> <N>hôm</N> <A>trước</A> <E>đến</E> <M>5</M> <Nu>giờ</Nu> <N>hôm_sau</N></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <N>lúc</N> <if4><M>4h</M> <N>sáng</N> <A>hôm_sau</A></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bật</V> <V>đèn_chiếu</V> <A>xa</A></a> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bật</V> <V>đèn_pha</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>thành_phố</N> <C>thì</C></l> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bật</V> <V>đèn_chiếu</V> <A>xa</A></a> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bật</V> <V>đèn_pha</V></a> <tv><N>xe_máy</N></tv> <l><A>tại_chỗ</A> <A>đông</A> <N>người</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>sử_dụng</V> <N>thiết_bị</N> <V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <R>không</R> <V>đùng</V> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm g khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>dùng</V> <N>thiết_bị</N> <V>ưu_tiên</V> <A>trái_phép</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm g khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>lắp</V> <N>thiết_bị</N> <V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <C>nhưng</C> <R>không</R> <V>có</V> <N>giấy_phép</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm g khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>quay</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>cấm</V> <V>quay</V> <N>đầu</N> <N>xe</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm h khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>quay</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>cấm</V> <V>quay</V> <N>đầu</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm h khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <a><E>giữa</E> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <a><E>giữa</E> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>giảm</V> <N>tốc_độ</N> <N>khi</N> <V>đi</V> <E>từ</E> <E>trong</E> <N>ngõ</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>xe_máy</N></tv> <a><E>từ</E> <E>trong</E> <N>ngõ</N> <R>ra</R> <C>mà</C> <R>không</R> <V>giảm</V> <N>tốc_độ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <N>khi</N> <V>đi</V> <E>từ</E> <E>trong</E> <N>ngõ</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <N>khi</N> <V>đi</V> <E>từ</E> <E>trong</E> <N>ngõ</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <N>khi</N> <V>đi</V> <V>từ_đường</V> <N>nhánh</N> <V>ra</V> <N>đường</N> <A>chính</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <N>khi</N> <V>đi</V> <V>từ_đường</V> <N>nhánh</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>giảm</V> <N>tốc_độ</N> <N>khi</N> <V>đi</V> <V>từ_đường</V> <N>nhánh</N> <V>ra</V> <N>đường</N> <A>chính</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>giảm</V> <N>tốc_độ</N> <N>khi</N> <V>đi</V> <V>từ_đường</V> <N>nhánh</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N></a> <N>quy_định</N> <E>từ</E> <v><M>5km</M> <X>/</X> <V>h</V> <E>đến</E></v> <N>dưới</N> <qt><M>10km</M> <X>/</X> <A>h</A> <C>thì</C> <V>bị</V></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V></a> <a><R>quá</R> <N>tốc_độ</N></a> <v><M>6km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <N>tốc_độ</N> <A>thấp</A> <V>gây</V> <V>cản_trở</V> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <A>chậm</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>ở</E> <N>giữa</N> <N>lòng_đường</N> <N>đô_thị</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>ở</E> <N>giữa</N> <N>lòng_đường</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>ở</E> <N>giữa</N> <N>lòng_đường</N> <N>đô_thị</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>ở</E> <N>giữa</N> <N>lòng_đường</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>tụ_tập</V> <E>từ</E> <M>3</M></a> <tv><N>xe_máy</N></tv> <a><A>trở_lên</A></a> <l><E>trong</E> <N>lòng_đường</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>tụ_tập</V> <E>từ</E> <M>4</M></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>lòng_đường</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>tụ_tập</V> <E>từ</E> <M>3</M></a> <tv><N>xe_máy</N></tv> <a><A>trở_lên</A></a> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>tụ_tập</V> <M>5</M></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>hè_phố</N></l> <a><N>trái</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>vỉa_hè</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>rú</V> <N>ga</N></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>rồ</V> <N>ga</N></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><N>nẹt</N> <V>pô</V></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><N>nẹt</N> <V>pô</V></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>rú</V> <N>ga</N></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><N>nẹt</N> <V>pô</V></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>sử_dụng</V> <L>các</L> <N>thiết_bị</N> <V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <A>trái_phép</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gắn</V> <L>các</L> <N>thiết_bị</N> <V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <A>trái_phép</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <a><A>liên_tục</A></a> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>điểm</N> <V>dừng</V> <N>xe_buýt</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>giao</V> <N>nhau</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>qua</V> <N>đường</N> <E>của</E> <N>người</N> <V>đi</V> <N>bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>làn</N> <E>qua</E> <N>đường</N> <E>của</E> <N>người</N> <V>đi</V> <N>bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>cấm</V> <V>dừng</V></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>có</V> <N>biển</N> <V>cấm</V> <V>dừng</V></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <V>cắm</V> <N>biển</N> <V>cấm</V></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>tuân_thủ</V> <N>quy_định</N> <V>dừng</V> <V>đỗ</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>đội</V> <N>mũ_bảo_hiểm</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <R>không</R> <if3><V>đội</V> <N>mũ_bảo_hiểm</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>ngồi</V> <E>trên</E> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>đội</V> <N>mũ_bảo_hiểm</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>ngồi</V> <E>trên</E> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>đội</V> <N>mũ_bảo_hiểm</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <if3><N>đội</N> <N>mũ_bảo_hiểm</N> <R>không</R> <V>cài</V> <N>quai</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <R>không</R> <if3><V>cài</V> <N>quai</N> <N>mũ_bảo_hiểm</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>ngồi</V> <E>trên</E> <tv><N>xe_máy</N></tv> <if3><N>đội</N> <N>mũ_bảo_hiểm</N> <R>không</R> <V>cài</V> <N>quai</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>ngồi</V> <E>trên</E> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>cài</V> <N>quai</N> <N>mũ_bảo_hiểm</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chở</V> <M>2</M> <N>người</N></a> <E>trên</E> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm l khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <M>2</M> <N>người</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm l khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <E>dưới</E> <N>tốc_độ</N> <A>tối_thiểu</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm m khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4><N>người</N> <V>ngồi</V> <N>phía</N> <N>sau</N> <V>điều_khiển</V></if4> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm n khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4><N>người</N> <V>ngồi</V> <E>sau</E> <N>lái_xe</N></if4> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm n khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <if3><V>sử_dụng</V> <A>ô_dù</A></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <if3><V>sử_dụng</V> <N>thiết_bị</N> <N>âm_thanh</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>đeo</V> <N>tai_nghe</N></if3> <N>khi</N> <V>lái</V> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm o khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển_hướng</V> <R>không</R> <V>giảm</V> <N>tốc_độ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>rẽ</V> <C>mà</C> <R>không</R> <V>giảm</V> <N>tốc_độ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển_hướng</V> <R>không</R> <V>có</V> <N>tín_hiệu</N> <N>báo</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>rẽ</V> <C>mà</C> <a><R>không</R> xi_nhan</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chở</V> <V>theo</V> <E>từ</E> <M>3</M> <N>người</N> <A>trở_lên</A></a> <E>trên</E> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm b khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <R>quá</R> <A>nhiều</A> <N>người</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm b khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>tín_hiệu</N> <E>của</E> <N>đèn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>chạy</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>theo</V> <N>tín_hiệu</N> <N>đèn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>đèn_đỏ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <A>đèn_vàng</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>cầu</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm d khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>cầu</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm d khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><A>thành_đoàn</A> <V>gây</V> <V>cản_trở</V> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đi</V> <V>thành</V> <N>nhóm</N> <V>làm</V> <V>cản_trở</V> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <C>mà</C> <R>không</R> <V>dừng</V> <R>lại</R></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <C>mà</C> <R>không</R> <V>dừng</V> <R>lại</R></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <C>mà</C> <R>không</R> <V>giữ</V> <A>nguyên</A> <N>hiện_trường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>giữ</V> <A>nguyên</A> <N>hiện_trường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <C>mà</C> <R>không</R> <V>tham_gia</V> <V>cấp_cứu</V> <N>người</N> <V>bị</V> <N>nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>cấp_cứu</V> <N>người</N> <V>bị</V> <N>nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>đi</V> <N>bên</N> <A>phải</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>đi</V> <N>bên</N> <A>phải</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>đi</V> <A>đúng</A> <N>phần</N> <N>đường</N> <E>của</E> <P>mình</P></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đi</V> <A>sai</A> <N>phần</N> <N>đường</N> <E>của</E> <P>mình</P></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>đi</V></a> <l><E>trên</E> <N>hè_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đi</V></a> <l><E>trên</E> <N>vỉa_hè</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>bên</N> <V>phải</V> <V>khi_không</V> <V>được</V> <N>phép</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>bên</N> <A>phải</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>bên</N> <A>phải</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>đi</V> <E>vào</E> <N>khu_vực</N> <V>cấm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đi</V> <E>vào</E> <N>khu_vực</N> <V>cấm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>đi</V> <A>ngược</A> <N>chiều</N> <N>đường</N> <A>một_chiều</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <A>ngược</A> <N>đường</N> <A>một_chiều</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>đi</V> <V>ngược</V> <N>chiều</N> <N>khi</N> <V>có</V> <N>biển</N> <V>cấm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <A>ngược</A> <N>chiều</N> <N>khi</N> <V>có</V> <N>biển</N> <V>cấm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe</N> <V>máy_kéo</V></tv> <a><N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe</N> <V>máy_kéo</V></tv> <a><N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe</N> <V>máy_đẩy</V></tv> <a><N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe</N> <V>máy_đẩy</V></tv> <a><N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>bám</V> <N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bám</V> <N>xe</N> <A>khác</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if3><V>dắt</V> <V>theo</V> <V>xúc</V> <N>vật</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if3><V>dắt</V> <N>động_vật</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>mang</V> <N>vác</N> <N>vật</N> <A>cồng_kềnh</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <N>hàng</N> <A>cồng_kềnh</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <N>đồ</N> <A>cồng_kềnh</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>đứng</V> <E>trên</E> <N>yên</N></if3> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>đứng</V> <E>trên</E></if3> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>ngồi</V> <E>trên</E> <N>giá</N> <V>đèo_hàng</V></if3> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>ngồi</V> <E>trên</E> <N>tay_lái</N></if3> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <N>hàng</N> <R>quá</R> <V>giới_hạn</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <N>hàng</N> <R>quá</R> <N>trọng_tải</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chở</V> <N>hàng</N> <R>quá</R> <A>nặng</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <E>của</E> <N>người</N> <V>điều_khiển</V> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <E>của</E> <N>cảnh_sát</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 4 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chạy</V></a> <a><R>quá</R> <N>tốc_độ</N></a> <N>quy_định</N> <E>từ</E> <v><M>10km</M> <X>/</X> <V>h</V></v> <E>đến</E> <qt><M>20km</M> <X>/</X> <A>h</A> <C>thì</C> <V>bị</V></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V></a> <a><R>quá</R> <N>tốc_độ</N></a> <v><M>15km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đi</V></a> <tv><N>xe_máy</N></tv> <a><E>vào</E> <N>đường_cao_tốc</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm b khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <E>vào</E> <N>đường_cao_tốc</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm b khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>khi</N> <V>bị</V> <V>cấm</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm c khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <V>khi_không</V> <R>được</R> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm c khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <a><R>không</R> <V>sử_dụng</V> <N>đèn</N> <A>gần</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>bật</V> <N>đèn</N> <V>cốt</V></a> <l><E>trong</E> <N>hầm</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><V>vượt</V></a> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <a><R>không</R> <A>đúng</A> <N>nơi</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <a><R>không</R> đúng</A> <N>nơi</N> <N>quy_định</N></a> <l><E>trong</E> <N>hầm</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>quay</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>quay</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm d khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>được</V> <V>ưu_tiên</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm đ khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm đ khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <V>cản_trở</V> <E>cho</E> <N>xe</N> <V>được</V> <V>ưu_tiên</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm đ khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <V>cản_trở</V> <E>cho</E> <N>xe</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm đ khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <a><a><R>không</R> đúng</A> <N>nơi</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N></l> <a><a><R>không</R> đúng</A> <N>nơi</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <a><a><R>không</R> đúng</A> <N>nơi</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>hầm</N></l> <a><a><R>không</R> đúng</A> <N>nơi</N> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>500.000 đồng đến 1.000.000 đồng</answer>
+		<base>điểm e khoản 5 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>xe_máy</N></tv> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>50miligram</M> <E>đến</E> <M>80miligram</M> <E>trên</E> <M>100</M> <N>mililít</N> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <E>với</E> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>90miligram/100</M> <N>mililít</N> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>xe_máy</N></tv> <E>trong</E> <N>hơi</N> <V>thở</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.25miligram</M> <E>đến</E> <M>0.4</M> <N>miligram</N> <E>trên</E> <M>1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.35</M> <M>miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>
+		<question></question>
+		<question></question>
+		</answer>
+		<base>khoản 6 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>sử_dụng</V> <N>chân</N> <V>chống</V></if3> <tv><N>xe_máy</N></tv> <if3><V>quệt</V> <V>xuống_đường</V></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm a khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>quệt</V> <N>chân</N> <V>chống</V></a> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm a khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <R>không</R> <a><V>chú_ý</V> <V>quan_sát</V> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>xe_máy</N></tv> <a><R>quá</R> <N>tốc_độ</N> <N>quy_định</N> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><V>vượt</V> <N>xe</N> <A>khác</A> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn_đường</N> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn_đường</N> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <C>rồi</C> <V>bỏ</V> <V>trốn</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N> <C>rồi</C> <V>bỏ</V> <V>trốn</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>xe_máy</N></tv> <a><R>quá</R> <N>tốc_độ</N></a> <N>quy_định</N> <v><E>trên</E> <M>20km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm a khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <V>chạy</V> <a><R>quá</R> <N>tốc_độ</N></a> <v><M>25km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm a khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>đi</V> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>chấp_nhận</V> <V>yêu_cầu</V> <V>kiểm_tra</V> <N>chất</N> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>chịu</V> <V>kiểm_tra</V> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>đi</V> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>chấp_nhận</V> <V>yêu_cầu</V> <V>kiểm_tra</V> <N>nồng_độ</N> <N>cồn</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>chịu</V> <V>kiểm_tra</V> <N>nồng_độ</N> <N>cồn</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>đi</V> <tv><N>xe_máy</N></tv> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>80miligram/100mililít</M> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái</N> <V>đi</V> <tv><N>xe_máy</N></tv> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>90miligram/100mililít</M> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>đi</V> <tv><N>xe_máy</N></tv> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.4miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái</N> <V>đi</V> <tv><N>xe_máy</N></tv> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>0.5miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 1.000.000 đồng đến 2.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N></if3> <N>khi</N> <R>đang</R> <V>đi</V> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N> <if3><V>bỏ</V></tv> <P>cả</P> <M>2</M> <N>tay</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>chân</N> <E>để</E> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><N>lái_xe</N></if3> <tv><N>máy</N></tv> <if3><E>bằng</E> <N>chân</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>ngồi</V> <V>sang</V> <M>một</M> <N>bên</N> <E>để</E> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>ngồi</V> <A>lệch</A> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nằm</V> <E>trên</E> <N>yên</N> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nằm</V> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if3><R>đang</R> <V>đi</V> <C>thì</C> <V>thay</V> <N>người</N> <V>điều_khiển</V></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>thay</V> <N>người</N> <V>lái</V> <N>khi</N> <R>đang</R> <V>chạy</V></if3> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>quay</V> <N>người</N> <V>về</V> <E>sau</E> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><N>bịt_mắt</N> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nhắm_mắt</V> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>lạng_lách</V></a> <a><,>,</,> <V>đánh_võng</V></a> <qt><C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm b khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><A>lạng_lách</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm b khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đánh_võng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm b khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bốc</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm c khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N> <N>quy_định</N> <V>thành</V> <N>nhóm</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if1><M>một</M> <N>nhóm</N></if1> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 7.000.000 đồng</answer>
+		<base>điểm d khoản 9 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N> <N>khi</N> <R>đang</R> <V>đi</V></if3> <tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N> <V>lãi</V></if3> <tv><N>xe_máy</N></tv> <R>xong</R> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>chân</N> <E>để</E> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><N>lái_xe</N></if3> <tv><N>máy</N></tv> <if3><E>bằng</E> <N>chân</N></if3> <a><C>rồi</C> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>ngồi</V> <V>sang</V> <M>một</M> <N>bên</N> <E>để</E> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nằm</V> <E>trên</E> <N>yên</N> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nằm</V> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if3><R>đang</R> <V>đi</V> <C>thì</C> <V>thay</V> <N>người</N> <V>điều_khiển</V> <V>gây</V> <N>tai_nạn</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>quay</V> <N>người</N> <V>về</V> <E>sau</E> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><N>bịt_mắt</N> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nhắm_mắt</V> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>lạng_lách</V></a> <a><,>,</,> <V>đánh_võng</V> <V>gây</V> <N>tai_nạn</N></a> <qt><C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><A>lạng_lách</A> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đánh_võng</V> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bốc</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N> <N>quy_định</N> <V>thành</V> <N>nhóm</N> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if1><M>một</M> <N>nhóm</N></if1> <tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N> <N>khi</N> <R>đang</R> <V>đi</V></if3> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>chân</N> <E>để</E> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>ngồi</V> <V>sang</V> <M>một</M> <N>bên</N> <E>để</E> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nằm</V> <E>trên</E> <N>yên</N> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>nằm</V> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if3><R>đang</R> <V>đi</V> <C>thì</C> <V>thay</V> <N>người</N> <V>điều_khiển</V></if3> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>quay</V> <N>người</N> <V>về</V> <E>sau</E> <N>lái_xe</N></if3> <tv><N>máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><N>bịt_mắt</N> <V>lái_xe</V></if3> <tv><N>máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>lạng_lách</V></a> <a><,>,</,> <V>đánh_võng</V> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V></a> <N>xe</N> <qt><C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>đánh_võng</V> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><A>lạng_lách</A> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>bốc</V> <N>đầu</N></a> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N> <N>quy_định</N> <V>thành</V> <N>nhóm</N> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>10.000.000 đồng đến 14.000.000 đồng</answer>
+		<base>khoản 10 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <C>mà</C> <E>trong</E> <N>người</N> <if3><V>có</V> <N>chất</N> <N>ma_túy</N></if3> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng</answer>
+		<base>khoản 11 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N> <C>mà</C></tv> <E>trong</E> <N>người</N> <V>có</V> <if3><N>chất</N> <N>ma_túy</N> <C>thì</C></if3> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng</answer>
+		<base>khoản 11 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <C>mà</C> <if3><E>trong</E> <N>người</N> <V>có</V> <N>chất</N> <N>ma_túy</N> <R>không</R> <V>mang</V> <E>bằng</E> <N>lái</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 11 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N> <C>mà</C></tv> <if3><E>trong</E> <N>người</N> <V>có</V> <N>chất</N> <N>ma_túy</N> <CC>và</CC> <R>không</R> <V>mang</V> <E>bằng</E> <N>lái</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>khoản 11 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>vượt</V> <C>mà</C> <R>không</R> <V>xin</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <A>gần</A> <N>xe</N> <V>đi</V> <A>trước</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <A>gần</A> <N>xe</N> <V>đi</V> <A>trước</A> <V>gây</V> <R>ra</R> <V>va_chạm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>người</N> <V>đi</V> <N>bộ</N> <N>khi</N> <V>rẽ</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <E>cho</E> <N>người</N> <N>khuyết_tật</N> <N>khi</N> <V>rẽ</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>xe</N> <A>thô_sơ</A> <N>khi</N> <V>rẽ</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <N>khi</N> <a><V>rẽ</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển_hướng</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>người</N> <V>đi</V> <N>bộ</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>rẽ</V> <R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>người</N> <N>khuyết_tật</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>lùi</V></a> <tv><N>xe_máy</N> <M>3</M> <N>bánh</N></tv> <a><C>mà</C> <R>không</R> <V>có</V> <N>xi_nhan</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>lùi</V></a> <tv><N>xe_máy</N> <M>3</M> <N>bánh</N></tv> <a><R>không</R> <V>quan_sát</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bật</V> <V>đèn_pha</V> <N>khi</N> <V>tránh</V> <N>xe</N> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>ngồi</V> <E>trên</E> <tv><N>xe_máy</N></tv> <C>mà</C> <if3><V>dùng</V> <N>ô</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>xe_máy</N></tv> <a><R>không</R> <V>tuân_thủ</V> <L>các</L> <N>quy_tắc</N> <V>nhường</V> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm i khoản 1 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn</N> <a><R>không</R> đúng</A> <N>nơi</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chuyển</V> <N>làn</N> <a><R>không</R> xi_nhan</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <N>dàn</N> <N>hàng</N> <M>2</M> <N>hàng</N> <M>3</M></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4><N>trời</N> <N>tối</N></if4> <a><R>không</R> <V>bật</V> <N>đèn</N></a> <tv><N>xe_máy</N></tv> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>bật</V> <N>đèn</N></a> <if4><N>khi</N> <V>có</V> <N>sương_mù</N> <V>cản</V> <N>tầm</N> <V>nhìn</V></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>bật</V> <N>đèn</N></a> <if4><N>khi</N> <N>thời_tiết</N> <A>xấu</A> <V>ảnh_hưởng</V> <N>tầm</N> <V>nhìn</V></if4> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R></a> <V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>xin</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>xin</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>tránh</V> <N>đường</N> <E>cho</E> <N>xe</N></a> <l><E>trên</E> <N>đường</N> <A>ưu_tiên</A></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm d khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>xe_máy</N></tv> <a><V>tránh</V> <N>xe</N> <A>khác</A> <a><R>không</R> đúng</A> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></a> <l><E>trên</E> <N>đường</N> <A>hẹp</A></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>ngược</V> <N>chiều</N></a> <l><E>trên</E> <N>đường</N> <N>dốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>ngược</V> <N>chiều</N></a> <l><E>tại</E> <N>vị_trí</N> <V>có</V> <N>vật</N> <V>cản</V></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><A>ấm</A> <N>còi</N> <N>ban_đêm</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4><R>quá</R> <M>10</M> <Nu>giờ</Nu> <N>đêm</N></if4> <C>mà</C> <a><V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>nơi</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bật</V> <A>đèn_pha</A></a> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>bật</V> <V>đèn_pha</V></a> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm e khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <R>không</R> <V>đùng</V> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm g khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>lắp</V> <N>thiết_bị</N> <V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <A>trái_phép</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm g khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>quay</V> <N>đầu</N></a> <l><E>tại</E> <N>nơi</N> <V>cấm</V> <V>quay</V> <N>đầu</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm h khoản 2 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>dừng</V> <E>giữa</E> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <l><E>giữa</E> <N>đường</N> <V>lưu_thông</V></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R> <V>giảm</V> <N>tốc_độ</N></a> <tv><N>xe_máy</N></tv> <a><N>khi</N> <V>đi</V> <E>từ</E> <E>trong</E> <N>ngõ</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <N>khi</N> <V>đi</V> <E>từ</E> <E>trong</E> <N>ngõ</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <N>khi</N> <V>đi</V> <V>từ_đường</V> <N>nhánh</N> <V>ra</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><R>không</R> <V>giảm</V> <N>tốc_độ</N></a> <tv><N>xe_máy</N></tv> <a><N>khi</N> <V>đi</V> <V>từ_đường</V> <N>nhánh</N> <V>ra</V> <N>đường</N> <A>chính</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <V>chạy</V> <a><R>quá</R> <N>tốc_độ</N></a> <v><E>dưới</E> <M>10km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 100.000 đồng đến 200.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 500.000 đồng đến 1.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h: 3.000.000 đồng đến 4.000.000 đồng</answer>
+		<base>điểm c khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>chạy</V> <R>quá</R> <A>chậm</A> <V>gây</V> <V>cản_trở</V> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <E>ở</E> <l><N>giữa</N> <N>lòng_đường</N> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>xe_máy</N></tv> <E>ở</E> <l><N>giữa</N> <N>lòng_đường</N> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>tụ_tập</V> <E>từ</E> <M>3</M></a> <tv><N>xe_máy</N></tv> <a><A>trở_lên</A></a> <l><E>giữa</E> <N>lòng_đường</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>tập_trung</V> <E>từ</E> <M>3</M></a> <tv><N>xe_máy</N></tv> <a><A>trở_lên</A></a> <l><E>trong</E> <N>hầm</N> <N>đường_bộ</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><E>để</E></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>hè_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><E>để</E></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>vỉa_hè</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><A>liên_tục</A> <V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><A>liên_tục</A> <V>rú</V> <N>ga</N></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><A>liên_tục</A> <N>nẹt</N> <V>pô</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>thành_phố</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><A>liên_tục</A> <V>bấm</V> <N>còi</N></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><A>liên_tục</A> <V>rú</V> <N>ga</N></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><A>liên_tục</A> <N>nẹt</N> <V>pô</V></a> <tv><N>xe_máy</N></tv> <l><E>trong</E> <N>khu</N> <N>đông</N> <N>dân_cư</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>dùng</V> <N>thiết_bị</N> <V>phát</V> <N>tín_hiệu</N> <V>ưu_tiên</V> <A>trái_phép</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <a><V>gắn</V> <N>thiết_bị</N> <N>hiệu</N> <V>ưu_tiên</V> <A>trái_phép</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>trên</E> <N>đường</N> <V>đi</V> <E>của</E> <N>xe_điện</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V></a> <tv><N>xe_máy</N></tv> <l><E>tại</E> <N>điểm</N> <V>đón</V> <N>khách</N> <E>của</E> <N>xe_buýt</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 3 điều 6 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>xe_máy</N></tv> <if3><R>không</R> <V>mang</V></if3> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 120.000 đồng</answer>
+		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><A>mô_tô</A></tv> <if3><R>không</R> <V>mang</V></if3> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 120.000 đồng</answer>
+		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>xe_gắn_máy</N></tv> <if3><R>không</R> <V>mang</V></if3> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 120.000 đồng</answer>
+		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><R>không</R> <V>mang</V></if3> <dl><E>bằng</E> <N>lái_xe</N></dl> <tv><N>máy</N></tv> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>80.000 đồng đến 120.000 đồng</answer>
+		<base>điểm a khoản 2 điều 21 nghị định 46-2016</base>
+	</test>
+</root>

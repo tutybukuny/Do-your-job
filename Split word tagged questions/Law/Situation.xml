@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question><ti><N>người</N> <V>điều_khiển</V> <N>giao_thông</N></ti> <V>ra</V> <N>hiệu_lệnh</N> <E>bằng</E> <M>hai</M> <N>tay</N> <CC>hoặc</CC> <M>một</M> <if4><N>tay</N> <V>giang</V> <A>ngang</A></if4> <E>để</E> <V>báo_hiệu</V> <C>thì</C> <N>người</N> <V>tham</V> <V>giao</V> <N>giao_thông</N> <qt><V>phải</V> <V>đi</V> <X>như_thế_nào</X></qt> <A>đúng</A> <N>quy_tắc</N> <N>giao_thông</N> </question>
+	 	<answer>người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điểu khiển được đi.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l><,>,</,> <N>khi</N> <ti><N>người</N> <V>điều_khiển</V> <N>giao_thông</N></ti> <V>ra_hiệu</V> <N>tay</N> <if4><V>giơ</V> <A>thẳng_đứng</A></if4> <E>để</E> <V>báo_hiệu</V> <C>thì</C> <N>người</N> <V>tham_gia</V> <N>giao_thông</N> <qt><V>phải</V> <V>đi</V> <X>như_thế_nào</X></qt> </question>
+	 	<answer>đáp án: ý 2 người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điểu khiển được đi. người tham gia giao thông ở các hướng phải dừng lại. tất cả các trường hợp trên. </answer>
+	</test>
+	<test>
+		<question><ti><N>người</N> <V>điều_khiển</V> <N>giao_thông</N></ti> <V>ra</V> <N>hiệu_lệnh</N> <E>bằng</E> <if4><A>tay_phải</A> <V>giơ</V> <E>về</E> <N>phía</N> <N>trước</N></if4> <E>để</E> <V>báo_hiệu</V> <C>thì</C> <N>người</N> <V>tham_gia</V> <N>giao_thông</N> <qt><V>phải</V> <V>đi</V> <X>như_thế_nào</X></qt> </question>
+	 	<answer>người tham gia giao thông ở phía sau và bên phải người điều khiển phải dừng lại; người ở phía trước người điều khiển được rẽ phải; người ở phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <V>có</V> <A>nhiều</A> <N>làn_đường</N></l> <E>cho</E> <N>xe</N> <V>đi</V> <A>cùng</A> <N>chiều</N> <V>được</V> <V>phân_biệt</V> <E>bằng</E> <N>vạch</N> <N>kẻ</N> <V>phân</V> <N>làn_đường</N><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <qt><V>phải</V></qt> <V>cho</V> <N>xe</N> <qt><V>đi</V> <X>như_thế_nào</X></qt> </question>
+	 	<answer>phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn phải có tín hiệu báo trước và phải đảm bảo an toàn.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <V>một_chiều</V> <V>có</V> <N>vạch</N> <N>kẻ</N> <V>phân</V> <N>làn_đường</N></l> <tv><,>,</,> <N>xe</N> <A>thô_sơ</A></tv> <CC>và</CC> <tv><N>xe_cơ_giới</N></tv> <qt><V>phải</V> <V>đi</V> <X>như_thế</X> <C>nào_là</C></qt> <A>đúng</A> <N>quy_tắc</N> <N>giao_thông</N> </question>
+	 	<answer>xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <V>có</V> <A>nhiều</A> <N>làn_đường</N></l><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>tham_gia</V> <N>giao_thông</N> <if3><V>sử_dụng</V> <N>làn_đường</N></if3> <qt><X>như_thế</X> <A>nào_là</A></qt> <A>đúng</A> </question>
+	 	<answer>trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn đường phải có tín hiệu báo trước và đảm bảo an toàn. trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái; phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn đi về bên phải.</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <A>sau</A> <R>có_thể</R> <a><V>vượt</V> <R>lên</R> <N>bên</N> <V>phải</V> <N>xe</N> <A>khác</A></a> <R>đang</R> <V>chạy</V> <N>phía</N> <A>trước</A> <qt><E>trong</E> <N>trường_hợp</N> <P>nào</P></qt> </question>
+	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
+	</test>
+	<test>
+		<question><if3><N>khi</N> <V>muốn</V> <V>chuyển_hướng</V></if3><,>,</,> <N>người</N> <N>lái_xe</N> <V>phải</V> <qt><V>thực_hiện</V> <X>như_thế_nào</X></qt> </question>
+	 	<answer>người điều khiển phương tiện phải giảm tốc độ và có tín hiệu báo hướng rẽ; chỉ cho rẽ chuyển hướng khi quan sát thấy không gây trở ngại hoặc nguy hiểm cho người và phương tiện khác. trong khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường quyền đi trước cho người đi bộ, người đi xe đạp đang đi trên phần đường dành riêng cho họ; nhường đường cho các xe đi ngược chiều.</answer>
+	</test>
+	<test>
+		<question><if3><N>khi</N> <V>tránh</V> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></if3><,>,</,> <L>các</L> <N>xe</N> <V>phải</V> <if3><V>nhường</V> <N>đường</N></if3> <qt><X>như_thế</X> <A>nào_là</A> <A>đúng</A></qt> </question>
+	 	<answer>nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe kia đi. xe xuống dốc phải nhường đường cho xe đang lên dốc, xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.</answer>
+	</test>
+	<test>
+		<question><if4><N>ban_đêm</N></if4> <tv><N>xe_cơ_giới</N></tv> <V>đi</V> <A>ngược</A> <N>chiều</N> <V>gặp</V> <N>nhau</N> <if1><,>,</,> <N>đèn_chiếu</N> <N>sáng</N></if1> <V>phải</V> <V>được</V> <qt><V>sử_dụng</V> <X>như_thế_nào</X></qt> </question>
+	 	<answer>phải chuyển từ đèn chiếu xa sang đèn chiếu gần.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>có</V> <N>tín_hiệu</N> <E>của</E> <N>xe</N> <A>ưu_tiên</A></if4> <tp><,>,</,> <N>người</N> <V>tham_gia</V> <N>giao_thông</N></tp> <qt><V>phải</V> <X>làm_gì</X></qt> </question>
+	 	<answer>phải nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường; không được gây cản trở xe được quyền ưu tiên.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l> <if4><V>có</V> <V>báo_hiệu</V> <V>đi</V> <E>theo</E> <N>vòng</N> <N>xuyến</N></if4><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <qt><V>phải</V></qt> <if3><V>nhường</V> <N>đường</N></if3> <qt><X>như_thế_nào</X></qt> </question>
+	 	<answer>phải nhường đường cho xe đi bên trái.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l><,>,</,> <N>người</N> <N>lái_xe</N> <R>đang</R> <V>đi</V> <E>trên</E> <l><N>đường_không</N> <V>ưu_tiên</V> <V>phải</V></l> <qt><V>nhường</V></qt> <if3><N>đường</N> <X>như_thế_nào</X></if3> <qt></question>
+	 	<answer>nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l> <if4><R>không</R> <V>có</V> <V>báo_hiệu</V> <V>đi</V> <E>theo</E> <N>vòng</N> <N>xuyến</N></if4><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <qt><V>phải</V></qt> <if3><V>nhường</V> <N>đường</N></if3> <qt><X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> <N>quy_tắc</N> <N>giao_thông</N> </question>
+	 	<answer>phải nhường đường cho xe đi đến từ bên phải.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <qt><V>phải</V> <X>làm_gì</X></qt> <if3><N>khi</N> <V>điều_khiển</V> <N>xe</N> <V>vào</V> <N>đường_cao_tốc</N></if3> </question>
+	 	<answer>phải có tín hiệu xin vào và phải nhường  đường cho xe đang chạy trên đường; khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài. nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <qt><V>phải</V> <X>làm_gì</X></qt> <if3><N>khi</N> <V>điều_khiển</V> <N>xe</N> <V>ra</V> <V>khỏi</V> <N>đường_cao_tốc</N></if3> </question>
+	 	<answer>phải thực hiện chuyển dần sang làn đường phía bên phải, nếu có làn đường giảm tốc thì cho xe chạy trên làn đường đó trước khi rời khỏi đường cao tốc.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>làn_đường</N> <V>dành</V> <E>cho</E> <N>ô_tô</N></l> <if4><V>có</V> <N>vũng</N> <N>nước_lớn</N></if4> <if4><,>,</,> <V>có</V> <A>nhiều</A> <N>người</N> <V>đi</V> <N>xe</N> <V>mô_tô</V> <E>trên</E> <N>làn_đường</N> <N>bên_cạnh</N></if4><,>,</,> <N>người</N> <V>lái_xe</V> <N>ô_tô</N><tv><V>xử_lý</V></tv> <qt><X>như_thế</X> <C>nào_là</C> <V>có</V></qt> <N>văn_hoá</N> <N>giao_thông</N> </question>
+		<answer>giảm tốc độ cho xe chạy chậm qua vũng nước.</answer>
+	</test>
+	<test>
+		<question><N>hành_vi</N> <if3><V>bỏ</V> <V>trốn</V> <E>sau</E> <N>khi</N> <V>gây</V> <N>tai_nạn</N> <E>để</E> <V>trốn_tránh</V> <N>trách_nhiệm</N></if3> <CC>hoặc</CC> <N>khi</N> <V>có</V> <N>điều_kiện</N> <C>mà</C> <if3><V>cố_ý</V> <R>không</R> <V>cứu_giúp</V> <N>người</N> <V>bị</V> <N>tai_nạn</N> <N>giao_thông</N></if3> <qt><V>có</V> <V>bị</V> <V>nghiêm_cấm</V> <C>hay</C> <R>không</R></qt> </question>
+		<answer>bị nghiêm cấm.</answer>
+	</test>
+	<test>
+		<question><E>trên</E> <N>đường_bộ</N> <l><E>trong</E> <N>khu_vực</N> <N>đông</N> <N>dân_cư</N></l> <qt><,>,</,> <N>loại</N> <N>xe_cơ_giới</N> <P>nào</P></qt> <V>tham_gia</V> <N>giao_thông</N> <E>với</E> <sp><N>tốc_độ</N></sp> <A>tối_đa</A> <V>cho_phép</V> <C>là</C> <v><M>50</M> <Nu>km</Nu></v> <X>/</X> <N>h</N> </question>
+		<answer>ô tô chở người đến 30 chỗ ngồi, ô tô tải có trọng tải dưới 3.500 kg.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>sơ_cứu</V> <N>người</N> <V>bị</V> <N>tai_nạn</N> <N>giao_thông</N> <N>đường_bộ</N></if4> <if3><,>,</,> <V>có</V> <N>vết_thương</N> <V>chảy_máu</V> <N>ngoài</N> <N>màu</N> <A>đỏ</A> <A>tươi</A> <V>phun</V> <V>thành</V> <Nc>tia</Nc> <CC>và</CC> <V>phun</V> <A>mạnh</A> <N>khi</N> <N>mạch</N> <V>đập</V></if3> <N>bạn</N> <qt><V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>thực hiện cầm máu không trực tiếp (chặn động mạch). thực hiện cầm máu bằng garo.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l><,>,</,> <N>khi</N> <tl><N>đèn</N> <V>điều_khiển</V> <N>giao_thông</N></tl> <V>có</V> <if2><N>tín_hiệu</N> <N>vàng</N></if2><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>phải</V> <qt><V>thực_hiện</V> <X>như_thế_nào</X></qt> </question>
+		<answer>phải cho xe dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <V>có</V> <A>nhiều</A> <N>làn_đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <A>cùng</A> <N>chiều</N></l> <V>được</V> <if4><V>phân_biệt</V> <E>bằng</E> <N>vạch</N> <N>kẻ</N> <V>phân</V> <N>làn_đường</N></if4><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>phải</V> <V>cho</V> <N>xe</N> <qt><V>đi</V> <X>như_thế_nào</X></qt> </question>
+		<answer>phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn phải có tín hiệu báo trước và phải bảo đảm an toàn.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <V>một_chiều</V> <V>có</V> <N>vạch</N> <N>kẻ</N> <V>phân</V> <N>làn_đường</N></l> <tv><,>,</,> <N>xe</N> <A>thô_sơ</A></tv> <CC>và</CC> <tv><N>xe_cơ_giới</N></tv> <V>phải</V> <qt><V>đi</V> <X>như_thế</X> <C>nào_là</C></qt> <A>đúng</A> <N>quy_tắc</N> <N>giao_thông</N> </question>
+		<answer>xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <N>xe</N> <V>chạy</V> <E>trên</E> <N>đường</N> <V>biết</V> <if4><V>có</V> <N>xe</N> <N>sau</N> <V>xin</V> <V>vượt</V> <C>nếu</C> <A>đủ</A> <N>điều_kiện</N> <A>an_toàn</A></if4> <N>người</N> <N>lái_xe</N> <V>phải</V> <qt><X>làm_gì</X> </question>
+		<answer>người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại cho xe sau vượt. cho xe tránh về bên trái và ra hiệu cho xe sau vượt; nếu có chướng ngại vật phía trước hoặc thiếu điều kiện an toàn chưa cho vượt được phải ra hiệu cho xe sau biết; cấm gây trở ngại cho xe xin vượt.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <V>phải</V> <qt><X>làm_gì</X> <N>khi</N></qt> <V>quay</V> <a><N>đầu</N> <N>xe</N> <E>trên</E></a> <l><N>cầu</N> <,>,</,></l> <l><V>gầm</V> <N>cầu_vượt</N></l> <l><,>,</,> <N>đường</N> <A>ngầm</A></l> <C>hay</C> <l><N>khu_vực</N> <N>đường_bộ</N> <V>giao</V> <N>nhau</N> <A>cùng</A> <N>mức</N> <E>với</E> <N>đường_sắt</N></l> </question>
+		<answer>không được quay đầu xe.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường_không</N> <V>phân_chia</V> <V>thành</V> <M>hai</M> <N>chiều</N> <N>xe</N> <V>chạy</V> <A>riêng_biệt</A></l><,>,</,> <M>hai</M> <N>xe</N> <if1><V>đi</V> <V>ngược</V> <N>chiều</N></if1> <a><V>tránh</V> <N>nhau</N></a> <qt><X>như_thế_nào</X></qt> </question>
+		<answer>người điều khiển phải giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.</answer>
+	</test>
+	<test>
+		<question><l><N>bên</N> <A>trái</A> <N>đường</N> <A>một_chiều</A></l><,>,</,> <N>người</N> <N>lái_xe</N> <V>có</V> <qt><V>được</V> <V>dừng</V></qt> <a><,>,</,> <V>đỗ</V> <N>xe</N> <C>hay</C></a> <qt><R>không</R> </question>
+		<answer>không được dừng xe, đỗ xe.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <V>có</V> <A>nhiều</A> <N>làn_đường</N></l><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>tham_gia</V> <N>giao_thông</N> <if3><V>sử_dụng</V> <N>làn_đường</N></if3> <qt><X>như_thế</X> <A>nào_là</A></qt> <A>đúng</A> </question>
+		<answer>trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở nhưng nơi cho phép; khi chuyển làn đường phải có tín hiệu báo trước và đảm bảo an toàn. trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái; phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn đi về bên phải.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <N>xe</N> <V>chạy</V> <if4><E>trên</E> <N>đoạn</N> <N>đường</N> <N>vòng</N><,>,</,> <N>đầu</N> <N>dốc</N> <CC>và</CC> <L>các</L> <N>vị_trí</N> <V>có</V> <N>tầm</N> <V>nhìn</V> <V>hạn_chế</V></if4> <N>người</N> <N>lái_xe</N> <V>muốn</V> <if3><V>vượt</V> <N>xe</N> <A>khác</A> <V>thì_phải</V></if3> <V>xử_lý</V><qt><X>như_thế_nào</X> </question>
+		<answer>không được vượt.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <a><V>vượt</V> <N>xe</N> <A>khác</A></a> <N>người</N> <N>lái_xe</N> <V>phải</V> <V>thực_hiện</V><qt><X>như_thế_nào</X> </question>
+		<answer>phải báo hiệu bằng đèn hoặc còi; trong đô thị và nơi đông dân cư từ 22 giờ đến 05 giờ chỉ được báo hiệu xin vượt bằng đèn. xe xin vượt chỉ được vượt khi không có chướng ngại vật ở phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>lái</V> <tv><N>ô_tô</N></tv> <V>qua</V> <if4><N>đường_sắt</N> <R>không</R> <V>có</V> <N>rào_chắn</N></if4> <if4><,>,</,> <R>không</R> <V>có</V> <N>người</N> <V>điều_khiển</V> <N>giao_thông</N></if4><,>,</,> <N>người</N> <V>lái_xe</V> <V>phải</V> <qt><V>xử_lý</V> <P>thế_nào</P> </question>
+		<answer>tạm dừng xe tại vị trí cách đường sắt tối thiểu 5 m, hạ kính cửa, tắt hết các thiết bị âm thanh trên xe, quan sát, nếu không có tàu chạy qua, về số thấp, tăng nhẹ ga vượt qua đường sắt.</answer>
+	</test>
+	<test>
+		<question><if3><N>khi</N> <V>muốn</V> <V>chuyển_hướng</V></if3><,>,</,> <N>người</N> <N>lái_xe</N> <V>phải</V> <V>thực_hiện</V><qt><X>như_thế_nào</X> </question>
+		<answer>người điều khiển phương tiện phải giảm tốc độ và có tín hiệu báo hướng rẽ; chỉ cho rẽ chuyển hướng khi quan sát thấy không gây trở ngại hoặc nguy hiểm cho người và phương tiện khác. trong khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường quyền đi trước cho người đi bộ, người đi xe đạp đang đi trên phần đường dành riêng cho họ; nhường đường cho các xe đi ngược chiều.</answer>
+	</test>
+	<test>
+		<question><if3><N>khi</N> <V>lùi</V> <N>xe</N></if3> <N>người</N> <V>lái_xe</V> <V>phải</V> <qt><X>làm_gì</X> <E>để</E></qt> <V>bảo_đảm</V> <A>an_toàn</A> </question>
+		<answer>phải quan sát phía sau, có tín hiệu cần thiết và chỉ khi nào thấy không nguy hiểm mới được lùi.</answer>
+	</test>
+	<test>
+		<question><if3><N>khi</N> <V>tránh</V> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></if3><,>,</,> <L>các</L> <N>xe</N> <V>phải</V> <a><V>nhường</V> <N>đường</N></a> <qt><X>như_thế</X> <A>nào_là</A></qt> <A>đúng</A> </question>
+		<answer>nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe kia đi. xe xuống dốc phải nhường đường cho xe đang lên dốc; xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.</answer>
+	</test>
+	<test>
+		<question><if4><R>hàng</R> <A>nguy_hiểm</A><,>,</,> <N>hàng</N> <V>có</V> <N>mùi</N> <A>hôi_thối</A> <CC>hoặc</CC> <N>động_vật</N><,>,</,> <N>hàng_hóa</N> <A>khác</A> <V>có</V> <V>ảnh_hưởng</V> <E>đến</E> <N>sức_khỏe</N> <N>hành_khách</N></if4> <qt><V>được</V> <V>nhận</V> <V>chở</V> <E>trên</E> <N>xe_khách</N> <C>hay</C> <R>không</R></qt> </question>
+		<answer>không được chở.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <N>khi</N> <if3><V>muốn</V> <V>dừng</V> <CC>hoặc</CC> <V>đỗ</V> <N>xe</N> <E>trên</E> <N>đường_bộ</N></if3> <V>phải</V> <qt><V>thực_hiện</V> <X>như_thế_nào</X></qt> </question>
+		<answer>có tín hiệu báo cho người điều khiển phương tiện khác biết. cho xe dừng, đỗ ở nơi đã xây dựng các điểm dừng, đỗ xe; nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy; trường hợp lề đường hẹp hoặc không có lề đường thì phải cho xe dừng, đỗ sát mép đường phía bên phải theo chiều đi của mình.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <V>phải</V> <qt><X>làm_gì</X> <N>khi</N></qt> <if3><V>điều_khiển</V> <N>xe</N> <V>vào</V> <N>đường_cao_tốc</N> </question>
+		<answer>phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường; khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài. nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường_bộ</N> <V>giao</V> <N>nhau</N> <A>cùng</A> <N>mức</N> <E>với</E> <N>đường_sắt</N></l> <R>chỉ</R> <V>có</V> <tl><N>đèn</N> <N>tín_hiệu</N></tl> <CC>hoặc</CC> <tl><N>chuông</N> <V>báo_hiệu</V></tl><,>,</,> <N>khi</N> <tl><N>đèn</N> <N>tín_hiệu</N> <N>màu</N> <A>đỏ</A></tl> <R>đã</R> <if2><V>bật</V> <N>sáng</N></if2> <CC>hoặc</CC> <if2><A>có_tiếng</A> <N>chuông</N> <V>báo_hiệu</V></if2> <tp><,>,</,> <N>người</N> <V>tham_gia</V> <N>giao_thông</N></tp> <V>phải</V> <if3><V>dừng</V> <R>lại</R> <R>ngay</R></if3> <CC>và</CC> <qt><V>giữ</V> <N>khoảng_cách</N> <A>tối_thiểu</A> <P>bao_nhiêu</P> <N>mét</N> <N>tính_từ</N> <V>ray</V> <A>gần</A> <R>nhất</R></qt> </question>
+		<answer>5 m</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l> <if4><R>không</R> <V>có</V> <V>báo_hiệu</V> <V>đi</V> <E>theo</E> <N>vòng</N> <N>xuyến</N></if4><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>phải</V> <V>nhường</V> <N>đường</N> <qt><X>như_thế</X> <V>nào_là</V> <A>đúng</A></qt> <N>quy_tắc</N> <N>giao_thông</N> </question>
+		<answer>phải nhường đường cho xe đi đến từ bên phải.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đoạn</N> <N>đường_bộ</N> <V>giao</V> <N>nhau</N> <A>cùng</A> <N>mức</N> <E>với</E> <N>đường_sắt</N></l> <l><,>,</,> <N>cầu</N> <N>đường_bộ</N> <V>đi</V> <A>chung</A> <E>với</E> <N>đường_sắt</N></l> <C>thì</C> <qt><Nc>loại</Nc> <N>phương_tiện</N> <P>nào</P> <V>được</V> <N>quyền</N> <V>ưu_tiên</V> <V>đi</V> <E>trước</E></qt> </question>
+		<answer>phương tiện giao thông đường sắt.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>nhả</V> <V>phanh</V> <N>tay</N></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <V>phải</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>dùng lực tay phải bóp khóa hãm đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải kéo cần phanh tay về phía sau đồng thời bóp khóa hãm.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>qua</V> <N>phà</N><,>,</,> <V>qua</V> <N>cầu_phao</N></if4> <N>người</N> <V>lái_xe</V> <V>phải</V> <qt><X>làm_gì</X> <E>để</E></qt> <V>bảo_đảm</V><if3><A>an_toàn</A> </question>
+		<answer>đến bến phà, cầu phao các loại xe phải xếp hàng trật tự, đúng nơi quy định, không làm cản trở giao thông; xuống phà, đang ở trên phà và khi lên bến, mọi người phải xuống xe, trừ người điều khiển xe cơ giới, người bệnh, người già yếu và người khuyết tật. xe cơ giới phải xuống phà trước, xe thô sơ, người đi bộ xuống phà sau; khi lên bến, người đi bộ lên trước, các phương tiện giao thông lên sau theo hướng dẫn của người điều khiển giao thông.</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>nơi</N> <N>đường</N> <V>giao</V> <N>nhau</N></l> <if4><V>có</V> <V>báo_hiệu</V> <V>đi</V> <E>theo</E> <N>vòng</N> <N>xuyến</N></if4><,>,</,> <N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>phải</V> <a><V>nhường</V> <N>đường</N></a> <qt><X>như_thế_nào</X></qt> </question>
+		<answer>phải nhường đường cho xe đi bên trái.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>vào</V> <N>số</N> <E>để</E> <V>tiến</V> <CC>hoặc</CC> <V>lùi</V> <N>xe</N></if4> <tv><N>ô_tô</N></tv> <if1><V>có</V> <N>số</N> <A>tự_động</A></if1><,>,</,> <N>người</N> <N>lái_xe</N> <V>phải</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> <E>để</E> <V>đảm_bảo</V></qt> <if3><N>an_toàn</N> </question>
+		<answer>đạp bàn đạp phanh chân hết hành trình, vào số và kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh.</answer>
+	</test>
+	<test>
+		<question><N>việc</N> <a><V>nối</V> <V>kéo</V> <E>với</E> <N>xe</N> <V>được</V> <V>kéo</V></a> <E>trong</E> <N>trường_hợp</N> <if1><N>hệ_thống</N> <V>hãm</V> <E>của</E> <N>xe</N> <R>được</R> <V>kéo</V> <R>không</R> <V>còn</V> <N>hiệu_lực</N></if1> <V>thì_phải</V><qt><V>dùng</V> <N>cách</N> <P>nào</P> </question>
+		<answer>dùng thanh nối cứng.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>quay</V> <N>đầu</N> <N>xe</N></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <qt><V>phải</V> <V>quan_sát</V> <CC>và</CC> <V>thực_hiện</V> <L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe cho thích hợp; quay đầu xe với tốc độ nhỏ nhất; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm đưa đuôi xe vê phía an toàn.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>tránh</V> <N>nhau</N> <E>trên</E> <N>đường</N> <A>hẹp</A></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <qt><V>phải</V> <V>chú_ý</V> <L>những</L> <N>điểm</N> <P>nào</P> </question>
+		<answer>không nên đi cố vào đường hẹp; xe đi ở phía sườn núi nên dừng lại trước để nhường đường; khi dừng xe nhường đường phải đỗ ngay ngắn. trong khi tránh nhau không nên đổi số; khi tránh nhau ban đêm, phải tắt đèn pha bật đèn cốt.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <N>số</N> <A>tự_động</A><,>,</,> <N>người</N> <N>lái_xe</N> <V>sử_dụng</V><if3><N>chân_như</N> <P>thế_nào</P></if3> <qt><V>là</V> <A>đúng</A> </question>
+		<answer>không sử dụng chân trái. chân phải dùng để điều khiển bàn đạp phanh và bàn đạp ga.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <V>phải</V> <qt><X>làm_gì</X> <N>khi</N></qt> <if3><V>điều_khiển</V> <N>xe</N> <V>ra</V> <V>khỏi</V> <N>đường_cao_tốc</N> </question>
+		<answer>phải thực hiện chuyển dần sang làn đường phía bên phải, nếu có làn đường giảm tốc thì cho xe chạy trên làn đường đó trước khi rời khỏi đường cao tốc.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <CC>và</CC> <L>những</L> <tp><N>người</N> <V>liên_quan</V> <A>trực_tiếp</A> <E>đến</E> <N>vụ</N> <N>tai_nạn</N></tp> <qt><V>có</V> <N>trách_nhiệm</N> <P>gì</P></qt> </question>
+		<answer>dừng ngay phương tiện; giữ nguyên hiện trường; cấp cứu người bị nạn và phải có mặt khi cơ quan có thẩm quyền yêu cầu; cung cấp thông tin xác thực về vụ tai nạn cho cơ quan có thẩm quyền. Ở lại nơi xảy ra tai nạn cho đến khi người của cơ quan công an đến, trừ trường hợp người điều khiển phương tiện cũng bị thương phải đưa đi cấp cứu hoặc phải đưa người bị nạn đi cấp cứu hoặc vì lý do bị đe dọa đến tính mạng, nhưng phải đến trình báo ngay với cơ quan công an nơi gần nhất.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>lên</V> <N>dốc</N> <A>cao</A></a><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>về số thấp từ chân dốc, điều chỉnh ga cho xe từ từ lên dốc; đến gần đỉnh dốc phải đi chậm, đi sát về phía bên phải đường, có tín hiệu (còi, đèn) để báo cho người lái xe đi ngược chiều biết.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>xuống_dốc</V></if4> <if3><,>,</,> <V>muốn</V> <V>dừng</V> <N>xe</N></if3><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <qt><V>thực_hiện</V> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>có tín hiệu rẽ phải, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số 1, đạp nửa ly hợp cho xe đến chỗ dừng; khi xe đã dừng, về số không (0), đạp phanh chân vè kéo tay phanh.</answer>
+	</test>
+	<test>
+		<question><L>những</L> <N>người</N> <if3><V>có_mặt</V> <E>tại</E> <N>nơi</N> <V>xảy_ra</V> <N>vụ</N> <N>tai_nạn</N> <N>giao_thông</N></if3> <qt><V>có</V> <N>trách_nhiệm</N> <P>gì</P></qt> </question>
+		<answer>bảo vê hiện trường, giúp đỡ, cứu chữa kịp thời người bị nạn, bảo vệ tài sản của người bị nạn. báo tin ngay cho cơ quan công an, y tế hoặc ủy ban nhân dân nơi gần nhất; cung cấp thông tin xác thực về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <if3><V>phát_hiện</V></if3> <if4><N>công_trình</N> <N>đường_bộ</N> <V>bị</V> <A>hư_hỏng</A> <CC>hoặc</CC> <V>bị</V> <V>xâm_hại</V><,>,</,> <N>hành_lang</N> <A>an_toàn</A> <N>đường_bộ</N> <V>bị</V> <V>lấn_chiếm</V></if4> <V>phải</V> <qt><V>có</V> <N>trách_nhiệm</N> <P>gì</P></qt> </question>
+		<answer>kịp thời báo cho ủy ban nhân dân, cơ quan quản lý đường bộ hoặc cơ quan công an nơi gần nhất để xử lý. trường hợp cần thiết phải có biện pháp báo hiệu ngay cho <tp>người tham gia giao thông</tp> biết.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <V>phải</V> <V>giảm</V> <if3><N>tốc_độ</N> <E>đến</E> <N>mức</N> <R>không</R> <V>gây</V> <N>nguy_hiểm</N> <A>(</A></if3> <R>có_thể</R> <V>dừng</V> <R>lại</R> <N>một_cách</N> <A>an_toàn</A> <qt><A>)</A> <E>trong</E> <N>trường_hợp</N></qt> <P>nào</P> </question>
+		<answer>khi có biển báo hiệu hạn chế tốc độ hoặc có chướng ngại vật; khi tầm nhìn bị hạn chế; khi qua nơi đường giao nhau, nơi đường bộ giao nhau với đường sắt, đường vòng, đoạn đường gồ ghề, trơn trượt, cát bụi. khi qua cầu, cống hẹp; khi lên gần đỉnh dốc, khi xuống dốc, khi qua trường học, nơi tập trung đống người, nơi đông dân, có nhà cửa gần đường.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>điều_khiển</V> <N>xe</N> <E>trên</E> <N>đường</N> <N>vòng</N></if4> <N>người</N> <N>lái_xe</N> <V>cần</V> <V>phải</V> <qt><X>làm_gì</X> </question>
+		<answer>quan sát cẩn thận các chướng ngại vật và báo hiệu bằng còi, đèn; giảm tốc độ tới mức cần thiết, về số thấp và thực hiện quay vòng với tốc độ phù hợp với bán kính đường vòng.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>rẽ</V> <V>phải</V> <E>ở</E> <N>chỗ</N> <N>đường</N> <V>giao</V> <N>nhau</N></a><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>cách chỗ rẽ khoảng 30 m có tín hiệu rẽ phải; quan sát an toàn phía sau; điều khiển xe bám sát vào phía phải đường; giảm tốc độ và quan sát an toàn phía bên phải để điều khiển xe qua chỗ đường giao nhau.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>rẽ</V> <A>trái</A> <E>ở</E> <N>chỗ</N> <N>đường</N> <V>giao</V> <N>nhau</N></a><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>cách chỗ rẽ khoảng 30 m giảm tốc độ, có tín hiệu rẽ trái xin đổi làn đường; quan sát an toàn xung quanh đặc biệt là bên trái; đổi sang làn đường bên trái; cho xe chạy chậm tới phía trong của tâm đường giao nhau mới rẽ trái để điều khiển xe qua chỗ đường giao nhau.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <if4><V>đèn_pha</V> <E>của</E> <N>xe</N> <V>ngược</V> <N>chiều</N> <V>gây</V> <V>chói</V> <N>mắt</N></if4><,>,</,> <V>làm</V> <V>giảm</V> <N>khả_năng</N> <V>quan_sát</V> <E>trên</E> <N>đường</N><,>,</,> <N>người</N> <N>lái_xe</N> <V>xử_lý</V><qt><X>như_thế_nào</X> </question>
+		<answer>giảm tốc độ, nếu cần thiết có thể dừng lại.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <N>xe</N> <tv><A>mô_tô</A></tv> <tv><,>,</,> <N>xe_gắn_máy</N></tv> <E>trên</E> <N>đường</N> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <qt><V>vượt</V> <R>quá</R> <P>bao_nhiêu</P> <C>thì</C> <V>bị</V> <V>cấm</V></qt> </question>
+		<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <A>đủ</A> <qt><P>bao_nhiêu</P> <N>tuổi</N> <A>trở_lên</A></qt> <C>thì</C> <V>được</V> <V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N> <N>tải</N></tv> <tv><,>,</,> <N>máy_kéo</N></tv> <V>có</V> <if1><N>trọng_tải</N> <E>từ</E> <M>3,5</M> <Nu>tấn</Nu> <A>trở_lên</A></if1> <tv><;>;</;> <N>xe</N> <N>hạng</N> <A>b</A> <M>2</M> <N>kéo</N></tv> <V>rơ</V> <->-</-> <V>moóc</V> <A>(</A> <M>fb2</M> <Nu>)</Nu> </question>
+		<answer>21 tuổi.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <A>đủ</A> <qt><P>bao_nhiêu</P> <N>tuổi</N> <A>trở_lên</A></qt> <C>thì</C> <V>được</V> <V>điều_khiển</V> <tv><N>xe</N> <tv><V>mô_tô</V> <M>hai</M> <N>bánh</N></tv> </tv> <tv><tv><,>,</,> <N>xe</N> <X>mô_tô_ba_bánh</X></tv> </tv> <if1><V>có</V> <N>dung_tích</N> <N>xi</N><->-</-> <N>lanh</N> <E>từ</E> <M>50</M></if1> <N>cm3</N> <A>trở_lên</A> <CC>và</CC> <L>các</L> <Nc>loại</Nc> <N>xe</N> <V>có</V> <N>kết_cấu</N><tv><A>tương_tự</A> <;>;</;></tv> <tv><N>ô_tô</N></tv> <N>tải</N> <if1><,>,</,> <N>máy_kéo</N> <V>có</V> <N>trọng_tải</N></if1> <E>dưới</E> <tv><M>3,5</M> <Nu>tấn</Nu></tv> <;>;</;> <N>xe</N> <N>ô_tô</N> <V>chở</V> <N>người</N> <E>đến</E> <M>9</M> <N>chỗ</N> <V>ngồi</V> </question>
+		<answer>18 tuổi.</answer>
+	</test>
+	<test>
+		<question><if3><N>khi</N> <V>gặp</V> <M>một</M> <Nc>đoàn</Nc> <N>xe</N><,>,</,> <M>một</M> <N>đoàn</N> <N>xe</N> <N>tang</N> <C>hay</C> <V>gặp</V> <M>một</M> <N>đoàn</N> <N>người</N> <V>có</V> <V>tổ_chức</V> <V>theo</V> <N>đội_ngũ</N></if3><,>,</,> <N>người</N> <V>lái_xe</V> <V>phải</V> <V>xử_lý</V><qt><X>như_thế_nào</X> </question>
+		<answer>không được cắt ngang qua đoàn người, đoàn xe.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>phát_hiện</V> <N>hành_vi</N> <if3><A>giả</A> <V>khai_báo</V> <V>mất</V> <CC>hoặc</CC> <V>tẩy_xóa</V><,>,</,> <V>làm</V> <A>sai_lệch</A> <L>các</L> <N>thông_tin</N> <E>trên</E> <N>giấy_phép</N> <N>lái_xe</N></if3> <if3><;>;</;> <V>sử_dụng</V> <N>giấy_phép</N> <N>lái_xe</N> <CC>hoặc</CC> <V>đổi</V> <N>hồ_sơ</N> <N>lái_xe</N> <A>giả</A></if3> <if3><;>;</;> <V>có</V> <N>hành_vi</N> <V>cố_tình</V> <A>gian_dối</A> <E>để</E> <V>được</V> <V>đổi</V><,>,</,> <V>cấp</V> <R>mới</R><,>,</,> <V>cấp</V> <R>lại</R> <N>giấy_phép</N> <N>lái_xe</N></if3><,>,</,> <E>ngoài</E> <N>việc</N> <V>bị</V> <N>cơ_quan</N> <V>quản_lý</V> <V>thu_hồi</V> <E>bằng</E> <N>lái</N> <CC>và</CC> <N>hồ_sơ</N> <N>gốc</N> <R>còn</R> <V>phải</V> <V>chịu</V> <N>trách_nhiệm</N> <E>trước</E> <N>pháp_luật</N><,>,</,> <N>người</N> <N>lái_xe</N> <R>không</R> <qt><V>được</V> <V>cấp</V> <E>bằng</E> <E>trong</E> <N>thời_gian</N> <P>bao_lâu</P> </question>
+		<answer>5 năm.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường</N> <A>một_chiều</A></l> <if4><,>,</,> <E>trước</E> <N>khi</N> <V>đến</V> <V>vạch</V> <N>người</N> <V>đi</V> <N>bộ</N> <E>qua</E> <N>đường</N> <V>có</V> <M>một</M> <N>xe_tải</N> <R>đang</R> <V>dừng</V> <E>trước</E> <N>làn_đường</N> <N>bên</N> <A>phải</A></if4><,>,</,> <N>người</N> <V>lái_xe</V> <V>phải</V> <qt><X>làm_gì</X> <C>nếu</C></qt> <N>xe</N> <E>của</E> <P>mình</P> <R>đang</R> <if1><V>đi</V> <E>trên</E> <N>làn_đường</N> <N>bên</N> <N>trái</N> </question>
+		<answer>quan sát, giảm tốc độ hoặc dừng lại vì có thể có người đi bộ qua đường, sau đó đi tiếp.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>điều_khiển</V> <N>xe</N> <V>vượt</V> <R>qua</R> <N>rãnh</N> <A>lớn</A> <V>cắt</V> <A>ngang</A> <N>mặt_đường</N></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>gài số một (1) và từ từ cho hai bánh xe trước xuống rãnh, tăng ga cho hai bánh xe trước vượt lên khỏi rãnh, tiếp tục để bánh xe sau từ từ xuống rãnh rồi tăng dần ga cho xe ô tô lên khỏi rãnh.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <tv><,>,</,> <N>máy_kéo</N></tv> <tv><,>,</,> <N>xe_máy</N> <A>chuyên_dùng</A></tv> <E>trên</E> <N>đường</N> <C>mà</C> <E>trong</E> <N>máu</N> <CC>hoặc</CC> <N>hơi</N> <V>thở</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <qt><V>vượt</V> <R>quá</R> <P>bao_nhiêu</P> <C>thì</C> <V>bị</V> <V>cấm</V></qt> </question>
+		<answer>người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn.</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái</V> <tv><N>ô_tô</N></tv> <qt><V>xử_lý</V> <X>như_thế_nào</X></qt> <N>khi</N> <a><V>cho</V> <N>xe</N> <V>mô_tô</V> <N>phía</N> <N>sau</N> <V>vượt</V></a> </question>
+		<answer>lái xe vào lề đường bên phải và giảm tốc độ để xe phía sau vượt qua.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <if4><N>ô_tô</N> <V>đi</V> <A>ngược</A> <N>chiều</N> <V>đến</V> <R>rất</R> <A>gần</A><,>,</,> <N>ô_tô</N> <N>phía</N> <A>sau_cùng</A> <N>chiều</N> <V>cố_tình</V> <V>vượt</V></if4><,>,</,> <N>người</N> <N>lái_xe</N> <qt><V>xử_lý</V> <X>như_thế_nào</X></qt> </question>
+		<answer>giảm tốc độ và lái xe sát vào lề đường bên phải.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <tv><N>ô_tô</N></tv> <V>bị</V> <if1><V>hỏng</V> <E>tại</E> <N>vị_trí</N> <V>giao</V> <N>nhau</N> <E>giữa</E> <N>đường_bộ</N> <CC>và</CC> <N>đường_sắt</N></if1><,>,</,> <N>người</N> <N>lái_xe</N> <qt><V>xử_lý</V> <X>như_thế_nào</X></qt> </question>
+		<answer>nhanh chóng đưa ô tô ra khỏi đường sắt hoặc tìm cách báo hiệu để đoàn tàu dừng lại.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>xảy_ra</V> <N>tai_nạn</N> <N>giao_thông</N></if4><,>,</,> <V>có</V> <N>người</N> <V>bị_thương</V> <A>nghiêm_trọng</A><,>,</,> <N>người</N> <N>lái_xe</N> <CC>và</CC> <N>người</N> <V>có_mặt</V><if3><E>tại</E> <N>hiện_trường</N> <N>vụ</N> <N>tai_nạn</N> <V>phải</V> <V>thực_hiện</V></if3> <qt><L>các</L> <N>công_việc</N> <P>gì</P> </question>
+		<answer>thông báo vụ tai nạn đến cơ quan thi hành pháp luật. thực hiện sơ cứu ban đầu trong trường hợp khẩn cấp.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>điều_khiển</V> <V>tăng</V> <N>số</N></if4><,>,</,> <N>người</N> <V>lái</V> <tv><N>ô_tô</N></tv> <qt><V>cần</V> <V>chú_ý</V> <L>những</L> <N>điểm</N> <P>gì</P></qt> </question>
+		<answer>không được nhìn xuống buồng lái, cần phải tăng thứ tự từ thấp đến cao, phối hợp các động tác phải nhịp nhàng, chính xác.</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <V>điều_khiển</V> <N>xe</N> <V>giảm</V> <N>số</N></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <qt><V>chú_ý</V> <L>những</L> <N>điểm</N> <P>gì</P> </question>
+		<answer>không được nhìn xuống buồng lái, cần phải giảm thứ tự từ cao đến thấp, phối hợp các động tác phải nhịp nhàng, chính xác, vù ga phải phù hợp với tốc độ.</answer>
+	</test>
+	<test>
+		<question><E>để</E> <a><V>giảm</V> <N>tốc_độ</N></a> <N>khi</N> <tv><N>ô_tô</N></tv> <a><V>đi</V> <V>xuống_đường</V> <N>dốc</N> <A>dài</A></a><,>,</,> <N>người</N> <N>lái_xe</N> <V>phải</V> <V>thực_hiện</V><qt><L>các</L> <V>thao_tác</V> <P>nào</P> </question>
+		<answer>nhả bàn đạp ga, về số thấp, đạp phanh chân với mức độ phù hợp để giảm tốc độ.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <E>trên</E> <if4><N>mặt_đường</N> <V>có</V> <A>nhiều</A><">"</"> <A>ổ_gà</A></if4><">"</"><,>,</,> <N>người</N> <N>lái_xe</N> <V>phải</V> <V>thực_hiện</V><qt><V>thao_tác</V> <X>như_thế_nào</X> </question>
+		<answer>giảm tốc độ, về số thấp và giữ đều ga.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <V>tới</V> <if1><A>gần</A> <N>xe</N> <V>chạy</V> <A>ngược</A> <N>chiều</N></if1> <E>vào</E> <if4><N>ban_đêm</N></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <qt><V>thực_hiện</V> <L>các</L> <V>thao_tác</V> <P>nào</P></qt> </question>
+		<answer>chuyển từ đèn chiếu xa sang đèn chiếu gần; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <if4><E>trên</E> <N>đường</N> <A>trơn</A></if4> <qt><V>cần</V> <V>chú_ý</V> <L>những</L> <N>điểm</N> <P>gì</P></qt> </question>
+		<answer>giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng số thấp đi chậm, giữ đều ga, không lấy nhiều lái, không đánh lái ngoặt và phanh gấp.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <V>gặp</V> <if4><N>mưa</N> <A>to</A> <CC>hoặc</CC> <N>sương_mù</N></if4><,>,</,> <N>người</N> <V>lái_xe</V> <qt><V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>bật đèn chiếu gần và đèn vàng, điều khiển gạt nước, điều khiển <tv>ô tô</tv> đi với tốc độ chậm để có thể quan sát được. tìm chỗ an toàn dừng xe, bật đèn dừng khẩn cấp báo hiệu cho các xe khác biết.</answer>
+	</test>
+	<test>
+		<question><l><E>trên</E> <N>đường_cao_tốc</N></l><,>,</,> <N>người</N> <N>lái_xe</N> <qt><V>xử_lý</V> <X>như_thế_nào</X></qt> <N>khi</N> <a><V>vượt</V> <R>quá</R> <N>lối</N> <V>ra</V> <E>của</E> <N>đường</N> <V>định</V> <V>rẽ</V></a> </question>
+		<answer>tiếp tục chạy đến lối ra tiếp theo.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <V>qua</V> <if4><Nc>đoạn</Nc> <N>đường</N> <V>ngập</V> <N>nước</N></if4><,>,</,> <N>người</N> <N>lái_xe</N> <V>cần</V> <qt><V>thực_hiện</V> <L>các</L> <V>thao_tác</V> <P>nào</P></qt> </question>
+		<answer>về số một (1), giữ đều ga và giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước.</answer>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N></if3> <N>lúc</N> <a><N>lái_xe</N></a> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><V>nghe</V> <N>nhạc</N></if3> <N>lúc</N> <a><V>đi</V> <N>xe_đạp</N></a> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><V>chở</V> <M>1</M> <N>người</N> <if3><V>ngồi</V> <R>lên</R> <N>tay_lái</N></if3> <E>của</E> <tv><N>xe_đạp</N></tv> <qt><V>có</V> <V>bị</V> <V>cấm</V> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>ngồi</V> <N>đằng</N> <E>sau</E> <N>xe_đạp</N> <if3><V>đứng</V> <R>lên</R> <N>giá</N> <N>đèo</N></if3> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>đi</V> <tv><N>xe_đạp</N></tv> <V>có</V> <N>hành_vi</N> <if3><V>đứng</V> <R>lên</R> <N>yên</N> <N>xe</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>ngồi</V> <N>đằng</N> <E>sau</E> <tv><N>xe_đạp</N></tv> <if3><V>đứng</V> <R>lên</R> <N>giá</N> <N>đèo</N></if3> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>đi</V> <tv><N>xe_đạp</N></tv> <V>có</V> <N>hành_vi</N> <if3><V>đứng</V> <R>lên</R> <N>yên</N> <N>xe</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><V>đứng</V> <R>lên</R> <N>yên</N> <N>xe</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_đạp</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><qt><V>có</V> <R>được</R></qt> <if3><V>sử_dụng</V> <N>ô</N></if3> <N>lúc</N> <N>lái_xe</N><tv><V>đạp</V> <R>không</R></tv> <qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>ô</N></if3> <E>trong</E> <N>lúc</N> <V>đi</V> <if3><N>xe_đạp</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><R>vừa</R> <V>đi</V> <tv><N>xe_đạp</N></tv> <R>vừa</R> <if3><V>nghe</V> <N>điện_thoại</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>xe_đạp</N></tv> <C>mà</C> <if3><V>nghe</V> <N>điện_thoại</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><qt><V>có</V> <V>được</V></qt> <N>phép</N> <if3><V>nghe</V> <N>điện_thoại_di_động</N></if3> <E>trong</E> <N>lúc</N> <V>đi</V> <tv><N>xe_đạp</N></tv> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><if3><V>đeo</V> <N>tai_nghe</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_đạp</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có. trừ trường hợp là thiết bị trợ thính</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_đạp</N></tv> <a><V>chở</V> <E>theo</E> <M>2</M> <N>người_lớn</N></a> <qt><V>có</V> <V>bị</V> <V>cấm</V> <R>không</R></qt> </question>
+		<answer>xe đạp được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người</answer>
+	</test>
+	<test>
+		<question><a><V>chở</V> <E>theo</E> <M>2</M> <N>trẻ_em</N> <M>8</M> <N>tuổi</N></a> <E>trên</E> <tv><N>xe_đạp</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>xe đạp được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người</answer>
+	</test>
+	<test>
+		<question><a><V>chở</V> <E>theo</E> <M>2</M> <N>trẻ_em</N> <M>8</M> <N>tuổi</N></a> <E>trên</E> <tv><N>xe_đạp</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>xe đạp được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người</answer>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N></if3> <N>lúc</N> <a><N>lái_xe</N></a> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><V>buông</V> <P>cả</P> <M>2</M> <N>tay</N></if3> <N>lúc</N> <a><N>lái_xe</N></a> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><V>nghe</V> <N>nhạc</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><V>nghe</V> <N>nhạc</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><V>chở</V> <M>1</M> <N>người</N> <if3><V>ngồi</V> <R>lên</R> <N>tay_lái</N></if3> <E>của</E> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>bị</V> <V>cấm</V> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>ngồi</V> <N>đằng</N> <E>sau</E> <tv><N>xe_máy</N></tv> <if3><V>đứng</V> <R>lên</R> <N>giá</N> <N>đèo</N></if3> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>ngồi</V> <N>đằng</N> <E>sau</E> <tv><N>xe_máy</N></tv> <if3><V>đứng</V> <R>lên</R> <N>giá</N> <N>đèo</N></if3> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>đi</V> <tv><N>xe_máy</N></tv> <V>có</V> <N>hành_vi</N> <if3><V>đứng</V> <R>lên</R> <N>yên</N> <N>xe</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>đi</V> <tv><N>xe_máy</N></tv> <V>có</V> <N>hành_vi</N> <if3><V>đứng</V> <R>lên</R> <N>yên</N> <N>xe</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><qt><V>có</V> <R>được</R></qt> <if3><V>sử_dụng</V> <N>ô</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><if3><V>sử_dụng</V> <N>ô</N></if3> <E>trong</E> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><V>sử_dụng</V> <N>ô</N></if3> <E>trong</E> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><R>vừa</R> <V>đi</V> <tv><N>xe_máy</N></tv> <R>vừa</R> <if3><V>nghe</V> <N>điện_thoại</N></if3> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><qt><V>có</V> <V>được</V></qt> <N>phép</N> <if3><V>nghe</V> <N>điện_thoại_di_động</N></if3> <E>trong</E> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><if3><V>đeo</V> <N>tai_nghe</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có, trừ trường hợp là thiết bị trợ thính</answer>
+	</test>
+	<test>
+		<question><if3><V>đeo</V> <N>tai_nghe</N></if3> <N>lúc</N> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có, trừ trường hợp là thiết bị trợ thính</answer>
+	</test>
+	<test>
+		<question><if3><N>đội</N> <N>mũ_bảo_hiểm</N> <R>không</R> <V>cài</V> <N>quai</N></if3> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_gắn_máy</N></tv> <a><V>chở</V> <M>2</M> <N>người</N></a> <E>trên</E> <N>xe</N> <CC>và</CC> <if4><V>có</V> <N>bệnh_nhân</N> <V>cần</V> <V>cấp_cứu</V></if4> <X>thì_có</X><qt><V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><tv><N>xe</N> <V>mô_tô</V></tv> <a><V>chở</V> <M>2</M> <N>người</N></a> <E>trên</E> <N>xe</N> <CC>và</CC> <if4><V>có</V> <M>một</M> <N>trẻ</N> <M>12</M> <N>tuổi</N></if4> <X>thì_có</X><qt><V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_gắn_máy</N></tv> <a><V>chở</V> <M>2</M> <N>người</N></a> <E>trên</E> <N>xe</N> <CC>và</CC> <if4><V>có</V> <N>bệnh_nhân</N> <V>cần</V> <V>cấp_cứu</V></if4> <X>thì_có</X><qt><V>vi_phạm</V> <N>luật</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><tv><N>xe</N> <V>mô_tô</V></tv> <a><V>chở</V> <M>2</M> <N>người</N></a> <E>trên</E> <N>xe</N> <CC>và</CC> <if4><V>có</V> <M>một</M> <N>trẻ</N> <M>12</M> <N>tuổi</N></if4> <X>thì_có</X><qt><V>vi_phạm</V> <N>luật</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_gắn_máy</N></tv> <a><V>chở</V> <M>2</M> <N>trẻ_em</N> <M>15</M> <N>tuổi</N></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_gắn_máy</N></tv> <a><V>chở</V> <M>2</M> <N>trẻ_em</N> <M>15</M> <N>tuổi</N></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <if1><R>không</R> <V>có</V> <N>đèn</N> <V>soi</V> <N>biển_số</N></if1> <X>thì_có</X><qt><V>được</V> <V>đi</V></qt> <a><E>trên</E> <N>đường_không</N></a> <qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><V>đi</V> <N>xe</N> <tv><N>ô_tô</N></tv> <if1><R>không</R> <V>có</V> <N>gương</N> <N>chiếu</N> <A>hậu</A></if1> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><V>đi</V> <N>xe</N> <tv><N>ô_tô</N></tv> <if1><R>không</R> <V>có</V> <N>gương</N> <N>chiếu</N> <A>hậu</A></if1> <qt><V>có</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if1><N>đèn_chiếu</N> <N>sáng</N></if1> <E>của</E> <tv><N>xe_máy</N></tv> <if1><V>bị</V> <V>hỏng</V></if1> <qt><V>có</V> <V>được</V></qt> <a><V>tham_gia</V> <N>giao_thông</N></a> <E>trên</E> <N>đường_không</N><qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><R>chưa</R> <V>đăng_ký</V> <N>biển_số</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>tham_gia</V> <N>giao_thông</N></a> <E>trên</E> <N>đường_không</N><qt></question>
+		<answer></answer>
+	</test>
+	<test>
+		<question><if1><N>đèn_chiếu</N> <N>sáng</N></if1> <E>của</E> <tv><N>xe_máy</N></tv> <if1><V>bị</V> <V>hỏng</V></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <E>trên</E> <N>đường_không</N></a> <qt></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><R>chưa</R> <V>đăng_ký</V> <N>biển_số</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <E>trên</E> <N>đường_không</N></a> <qt></qt> </question>
+		<answer></answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <R>đang</R> <a><V>đi</V> <E>trên</E> <N>đường_không</N> <A>ưu_tiên</A></a><,>,</,> <V>đến</V> <l><N>đoạn</N> <V>giao</V> <N>nhau</N> <E>với</E> <N>đường</N> <A>ưu_tiên</A></l><,>,</,> <N>xe</N> <qt><V>có</V> <V>phải</V></qt> <a><V>nhường</V> <N>đường</N> <E>cho</E></a> <L>các</L> <a><N>xe</N> <E>trên</E> <N>đường</N> <V>ưu_tiên</V></a> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <R>đang</R> <a><V>đi</V> <E>trên</E> <N>đường</N> <T>chính</T></a><,>,</,> <V>đến</V> <l><N>đoạn</N> <V>giao</V> <N>nhau</N> <E>với</E> <N>đường</N> <N>nhánh</N></l><,>,</,> <N>xe</N> <qt><V>có</V> <V>phải</V></qt> <a><V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <E>trên</E> <N>đường</N> <N>nhánh</N></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <if1><V>có</V> <N>tín_hiệu</N></if1> <E>của</E> <tv><N>xe</N> <V>ưu_tiên</V></tv> <C>thì</C> <tp><N>người</N> <V>đi</V> <N>đường</N></tp> <qt><V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường. không được gây cản trở xe được quyền ưu tiên</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N> <N>tải</N></tv> <a><V>dừng</V> <N>xe</N></a> <V>làm</V> <a><V>che_lấp</V> <V>biển_báo</V> <N>giao_thông</N> <N>bên</N> <N>đường</N></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N> <N>tải</N></tv> <a><V>dừng</V> <N>xe</N></a> <V>làm</V> <a><V>che_lấp</V> <V>biển_báo</V> <N>giao_thông</N> <N>bên</N> <N>đường</N></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><M>2</M> <N>xe</N> <tv><N>ô_tô</N></tv> <V>đi</V> <if1><A>ngược</A> <N>chiều</N> <N>nhau</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>dùng</V> <N>đèn_chiếu</N> <A>xa</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N> <V>đối_diện</V></tv> <a><V>dùng</V> <N>đèn_chiếu</N> <A>xa</A></a> <V>chiếu</V> <E>vào</E> <N>xe_máy</N> <C>thì</C> <N>xe</N> <N>ô_tô</N> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N> <V>đối_diện</V></tv> <a><V>dùng</V> <N>đèn_chiếu</N> <A>xa</A></a> <V>chiếu</V> <E>vào</E> <N>xe_máy</N> <C>thì</C> <N>xe</N> <N>ô_tô</N> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>muốn</V> <a><V>rẽ</V> <N>trái</N></a> <tv><N>ô_tô</N></tv> <qt><V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>giảm tốc độ và có tìn hiệu báo hướng rẽ</answer>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <qt><V>phải</V> <X>làm_gì</X></qt> <E>trước</E> <N>khi</N> <a><V>rẽ</V> <N>trái</N></a> </question>
+		<answer>giảm tốc độ và có tìn hiệu báo hướng rẽ</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <V>muốn</V> <a><V>rẽ</V> <V>phải</V></a> <C>thì</C> <tv><N>xe_máy</N></tv> <qt><V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>giảm tốc độ và có tìn hiệu báo hướng rẽ</answer>
+	</test>
+	<test>
+		<question><if1><N>khi</N> <N>xe</N> <N>phía</N> <A>trước</A> <V>có</V> <N>tín_hiệu</N> <V>rẽ</V> <A>trái</A></if1> <C>thì</C> <tv><N>xe</N> <N>phía</N> <A>sau</A></tv> <qt><V>có</V></qt> <a><V>vượt</V> <E>về</E> <N>phía</N> <N>bên</N> <V>phải</V></a> <qt><V>được</V> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <if1><N>xe</N> <N>phía</N> <A>trước</A> <V>có</V> <N>tín_hiệu</N> <V>rẽ</V> <A>trái</A> <C>thì</C></if1> <N>xe</N> <tv><N>phía</N> <A>sau</A> <C>nên</C></tv> <V>vượt</V> <qt><E>về</E> <N>phía</N> <N>bên</N> <P>nào</P> </question>
+		<answer>bên phải</answer>
+	</test>
+	<test>
+		<question><if1><N>khi</N> <N>xe</N> <N>phía</N> <A>trước</A> <R>đang</R> <V>rẽ</V> <N>trái</N></if1> <tv><N>xe</N> <N>phía</N> <A>sau</A></tv> <C>nên</C> <qt><V>vượt</V> <E>về</E> <N>phía</N> <N>bên</N> <P>nào</P></qt> </question>
+		<answer>bên phải</answer>
+	</test>
+	<test>
+		<question><if4><N>khi</N> <N>xe_điện</N> <R>đang</R> <V>chạy</V> <E>giữa</E> <N>đường</N></if4> <X>thì_có</X><qt><V>được</V> <V>vượt</V></qt> <a><E>về</E> <N>phía</N> <N>bên</N> <A>phải</A> <R>không</R></a> <qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N> <V>đi</V> <E>trước</E></tv> <if1><V>có</V> <N>tín_hiệu</N> <N>báo</N> <V>vượt</V> <N>xe</N> <A>khác</A></if1> <X>thì_có</X><qt><V>được</V> <V>vượt</V> <N>ô_tô</N></qt> <P>đó</P> <R>hay</R> <R>không</R> <qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><if4><N>phía</N> <A>trước</A></if4> <V>có</V> <M>một</M> <tv><N>xe_tải</N> <V>đi</V> <V>ngược</V> <N>chiều</N></tv> <X>thì_có</X><qt><V>được</V> <V>vượt</V> <N>xe</N></qt> <V>đi</V> <A>trước</A> <R>không</R> <qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <a><V>vượt</V> <N>xe</N></a> <C>mà</C> <if1><R>không</R> <V>có</V> <N>tín_hiệu</N> <N>báo</N> <V>xin</V> <V>vượt</V></if1> <qt><V>có</V> <V>bị</V> <V>phạm_luật</V> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if1><N>khi</N> <V>có</V> <N>xe</N> <N>phía</N> <A>sau</A> <V>xin</V> <V>vượt</V></if1> <C>thì</C> <tv><N>xe</N> <N>phía</N> <A>trước</A></tv> <qt><V>phải</V> <V>đi</V> <X>như_thế_nào</X></qt> </question>
+		<answer>người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt</answer>
+	</test>
+	<test>
+		<question><if1><N>khi</N> <V>có</V> <N>xe</N> <N>phía</N> <A>sau</A> <V>xin</V> <V>vượt</V></if1> <C>thì</C> <tv><N>xe</N> <N>phía</N> <A>trước</A></tv> <qt><V>có</V> <V>phải</V></qt> <a><V>giảm</V> <N>tốc_độ</N></a> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <V>đi</V> <E>đến</E> <l><N>ngã</N> <M>ba</M> <V>có</V> <N>vòng</N> <N>xuyến</N></l><,>,</,> <N>xe</N> <tv><N>ô_tô</N></tv> <qt><V>phải</V> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <V>đến</V> <E>từ</E> <N>hướng</N> <P>nào</P></qt> </question>
+		<answer>xe phải nhường đường cho xe đi bên trái</answer>
+	</test>
+	<test>
+		<question><l><E>tại</E> <N>ngã</N> <M>tư</M> <R>không</R> <V>có</V></l> <V>báo_hiệu</V> <V>đi</V> <E>theo</E> <l><N>vòng</N> <N>xuyến</N></l><,>,</,> <N>xe</N> <qt><V>phải</V> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <E>từ</E> <N>hướng</N> <P>nào</P></qt> </question>
+		<answer>xe phải nhường đường cho xe đi đến từ bên phải</answer>
+	</test>
+	<test>
+		<question><N>xe_máy</N> <a><V>vượt</V> <N>đèn_đỏ</N></a> <qt><V>có</V> <V>bị</V> <V>phạt</V> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe_máy</N> <a><V>vượt</V> <R>qua</R> <N>vạch</N> <V>dừng</V></a> <if4><E>sau</E> <N>khi</N></if4> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <E>sang</E> <N>màu</N> <A>đỏ</A></if2> <V>có</V> <qt><V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe_máy</N> <a><V>vượt</V> <R>qua</R> <N>vạch</N> <V>dừng</V></a> <if4><E>sau</E> <N>khi</N></if4> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <E>sang</E> <N>màu</N> <A>đỏ</A></if2> <V>có</V> <qt><V>vi_phạm</V> <N>luật</N> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe_máy</N> <a><V>đi</V> <V>qua</V> <N>vạch</N> <V>dừng</V></a> <if4><E>trước</E> <N>khi</N></if4> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <E>sang</E> <N>màu</N> <A>đỏ</A></if2> <X>thì_có</X> <qt><V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe_máy</N> <a><V>đi</V> <V>qua</V> <N>vạch</N> <V>dừng</V></a> <if4><E>trước</E> <N>khi</N></if4> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <E>sang</E> <N>màu</N> <A>đỏ</A></if2> <X>thì_có</X> <qt><V>vi_phạm</V> <N>luật</N> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <a><V>vượt</V> <R>qua</R> <N>vạch</N> <V>dừng</V></a> <if3><E>trước</E> <N>khi</N></if3> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <E>sang</E> <N>màu</N> <A>đỏ</A></if2> <V>có</V> <qt><V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <a><V>vượt</V> <R>qua</R> <N>vạch</N> <V>dừng</V></a> <if3><E>trước</E> <N>khi</N></if3> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <E>sang</E> <N>màu</N> <A>đỏ</A></if2> <V>có</V> <qt><V>vi_phạm</V> <N>luật</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><N>lúc</N> <tl><V>đèn_vàng</V></tl> <N>ô_tô</N> <qt><V>có</V> <V>được</V></qt> <N>phép</N> <a><V>di_chuyển</V></a> <C>hay</C> <qt><R>không</R></qt> </question>
+		<answer>xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><R>chưa</R> <V>đi</V> <E>qua</E> <N>vạch</N> <V>dừng</V></if1> <E>trong</E> <N>khi</N> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>chuyển</V> <N>màu</N> <N>vàng</N></if2> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <V>tiếp</V></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>nhấp_nháy</V> <N>màu</N> <N>vàng</N></if2><,>,</,> <N>xe</N> <a><R>đã</R> <V>đi</V> <R>quá</R> <V>vạch</V> <V>dừng</V></a> <X>thì_có</X><qt><V>được</V> <V>đi</V></qt> <a><V>tiếp</V> <C>hay</C></a> <R>không</R> <qt></question>
+		<answer>có nhưng phải giảm tốc độ</answer>
+	</test>
+	<test>
+		<question><tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><V>nhấp_nháy</V> <N>màu</N> <N>vàng</N></if2><,>,</,> <N>xe</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <V>tiếp</V></a> <C>hay</C> <qt><R>không</R></qt> </question>
+		<answer>có nhưng phải giảm tốc độ</answer>
+	</test>
+	<test>
+		<question><N>lúc</N> <tl><A>đèn_vàng</A></tl><,>,</,> <N>xe</N> <R>đã</R> <if1><V>đi</V> <R>quá</R> <V>vạch</V> <V>dừng</V></if1> <X>thì_có</X><qt><V>được</V> <V>đi</V></qt> <a><V>tiếp</V> <C>hay</C></a> <R>không</R> <qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tl><N>đèn_xanh</N></tl> <V>là</V> <qt><V>được</V> <V>đi</V> <R>chưa</R></qt> </question>
+		<answer>được đi</answer>
+	</test>
+	<test>
+		<question><V>đợi</V> <E>đến</E> <N>khi</N> <tl><N>đèn</N> <V>báo_hiệu</V></tl> <qt><V>chuyển</V> <N>màu</N> <P>gì</P> <C>thì</C> <V>được</V> <V>đi</V></qt> </question>
+		<answer>màu xanh</answer>
+	</test>
+	<test>
+		<question><tl><N>đèn</N> <V>báo_hiệu</V></tl> <if2><N>màu</N> <A>đỏ</A></if2> <C>thì</C> <qt><N>xe</N> <V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <M>một</M> <N>tay</N> <A>thẳng</A></if4> <C>thì</C> <L>các</L> <qt><N>xe</N> <V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>người tham gia giao thông ở các hướng dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng</A></if4> <C>thì</C> <L>các</L> <qt><N>xe</N> <V>phải</V> <X>làm_gì</X></qt> </question>
+		<answer>người tham gia giao thông ở các hướng dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng</A></if4> <C>thì</C> <L>các</L> <N>xe</N> <V>phải</V> <qt><V>đi</V> <X>như_thế_nào</X></qt> </question>
+		<answer>người tham gia giao thông ở các hướng dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <M>hai</M> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <V>phải</V> <N>cảnh_sát</N> <N>giao_thông</N></if1> <a><V>rẽ</V> <A>trái</A></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <V>phải</V> <N>cảnh_sát</N> <N>giao_thông</N></if1> <a><V>rẽ</V> <A>trái</A></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <V>phải</V> <N>cảnh_sát</N> <N>giao_thông</N></if1> <a><V>rẽ</V> <A>phải</A></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <V>phải</V> <N>cảnh_sát</N> <N>giao_thông</N></if1> <a><V>rẽ</V> <A>phải</A></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <V>phải</V> <N>cảnh_sát</N> <N>giao_thông</N></if1> <a><V>đi</V> <A>thẳng</A></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <V>phải</V> <N>cảnh_sát</N> <N>giao_thông</N></if1> <a><V>đi</V> <A>thẳng</A></a> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <N>trái</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <N>trái</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>bên</N> <N>trái</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <L>các</L> <N>xe</N> <l><E>ở</E> <L>các</L> <N>hướng</N> <A>khác_nhau</A></l> <qt><V>có</V> <R>được</R> <V>di_chuyển</V> <R>không</R></qt> </question>
+		<answer>người tham gia giao thông ở các hướng dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <N>tay</N> <A>thẳng_đứng</A></if4> <C>thì</C> <N>xe</N> <E>ở</E> <N>hướng</N> <qt><P>nào</P> <V>được</V> <V>đi</V></qt> </question>
+		<answer>xe ở các hướng phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><M>hai</M> <N>tay</N> <V>dang</V> <A>ngang</A></if4> <qt><E>để</E> <X>làm_gì</X></qt> </question>
+		<answer>báo hiệu cho người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái của người điều khiển giao thông được đi</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><N>danh</N> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><N>danh</N> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>hai</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4> <qt><E>để</E> <X>làm_gì</X></qt> </question>
+		<answer>báo hiệu cho người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái của người điều khiển giao thông được đi</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4> <qt><E>để</E> <X>làm_gì</X></qt> </question>
+		<answer>báo hiệu cho người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái của người điều khiển giao thông được đi</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><N>danh</N> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><N>danh</N> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>dang</V> <A>ngang</A> <M>một</M> <N>tay</N></if4><,>,</,> <N>xe</N> <if1><E>ở</E> <N>phía</N> <N>sau</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V> <V>đi</V> <V>tiếp</V> <R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <L>các</L> <N>xe</N> <qt><V>phải</V> <V>đi</V> <X>như_thế_nào</X></qt> </question>
+		<answer>người tham gia giao thông ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông <if1>ở phía bên trái</if1> người điểu khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <L>các</L> <N>xe</N> <qt><V>phải</V> <V>đi</V> <X>như_thế_nào</X></qt> </question>
+		<answer>người tham gia giao thông ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông <if1>ở phía bên trái</if1> người điểu khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><N>phía</N> <A>sau</A> <N>lưng</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V> <V>đi</V></qt> <R>hay</R> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><N>phía</N> <A>sau</A> <N>lưng</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V> <V>đi</V></qt> <R>hay</R> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><E>ở</E> <N>sau</N> <N>lưng</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><E>ở</E> <N>sau</N> <N>lưng</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><E>ở</E> <N>sau</N> <N>lưng</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><E>ở</E> <N>sau</N> <N>lưng</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><N>đằng</N> <E>sau</E> <N>lưng</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><,>,</,> <N>xe_máy</N></tv> <if1><N>đằng</N> <E>sau</E> <N>lưng</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <if1><V>ở</V> <N>bên</N> <V>phải</V> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>phải</V> <V>dừng</V></qt> <a><R>lại</R> <R>không</R></a> <qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <tv><N>ô_tô</N></tv> <if1><E>ở</E> <N>bên</N> <A>phải</A> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>phải</V> <V>dừng</V></qt> <a><R>lại</R> <R>không</R></a> <qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <N>xe</N> <if1><E>ở</E> <N>bên</N> <V>phải</V> <N>cảnh_sát</N></if1> <N>giao_thông</N> <a><R>vẫn</R> <V>đi</V></a> <X>thì_có</X><qt><V>bị</V> <V>phạt</V> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><N>xe_máy</N></tv> <if1><E>ở</E> <N>bên</N> <A>phải</A> <N>cảnh_sát</N></if1> <a><R>vẫn</R> <V>đi</V></a> <X>thì_có</X><qt><V>bị</V> <V>phạt</V> <R>không</R> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <N>xe</N> <if1><E>ở</E> <N>bên</N> <V>phải</V> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><N>xe_máy</N></tv> <if1><E>ở</E> <N>bên</N> <A>phải</A> <N>cảnh_sát</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <N>xe</N> <if1><E>ở</E> <N>bên</N> <V>phải</V> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <N>xe</N> <tv><N>ô_tô</N></tv> <if1><E>ở</E> <N>bên</N> <A>phải</A> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <N>xe</N> <if1><E>ở</E> <N>bên</N> <V>phải</V> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><N>xe_máy</N></tv> <if1><E>ở</E> <N>bên</N> <A>phải</A> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe phải dừng lại</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <N>xe</N> <if1><E>ở</E> <N>bên</N> <N>trái</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>được</V> <V>đi</V></qt> <R>hay</R> <qt><R>không</R></qt> </question>
+		<answer>xe được phép rẽ tất cả các hướng</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <tv><N>ô_tô</N></tv> <if1><E>ở</E> <N>bên</N> <N>trái</N> <N>cảnh_sát</N></if1> <qt><V>được</V> <V>đi</V></qt> <R>hay</R> <qt><R>không</R></qt> </question>
+		<answer>xe được phép rẽ tất cả các hướng</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <if1><V>ở</V> <N>bên</N> <N>trái</N></if1> <a><V>rẽ</V> <N>trái</N></a> <V>có</V> <V>bị</V> <qt><V>vi_phạm</V> <N>luật</N></qt> <C>hay</C> <qt><R>không</R></qt> </question>
+		<answer>không, xe được đi tất cả các hướng</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <if1><V>ở</V> <N>bên</N> <N>trái</N></if1> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <C>hay</C> <qt><R>không</R></qt> </question>
+		<answer>có, xe được đi tất cả các hướng</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <if1><V>ở</V> <N>bên</N> <N>trái</N></if1> <a><V>đi</V> <A>thẳng</A></a> <qt><V>có</V> <R>được</R> <R>không</R></qt> </question>
+		<answer>có, xe được đi tất cả cả hướng</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <if1><V>ở</V> <N>bên</N> <N>trái</N> <N>cảnh_sát</N></if1> <N>giao_thông</N> <qt><V>có</V> <V>phải</V></qt> <a><V>dừng</V> <R>lại</R></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe được đi tất cả cả hướng</answer>
+	</test>
+	<test>
+		<question><ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <if1><V>ở</V> <N>bên</N> <N>trái</N> <N>cảnh_sát</N></if1> <qt><V>có</V> <V>phải</V></qt> <a><V>dừng</V> <R>lại</R></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe được đi tất cả cả hướng</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe chỉ được rẽ phải</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>được</V></qt> <a><V>đi</V> <A>thẳng</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe chỉ được rẽ phải</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe chỉ được rẽ phải</answer>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>được</V></qt> <a><V>rẽ</V> <A>trái</A></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe chỉ được rẽ phải</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <R>được</R></qt> <a><V>rẽ</V> <V>phải</V></a> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>xe</N> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1> <N>giao_thông</N><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N> <N>giao_thông</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>phải</V></qt> <a><V>dừng</V> <R>lại</R></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe chỉ được rẽ phải</answer>
+	</test>
+	<test>
+		<question><tv><N>xe_máy</N></tv> <if1><E>ở</E> <N>phía</N> <N>trước</N> <N>cảnh_sát</N></if1><,>,</,> <N>trường_hợp</N> <ti><N>cảnh_sát</N></ti> <if4><V>giơ</V> <A>tay_phải</A> <E>về</E> <N>phía</N> <N>trước</N></if4> <C>thì</C> <N>xe</N> <qt><V>có</V> <V>phải</V></qt> <a><V>dừng</V> <R>lại</R></a> <qt><R>không</R></qt> </question>
+		<answer>không, xe chỉ được rẽ phải</answer>
+	</test>
+</root>

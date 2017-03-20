@@ -1,0 +1,146 @@
+đường_bộ	N	B-ano
+trong	E	B-l
+khu_vực	N	I-l
+đông	N	I-l
+dân_cư	N	I-l
+gồm	V	B-qt
+những	L	I-qt
+đường	N	I-qt
+nào	P	I-qt
+
+khái_niệm	N	O
+phần	N	B-ano
+đường	N	I-ano
+xe	N	I-ano
+chạy	V	I-ano
+được	R	B-qt
+hiểu	V	I-qt
+như_thế_nào	X	I-qt
+là	V	O
+đúng	A	O
+
+khái_niệm	N	O
+làn_đường	N	B-ano
+được	R	B-qt
+hiểu	V	I-qt
+như_thế_nào	X	I-qt
+là	V	O
+đúng	A	O
+
+phương_tiện	N	B-ano
+tham_gia	V	I-ano
+giao_thông	N	I-ano
+đường_bộ	N	I-ano
+gồm	V	B-qt
+những	L	I-qt
+loại	N	I-qt
+nào	P	I-qt
+
+người	N	B-ano
+tham_gia	V	I-ano
+giao_thông	N	I-ano
+đường_bộ	N	I-ano
+gồm	V	B-qt
+những	L	I-qt
+đối_tượng	N	I-qt
+nào	P	I-qt
+
+trong	E	O
+hoạt_động	N	B-ano
+vận_tải	V	I-ano
+đường_bộ	N	I-ano
+,	,	O
+các	L	B-qt
+hành_vi	N	I-qt
+nào	P	I-qt
+sau	E	O
+đây	P	O
+bị	V	B-qt
+nghiêm_cấm	V	I-qt
+
+dải_phân_cách	N	B-ano
+trên	A	I-ano
+đường_bộ	N	I-ano
+có	V	B-qt
+những	L	I-qt
+loại	N	I-qt
+nào	P	I-qt
+
+người	N	B-ano
+điều_khiển	V	I-ano
+phương_tiện	N	I-ano
+tham_gia	V	I-ano
+giao_thông	N	I-ano
+gồm	V	O
+những	L	B-qt
+đối_tượng	N	I-qt
+nào	P	I-qt
+
+khái_niệm	N	O
+đường_phố	N	B-ano
+được	R	B-qt
+hiểu	V	I-qt
+như_thế_nào	X	I-qt
+là	V	O
+đúng	A	O
+
+hãy	R	B-qt
+nêu	V	I-qt
+yêu_cầu	V	B-ano
+về	E	I-ano
+an_toàn	N	I-ano
+kỹ_thuật	N	I-ano
+đối_với	E	I-ano
+bánh_xe	N	I-ano
+lắp	V	I-ano
+cho	E	O
+ô_tô	N	B-tv
+
+hãy	R	B-qt
+nêu	V	I-qt
+yêu_cầu	V	B-ano
+về	E	I-ano
+an_toàn	N	I-ano
+kỹ_thuật	N	I-ano
+đối_với	E	I-ano
+bánh_xe	N	I-ano
+lắp	V	I-ano
+cho	E	O
+ô_tô	N	B-tv
+
+bảo_đảm	V	B-ano
+trật_tự	N	I-ano
+,	,	I-ano
+an_toàn	N	I-ano
+giao_thông	N	I-ano
+đường_bộ	N	I-ano
+là	C	B-qt
+trách_nhiệm	N	I-qt
+của	E	I-qt
+ai	P	I-qt
+
+khái_niệm	N	O
+đường_cao_tốc	N	B-ano
+được	R	B-qt
+hiểu	V	I-qt
+như_thế_nào	X	I-qt
+là	V	O
+đúng	A	O
+
+thế_nào	P	B-qt
+là	V	I-qt
+động_cơ	N	B-ano
+2	M	I-ano
+kỳ	N	I-ano
+
+khái_niệm	N	O
+phương_tiện	N	B-ano
+giao_thông	N	I-ano
+thô_sơ	A	I-ano
+đường_bộ	N	I-ano
+được	R	B-qt
+hiểu	V	I-qt
+thế_nào	P	I-qt
+là	V	O
+đúng	A	O
+

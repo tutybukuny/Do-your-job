@@ -1,0 +1,134 @@
+		<question>có/V <qt>cần/V</qt> <if3>mang/V theo/E giấy_phép/N lái_xe/N</if3> khi/N <if3>đi/V xe/N</if3> <qt>không/R</qt></question>
+		<question><a>điều_khiển/V xe_cơ_giới/N</a> <qt>có/V cần/V</qt> phải/V có/V <dl>giấy_phép/N lái_xe/N</dl> <qt>không/R</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N</dl> <qt>có/V cần/V</qt> lúc/N đi/V xe/N <qt>hay/C không/R</qt></question>
+		<question><if3>chưa/R có/V giấy_phép/N lái_xe/N</if3> thì/C <qt>có/V được/R đi/V xe/N không/R</qt></question>
+		<question>sử_dụng/V <tv>xe_máy/N</tv> nhưng/C <if3>chưa/R có/V bằng/N lái_xe/N</if3> thì_có/X <qt>vi_phạm/V luật/N giao_thông/N không/R</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N a/N 1/M</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N a/N 2/M</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N a/N 3/M</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N a/N 4/M</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N b/N 1/M</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N b/A 2/M</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N c/N</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N d/N</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><dl>giấy_phép/N lái_xe/N hạng/N e/V</dl> cấp/V cho/E người/N đi/V <qt>loại/Nc xe/N nào/P</qt></question>
+		<question><if3>16/M tuổi/N</if3> thì/C <qt>được/R lái_xe/V gì/P</qt></question>
+		<question>trẻ_em/N <if3>15/M tuổi/N</if3> đi/V <tv>xe_máy/N</tv> <qt>có/V bị/V vi_phạm/V luật/N giao_thông/N không/R</qt></question>
+		<question>trẻ_em/N <if3>15/M tuổi/N</if3> đi/V <tv>xe_máy/N</tv> <qt>có/V bị/V vi_phạm/V luật/N không/R</qt></question>
+		<question>trẻ/N <if3>17/M tuổi/N</if3> <qt>có/V được/R</qt> lái/N <tv>xe_gắn_máy/N</tv> có/V <if1>dung_tích/N xi/N -/- lanh/N 70/M cm3/N</if1> <qt>không/R</qt></question>
+		<question><qt>bao_nhiêu/P tuổi/N</qt> thì/C được/V đi/V <tv>xe_máy/N</tv></question>
+		<question><if3>18/M tuổi/N</if3> thì/C <qt>được/R lái/V những/L loại/Nc xe/N gì/P</qt></question>
+		<question><qt>bao_nhiêu/P tuổi/N</qt> thì/C <a>được/R lái_xe/V ô_tô/N tải/N</a></question>
+		<question>người/N lái_xe/V <tv>ô_tô/N</tv> <if1>9/M chỗ/N ngồi/V</if1> phải/V đủ/A <qt>bao_nhiêu/P tuổi/N</qt></question>
+		<question>người/N lái_xe/V <tv>ô_tô/N</tv> <if1>10/M đến/E 30/M chỗ/N ngồi/V</if1> phải/V đủ/A <qt>bao_nhiêu/P tuổi/N</qt></question>
+		<question><qt>bao_nhiêu/P tuổi/N</qt> thì/C được/V lái_xe/N <tv>ô_tô/N</tv> <if1>trên/E 30/M chỗ/N ngồi/V</if1></question>
+		<question><qt>tuổi/N</qt> tối_đa/A của/E người/N lái_xe/N <tv>ô_tô/N</tv> <if1>trên/E 30/M chỗ/N ngồi/V</if1> <qt>là/V bao_nhiêu/P</qt></question>
+		<question>nam/N <qt>bao_nhiêu/P tuổi/N</qt> thì/C <a>không/R được/V lái_xe/N ô_tô/N</a> <if1>trên/E 30/M chỗ/N ngồi/V</if1></question>
+		<question>nữ/N <qt>bao_nhiêu/P tuổi/N</qt> thì/C <a>không/R được/V lái_xe/N ô_tô/N</a> <if1>trên/E 30/M chỗ/N ngồi/V</if1></question>
+		<question><qt>bao_nhiêu/P tuổi/N</qt> thì/C được/V <if3>thi/V bằng/E lái_xe/N</if3></question>
+		<question><qt>khi/N nào/P</qt> thì/C được/V <a>nâng/V hạng/N</a> <dl>bằng/E lái_xe/N b/N 1/M số/N tự_động/A</dl> <a>lên/E b/N 1/M</a></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/N được/V 6/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/N được/V 1/M năm/N và/CC 9.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/N được/V 2/M năm/N và/CC 9.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/N được/V 2/M năm/N và/CC 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/V được/R 15/M tháng/N và/CC 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/N được/V 23/M tháng/N và/CC 11.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M số/N tự_động/A</dl> <if3>lái_xe/N được/V 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 1/M</a> <qt>không/R</qt></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b1/M</dl> <a>lên/E b/N 2/M</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 2/M năm/N và/CC 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 7/M tháng/N và/CC 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 7/M tháng/N và/CC 9.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 9.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 12.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/N 1/M</dl> <if3>lái_xe/N được/V 8/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R b/N 2/M</a> <qt>không/R</qt></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>c/N</dl> <a>lên/R fc/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 3/M năm/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 12.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 11/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 11/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>c/N</dl> <a>lên/R fc/V</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>d/N</dl> <a>lên/R fc/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 3/M năm/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 12.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 11/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 11/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>d/N</dl> <a>lên/R fc/V</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>e/V</dl> <a>lên/R fc/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 13.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 3/M năm/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 12.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 11/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 11/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R fc/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <if4>e/V lên/R fc/N</if4></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b2/M</dl> <a>lên/V c/N</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R c/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R c/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R c/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 36/M tháng/N và/CC 60.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R c/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R c/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 32/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R c/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b2/M</dl> <a>lên/V c/N</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>c/N</dl> <a>lên/V d/N</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 36/M tháng/N và/CC 60.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 32/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>c/N</dl> <a>lên/V d/N</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>d/N</dl> <a>lên/R e/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 36/M tháng/N và/CC 60.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 32/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>d/N</dl> <a>lên/R e/V</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b2/M</dl> <a>lên/R f/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 36/M tháng/N và/CC 60.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 32/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b2/M</dl> <a>lên/R f/V</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>d/N</dl> <a>lên/R f/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 36/M tháng/N và/CC 60.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N d/N</dl> <if3>lái_xe/N được/V 32/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>d/N</dl> <a>lên/R f/V</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>e/V</dl> <a>lên/R f/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 36/M tháng/N và/CC 60.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 50.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N e/V</dl> <if3>lái_xe/N được/V 32/M tháng/N và/CC 30.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R f/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>e/V</dl> <a>lên/R f/V</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b2/M</dl> <a>lên/V d/N</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 80.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 5/M năm/N và/CC 100.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 200.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N b/A 2/M</dl> <if3>lái_xe/N được/V 4/M năm/N và/CC 80.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R d/N</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>b2/M</dl> <a>lên/V d/N</a></question>
+		<question><qt>điều_kiện/N</qt> để/E <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>c/N</dl> <a>lên/R e/V</a> <qt>là/V gì/P</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 40.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 36/M tháng/N</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 80.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 5/M năm/N và/CC 100.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 24/M tháng/N và/CC 200.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question>người/N có/V <dl>bằng/E lái_xe/N hạng/N c/N</dl> <if3>lái_xe/N được/V 4/M năm/N và/CC 80.000/M km/Nu</if3> thì/C <qt>có/V được/R</qt> <a>nâng/V lên/R e/V</a> <qt>không/R</qt></question>
+		<question><qt>khi/N nào/P</qt> được/R <a>nâng/V hạng/N</a> <dl>giấy_phép/N lái_xe/N</dl> từ/E <dl>c/N</dl> <a>lên/R e/V</a></question>
+		<question><ano>giấy_tờ/N cần_thiết/A</ano> khi/N đi/V <if3>thi/V bằng/E lái_xe/N</if3> <qt>là/V gì/P</qt></question>
+		<question>đi/V thi/V <if3>nâng/V hạng/N bằng/E</if3> thì/C <qt>hồ_sơ/N cần/V những/L gì/P</qt></question>

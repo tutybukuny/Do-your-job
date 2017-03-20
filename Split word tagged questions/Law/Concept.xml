@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question><ano><N>đường_bộ</N></ano> <l><E>trong</E> <N>khu_vực</N> <N>đông</N> <N>dân_cư</N></l> <qt><V>gồm</V> <L>những</L> <N>đường</N> <P>nào</P></qt> </question>
+	 	<answer>đường bộ nằm trong khu vực nội thành phố, nội thị xã và những đoạn đường bộ được xác định từ vị trí có hiệu lực của biển báo hiệu bắt đầu khu đông dân cư.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>đường bộ gồm: đường, cầu đường bộ. hầm đường bộ, bến phà đường bộ</answer>
+	</test>
+	<test>
+		<question><ano><V>vạch</V> <N>kẻ</N> <V>đường_được</V></ano> <qt><V>hiểu</V> <P>thế_nào</P></qt> <V>là</V> <A>đúng</A> </question>
+	 	<answer>vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>phần</N> <N>đường</N> <N>xe</N> <V>chạy</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><V>làn_đường</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>là một phần của đường được chia theo chiều ngang của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>đường_phố</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>dải_phân_cách</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>đường</N> <V>ưu_tiên</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu  tiên.</answer>
+	</test>
+	<test>
+		<question><ano><N>phương_tiện</N> <N>giao_thông</N> <N>đường_bộ</N></ano> <qt><V>gồm</V> <L>những</L> <N>loại</N> <P>nào</P></qt> </question>
+	 	<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>phương_tiện</N> <N>giao_thông</N> <N>cơ_giới</N> <N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <P>thế_nào</P></qt> <V>là</V> <A>đúng</A> </question>
+	 	<answer>gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.</answer>
+	</test>
+	<test>
+		<question><ano><N>phương_tiện</N> <V>tham_gia</V> <N>giao_thông</N> <N>đường_bộ</N></ano> <qt><V>gồm</V> <L>những</L> <N>loại</N> <P>nào</P></qt> </question>
+	 	<answer>phương tiện giao thông cơ giới đường bộ. phương tiện giao thông thô sơ đường bộ.</answer>
+	</test>
+	<test>
+		<question><ano><N>người</N> <V>tham_gia</V> <N>giao_thông</N> <N>đường_bộ</N></ano> <qt><V>gồm</V> <L>những</L> <N>đối_tượng</N> <P>nào</P></qt> </question>
+	 	<answer>người điểu khiển, người sử dụng phương tiện tham gia giao thông đường bộ.người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>người</N> <V>điều_khiển</V> <N>giao_thông</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông. 4- tất cả các ý nêu trên.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><V>làn_đường</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là một phần của đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><A>khổ</A> <N>giới_hạn</N> <E>của</E> <N>đường_bộ</N></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.</answer>
+	</test>
+	<test>
+		<question><N>khi</N> <ano><V>sơ_cứu</V> <N>ban_đầu</N> <E>cho</E> <N>người</N> <V>bị</V> <N>tai_nạn</N> <N>giao_thông</N></ano> <N>đường_bộ</N> <R>không</R> <V>còn</V> <N>hô_hấp</N><,>,</,> <N>người</N> <N>lái_xe</N> <CC>và</CC> <N>người</N> <V>có_mặt</V><if3><E>tại</E> <N>hiện_trường</N> <N>vụ</N> <N>tai_nạn</N></if3> <V>phải</V> <V>thực_hiện</V><qt><L>các</L> <N>công_việc</N> <P>gì</P> </question>
+		<answer>đặt nạn nhân nằm ngửa, khai thông đường thở của nạn nhân. thực hiện các biện pháp hô hấp nhân tạo; thực hiện các biện pháp xoa bóp tim.</answer>
+	</test>
+		<test>
+		<question><E>trong</E> <ano><N>hoạt_động</N> <V>vận_tải</V> <N>đường_bộ</N></ano> <qt><,>,</,> <L>các</L> <N>hành_vi</N> <P>nào</P></qt> <E>sau</E> <P>đây</P> <qt><V>bị</V> <V>nghiêm_cấm</V></qt> </question>
+		<answer>vận chuyển hàng cấm lưu thông. vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định về vận chuyển hàng nguy hiểm, động vật hoang dã.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>công_trình</N> <N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>đường bộ, nơi dừng xe, đỗ xe trên đường bộ, đèn tín hiệu, biển báo hiệu, vạch kẻ đường, cọc tiêu. rào chắn, đảo giao thông, dải phân cách, cột cây số, tường, kè, hệ thống thoát nước, trạm kiểm tra trọng tải xe, trạm thu phí và các công trình, thiết bị phụ trợ khác.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>phần</N> <N>đường</N> <N>xe</N> <V>chạy</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại.</answer>
+	</test>
+		<test>
+		<question><ano><N>dải_phân_cách</N> <E>trên</E> <N>đường_bộ</N></ano> <qt><V>có</V> <L>những</L> <N>loại</N> <P>nào</P></qt> </question>
+		<answer>loại cố định. loại di động.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>đường, cầu đường bộ. hầm đường bộ, bến phà đường bộ.</answer>
+	</test>
+	<test>
+		<question><ano><N>thời_gian</N> <V>làm_việc</V> <E>trong</E> <M>một</M> <N>ngày</N></ano> <E>của</E> <N>người</N> <V>lái_xe</V> <R>được</R> <qt><N>quy_định</N> <V>là</V> <P>bao_nhiêu</P> </question>
+		<answer>không quá 10 giờ và không được lái xe liên tục quá 4 giờ.</answer>
+	</test>
+		<test>
+		<question><ano><N>người</N> <V>điều_khiển</V> <N>phương_tiện</N> <V>tham_gia</V> <N>giao_thông</N></ano> <V>gồm</V> <qt><L>những</L> <N>đối_tượng</N> <P>nào</P></qt> </question>
+		<answer>người điều khiển xe cơ giới, người điều khiển xe thô sơ. người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <V>về</V> <ano><N>văn_hóa</N> <N>giao_thông</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông. là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.</answer>
+	</test>
+		<test>
+		<question><N>việc</N> <ano><V>sản_xuất</V></ano> <ano><,>,</,> <V>mua_bán</V></ano> <ano><,>,</,> <V>sử_dụng</V> <N>biển_số</N> <N>xe_cơ_giới</N><,>,</,> <N>xe_máy</N></ano> <A>chuyên_dùng</A> <V>được</V> <N>quy_định</N> <qt><X>như_thế_nào</X></qt> <E>trong</E> <N>luật</N> <N>giao_thông</N> <N>đường_bộ</N> </question>
+		<answer>nghiêm cấm sản xuất, mua bán, sử dụng trái phép.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>yêu_cầu</N> <E>của</E> <N>kính</N> <V>chắn</V> <N>gió</N></ano> <tv><N>ô_tô</N></tv> </question>
+		<answer>là loại kính an toàn, kính nhiều lớp, đúng quy cách, không rạn nứt, đảm bảo hình ảnh quan sát rõ ràng, không bị méo mó.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>đường_phố</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>trách_nhiệm</N> <A>cơ_bản</A> <E>của</E> <L>các</L> <N>tổ_chức</N> <E>trong</E> <N>việc</N> <V>quản_lý</V><,>,</,> <V>giáo_dục</V> <CC>và</CC> <V>nâng</V> <A>cao</A> <N>đạo_đức</N> <N>nghề_nghiệp</N></ano> <E>của</E> <N>người</N> <N>lái_xe</N> </question>
+		<answer>tuyên truyền phổ biến các quy định của pháp luật đặc biệt là các quy định của luật giao thông đường bộ, các văn bản quản lý về vận tải để người lái xe biết và thực hiện; thường xuyên kiểm tra giám sát người lái xe  thực hiện các nội quy, quy chế của đơn vị. hiểu tâm lý, nguyện vọng của người lái xe, động viên họ trong lúc khó khăn, thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động, quan tâm đến đời sống vật chất, tinh thần của họ, có chế độ thưởng phạt nghiêm minh giúp họ hoàn thành nhiệm vụ.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>dải_phân_cách</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><V>yêu_cầu</V> <E>về</E> <N>an_toàn</N> <N>kỹ_thuật</N> <E>đối_với</E> <N>bánh_xe</N> <V>lắp</V></ano> <E>cho</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>đúng số lượng, đủ áp suất, đúng cỡ lốp của nhà sản xuất hoặc tài liệu kỹ thuật quy định, lốp bánh dẫn hướng hai bên cùng kiểu hoa lốp, chiều cao hoa lốp đồng đều, không sử dụng lốp đắp, lốp không mòn đến đầu chỉ báo độ mòn của nhà sản xuất, không nứt, vỡ, phồng rộp làm hở lớp sợi mành. vành, đĩa vành đúng kiểu loại, không rạn, nứt, cong vênh; bánh xe quay trơn, không bị bó kẹp hoặc cọ sát vào phần khác, moay ơ không bị rơ; lắp đặt chắc chắn, đủ các chi tiết kẹp chặt và phòng lỏng.</answer>
+	</test>
+	<test>
+		<question><ano><N>âm_lượng</N> <E>của</E> <N>còi</N> <N>điện</N></ano> <V>lắp</V> <E>cho</E> <tv><N>ô_tô</N></tv> <N>(</N> <V>đo</V> <E>ở</E> <N>độ</N> <A>cao</A> <M>1,2</M> <Nu>m</Nu> <E>với</E> <N>khoảng_cách</N> <M>2</M> <Nu>m</Nu> <V>tính_từ</V> <N>đầu</N> <qt><N>xe</N> <M>)</M> <V>là</V></qt> <P>bao_nhiêu</P> </question>
+		<answer>không nhỏ hơn 90 db (a), không lớn hơn 115 db (a).</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><V>yêu_cầu</V> <E>về</E> <N>an_toàn</N> <N>kỹ_thuật</N> <E>đối_với</E> <N>bánh_xe</N> <V>lắp</V></ano> <E>cho</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>đúng số lượng, đủ áp suất, đúng cỡ lốp của nhà sản xuất hoặc tài liệu kỹ thuật quy định, lốp bánh dẫn hướng hai bên cùng kiểu hoa lốp, chiều cao hoa lốp đồng đều, không sử dụng lốp đắp, lốp không mòn đến đầu chỉ báo độ mòn của nhà sản xuất, không nứt, vỡ, phồng rộp làm hở lớp sợi mành. vành, đĩa vành đúng kiểu loại, không rạn, nứt, cong vênh; bánh xe quay trơn, không bị bó kẹp hoặc cọ sát vào phần khác, moay ơ không bị rơ; lắp đặt chắc chắn, đủ các chi tiết kẹp chặt và phòng lỏng.</answer>
+	</test>
+	<test>
+		<question><ano><N>âm_lượng</N> <E>của</E> <N>còi</N> <N>điện</N></ano> <V>lắp</V> <E>cho</E> <tv><N>ô_tô</N></tv> <N>(</N> <V>đo</V> <E>ở</E> <N>độ</N> <A>cao</A> <M>1,2</M> <Nu>m</Nu> <E>với</E> <N>khoảng_cách</N> <M>2</M> <Nu>m</Nu> <V>tính_từ</V> <N>đầu</N> <qt><N>xe</N> <M>)</M> <V>là</V></qt> <P>bao_nhiêu</P> </question>
+		<answer>không nhỏ hơn 90 db (a), không lớn hơn 115 db (a).</answer>
+	</test>
+		<test>
+		<question><ano><V>bảo_đảm</V> <N>trật_tự</N><,>,</,> <N>an_toàn</N> <N>giao_thông</N> <N>đường_bộ</N></ano> <qt><V>là</V> <N>trách_nhiệm</N> <E>của</E> <P>ai</P></qt> </question>
+		<answer>là trách nhiệm của cơ quan, tổ chức, cá nhân.</answer>
+	</test>
+		<test>
+		<question><N>khái_niệm</N> <ano><N>đường_cao_tốc</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.</answer>
+	</test>
+		<test>
+		<question><N>mục_đích</N> <ano><V>bảo_dưỡng</V> <A>thường_xuyên</A></ano> <E>đối_với</E> <tv><N>ô_tô</N></tv> <qt><V>có</V> <N>tác_dụng</N> <P>gì</P></qt> </question>
+		<answer>bảo dưỡng thường xuyên làm cho ô tô luôn luôn có tính năng kỹ thuật tốt, giảm cường độ hao mòn của các chi tiết. ngăn ngừa và phát hiện kịp thời các hư hỏng và sai lệch kỹ thuật để khắc phục, giữ gìn được hình thức bên ngoài.</answer>
+	</test>
+		<test>
+		<question><ano><V>vạch</V> <N>kẻ</N> <V>đường_được</V></ano> <qt><V>hiểu</V> <P>thế_nào</P></qt> <V>là</V> <A>đúng</A> </question>
+		<answer>vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.</answer>
+	</test>
+		<test>
+		<question><N>khái_niệm</N> <ano><N>đường</N> <T>chính</T></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>đường chính là đường bảo đảm giao thông chủ yếu trong khu vực.</answer>
+	</test>
+		<test>
+		<question><ano><V>vạch</V> <N>kẻ</N> <V>đường_được</V></ano> <qt><V>hiểu</V> <P>thế_nào</P></qt> <V>là</V> <A>đúng</A> </question>
+		<answer>vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại. vạch kẻ đường là vạch chỉ sự phân biệt vị trí dừng, đỗ trên đường.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><V>yêu_cầu</V> <A>an_toàn</A> <E>về</E> <N>kỹ_thuật</N> <E>với</E> <N>dây</N> <N>đai</N> <A>an_toàn</A> <V>lắp</V> <E>trên</E></ano> <tv><N>ô_tô</N></tv> </question>
+		<answer>đủ số lượng, lắp đặt chắc chắn không bị rách, đứt, khoá cài đóng mở nhẹ nhàng, không tự mở, không bị kẹt; kéo ra thu vào dễ dàng, cơ cấu hãm giữ chặt dây khi giật dây đột ngột.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><V>yêu_cầu</V> <A>an_toàn</A> <E>về</E> <N>kỹ_thuật</N> <E>với</E> <V>gạt</V> <N>nước</N> <V>lắp</V> <E>trên</E></ano> <tv><N>ô_tô</N></tv> </question>
+		<answer>đầy đủ số lượng, lắp đặt chắc chắn, hoạt động bình thường. lưỡi gạt không quá mòn, diện tích quét đảm bảo tầm nhìn của người lái.</answer>
+	</test>
+		<test>
+		<question><ano><V>vận_tải</V> <N>đa</N> <N>phương_thức</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là việc vận chuyển hàng hóa từ địa điểm nhận hàng đến địa điểm trả hàng cho người nhận hàng bằng ít nhất hai phương thức vận tải, trong đó có phương thức vận tải bằng đường bộ trên cơ sở một hợp đồng vận tải đa phương thức.</answer>
+	</test>
+		<test>
+		<question><ano><N>đường_bộ</N></ano> <l><E>trong</E> <N>khu_vực</N> <N>đông</N> <N>dân_cư</N></l> <qt><V>gồm</V> <L>những</L> <N>đường</N> <P>nào</P></qt> </question>
+		<answer>đường bộ nằm trong khu vực nội thành phố, nội thị xã và những đoạn đường bộ được xác định từ vị trí có hiệu lực của biển báo hiệu bắt đầu khu đông dân cư’ đến vị trí có hiệu lực của biển báo hiệu hết khu đông dân cư.</answer>
+	</test>
+		<test>
+		<question><ano><N>niên_hạn</N> <V>sử_dụng</V></ano> <E>của</E> <tv><N>ô_tô</N> <N>tải</N></tv> <M>(</M> <N>tính_từ</N> <N>năm</N> <V>bắt_đầu</V> <V>sản_xuất</V> <qt><N>)</N> <V>là</V> <P>bao_nhiêu</P></qt> <N>năm</N> </question>
+		<answer>25 năm.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>đường</N> <V>ưu_tiên</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.</answer>
+	</test>
+		<test>
+		<question><qt><P>thế_nào</P> <V>là</V></qt> <ano><N>động_cơ</N> <M>4</M> <N>kỳ</N></ano> </question>
+		<answer>là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít-tông thực hiện 4 (bốn) hành trình, trong đó có một lần sinh công.</answer>
+	</test>
+	<test>
+		<question><qt><P>thế_nào</P> <V>là</V></qt> <ano><N>động_cơ</N> <M>2</M> <N>kỳ</N></ano> </question>
+		<answer>là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít-tông thực hiện 2 (hai) hành trình, trong đó có một lần sinh công.</answer>
+	</test>
+		<test>
+		<question><N>hoạt_động</N> <ano><V>vận_tải</V> <N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>hoạt động vận tải đường bộ gồm hoạt động vận tải không kinh doanh và hoạt động kinh doanh vận tải đường bộ; kinh doanh vận tải đường bộ là ngầnh nghề kinh doanh có điều kiện theo quy định của pháp luật.</answer>
+	</test>
+	<test>
+		<question><ano><N>hàng</N> <N>siêu_trường</N><,>,</,> <V>siêu_trọng</V></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là hàng có kích thước hoặc trọng lượng vượt quá giới hạn quy định nhưng không thể tháo rời ra được.</answer>
+	</test>
+		<test>
+		<question><if4><N>ban_đêm</N></if4> <tv><N>xe_cơ_giới</N></tv> <V>đi</V> <A>ngược</A> <N>chiều</N> <V>gặp</V> <N>nhau</N> <ano><,>,</,> <N>đèn_chiếu</N> <N>sáng</N></ano> <V>phải</V> <V>được</V> <V>sử_dụng</V> <qt><X>như_thế_nào</X></qt> </question>
+		<answer>phải chuyển từ đèn chiếu xa sang đèn chiếu gần.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <E>của</E> <N>động_cơ</N></ano> <tv><N>ô_tô</N></tv> </question>
+		<answer>khi làm việc, nhiệt năng được biến đổi thành cơ năng và truyền đến các bánh xe chủ động tạo ra chuyển động tịnh tiến cho ô tô.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>hệ_thống</N> <V>truyền</V> <N>lực</N></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>dùng để truyền mô-men quay từ động cơ tới các bánh xe chủ động.</answer>
+	</test>
+		<test>
+		<question><ano><N>phương_tiện</N> <N>giao_thông</N> <N>đường_bộ</N></ano> <qt><V>gồm</V> <L>những</L> <N>loại</N> <P>nào</P></qt> </question>
+		<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+	</test>
+		<test>
+		<question><ano><N>niên_hạn</N> <V>sử_dụng</V></ano> <E>của</E> <tv><N>ô_tô</N></tv> <if1><V>chở</V> <N>người</N> <E>trên</E> <M>9</M> <N>chỗ</N> <V>ngồi</V></if1> <M>(</M> <N>tính_từ</N> <N>năm</N> <V>bắt_đầu</V> <V>sản_xuất</V> <qt><N>)</N> <V>là</V> <P>bao_nhiêu</P></qt> <N>năm</N> </question>
+		<answer>20 năm.</answer>
+	</test>
+		<test>
+		<question><N>khái_niệm</N> <ano><N>phương_tiện</N> <N>giao_thông</N> <N>cơ_giới</N> <N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <P>thế_nào</P></qt> <V>là</V> <A>đúng</A> </question>
+		<answer>gồm ô tô; máy kéo; rơ-moóc hoặc sơ-mi rơ-moóc được kéo bởi ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>ly</N> <A>hợp</A></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>dùng để truyền hoặc ngắt truyền động từ động cơ đến hộp số của ô tô trong những trường hợp cần thiết.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>hộp_số</N></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>truyền và thay đổi mô-men xoắn từ động cơ đến bánh xe chủ động, cắt truyền động từ động cơ đến bánh xe chủ động, đảm bảo cho ô tô chuyển động lùi.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>hệ_thống</N> <N>lái</N></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>dùng để thay đổi hướng chuyển động hoặc giữ cho ô tô chuyển động ổn định theo hướng xác định.</answer>
+	</test>
+		<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>ly</N> <A>hợp</A></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>dùng để truyền hoặc ngắt truyền động từ động cơ đến hộp số của ô tô trong những trường hợp cần thiết.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>hộp_số</N></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>truyền và thay đổi mô-men xoắn từ động cơ đến bánh xe chủ động, cắt truyền động từ động cơ đến bánh xe chủ động, đảm bảo cho ô tô chuyển động lùi.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>hệ_thống</N> <N>lái</N></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>dùng để thay đổi hướng chuyển động hoặc giữ cho ô tô chuyển động ổn định theo hướng xác định.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><N>người</N> <V>điều_khiển</V> <N>giao_thông</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông.</answer>
+	</test>
+		<test>
+		<question><qt><N>cơ_quan</N> <P>nào</P></qt> <N>quy_định</N> <ano><L>các</L> <Nc>đoạn</Nc> <N>đường</N> <V>cấm</V> <V>đi</V></ano> <ano><,>,</,> <N>đường</N> <V>đi</V> <V>một_chiều</V></ano> <ano><,>,</,> <N>nơi</N> <V>cấm</V> <V>dừng</V><,>,</,> <V>cấm</V> <V>đỗ</V><,>,</,> <V>cấm</V> <V>quay</V> <N>đầu</N> <N>xe</N><,>,</,> <V>lắp_đặt</V> <V>báo_hiệu</V> <N>đường_bộ</N></ano> <V>thuộc</V> <N>địa_phương</N> <V>quản_lý</V> </question>
+		<answer>Ủy ban nhân dân cấp tỉnh.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><V>dừng</V> <N>xe</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> <N>quy_tắc</N> <N>giao_thông</N> </question>
+		<answer>dừng xe là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.</answer>
+	</test>
+	<test>
+		<question><N>khái_niệm</N> <ano><V>đỗ</V> <N>xe</N></ano> <qt><V>được</V> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> <N>quy_tắc</N> <N>giao_thông</N> </question>
+		<answer>là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.</answer>
+	</test>
+		<test>
+		<question><N>khái_niệm</N> <ano><N>xe</N> <R>quá</R> <N>tải_trọng</N></ano> <E>của</E> <N>đường_bộ</N> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là xe có tổng trọng lượng vượt quá khả năng chịu tải của cầu hoặc có tải trọng trục xe vượt quá khả năng chịu tải của đường.</answer>
+	</test>
+		<test>
+		<question><N>khái_niệm</N> <ano><R>hàng</R> <A>nguy_hiểm</A></ano> <qt><R>được</R> <V>hiểu</V> <X>như_thế</X> <V>nào_là</V></qt> <A>đúng</A> </question>
+		<answer>là hàng hóa có chứa các chất nguy hiểm, khi chở trên đường có khả năng nguy hại tới tính mạng, sức khoẻ con gười, môi trường, an toàn và an ninh quốc gia.</answer>
+	</test>
+		<test>
+		<question><N>việc</N> <ano><V>sát_hạch</V> <N>cấp</N> <N>giấy_phép</N> <V>lái_xe</V></ano> <tv><N>ô_tô</N></tv> <qt><V>phải</V> <V>thực_hiện</V> <E>ở</E> <P>đâu</P> <CC>và</CC> <X>như_thế_nào</X></qt> </question>
+		<answer>tại các trung tâm sát hạch lái xe có đủ điều kiện và phải bảo đảm công khai, minh bạch.</answer>
+	</test>
+		<test>
+		<question><N>khi</N> <if3><V>lái_xe</V> <E>trên</E> <N>đường</N> <A>vắng</A> <C>mà</C> <V>cảm_thấy</V> <A>buồn_ngủ</A></if3><,>,</,> <N>người</N> <V>lái_xe</V> <C>nên</C> <V>chọn</V> <N>cách</N> <ano><V>xử_lý</V> <X>như_thế_nào</X></ano> <qt><V>cho</V> <V>phù_hợp</V> </question>
+		<answer>dừng xe và nghỉ cho đến khi hết buồn ngủ.</answer>
+	</test>
+		<test>
+		<question><N>khái_niệm</N> <ano><N>phương_tiện</N> <N>giao_thông</N> <A>thô_sơ</A> <N>đường_bộ</N></ano> <qt><V>được</V> <V>hiểu</V> <P>thế_nào</P></qt> <V>là</V> <A>đúng</A> </question>
+		<answer>gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.</answer>
+	</test>
+	<test>
+		<question><qt><R>hãy</R> <V>nêu</V></qt> <ano><N>công_dụng</N> <N>hệ_thống</N> <N>phanh</N></ano> <E>của</E> <tv><N>ô_tô</N></tv> </question>
+		<answer>dùng để giảm tốc độ, dừng chuyển động của ô tô và giữ cho ô tô đứng yên trên dốc.</answer>
+	</test>
+	<test>
+		<question><tp><N>người</N> <V>tham_gia</V> <N>giao_thông</N> <N>đường_bộ</N></tp> <V>gồm</V> <qt><L>những</L> <N>đối_tượng</N> <P>nào</P></qt> </question>
+		<answer>người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ. người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+	</test>
+</root>

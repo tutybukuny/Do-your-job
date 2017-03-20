@@ -1,0 +1,73 @@
+		<question><ano>đường_bộ/N</ano> <l>trong/E khu_vực/N đông/N dân_cư/N</l> <qt>gồm/V những/L đường/N nào/P</qt></question>
+		<question>khái_niệm/N <ano>đường_bộ/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>vạch/N kẻ/V đường/N</ano> <qt>được/R hiểu/V thế_nào/P</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>phần/N đường/N xe/N chạy/V</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>làn_đường/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>đường_phố/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>dải_phân_cách/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>đường/N ưu_tiên/V</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>phương_tiện/N giao_thông/N đường_bộ/N</ano> <qt>gồm/V những/L loại/N nào/P</qt></question>
+		<question>khái_niệm/N <ano>phương_tiện/N giao_thông/N cơ_giới/N đường_bộ/N</ano> <qt>được/R hiểu/V thế_nào/P</qt> là/V đúng/A</question>
+		<question><ano>phương_tiện/N tham_gia/V giao_thông/N đường_bộ/N</ano> <qt>gồm/V những/L loại/N nào/P</qt></question>
+		<question><ano>người/N tham_gia/V giao_thông/N đường_bộ/N</ano> <qt>gồm/V những/L đối_tượng/N nào/P</qt></question>
+		<question>khái_niệm/N <ano>người/N điều_khiển/V giao_thông/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>làn_đường/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>khổ/A giới_hạn/N của/E đường_bộ/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khi/N <ano>sơ_cứu/V ban_đầu/N cho/E người/N bị/V tai_nạn/N giao_thông/N</ano> đường_bộ/N không/R còn/V hô_hấp/N ,/, người/N lái_xe/N và/CC người/N <if3>có_mặt/V tại/E hiện_trường/N</if3> vụ/N tai_nạn/N <qt>phải/V thực_hiện/V các/L công_việc/N gì/P</qt></question>
+		<question>trong/E <ano>hoạt_động/N vận_tải/V đường_bộ/N</ano> ,/, <qt>các/L hành_vi/N nào/P</qt> sau/E đây/P <qt>bị/V nghiêm_cấm/V</qt></question>
+		<question>khái_niệm/N <ano>công_trình/N đường_bộ/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>phần/N đường/N xe/N chạy/V</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>dải_phân_cách/N trên/A đường_bộ/N</ano> <qt>có/V những/L loại/N nào/P</qt></question>
+		<question>khái_niệm/N <ano>đường_bộ/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>thời_gian/N làm_việc/V trong/E một/M ngày/N</ano> của/E người/N lái_xe/N <qt>được/V quy_định/N là/V bao_nhiêu/P</qt></question>
+		<question><ano>người/N điều_khiển/V phương_tiện/N tham_gia/V giao_thông/N</ano> gồm/V <qt>những/L đối_tượng/N nào/P</qt></question>
+		<question>khái_niệm/N về/V <ano>văn_hóa/N giao_thông/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>việc/N <ano>sản_xuất/V</ano> ,/, <ano>mua_bán/V</ano> ,/, <ano>sử_dụng/V biển_số/N xe_cơ_giới/N ,/, xe_máy/N</ano> chuyên_dùng/V được/R quy_định/N <qt>như_thế_nào/X</qt> trong/E luật/N giao_thông/N đường_bộ/N</question>
+		<question><qt>hãy/R nêu/V</qt> <ano>yêu_cầu/N của/E kính/N chắn/V gió/N</ano> <tv>ô_tô/N</tv></question>
+		<question>khái_niệm/N <ano>đường_phố/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><qt>hãy/R nêu/V</qt> <ano>trách_nhiệm/N cơ_bản/A của/E các/L tổ_chức/N trong/E việc/N quản_lý/V ,/, giáo_dục/V và/CC nâng/V cao/A đạo_đức/N nghề_nghiệp/N</ano> của/E người/N lái_xe/N</question>
+		<question>khái_niệm/N <ano>dải_phân_cách/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><qt>hãy/R nêu/V</qt> <ano>yêu_cầu/V về/E an_toàn/N kỹ_thuật/N đối_với/E bánh_xe/N lắp/V</ano> cho/E <tv>ô_tô/N</tv></question>
+		<question><ano>âm_lượng/N của/E còi/N điện/N</ano> lắp/V cho/E <tv>ô_tô/N</tv> (/N đo/V ở/E độ/N cao/A 1,2/M m/Nu với/E khoảng_cách/N 2/M m/Nu tính_từ/V đầu/N xe/N )/M <qt>là/V bao_nhiêu/P</qt></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>yêu_cầu/V về/E an_toàn/N kỹ_thuật/N đối_với/E bánh_xe/N lắp/V</ano> cho/E <tv>ô_tô/N</tv></question>
+		<question><ano>âm_lượng/N của/E còi/N điện/N</ano> lắp/V cho/E <tv>ô_tô/N</tv> (/N đo/V ở/E độ/N cao/A 1,2/M m/Nu với/E khoảng_cách/N 2/M m/Nu tính_từ/V đầu/N xe/N )/M <qt>là/V bao_nhiêu/P</qt></question>
+		<question><ano>bảo_đảm/V trật_tự/N ,/, an_toàn/N giao_thông/N đường_bộ/N</ano> <qt>là/C trách_nhiệm/N của/E ai/P</qt></question>
+		<question>khái_niệm/N <ano>đường_cao_tốc/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>mục_đích/N <ano>bảo_dưỡng/V thường_xuyên/A</ano> đối_với/E <tv>ô_tô/N</tv> <qt>có/V tác_dụng/N gì/P</qt></question>
+		<question><ano>vạch/N kẻ/V đường/N</ano> <qt>được/R hiểu/V thế_nào/P</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>đường/N chính/T</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>vạch/N kẻ/V đường/N</ano> <qt>được/R hiểu/V thế_nào/P</qt> là/V đúng/A</question>
+		<question><qt>hãy/R nêu/V</qt> <ano>yêu_cầu/V an_toàn/A về/E kỹ_thuật/N với/E dây/N đai/N an_toàn/A lắp/V trên/E</ano> <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>yêu_cầu/V an_toàn/A về/E kỹ_thuật/N với/E gạt/V nước/N lắp/V trên/E</ano> <tv>ô_tô/N</tv></question>
+		<question><ano>vận_tải/V đa/N phương_thức/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>đường_bộ/N</ano> <l>trong/E khu_vực/N đông/N dân_cư/N</l> <qt>gồm/V những/L đường/N nào/P</qt></question>
+		<question><ano>niên_hạn/N sử_dụng/V</ano> của/E <tv>ô_tô/N tải/N</tv> (/M tính_từ/N năm/N bắt_đầu/V sản_xuất/V )/N là/V <qt>bao_nhiêu/P năm/N</qt></question>
+		<question>khái_niệm/N <ano>đường/N ưu_tiên/V</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><qt>thế_nào/P là/V</qt> <ano>động_cơ/N 4/M kỳ/N</ano></question>
+		<question><qt>thế_nào/P là/V</qt> <ano>động_cơ/N 2/M kỳ/N</ano></question>
+		<question>hoạt_động/V <ano>vận_tải/V đường_bộ/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><ano>hàng/N siêu_trường/N ,/, siêu_trọng/V</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><if4>ban_đêm/N</if4> <tv>xe_cơ_giới/N</tv> đi/V ngược/A chiều/N gặp/V nhau/N ,/, <ano>đèn_chiếu/A sáng/N</ano> phải/V được/V sử_dụng/V <qt>như_thế_nào/X</qt></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N của/E động_cơ/N</ano> <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N hệ_thống/N truyền/V lực/N</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><ano>phương_tiện/N giao_thông/N đường_bộ/N</ano> <qt>gồm/V những/L loại/N nào/P</qt></question>
+		<question><ano>niên_hạn/N sử_dụng/V</ano> của/E <tv>ô_tô/N</tv> <if1>chở/V người/N trên/E 9/M chỗ/N ngồi/V</if1> (/M tính_từ/N năm/N bắt_đầu/V sản_xuất/V )/N là/V <qt>bao_nhiêu/P năm/N</qt></question>
+		<question>khái_niệm/N <ano>phương_tiện/N giao_thông/N cơ_giới/N đường_bộ/N</ano> <qt>được/R hiểu/V thế_nào/P</qt> là/V đúng/A</question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N ly/N hợp/V</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N hộp_số/N</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N hệ_thống/N lái/N</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N ly/N hợp/V</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N hộp_số/N</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N hệ_thống/N lái/N</ano> của/E <tv>ô_tô/N</tv></question>
+		<question>khái_niệm/N <ano>người/N điều_khiển/V giao_thông/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question><qt>cơ_quan/N nào/P</qt> quy_định/N <ano>các/L đoạn/Nc đường/N cấm/V đi/V</ano> ,/, <ano>đường/N đi/V một_chiều/V</ano> ,/, <ano>nơi/N cấm/V dừng/V ,/, cấm/V đỗ/V ,/, cấm/V quay/V đầu/N xe/N ,/, lắp_đặt/V báo_hiệu/V đường_bộ/N</ano> thuộc/V địa_phương/N quản_lý/V</question>
+		<question>khái_niệm/N <ano>dừng/V xe/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/C đúng/A quy_tắc/N giao_thông/N</question>
+		<question>khái_niệm/N <ano>đỗ/V xe/N</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/C đúng/A quy_tắc/N giao_thông/N</question>
+		<question>khái_niệm/N <ano>xe/N quá/V tải_trọng/N</ano> của/E đường_bộ/N <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>khái_niệm/N <ano>hàng/R nguy_hiểm/A</ano> <qt>được/R hiểu/V như_thế_nào/X</qt> là/V đúng/A</question>
+		<question>việc/N <ano>sát_hạch/N cấp/V giấy_phép/N lái_xe/N</ano> <tv>ô_tô/N</tv> phải/V thực_hiện/V <qt>ở/E đâu/P</qt></question>
+		<question>việc/N <ano>sát_hạch/N cấp/V giấy_phép/N lái_xe/N</ano> <tv>ô_tô/N</tv> phải/V thực_hiện/V <qt>như_thế_nào/X</qt></question>
+		<question>khi/N <if3>lái_xe/N trên/E đường/N vắng/A mà/C cảm_thấy/V buồn_ngủ/A</if3> ,/, người/N lái_xe/N nên/V chọn/V <ano>cách/N xử_lý/V</ano> <qt>như_thế_nào/X cho/V phù_hợp/V</qt></question>
+		<question>khái_niệm/N <ano>phương_tiện/N giao_thông/N thô_sơ/A đường_bộ/N</ano> <qt>được/R hiểu/V thế_nào/P</qt> là/V đúng/A</question>
+		<question><qt>hãy/R nêu/V</qt> <ano>công_dụng/N hệ_thống/N phanh/N</ano> của/E <tv>ô_tô/N</tv></question>
+		<question><tp>người/N tham_gia/V giao_thông/N đường_bộ/N</tp> gồm/V <qt>những/L đối_tượng/N nào/P</qt></question>

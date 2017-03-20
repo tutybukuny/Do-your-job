@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question><V>có</V> <qt><V>cần</V></qt> <if3><V>mang</V> <E>theo</E> <N>giấy_phép</N> <N>lái_xe</N></if3> <N>khi</N> <if3><V>đi</V> <N>xe</N></if3> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><a><V>điều_khiển</V> <N>xe_cơ_giới</N></a> <qt><V>có</V> <V>cần</V></qt> <V>phải</V> <V>có</V> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N></dl> <qt><V>có</V> <V>cần</V></qt> <N>lúc</N> <V>đi</V> <N>xe</N> <C>hay</C> <qt><R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3><R>chưa</R> <V>có</V> <N>giấy_phép</N> <N>lái_xe</N></if3> <X>thì_có</X><qt><V>được</V> <V>đi</V> <N>xe</N> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><V>sử_dụng</V> <tv><N>xe_máy</N></tv> <C>nhưng</C> <if3><R>chưa</R> <V>có</V> <E>bằng</E> <N>lái_xe</N></if3> <X>thì_có</X> <qt><V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>a</N></dl> <M>1</M> <V>cấp</V> <E>cho</E> <N>người</N> <qt><V>đi</V> <Nc>loại</Nc> <N>xe</N></qt> <P>nào</P> </question>
+		<answer>xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>a</N></dl> <M>2</M> <V>cấp</V> <E>cho</E> <N>người</N> <qt><V>đi</V> <Nc>loại</Nc> <N>xe</N></qt> <P>nào</P> </question>
+		<answer>xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng a1</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>a</N></dl> <M>3</M> <V>cấp</V> <E>cho</E> <N>người</N> <qt><V>đi</V> <Nc>loại</Nc> <N>xe</N></qt> <P>nào</P> </question>
+		<answer>xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng a1 và các xe tương tự</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>a</N></dl> <M>4</M> <V>cấp</V> <E>cho</E> <N>người</N> <qt><V>đi</V> <Nc>loại</Nc> <N>xe</N></qt> <P>nào</P> </question>
+		<answer>hạng a4 cấp cho người lái máy kéo có trọng tải đến 1.000 kg</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <M>1</M> <V>cấp</V> <E>cho</E> <N>người</N> <qt><V>đi</V> <Nc>loại</Nc> <N>xe</N></qt> <P>nào</P> </question>
+		<answer>hạng b1 cấp cho người không hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <M>2</M> <V>cấp</V> <E>cho</E> <N>người</N> <qt><V>đi</V> <Nc>loại</Nc> <N>xe</N></qt> <P>nào</P> </question>
+		<answer>hạng b2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <V>cấp</V> <E>cho</E> <N>người</N> <V>đi</V> <qt><Nc>loại</Nc> <N>xe</N> <P>nào</P></qt> </question>
+		<answer>hạng c cấp cho người lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng b1, b2;</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <V>cấp</V> <E>cho</E> <N>người</N> <V>đi</V> <qt><Nc>loại</Nc> <N>xe</N> <P>nào</P></qt> </question>
+		<answer>hạng d cấp cho người lái xe ô tô chở người từ 10 đến 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng b1, b2, c;</answer>
+	</test>
+	<test>
+		<question><dl><N>giấy_phép</N> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <N>cấp</N> <E>cho</E> <N>người</N> <V>đi</V> <qt><Nc>loại</Nc> <N>xe</N> <P>nào</P></qt> </question>
+		<answer>hạng e cấp cho người lái xe ô tô chở người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng b1, b2, c, d</answer>
+	</test>
+	<test>
+		<question><if3><M>16</M> <N>tuổi</N></if3> <C>thì</C> <qt><R>được</R> <V>lái_xe</V> <P>gì</P></qt> </question>
+		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3</answer>
+	</test>
+	<test>
+		<question><N>trẻ_em</N> <if3><M>15</M> <N>tuổi</N></if3> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <N>giao_thông</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><N>trẻ_em</N> <if3><M>15</M> <N>tuổi</N></if3> <V>đi</V> <tv><N>xe_máy</N></tv> <qt><V>có</V> <V>bị</V> <V>vi_phạm</V> <N>luật</N> <R>không</R></qt> </question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><A>trẻ</A> <if3><M>17</M> <N>tuổi</N></if3> <qt><V>có</V> <V>được</V></qt> <V>lái</V> <tv><N>xe_gắn_máy</N></tv> <V>có</V> <if1><N>dung_tích</N> <N>xi</N><->-</-> <N>lanh</N> <M>70</M></if1> <qt><N>cm3</N></qt> <R>không</R> </question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><qt><P>bao_nhiêu</P> <N>tuổi</N></qt> <C>thì</C> <V>được</V> <V>đi</V> <tv><N>xe_máy</N></tv> </question>
+		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3; người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên </answer>
+	</test>
+	<test>
+		<question><if3><M>18</M> <N>tuổi</N></if3> <C>thì</C> <qt><V>được</V> <V>lái</V> <L>những</L> <Nc>loại</Nc> <N>xe</N> <P>gì</P></qt> </question>
+		<answer>người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi</answer>
+	</test>
+	<test>
+		<question><qt><P>bao_nhiêu</P> <N>tuổi</N></qt> <C>thì</C> <a><R>được</R> <V>lái_xe</V> <N>ô_tô</N> <N>tải</N></a> </question>
+		<answer>18 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <if1><M>9</M> <N>chỗ</N> <V>ngồi</V></if1> <V>phải</V> <A>đủ</A> <qt><P>bao_nhiêu</P> <N>tuổi</N></qt> </question>
+		<answer>18 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <if1><M>10</M> <E>đến</E> <M>30</M> <N>chỗ</N> <V>ngồi</V></if1> <V>phải</V> <A>đủ</A> <qt><P>bao_nhiêu</P> <N>tuổi</N></qt> </question>
+		<answer>24 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><qt><P>bao_nhiêu</P> <N>tuổi</N></qt> <C>thì</C> <R>được</R> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <if1><E>trên</E> <M>30</M> <N>chỗ</N> <V>ngồi</V></if1> </question>
+		<answer>27 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><if3><N>tuổi</N> <A>tối_đa</A></if3> <E>của</E> <N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <if1><E>trên</E> <M>30</M> <N>chỗ</N> <V>ngồi</V></if1> <V>là</V> <qt><P>bao_nhiêu</P></qt> </question>
+		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+	</test>
+	<test>
+		<question><N>nam</N> <qt><P>bao_nhiêu</P> <N>tuổi</N></qt> <C>thì</C> <a><R>không</R> <V>được</V> <V>lái_xe</V> <N>ô_tô</N></a> <if1><E>trên</E> <M>30</M> <N>chỗ</N> <V>ngồi</V></if1> </question>
+		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+	</test>
+	<test>
+		<question><N>nữ</N> <qt><P>bao_nhiêu</P> <N>tuổi</N></qt> <C>thì</C> <a><R>không</R> <V>được</V> <V>lái_xe</V> <N>ô_tô</N></a> <if1><E>trên</E> <M>30</M> <N>chỗ</N> <V>ngồi</V></if1> </question>
+		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+	</test>
+	<test>
+		<question><qt><P>bao_nhiêu</P> <N>tuổi</N></qt> <C>thì</C> <V>được</V> <if3><V>thi</V> <E>bằng</E> <N>lái_xe</N></if3> </question>
+		<answer>18 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <C>thì</C> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <a><R>lên</R></a> <N>b</N> <M>1</M> </question>
+		<answer>thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><N>lái_xe</N> <V>được</V> <M>6</M></if3> <N>tháng</N> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><V>lái_xe</V> <R>được</R> <M>1</M> <N>năm</N> <CC>và</CC> <M>9.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><V>lái_xe</V> <R>được</R> <M>2</M> <N>năm</N> <CC>và</CC> <M>9.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><V>lái_xe</V> <R>được</R> <M>2</M> <N>năm</N> <CC>và</CC> <M>13.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><V>lái_xe</V> <R>được</R> <M>15</M> <N>tháng</N> <CC>và</CC> <M>13.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><V>lái_xe</V> <R>được</R> <M>23</M> <N>tháng</N> <CC>và</CC> <M>11.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N> <M>1</M> <N>số</N> <A>tự_động</A></dl> <if3><N>lái_xe</N> <V>được</V> <M>13.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>1</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>1</M> <E>lên</E></a> <qt><N>b</N> <M>2</M></qt> <V>là</V> <P>gì</P> </question>
+		<answer>thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <V>được</V> <M>13.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <R>được</R> <M>2</M> <N>năm</N> <CC>và</CC> <M>13.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <V>được</V> <M>7</M> <N>tháng</N> <CC>và</CC> <M>13.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <V>được</V> <M>7</M> <N>tháng</N> <CC>và</CC> <M>9.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <V>được</V> <M>24</M> <N>tháng</N> <CC>và</CC> <M>9.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <V>được</V> <M>24</M> <N>tháng</N> <CC>và</CC> <M>12.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>1</M> <N>lái_xe</N> <V>được</V> <M>8</M></if3> <N>tháng</N> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>b</N></qt> <M>2</M> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>c</N></dl> <a><E>lên</E> <N>fc</N></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>13.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>3</M> <N>năm</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>12.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>11</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>11</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>c</N></dl> <a><V>lên</V> <N>fc</N></a> </question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>d</N></dl> <a><E>lên</E> <N>fc</N></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>13.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>3</M> <N>năm</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>12.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>11</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>11</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>d</N></dl> <a><V>lên</V> <N>fc</N></a> </question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><V>e</V></dl> <a><E>lên</E> <N>fc</N></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>13.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>3</M> <N>năm</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>24</M> <N>tháng</N> <CC>và</CC> <M>12.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>11</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>11</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>fc</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <if4><V>e</V> <R>lên</R> <N>fc</N></if4> </question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>2</M> <V>lên</V></a> <qt><N>c</N> <V>là</V></qt> <P>gì</P> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <V>được</V> <M>40.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>c</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>36</M></if3> <N>tháng</N> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>c</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>30.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>c</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>36</M> <N>tháng</N> <CC>và</CC> <M>60.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>c</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>c</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>32</M> <N>tháng</N> <CC>và</CC> <M>30.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>c</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>2</M> <V>lên</V></a> <N>c</N> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>c</N></dl> <a><E>lên</E> <N>d</N></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>40.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>d</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>d</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>d</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N> <CC>và</CC> <M>60.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>d</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>d</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>32</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>d</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>c</N></dl> <a><V>lên</V> <N>d</N></a> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>d</N></dl> <a><R>lên</R> <V>e</V></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>40.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N> <CC>và</CC> <M>60.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>32</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>d</N></dl> <a><V>lên</V> <V>e</V></a> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>2</M> <V>lên</V></a> <qt><N>f</N> <V>là</V></qt> <P>gì</P> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <V>được</V> <M>40.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>f</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>36</M></if3> <N>tháng</N> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>f</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>30.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>f</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>36</M> <N>tháng</N> <CC>và</CC> <M>60.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>f</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>f</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>32</M> <N>tháng</N> <CC>và</CC> <M>30.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>f</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>2</M> <V>lên</V></a> <N>f</N> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>d</N></dl> <a><E>lên</E> <N>f</N></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>40.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N> <CC>và</CC> <M>60.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>d</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>32</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>d</N></dl> <a><V>lên</V> <N>f</N></a> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><V>e</V></dl> <a><E>lên</E> <N>f</N></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>40.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>24</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N> <CC>và</CC> <M>60.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>24</M> <N>tháng</N> <CC>và</CC> <M>50.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <V>e</V></dl> <if3><N>lái_xe</N> <V>được</V> <M>32</M> <N>tháng</N> <CC>và</CC> <M>30.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <N>f</N> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><V>e</V></dl> <a><R>lên</R> <N>f</N></a> </question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>2</M> <V>lên</V></a> <qt><N>d</N> <V>là</V></qt> <P>gì</P> </question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <V>được</V> <M>40.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>d</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>36</M></if3> <N>tháng</N> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>d</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>80.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>d</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <A>b</A></dl> <if3><M>2</M> <N>lái_xe</N> <R>được</R> <M>5</M> <N>năm</N> <CC>và</CC> <M>100.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>d</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>200.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>d</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>b</N></dl> <if3><M>2</M> <V>lái_xe</V> <R>được</R> <M>4</M> <N>năm</N> <CC>và</CC> <M>80.000</M></if3> <Nu>km</Nu> <qt><X>thì_có</X></qt> <a><V>được</V> <V>nâng</V> <R>lên</R></a> <qt><N>d</N></qt> <R>không</R> </question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>b</N></dl> <a><M>2</M> <V>lên</V></a> <N>d</N> </question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>điều_kiện</N></qt> <E>để</E> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>c</N></dl> <a><R>lên</R> <V>e</V></a> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>40.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>36</M> <N>tháng</N></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>80.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>5</M> <N>năm</N> <CC>và</CC> <M>100.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><V>lái_xe</V> <R>được</R> <M>24</M> <N>tháng</N> <CC>và</CC> <M>200.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><N>người</N> <V>có</V> <dl><E>bằng</E> <N>lái_xe</N> <N>hạng</N> <N>c</N></dl> <if3><N>lái_xe</N> <V>được</V> <M>4</M> <N>năm</N> <CC>và</CC> <M>80.000</M> <Nu>km</Nu></if3> <X>thì_có</X><qt><V>được</V> <V>nâng</V></qt> <a><R>lên</R> <V>e</V> <R>không</R></a> <qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>khi</N> <P>nào</P></qt> <V>được</V> <a><V>nâng</V> <N>hạng</N></a> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <E>từ</E> <dl><N>c</N></dl> <a><V>lên</V> <V>e</V></a> </question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt><N>giấy_tờ</N> <A>cần_thiết</A></qt> <N>khi</N> <V>đi</V> <if3><V>thi</V> <E>bằng</E> <N>lái_xe</N></if3> <qt><V>là</V> <P>gì</P></qt> </question>
+		<answer>đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người việt nam; hộ chiếu còn thời hạn đối với người nước ngoài, người việt nam định cư ở nước ngoài; giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định.</answer>
+	</test>
+	<test>
+		<question><V>đi</V> <V>thi</V> <if3><V>nâng</V> <N>hạng</N> <E>bằng</E></if3> <C>thì</C> <qt><N>hồ_sơ</N> <V>cần</V> <L>những</L> <P>gì</P></qt> </question>
+		<answer>đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người việt nam; hộ chiếu còn thời hạn đối với người nước ngoài, người việt nam định cư ở nước ngoài; giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định; bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định tại phụ lục 12 ban hành kèm theo thông tư này và phải chịu trách nhiệm về nội dung khai trước pháp luật; bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng d, e (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch); bản sao giấy phép lái xe (xuất trình bản chính khi dự sát hạch và nhận giấy phép lái xe); </answer>
+	</test>
+</root>

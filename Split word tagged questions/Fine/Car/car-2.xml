@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <N>đèn</N> <N>giao_thông</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><R>không</R> <V>tuân</V> <E>theo</E> <N>đèn</N> <N>giao_thông</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>chạy</V> <V>vượt</V> <N>đèn_đỏ</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>đèn_đỏ</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>chạy</V> <V>vượt</V> <N>đèn_vàng</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>đèn_vàng</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>theo</V> <N>chỉ_dẫn</N> <E>của</E> <N>người</N> <V>điều_khiển</V> <N>giao_thông</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><R>không</R> <V>theo</V> <N>chỉ_dẫn</N> <E>của</E> <N>cảnh_sát</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>hơi</N> <V>thở</V> <V>có</V> <ac><N>nồng_độ</N></ac> <N>cồn</N> <v><E>dưới</E> <M>50miligram/100mililít</M> <N>máu</N></v> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <C>mà</C> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>45miligram/100mililít</M> <N>máu</N></v> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>hơi</N> <V>thở</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><E>dưới</E> <M>0.25miligram/1lít</M> <N>khí</N> <V>thở</V></v> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <C>mà</C> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>0.20miligram/1lít</M> <N>khí</N> <V>thở</V></v> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>vượt</V> <E>trong</E> <N>trường_hợp</N> <V>cấm</V> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>khi</N> <V>bị</V> <V>cấm</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>vượt</V> <C>nhưng</C> <R>không</R> <V>báo_hiệu</V></a> <E>trước</E> <N>khi</N> <V>vượt</V> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <C>nhưng</C> <R>không</R> <V>báo_hiệu</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>bên</N> <A>phải</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>bên</N> <A>phải</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>tránh</V> <N>xe</N> <A>ngược</A> <N>chiều</N> <R>không</R> <A>đúng</A> <N>quy_định</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>tránh</V> <N>xe</N> <A>sai</A> <N>quy_tắc</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm d khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <a><R>quá</R> <N>tốc_độ</N></a> <E>từ</E> <v><M>10km</M> <X>/</X> <V>h</V></v> <qt><E>đến</E> <M>20km</M> <X>/</X> <N>h</N> <V>bị</V></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N></a> <v><M>11km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <a><R>quá</R> <N>tốc_độ</N></a> <E>từ</E> <v><M>20km</M> <X>/</X> <V>h</V></v> <qt><E>đến</E> <M>35km</M> <X>/</X> <N>h</N> <V>bị</V></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N></a> <v><M>25km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <R>không</R> <V>dừng</V> <R>lại</R></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <C>mà</C> <V>bỏ</V> <V>chạy</V></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <R>không</R> <V>giữ</V> <A>nguyên</A> <N>hiện_trường</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>giữ</V> <A>nguyên</A> <N>hiện_trường</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <V>bỏ</V> <V>trốn</V></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <N>giao_thông</N> <R>không</R> <V>tham_gia</V> <V>cấp_cứu</V> <N>nạn_nhân</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>cấp_cứu</V> <N>nạn_nhân</N> <C>thì</C></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>tuân_thủ</V> <N>quy_tắc</N> <V>dừng</V> <V>đỗ</V> <N>xe</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>dừng</V> <R>không</R> <A>đúng</A> <N>luật</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>đỗ</V> <R>không</R> <A>đúng</A> <N>luật</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>dừng</V> <A>sai</A> <N>luật</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>đỗ</V> <A>sai</A> <N>luật</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V> <V>đỗ</V></a> <N>xe</N> <tv><N>ô_tô</N></tv> <l><E>trên</E> <N>đường_cao_tốc</N></l> <a><R>không</R> <V>đặt</V> <N>biển</N> <V>báo_hiệu</V> <A>nguy_hiểm</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>đỗ</V></a> <tv><N>ô_tô</N></tv> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>mà</C> <a><R>không</R> <V>có</V> <N>biển_báo</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>đi</V> <V>ngược</V> <N>chiều</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>chạy</V> <A>ngược</A> <N>chiều</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>50miligram</M> <E>đến</E> <M>80miligram</M> <X>/</X> <M>100mililít</M></v> <N>máu</N> <qt><C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <C>mà</C> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>90miligram</M> <X>/</X> <M>100mililít</M></v> <N>máu</N> <qt><C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.25miligram</M> <E>đến</E> <M>0.4miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <C>mà</C> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>0.3miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chú_ý</V> <V>quan_sát</V> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>tránh</V> <V>vượt</V> <R>không</R> <A>đúng</A> <N>quy_định</N> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>giữ</V> <N>khoảng_cách</N> <A>an_toàn</A> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><A>lạng_lách</A> <V>đánh_võng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>lạng_lách</V> <V>đánh_võng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><A>lạng_lách</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>đánh_võng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>chân</N> <V>điều_khiển</V> <A>vô_lăng</A></if3> <tv><N>ô_tô</N></tv> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>lái</V></if3> <tv><N>ô_tô</N></tv> <if3><E>bằng</E> <N>chân</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><A>lạng_lách</A> <V>đánh_võng</V></a> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>lạng_lách</V> <V>đánh_võng</V></a> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường_không</N> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường_không</N> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>dùng</V> <N>chân</N> <V>điều_khiển</V> <A>vô_lăng</A></if3> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>lái</V></if3> <tv><N>ô_tô</N></tv> <if3><E>bằng</E> <N>chân_không</N></if3> <a><V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>lạng_lách</V> <V>đánh_võng</V></a> <V>gây</V> <N>tai_nạn</N> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <V>thiếu</V> <N>ý_thức</N> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường</N> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dùng</V> <N>chân</N> <V>điều_khiển</V> <A>vô_lăng</A></a> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><V>chạy</V></a> <R>quá</R> <sp><N>tốc_độ</N></sp> <N>quy_định</N> <v><M>35km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>80miligram/100mililít</M> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <E>với</E> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><M>90miligram/100mililít</M> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <N>xe</N> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.4miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chấp_hành</V> <V>yêu_cầu</V> <V>kiểm_tra</V> <N>nồng_độ</N> <N>cồn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>tài_xế</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chịu</V> <V>kiểm_tra</V> <N>nồng_độ</N> <N>cồn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chấp_hành</V> <V>yêu_cầu</V> <V>kiểm_tra</V> <N>ma_túy</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm c khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>tài_xế</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chịu</V> <V>kiểm_tra</V> <N>ma_túy</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm c khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <E>trong</E> <N>cơ_thể</N> <if3><V>có</V> <N>chất</N> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng hoặc phạt từ 16 đến 18 triệu đồng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>tài_xế</N> <tv><N>ô_tô</N></tv> <if3><V>sử_dụng</V> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng hoặc phạt từ 16 đến 18 triệu đồng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <E>trong</E> <N>cơ_thể</N> <if3><V>có</V> <N>chất</N> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <X>thế_nào</X></qt> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng hoặc phạt từ 16 đến 18 triệu đồng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>tài_xế</N> <tv><N>ô_tô</N></tv> <if3><V>sử_dụng</V> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <X>thế_nào</X></qt> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng hoặc phạt từ 16 đến 18 triệu đồng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <N>đèn</N> <N>giao_thông</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tl><N>đèn_đỏ</N></tl> <C>mà</C> <tv><N>ô_tô</N></tv> <a><V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>chạy</V> <V>vượt</V> <N>đèn_vàng</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>theo</V> <N>chỉ_dẫn</N> <E>của</E> <N>người</N> <V>điều_khiển</V> <N>giao_thông</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>1.200.000 đồng đến 2.000.000 đồng</answer>
+		<base>điểm a khoản 5 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <C>mà</C> <N>hơi</N> <V>thở</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><E>dưới</E> <M>50miligram/100mililít</M> <N>máu</N></v> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>hơi</N> <V>thở</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><E>dưới</E> <M>0.25miligram/1lít</M> <N>khí</N> <V>thở</V></v> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>khi_không</N> <V>được</V> <N>phép</N> <V>vượt</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>vượt</V> <C>nhưng</C> <R>không</R> <V>có</V> <V>báo_hiệu</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>vượt</V> <N>bên</N> <V>phải</V> <N>xe</N> <A>khác</A> <V>khi_không</V> <V>được</V> <N>phép</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm b khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>tránh</V> <N>xe</N> <V>ngược</V> <N>chiều</N> <V>gây</V> <V>mất</V> <A>an_toàn</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>nhường</V> <N>đường</N> <E>cho</E> <N>xe</N> <V>đi</V> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><R>không</R> <V>nhường</V> <E>cho</E> <N>xe</N> <A>ngược</A> <N>chiều</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm c khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>tránh</V> <N>đường</N> <E>cho</E> <N>xe</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm d khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>cản</V> <N>đường</N> <N>xe</N> <A>ưu_tiên</A></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>2.000.000 đồng đến 3.000.000 đồng</answer>
+		<base>điểm d khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <R>quá</R> <sp><N>tốc_độ</N></sp> <v><E>dưới</E> <M>20km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <R>quá</R> <sp><N>tốc_độ</N></sp> <v><M>10km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>chạy</V></a> <R>quá</R> <sp><N>tốc_độ</N></sp> <v><M>10km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 6 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <R>quá</R> <sp><N>tốc_độ</N></sp> <v><M>20km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <R>quá</R> <sp><N>tốc_độ</N></sp> <v><M>35km</M></v> <qt><X>/</X> <N>h</N> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>dừng</V> <R>lại</R></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>giữ</V> <A>nguyên</A> <N>hiện_trường</N></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <C>rồi</C> <V>bỏ</V> <V>trốn</V></a> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>điều_khiển</V> <tv><N>ô_tô</N></tv> <a><V>gây</V> <N>tai_nạn</N> <R>không</R> <V>cấp_cứu</V> <N>nạn_nhân</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm b khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><R>không</R> <V>tuân_thủ</V> <N>quy_tắc</N> <V>dừng</V> <V>đỗ</V> <N>xe</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>dừng</V> <V>đỗ</V></a> <N>xe</N> <tv><N>ô_tô</N></tv> <l><E>trên</E> <N>đường_cao_tốc</N></l> <a><R>không</R> <V>đặt</V> <N>biển_báo</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>5.000.000 đồng đến 6.000.000 đồng</answer>
+		<base>điểm c khoản 7 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>chạy</V></a> <tv><N>ô_tô</N></tv> <a><V>ngược</V> <N>chiều</N></a> <l><E>trên</E> <N>đường_cao_tốc</N></l> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm a khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>50miligram</M> <E>đến</E> <M>80miligram</M> <X>/</X> <M>100mililít</M></v> <N>máu</N> <qt><C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.25miligram</M> <E>đến</E> <M>0.4miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <N>xe</N> <tv><N>ô_tô</N></tv> <a><R>không</R> <V>chú_ý</V> <V>quan_sát</V> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><N>lái_xe</N></a> <tv><N>ô_tô</N></tv> <a><R>quá</R> <N>tốc_độ</N> <N>quy_định</N> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>tránh</V> <V>vượt</V> <R>không</R> <A>đúng</A> <N>quy_định</N> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>xe</N> <tv><N>ô_tô</N></tv> <a><V>đi</V> <R>quá</R> <A>sát</A> <N>xe</N> <V>đi</V> <E>trước</E> <V>gây</V> <N>tai_nạn</N> <N>giao_thông</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm c khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><N>lạng_lách</N> <V>đánh_võng</V></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>điều_khiển</V> <A>vô_lăng</A></a> <tv><N>ô_tô</N></tv> <a><E>bằng</E> <N>chân</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm d khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><N>lạng_lách</N> <V>đánh_võng</V></a> <R>không</R> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái_xe</N> <tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường_không</N> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a><V>lái</V></a> <tv><N>ô_tô</N></tv> <a><E>bằng</E> <N>chân_không</N> <V>chấp_hành</V> <N>hiệu_lệnh</N> <V>dừng</V> <N>xe</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái_xe</N> <tv><N>ô_tô</N></tv> <a><V>lạng_lách</V> <V>đánh_võng</V></a> <V>gây</V> <N>tai_nạn</N> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>lạng lách đánh võng: 7.000.000 đồng đến 8.000.000 đồng. không chấp hành hiệu lệnh dừng xe hoặc gây tai nạn: 18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>lái</V> <tv><N>ô_tô</N></tv> <a><V>đuổi</V> <N>nhau</N> <E>trên</E> <N>đường</N> <V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><V>điều_khiển</V></if3> <tv><N>ô_tô</N></tv> <if3><E>bằng</E> <N>chân</N></if3> <a><V>gây</V> <N>tai_nạn</N></a> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>18.000.000 đồng đến 20.000.000 đồng</answer>
+		<base>khoản 10 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv><N>ô_tô</N></tv> <a><V>chạy</V> <R>quá</R> <N>tốc_độ</N></a> <N>quy_định</N> <v><M>35km</M></v> <X>/</X> <qt><A>h</A> <C>thì</C> <V>bị</V> <V>phạt</V> <P>bao_nhiêu</P></qt> </question>
+		<answer>Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng. Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng. Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng</answer>
+		<base>điểm đ khoản 8 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>80miligram/100mililít</M> <N>máu</N></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <C>mà</C> <E>trong</E> <N>máu</N> <V>có</V> <ac><N>nồng_độ</N> <N>cồn</N></ac> <v><V>vượt</V> <R>quá</R> <M>0.4miligram/1lít</M> <N>khí</N> <V>thở</V></v> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở: 2.000.000 đồng đến 3.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở: 7.000.000 đồng đến 8.000.000 đồng. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở: 16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm a khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái_xe</N> <tv><N>ô_tô</N></tv> <if3><R>không</R> <V>chấp_hành</V> <V>yêu_cầu</V> <V>kiểm_tra</V> <N>nồng_độ</N> <N>cồn</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm b khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>người</N> <V>lái_xe</V> <tv><N>ô_tô</N></tv> <if3><R>không</R> <V>chịu</V> <V>kiểm_tra</V> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>16.000.000 đồng đến 18.000.000 đồng</answer>
+		<base>điểm c khoản 9 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái_xe</N> <tv><N>ô_tô</N></tv> <E>trong</E> <N>cơ_thể</N> <if3><V>có</V> <N>chất</N> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>hoặc phạt từ 16 đến 18 triệu đồng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái_xe</N> <tv><N>ô_tô</N></tv> <E>trong</E> <N>cơ_thể</N> <if3><V>có</V> <N>chất</N> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <X>thế_nào</X></qt> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><N>lái_xe</N> <tv><N>ô_tô</N></tv> <E>trong</E> <N>cơ_thể</N> <if3><V>có</V> <N>chất</N> <N>ma_túy</N></if3> <C>thì</C> <qt><V>bị</V> <V>phạt</V> <X>thế_nào</X></qt> </question>
+		<answer>tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng</answer>
+		<base>khoản 11 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><V>đi</V> <tv><N>ô_tô</N></tv> <if3><R>không</R> <V>mang</V></if3> <dl><N>giấy_phép</N> <N>lái_xe</N></dl> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>200.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 3 điều 21 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3><R>không</R> <V>mang</V></if3> <dl><E>bằng</E> <N>lái</N></dl> <tv><N>ô_tô</N></tv> <qt><V>bị</V> <V>phạt</V> <P>bao_nhiêu</P> <N>tiền</N></qt> </question>
+		<answer>200.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 3 điều 21 nghị định 46-2016</base>
+	</test>
+</root>
