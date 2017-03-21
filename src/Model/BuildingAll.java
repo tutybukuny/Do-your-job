@@ -5,6 +5,7 @@
  */
 package Model;
 
+import Measure.LibConst;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -19,12 +20,13 @@ import java.util.logging.Logger;
 public class BuildingAll {
 
     public static void main(String[] args) {
+        LibConst.TOKENIZER_PROPERTIES = "tokenizer.properties";
+        LibConst.VTB_TAGER = "resources\\models\\vtb.tagger";
         QuestionTaggerv2 questionTagger = new QuestionTaggerv2(
                 "Tagged Questions");//Truyền đường dẫn tới thư mục dữ liệu vào đây này
         System.out.println("tagged");
         TrainingDataBuiderv2 buiderv2 = new TrainingDataBuiderv2(
                 "Split word tagged questions v2");
-//        run("E:\\thien\\Learning\\NLP\\Project\\Data\\Training Data v2 pre");
         System.out.println("done v2");
         TrainingDataBuiderv3 builderv3 = new TrainingDataBuiderv3(
                 "Training Data v2");

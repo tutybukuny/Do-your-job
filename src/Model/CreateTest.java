@@ -24,12 +24,12 @@ public class CreateTest {
     static int count;
 
     public static void createTest(String version) {
-        File file = new File(version);
+        File file = new File("Folds" + version);
         for (int i = 1; i <= 5; i++) {
             try {
                 count = 0;
-                training = new PrintWriter(version + "\\Test" + i + "\\Train.txt", "UTF-8");
-                testing = new PrintWriter(version + "\\Test" + i + "\\Test.txt", "UTF-8");
+                training = new PrintWriter("Tests" + version + "\\Test" + i + "\\Train.txt", "UTF-8");
+                testing = new PrintWriter("Tests" + version + "\\Test" + i + "\\Test.txt", "UTF-8");
                 time(file, i);
 
                 training.close();
