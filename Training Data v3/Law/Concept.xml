@@ -771,14 +771,14 @@ chiều	N	O
 gặp	V	O
 nhau	N	O
 ,	,	O
-đèn	A	B-ano
-chiếu	A	I-ano
-sáng	N	I-ano
+đèn	A	B-if1
+chiếu	A	I-if1
+sáng	N	I-if1
 phải	V	O
 được	V	O
-sử	V	O
-dụng	V	O
-như	X	B-qt
+sử	V	B-qt
+dụng	V	I-qt
+như	X	I-qt
 thế	X	I-qt
 nào	X	I-qt
 .
@@ -939,19 +939,39 @@ là	V	O
 cơ	N	B-qt
 quan	N	I-qt
 nào	P	I-qt
-quy	N	O
-định	N	O
+quy	N	I-qt
+định	N	I-qt
 các	L	B-ano
 đoạn	Nc	I-ano
 đường	N	I-ano
 cấm	V	I-ano
 đi	V	I-ano
-,	,	O
+thuộc	V	O
+địa	N	O
+phương	N	O
+quản	V	O
+lý	V	O
+.
+cơ	N	B-qt
+quan	N	I-qt
+nào	P	I-qt
+quy	N	I-qt
+định	N	I-qt
 đường	N	B-ano
 đi	V	I-ano
 một	V	I-ano
 chiều	V	I-ano
-,	,	O
+thuộc	V	O
+địa	N	O
+phương	N	O
+quản	V	O
+lý	V	O
+.
+cơ	N	B-qt
+quan	N	I-qt
+nào	P	I-qt
+quy	N	I-qt
+định	N	I-qt
 nơi	N	B-ano
 cấm	V	I-ano
 dừng	V	I-ano
@@ -963,8 +983,18 @@ cấm	V	I-ano
 quay	V	I-ano
 đầu	N	I-ano
 xe	N	I-ano
-,	,	I-ano
-lắp	V	I-ano
+thuộc	V	O
+địa	N	O
+phương	N	O
+quản	V	O
+lý	V	O
+.
+cơ	N	B-qt
+quan	N	I-qt
+nào	P	I-qt
+quy	N	I-qt
+định	N	I-qt
+lắp	V	B-ano
 đặt	V	I-ano
 báo	V	I-ano
 hiệu	V	I-ano
@@ -1049,9 +1079,9 @@ xe	N	I-ano
 ô	N	B-tv
 tô	N	I-tv
 phải	V	O
-thực	V	O
-hiện	V	O
-ở	E	B-qt
+thực	V	B-qt
+hiện	V	I-qt
+ở	E	I-qt
 đâu	P	I-qt
 .
 việc	N	O
@@ -1065,9 +1095,9 @@ xe	N	I-ano
 ô	N	B-tv
 tô	N	I-tv
 phải	V	O
-thực	V	O
-hiện	V	O
-như	X	B-qt
+thực	V	B-qt
+hiện	V	I-qt
+như	X	I-qt
 thế	X	I-qt
 nào	X	I-qt
 .

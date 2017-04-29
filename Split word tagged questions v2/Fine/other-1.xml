@@ -22,8 +22,8 @@
 		<question><tv>xe/N thô_sơ/A</tv> <a>đỗ/V</a> <l>trong/E lòng_đường/N</l> <l>ngoài/E thành_phố/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>đỗ/V</a> <l>giữa/E lòng_đường/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>đỗ/V</a> <l>giữa/E lòng_đường/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>chạy/V trong/E hầm/N đường_bộ/N</a> <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>chạy/V trong/E hầm/N đường_bộ/N</a> <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <a>chạy/V</a> <l>trong/E hầm/N đường_bộ/N</l> <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <a>chạy/V</a> <l>trong/E hầm/N đường_bộ/N</l> <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>chạy/V trong/E hầm/N</a> mà/C <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>chạy/V trong/E hầm/N</a> mà/C <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>dừng/V</a> <l>trong/E hầm/N đường_bộ/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
@@ -50,8 +50,8 @@
 		<question><tv>xe/N thô_sơ/A</tv> <if3>dùng/V điện_thoại_di_động/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> đi/V <if4>ban_đêm/N</if4> <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> đi/V <if4>ban_đêm/N</if4> <if1>không/R có/V đèn/N</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> đi/V <if4>ban_đêm/N</if4> <a>không/R có/V vật/N phản_quang/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> đi/V <if4>ban_đêm/N</if4> <a>không/R có/V vật/N phản_quang/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> đi/V <if4>ban_đêm/N</if4> <if1>không/R có/V vật/N phản_quang/A</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> đi/V <if4>ban_đêm/N</if4> <if1>không/R có/V vật/N phản_quang/A</if1> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><a>để/E</a> <tv>xe/N thô_sơ/A</tv> <l>trong/E lòng_đường/N</l> <l>nội_thành/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><a>để/E</a> <tv>xe_đạp/N</tv> <l>trong/E lòng_đường/N</l> <l>thành_phố/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><a>để/E</a> <tv>xe/N thô_sơ/A</tv> <l>ở/E hè_phố/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
@@ -64,8 +64,8 @@
 		<question><tv>xe/N thô_sơ/A</tv> <a>không/R tuân_thủ/V các/L quy_định/N dừng/V đỗ/V xe/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>không/R nhường/V đường/N cho/E xe/N xin/V vượt/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>không/R nhường/V đường/N cho/E xe/N xin/V vượt/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>gây/V cản_trở/V cho/E xe/N xin/V vượt/V thì/C</a> <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>gây/V cản_trở/V cho/E xe/N xin/V vượt/V thì/C</a> <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <a>gây/V cản_trở/V cho/E xe/N xin/V vượt/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <a>gây/V cản_trở/V cho/E xe/N xin/V vượt/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>gây/V cản_trở/V cho/E xe/N ưu_tiên/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>gây/V cản_trở/V cho/E xe/N ưu_tiên/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>gây/V cản_trở/V giao_thông/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
@@ -85,22 +85,15 @@
 		<question><tv>xe/N thô_sơ/A</tv> <a>vượt/V</a> <tl>đèn_đỏ/N</tl> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>vượt/V</a> <tl>đèn_vàng/N</tl> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>vượt/V</a> <tl>đèn_vàng/N</tl> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <if3>buông/V cả/P 2/M tay/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <if3>buông/V cả/P 2/M tay/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><if3>buông/V cả/P 2/M tay/N</if3> lái/N <tv>xe/N thô_sơ/A</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><if3>buông/V cả/P 2/M tay/N</if3> lái/N <tv>xe_đạp/N</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><if3>buông/V cả/P 2/M tay/N</if3> lái/N <tv>xe_đạp/N</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><if3>buông/V cả/P 2/M tay/N</if3> lái/N <tv>xe/N thô_sơ/A</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>chuyển_hướng/V đột_ngột/A trước/E đầu/N xe/N khác/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>chuyển_hướng/V đột_ngột/A trước/E đầu/N xe/N khác/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><if3>dùng/V chân/N để/E điều_khiển/V</if3> <tv>xe_đạp/N</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><if3>dùng/V chân/N để/E điều_khiển/V</if3> <tv>xe/N thô_sơ/A</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><if3>dùng/V chân/N để/E điều_khiển/V</if3> <tv>xe/N thô_sơ/A</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><if3>dùng/V chân/N để/E điều_khiển/V</if3> <tv>xe_đạp/N</tv> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>không/R chấp_hành/V hiệu_lệnh/N của/E người/N điều_khiển/V giao_thông/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>không/R chấp_hành/V hiệu_lệnh/N của/E người/N điều_khiển/V giao_thông/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <if3>không/R chấp_hành/V hiệu_lệnh/N của/E người/N điều_khiển/V giao_thông/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <if3>không/R chấp_hành/V hiệu_lệnh/N của/E người/N điều_khiển/V giao_thông/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>không/R chấp_hành/V hiệu_lệnh/N của/E cảnh_sát/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>không/R chấp_hành/V hiệu_lệnh/N của/E cảnh_sát/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>không/R chấp_hành/V hiệu_lệnh/N của/E cảnh_sát/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>bám/V xe/N khác/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>bám/V xe/N khác/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
@@ -112,8 +105,8 @@
 		<question><tv>xe/N thô_sơ/A</tv> <a>mang/V vác/N vật/N cồng_kềnh/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>chở/V đồ/N cồng_kềnh/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>chở/V đồ/N cồng_kềnh/A</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>lạng_lách/N ,/,</a> <a>đánh_võng/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>lạng_lách/N ,/,</a> <a>đánh_võng/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <a>lạng_lách/N</a> <a>đánh_võng/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <a>lạng_lách/N</a> <a>đánh_võng/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>đuổi/V nhau/N trên/E đường/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>đuổi/V nhau/N trên/E đường/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>đi/V bốc/V đầu/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
@@ -138,14 +131,14 @@
 		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V vào/E đường/N cấm/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe_đạp/N</tv> <a>đi/V vào/E khu_vực/N cấm/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V vào/E khu_vực/N cấm/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>đi/V ngược/A chiều/N đường/N một_chiều/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V ngược/A chiều/N đường/N một_chiều/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>đi/V ngược/V đường/N một_chiều/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V ngược/V đường/N một_chiều/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>đi/V ngược/V chiều/N tại/E đường/N có/V biển/N cấm/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V ngược/V chiều/N tại/E đường/N có/V biển/N cấm/V</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe_đạp/N</tv> <a>đi/V trên/E đường_cao_tốc/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
-		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V trên/E đường_cao_tốc/N</a> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <a>đi/V ngược/A chiều/N</a> <l>đường/N một_chiều/V</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V ngược/A chiều/N</a> <l>đường/N một_chiều/V</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <a>đi/V ngược/V</a> <l>đường/N một_chiều/V</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V ngược/V</a> <l>đường/N một_chiều/V</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> <a>đi/V ngược/A chiều/N</a> <l>tại/E đường/N có/V biển/N cấm/V</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> <a>đi/V ngược/A chiều/N</a> <l>tại/E đường/N có/V biển/N cấm/V</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe_đạp/N</tv> đi/V <l>trên/E đường_cao_tốc/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
+		<question><tv>xe/N thô_sơ/A</tv> đi/V <l>trên/E đường_cao_tốc/N</l> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tp>người/N đi/V bộ/N</tp> <if3>không/R đi/V đúng/A phần/N đường/N quy_định/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tp>người/N đi/V bộ/N</tp> <if3>không/R chấp_hành/V đèn/N báo_hiệu/V</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>
 		<question><tp>người/N đi/V bộ/N</tp> <if3>không/R chấp_hành/V biển_báo/N</if3> thì/C <qt>bị/V phạt/V bao_nhiêu/P tiền/N</qt></question>

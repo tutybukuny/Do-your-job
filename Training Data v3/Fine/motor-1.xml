@@ -361,11 +361,11 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-không	R	B-a
-quan	V	I-a
-sát	V	I-a
-khi	N	O
-lùi	V	B-a
+không	R	B-if3
+quan	V	I-if3
+sát	V	I-if3
+khi	N	I-if3
+lùi	V	I-if3
 xe	N	B-tv
 ba	N	I-tv
 gác	N	I-tv
@@ -383,11 +383,11 @@ dụng	V	I-a
 đèn	N	I-a
 chiếu	N	I-a
 xa	A	I-a
-khi	N	B-if1
-tránh	V	I-if1
-xe	N	I-if1
-ngược	A	I-if1
-chiều	N	I-if1
+khi	N	B-if4
+tránh	V	I-if4
+xe	N	I-if4
+ngược	A	I-if4
+chiều	N	I-if4
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -400,11 +400,11 @@ bật	V	B-a
 pha	N	I-a
 xe	N	B-tv
 máy	N	I-tv
-khi	N	B-if1
-tránh	V	I-if1
-xe	N	I-if1
-ngược	A	I-if1
-chiều	N	I-if1
+khi	N	B-if4
+tránh	V	I-if4
+xe	N	I-if4
+ngược	A	I-if4
+chiều	N	I-if4
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -1017,7 +1017,7 @@ hiệu	N	I-a
 ưu	V	I-a
 tiên	V	I-a
 không	R	I-a
-đùng	V	I-a
+đúng	A	I-a
 quy	N	I-a
 định	N	I-a
 thì	C	O
@@ -1289,17 +1289,19 @@ chạy	V	B-a
 quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
-quy	N	O
-định	N	O
+quy	N	I-a
+định	N	I-a
 từ	E	O
-5km	M	B-v
+5	M	B-v
+km	Nu	I-v
 		I-v
 h	V	I-v
 đến	E	I-v
 dưới	N	I-v
-10km	M	I-v
+10	M	I-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -1313,9 +1315,10 @@ chạy	V	B-a
 quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
-6km	M	B-v
+6	M	B-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -1677,17 +1680,17 @@ tiền	N	I-qt
 .
 xe	N	B-tv
 máy	N	I-tv
-gắn	V	B-a
-các	L	I-a
-thiết	N	I-a
-bị	N	I-a
-phát	V	I-a
-tín	N	I-a
-hiệu	N	I-a
-ưu	V	I-a
-tiên	V	I-a
-trái	A	I-a
-phép	A	I-a
+gắn	V	B-if1
+các	L	I-if1
+thiết	N	I-if1
+bị	N	I-if1
+phát	V	I-if1
+tín	N	I-if1
+hiệu	N	I-if1
+ưu	V	I-if1
+tiên	V	I-if1
+trái	A	I-if1
+phép	A	I-if1
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2030,12 +2033,12 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-người	N	B-if4
-ngồi	V	I-if4
-phía	N	I-if4
-sau	N	I-if4
-điều	V	I-if4
-khiển	V	I-if4
+người	N	B-tp
+ngồi	V	I-tp
+phía	N	I-tp
+sau	N	I-tp
+điều	V	B-if3
+khiển	V	I-if3
 xe	N	B-tv
 máy	N	I-tv
 thì	C	O
@@ -2045,10 +2048,10 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-người	N	B-if4
-ngồi	V	I-if4
-sau	E	I-if4
-lái	N	I-if4
+người	N	B-tp
+ngồi	V	I-tp
+sau	E	I-tp
+lái	N	B-if3
 xe	N	B-tv
 máy	N	I-tv
 thì	C	O
@@ -2277,8 +2280,8 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-điều	V	O
-khiển	V	O
+điều	V	B-a
+khiển	V	I-a
 xe	N	B-tv
 máy	N	I-tv
 thành	N	B-a
@@ -2496,9 +2499,9 @@ khiển	V	O
 xe	N	B-tv
 máy	N	I-tv
 đi	V	B-a
-trên	E	I-a
-hè	N	I-a
-phố	N	I-a
+trên	E	B-l
+hè	N	I-l
+phố	N	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2600,9 +2603,9 @@ máy	N	I-tv
 đi	V	B-a
 ngược	A	I-a
 chiều	N	I-a
-đường	N	I-a
-một	V	I-a
-chiều	V	I-a
+đường	N	B-l
+một	V	I-l
+chiều	V	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2614,9 +2617,9 @@ xe	N	B-tv
 máy	N	I-tv
 chạy	V	B-a
 ngược	A	I-a
-đường	N	I-a
-một	V	I-a
-chiều	V	I-a
+đường	N	B-l
+một	V	I-l
+chiều	V	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2894,17 +2897,17 @@ tiền	N	I-qt
 .
 xe	N	B-tv
 máy	N	I-tv
-không	R	B-a
-chấp	V	I-a
-hành	V	I-a
-hiệu	N	I-a
-lệnh	N	I-a
-của	E	I-a
-người	N	I-a
-điều	V	I-a
-khiển	V	I-a
-giao	N	I-a
-thông	N	I-a
+không	R	B-if3
+chấp	V	I-if3
+hành	V	I-if3
+hiệu	N	I-if3
+lệnh	N	I-if3
+của	E	I-if3
+người	N	I-if3
+điều	V	I-if3
+khiển	V	I-if3
+giao	N	I-if3
+thông	N	I-if3
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2937,16 +2940,18 @@ chạy	V	B-a
 quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
-quy	N	O
-định	N	O
+quy	N	I-a
+định	N	I-a
 từ	E	O
-10km	M	B-v
+10	M	B-v
+km	Nu	I-v
 		I-v
 h	V	I-v
 đến	E	I-v
-20km	M	I-v
+20	M	I-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2960,9 +2965,10 @@ chạy	V	B-a
 quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
-15km	M	B-v
+15	M	B-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2970,13 +2976,13 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-đi	V	B-a
+đi	V	O
 xe	N	B-tv
 máy	N	I-tv
-vào	E	B-a
-đường	N	I-a
-cao	N	I-a
-tốc	N	I-a
+vào	E	O
+đường	N	B-l
+cao	N	I-l
+tốc	N	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -2986,11 +2992,11 @@ tiền	N	I-qt
 .
 xe	N	B-tv
 máy	N	I-tv
-chạy	V	B-a
-vào	R	I-a
-đường	N	I-a
-cao	N	I-a
-tốc	N	I-a
+chạy	V	O
+vào	E	O
+đường	N	B-l
+cao	N	I-l
+tốc	N	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -3372,7 +3378,8 @@ quá	R	I-v
 0.4	M	I-v
 miligram	N	I-v
 trên	E	I-v
-1lít	M	I-v
+1	M	I-v
+lít	Nu	I-v
 khí	N	I-v
 thở	V	I-v
 thì	C	O
@@ -3392,7 +3399,10 @@ cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
 0.35	M	I-v
-miligram	1lít	I-v
+miligram	Nu	I-v
+		I-v
+1	M	I-v
+lít	Nu	I-v
 khí	N	I-v
 thở	V	I-v
 thì	C	O
@@ -3579,9 +3589,10 @@ tốc	N	I-a
 quy	N	O
 định	N	O
 trên	E	B-v
-20km	M	I-v
+20	M	I-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -3595,9 +3606,10 @@ chạy	V	B-a
 quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
-25km	M	B-v
+25	M	B-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -3692,7 +3704,8 @@ nồng	N	B-ac
 cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
-80miligram	100mililít	I-v
+80miligram	100	I-v
+mililít	N	I-v
 máu	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -3709,7 +3722,8 @@ có	V	O
 nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
-90miligram	100mililít	B-v
+90miligram	100	B-v
+mililít	N	I-v
 máu	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -3730,7 +3744,10 @@ nồng	N	B-ac
 cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
-0.4miligram	1lít	I-v
+0.4miligram	M	I-v
+		I-v
+1	M	I-v
+lít	Nu	I-v
 khí	N	I-v
 thở	V	I-v
 thì	C	O
@@ -3748,7 +3765,10 @@ có	V	O
 nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
-0.5miligram	1lít	B-v
+0.5miligram	M	B-v
+		I-v
+1	M	I-v
+lít	Nu	I-v
 khí	N	I-v
 thở	V	I-v
 thì	C	O
@@ -3997,8 +4017,8 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-một	M	B-if1
-nhóm	N	I-if1
+một	M	B-if4
+nhóm	N	I-if4
 xe	N	B-tv
 máy	N	I-tv
 chạy	V	B-a
@@ -4035,7 +4055,7 @@ buông	V	B-if3
 cả	P	I-if3
 2	M	I-if3
 tay	N	I-if3
-lãi	N	I-if3
+lái	N	I-if3
 xe	N	B-tv
 máy	N	I-tv
 xong	R	O
@@ -4070,8 +4090,8 @@ xe	N	B-tv
 máy	N	I-tv
 bằng	E	B-if3
 chân	N	I-if3
-rồi	C	B-a
-gây	V	I-a
+rồi	C	O
+gây	V	B-a
 tai	N	I-a
 nạn	N	I-a
 thì	C	O
@@ -4274,8 +4294,8 @@ bao	P	I-qt
 nhiêu	P	I-qt
 tiền	N	I-qt
 .
-một	M	B-if1
-nhóm	N	I-if1
+một	M	B-if4
+nhóm	N	I-if4
 xe	N	B-tv
 máy	N	I-tv
 chạy	V	B-a
@@ -4570,10 +4590,10 @@ chất	N	I-if3
 ma	N	I-if3
 túy	N	I-if3
 thì	C	O
-bị	V	O
-phạt	V	O
-thế	X	O
-nào	X	O
+bị	V	B-qt
+phạt	V	I-qt
+thế	X	I-qt
+nào	X	I-qt
 .
 lái	N	O
 xe	N	B-tv
@@ -4586,10 +4606,10 @@ chất	N	I-if3
 ma	N	I-if3
 túy	N	I-if3
 thì	C	O
-bị	V	O
-phạt	V	O
-thế	X	O
-nào	X	O
+bị	V	B-qt
+phạt	V	I-qt
+thế	X	I-qt
+nào	X	I-qt
 .
 người	N	O
 điều	V	O
@@ -4791,7 +4811,7 @@ tiền	N	I-qt
 lùi	V	B-a
 xe	N	B-tv
 máy	N	I-tv
-ba	M	I-tv
+3	M	I-tv
 bánh	N	I-tv
 mà	C	B-a
 không	R	I-a
@@ -4808,7 +4828,7 @@ tiền	N	I-qt
 lùi	V	B-a
 xe	N	B-tv
 máy	N	I-tv
-ba	M	I-tv
+3	M	I-tv
 bánh	N	I-tv
 không	R	B-a
 quan	V	I-a
@@ -4823,13 +4843,13 @@ tiền	N	I-qt
 xe	N	B-tv
 máy	N	I-tv
 bật	V	B-a
-đèn	V	I-a
-pha	V	I-a
-khi	N	I-a
-tránh	V	I-a
-xe	N	I-a
-ngược	A	I-a
-chiều	N	I-a
+đèn	N	I-a
+pha	N	I-a
+khi	N	B-if4
+tránh	V	I-if4
+xe	N	I-if4
+ngược	A	I-if4
+chiều	N	I-if4
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -5096,7 +5116,7 @@ tiền	N	I-qt
 .
 xe	N	B-tv
 máy	N	I-tv
-ấm	N	B-a
+bấm	V	B-a
 còi	N	I-a
 ban	N	I-a
 đêm	N	I-a
@@ -5168,7 +5188,7 @@ hiệu	N	I-a
 ưu	V	I-a
 tiên	V	I-a
 không	R	I-a
-đùng	V	I-a
+đúng	A	I-a
 quy	N	I-a
 định	N	I-a
 thì	C	O
@@ -5322,9 +5342,10 @@ quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
 dưới	E	B-v
-10km	M	I-v
+10	M	I-v
+km	Nu	I-v
 		I-v
-h	V	I-v
+h	N	I-v
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt

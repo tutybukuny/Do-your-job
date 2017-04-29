@@ -1,13 +1,13 @@
-cần	V	B-qt
+cần	V	I-qt
 mang	V	B-if3
 theo	E	I-if3
 giấy	N	I-if3
 phép	N	I-if3
 lái	N	I-if3
 xe	N	I-if3
-khi	N	O
-đi	V	B-if3
-xe	N	I-if3
+khi	N	B-if4
+đi	V	I-if4
+xe	N	I-if4
 không	R	B-qt
 .
 điều	V	B-a
@@ -204,9 +204,9 @@ nào	P	I-qt
 16	M	B-if3
 tuổi	N	I-if3
 thì	C	O
-được	R	B-qt
-lái	V	I-qt
-xe	V	I-qt
+được	V	O
+lái	V	O
+xe	N	B-qt
 gì	P	I-qt
 .
 trẻ	N	O
@@ -270,10 +270,10 @@ máy	N	I-tv
 18	M	B-if3
 tuổi	N	I-if3
 thì	C	O
-được	R	B-qt
-lái	V	I-qt
-những	L	I-qt
-loại	Nc	I-qt
+được	V	O
+lái	V	O
+những	L	O
+loại	Nc	B-qt
 xe	N	I-qt
 gì	P	I-qt
 .
@@ -281,12 +281,12 @@ bao	P	B-qt
 nhiêu	P	I-qt
 tuổi	N	I-qt
 thì	C	O
-được	R	B-a
-lái	V	I-a
-xe	V	I-a
-ô	N	I-a
-tô	N	I-a
-tải	N	I-a
+được	V	O
+lái	N	O
+xe	N	O
+ô	N	B-tv
+tô	N	I-tv
+tải	N	I-tv
 .
 người	N	O
 lái	V	O
@@ -354,12 +354,12 @@ bao	P	B-qt
 nhiêu	P	I-qt
 tuổi	N	I-qt
 thì	C	O
-không	R	B-a
-được	V	I-a
-lái	N	I-a
-xe	N	I-a
-ô	N	I-a
-tô	N	I-a
+không	R	B-if3
+được	V	I-if3
+lái	N	I-if3
+xe	N	I-if3
+ô	N	B-tv
+tô	N	I-tv
 trên	E	B-if1
 30	M	I-if1
 chỗ	N	I-if1
@@ -370,12 +370,12 @@ bao	P	B-qt
 nhiêu	P	I-qt
 tuổi	N	I-qt
 thì	C	O
-không	R	B-a
-được	V	I-a
-lái	N	I-a
-xe	N	I-a
-ô	N	I-a
-tô	N	I-a
+không	R	B-if3
+được	V	I-if3
+lái	N	I-if3
+xe	N	I-if3
+ô	N	B-tv
+tô	N	I-tv
 trên	E	B-if1
 30	M	I-if1
 chỗ	N	I-if1
@@ -1267,9 +1267,9 @@ phép	N	I-dl
 lái	N	I-dl
 xe	N	I-dl
 từ	E	O
-e	V	B-if4
-lên	R	I-if4
-fc	N	I-if4
+e	V	B-dl
+lên	R	B-a
+fc	V	I-a
 .
 điều	N	B-qt
 kiện	N	I-qt
@@ -2600,9 +2600,9 @@ gì	P	I-qt
 .
 đi	V	O
 thi	V	O
-nâng	V	B-if3
-hạng	N	I-if3
-bằng	E	I-if3
+nâng	V	B-a
+hạng	N	I-a
+bằng	E	I-a
 thì	C	O
 hồ	N	B-qt
 sơ	N	I-qt

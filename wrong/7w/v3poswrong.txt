@@ -1,0 +1,595 @@
+trong	E	B-l	B-l
+khu	N	I-l	I-l
+dân	N	I-l	I-l
+cư	N	I-l	I-l
+,	,	O	O
+ở	E	B-qt	O	WRONG HERE!!!
+nơi	N	I-qt	O	WRONG HERE!!!
+nào	P	I-qt	O	WRONG HERE!!!
+cho	V	O	O
+phép	V	O	O
+người	N	O	O
+lái	N	O	O
+xe	N	O	O
+,	,	O	O
+người	N	O	O
+điều	V	O	O
+khiển	V	O	O
+xe	N	B-tv	B-tv
+máy	N	I-tv	I-tv
+chuyên	A	I-tv	I-tv
+dùng	A	I-tv	I-tv
+được	R	O	O
+quay	V	B-a	B-a
+đầu	N	I-a	I-a
+xe	N	O	I-a	WRONG HERE!!!
+
+những	L	O	B-qt	WRONG HERE!!!
+xe	N	B-qt	I-qt	WRONG HERE!!!
+nào	P	I-qt	I-qt
+được	V	B-if1	I-qt	WRONG HERE!!!
+quyền	N	I-if1	I-qt	WRONG HERE!!!
+ưu	V	I-if1	I-qt	WRONG HERE!!!
+tiên	V	I-if1	I-qt	WRONG HERE!!!
+đi	V	I-if1	I-qt	WRONG HERE!!!
+trước	E	I-if1	I-qt	WRONG HERE!!!
+xe	N	O	I-qt	WRONG HERE!!!
+khác	A	O	I-qt	WRONG HERE!!!
+
+khi	N	B-if4	B-if4
+có	V	I-if4	I-if4
+xe	N	I-if4	I-if4
+phía	N	I-if4	I-if4
+sau	A	I-if4	I-if4
+xin	V	I-if4	I-if4
+vượt	V	I-if4	I-if4
+thì	C	O	O
+xe	N	B-tv	B-tv
+phía	N	I-tv	I-tv
+trước	A	I-tv	I-tv
+có	V	B-qt	B-qt
+phải	V	I-qt	I-qt
+giảm	V	B-a	I-qt	WRONG HERE!!!
+tốc	N	I-a	I-qt	WRONG HERE!!!
+độ	N	I-a	I-qt	WRONG HERE!!!
+không	R	B-qt	I-qt	WRONG HERE!!!
+
+lái	N	O	O
+xe	N	B-tv	B-tv
+máy	N	I-tv	I-tv
+mà	C	O	O
+trong	E	O	O
+người	N	O	O
+có	V	B-if3	B-if3
+chất	N	I-if3	I-if3
+ma	N	I-if3	I-if3
+túy	N	I-if3	I-if3
+thì	C	O	O
+bị	V	O	B-qt	WRONG HERE!!!
+phạt	V	O	I-qt	WRONG HERE!!!
+thế	X	O	I-qt	WRONG HERE!!!
+nào	X	O	I-qt	WRONG HERE!!!
+
+khi	N	B-qt	B-qt
+nào	P	I-qt	I-qt
+thì	C	O	O
+được	V	O	O
+nâng	V	B-a	O	WRONG HERE!!!
+hạng	N	I-a	O	WRONG HERE!!!
+bằng	E	B-dl	O	WRONG HERE!!!
+lái	N	I-dl	O	WRONG HERE!!!
+xe	N	I-dl	O	WRONG HERE!!!
+b	N	I-dl	O	WRONG HERE!!!
+1	M	I-dl	O	WRONG HERE!!!
+số	N	I-dl	O	WRONG HERE!!!
+tự	A	I-dl	O	WRONG HERE!!!
+động	A	I-dl	O	WRONG HERE!!!
+lên	E	B-a	O	WRONG HERE!!!
+b	N	I-a	O	WRONG HERE!!!
+1	M	I-a	B-v	WRONG HERE!!!
+
+những	L	O	O
+loại	Nc	B-qt	B-qt
+xe	N	I-qt	I-qt
+nào	P	I-qt	I-qt
+khi	N	B-if4	O	WRONG HERE!!!
+đi	V	I-if4	O	WRONG HERE!!!
+làm	V	I-if4	O	WRONG HERE!!!
+nhiệm	N	I-if4	O	WRONG HERE!!!
+vụ	N	I-if4	O	WRONG HERE!!!
+khẩn	V	I-if4	O	WRONG HERE!!!
+cấp	V	I-if4	O	WRONG HERE!!!
+có	V	B-if1	O	WRONG HERE!!!
+tín	N	I-if1	O	WRONG HERE!!!
+hiệu	N	I-if1	O	WRONG HERE!!!
+còi	N	I-if1	O	WRONG HERE!!!
+,	,	I-if1	O	WRONG HERE!!!
+cờ	N	I-if1	O	WRONG HERE!!!
+,	,	I-if1	O	WRONG HERE!!!
+đèn	N	I-if1	O	WRONG HERE!!!
+theo	E	O	O
+quy	N	O	O
+định	N	O	O
+không	R	B-a	O	WRONG HERE!!!
+bị	V	I-a	O	WRONG HERE!!!
+hạn	V	I-a	O	WRONG HERE!!!
+chế	V	I-a	O	WRONG HERE!!!
+tốc	N	I-a	O	WRONG HERE!!!
+độ	N	I-a	O	WRONG HERE!!!
+,	,	I-a	O	WRONG HERE!!!
+có	R	I-a	O	WRONG HERE!!!
+thể	R	I-a	B-if4	WRONG HERE!!!
+đi	V	I-a	I-if4	WRONG HERE!!!
+vào	E	I-a	I-if4	WRONG HERE!!!
+đường	N	I-a	I-if4	WRONG HERE!!!
+ngược	A	I-a	I-if4	WRONG HERE!!!
+chiều	N	I-a	I-if4	WRONG HERE!!!
+,	,	I-a	O	WRONG HERE!!!
+các	L	I-a	O	WRONG HERE!!!
+đường	N	I-a	O	WRONG HERE!!!
+khác	A	I-a	O	WRONG HERE!!!
+có	R	I-a	O	WRONG HERE!!!
+thể	R	I-a	O	WRONG HERE!!!
+đi	V	I-a	B-a	WRONG HERE!!!
+được	R	I-a	I-a
+và	CC	I-a	I-a
+chỉ	R	I-a	I-a
+phải	V	I-a	I-a
+tuân	V	I-a	I-a
+theo	E	I-a	I-a
+chỉ	N	I-a	I-a
+dẫn	N	I-a	I-a
+của	E	I-a	O	WRONG HERE!!!
+người	N	I-a	O	WRONG HERE!!!
+điều	V	I-a	O	WRONG HERE!!!
+khiển	V	I-a	O	WRONG HERE!!!
+giao	N	I-a	O	WRONG HERE!!!
+thông	N	I-a	O	WRONG HERE!!!
+
+hành	N	B-tp	O	WRONG HERE!!!
+khách	N	I-tp	O	WRONG HERE!!!
+có	V	B-qt	B-qt
+các	L	I-qt	I-qt
+quyền	N	I-qt	I-qt
+gì	P	I-qt	I-qt
+khi	N	O	O
+đi	V	O	O
+trên	E	O	O
+xe	N	B-tv	O	WRONG HERE!!!
+vận	V	I-tv	O	WRONG HERE!!!
+tải	V	I-tv	O	WRONG HERE!!!
+hành	N	I-tv	O	WRONG HERE!!!
+khách	N	I-tv	O	WRONG HERE!!!
+
+hành	N	B-tp	O	WRONG HERE!!!
+khách	N	I-tp	O	WRONG HERE!!!
+có	V	B-qt	B-qt
+các	L	I-qt	I-qt
+quyền	N	I-qt	I-qt
+gì	P	I-qt	I-qt
+khi	N	O	O
+đi	V	O	O
+trên	E	O	O
+xe	N	B-tv	O	WRONG HERE!!!
+vận	V	I-tv	O	WRONG HERE!!!
+tải	V	I-tv	O	WRONG HERE!!!
+hành	N	I-tv	O	WRONG HERE!!!
+khách	N	I-tv	O	WRONG HERE!!!
+
+trên	E	B-l	B-l
+đường	N	I-l	I-l
+cao	N	I-l	I-l
+tốc	N	I-l	I-l
+,	,	O	O
+trừ	V	O	O
+khi	N	O	O
+nhập	V	O	O
+làn	N	O	O
+và	CC	O	O
+tách	V	O	O
+làn	N	O	O
+,	,	O	O
+với	E	O	O
+điều	N	O	O
+kiện	N	O	O
+mặt	N	O	O
+đường	N	O	O
+khô	A	O	O
+ráo	A	O	O
+,	,	O	O
+xe	N	B-tv	B-tv
+cơ	N	I-tv	I-tv
+giới	N	I-tv	I-tv
+đang	R	O	O
+chạy	V	O	O
+với	E	O	O
+tôc	N	O	O
+độ	N	O	O
+đến	E	O	O
+60	M	O	B-v	WRONG HERE!!!
+km	Nu	O	I-v	WRONG HERE!!!
+
+đi	V	O	O
+ô	N	B-tv	B-tv
+tô	N	I-tv	I-tv
+thì	C	O	O
+người	N	O	O
+ngồi	V	B-qt	O	WRONG HERE!!!
+ở	E	I-qt	O	WRONG HERE!!!
+vị	N	I-qt	O	WRONG HERE!!!
+trí	N	I-qt	O	WRONG HERE!!!
+nào	P	I-qt	O	WRONG HERE!!!
+cần	V	I-qt	O	WRONG HERE!!!
+phải	V	I-qt	O	WRONG HERE!!!
+thắt	V	I-qt	O	WRONG HERE!!!
+dây	N	I-qt	O	WRONG HERE!!!
+an	A	I-qt	O	WRONG HERE!!!
+toàn	A	I-qt	O	WRONG HERE!!!
+
+người	N	O	O
+đi	V	O	O
+đường	N	O	O
+phải	V	O	O
+đi	V	B-qt	O	WRONG HERE!!!
+bên	N	I-qt	O	WRONG HERE!!!
+phải	V	I-qt	O	WRONG HERE!!!
+hay	C	I-qt	O	WRONG HERE!!!
+bên	N	I-qt	O	WRONG HERE!!!
+trái	N	I-qt	O	WRONG HERE!!!
+
+người	N	O	O
+đủ	A	O	O
+bao	P	B-qt	B-qt
+nhiêu	P	I-qt	I-qt
+tuổi	N	I-qt	I-qt
+trở	A	I-qt	I-qt
+lên	A	I-qt	I-qt
+thì	C	O	O
+được	V	O	O
+điều	V	O	O
+khiển	V	O	O
+xe	N	B-tv	B-tv
+hạng	N	I-tv	I-tv
+b	A	I-tv	B-a	WRONG HERE!!!
+2	M	I-tv	I-a	WRONG HERE!!!
+kéo	N	I-tv	I-a	WRONG HERE!!!
+rơ	V	I-tv	I-a	WRONG HERE!!!
+-	-	I-tv	I-a	WRONG HERE!!!
+moóc	V	I-tv	I-a	WRONG HERE!!!
+(	M	O	I-a	WRONG HERE!!!
+fb2	N	O	I-a	WRONG HERE!!!
+)	V	O	I-a	WRONG HERE!!!
+
+cảnh	N	B-ti	B-ti
+sát	N	I-ti	I-ti
+giao	N	I-ti	I-ti
+thông	N	I-ti	I-ti
+giơ	V	B-if4	B-if4
+tay	N	I-if4	I-if4
+thẳng	A	I-if4	I-if4
+đứng	A	I-if4	I-if4
+các	L	O	O
+xe	N	O	O
+ở	E	B-l	B-if1	WRONG HERE!!!
+các	L	I-l	I-if1	WRONG HERE!!!
+hướng	N	I-l	I-if1	WRONG HERE!!!
+khác	A	I-l	I-if1	WRONG HERE!!!
+nhau	A	I-l	I-if1	WRONG HERE!!!
+có	V	B-qt	B-qt
+được	R	I-qt	I-qt
+di	V	I-qt	B-a	WRONG HERE!!!
+chuyển	V	I-qt	I-a	WRONG HERE!!!
+không	R	I-qt	B-qt	WRONG HERE!!!
+
+cơ	N	B-qt	O	WRONG HERE!!!
+quan	N	I-qt	O	WRONG HERE!!!
+nào	P	I-qt	O	WRONG HERE!!!
+quy	N	O	O
+định	N	O	O
+các	L	B-ano	O	WRONG HERE!!!
+đoạn	Nc	I-ano	B-if4	WRONG HERE!!!
+đường	N	I-ano	I-if4	WRONG HERE!!!
+cấm	V	I-ano	I-if4	WRONG HERE!!!
+đi	V	I-ano	I-if4	WRONG HERE!!!
+,	,	O	I-if4	WRONG HERE!!!
+đường	N	B-ano	I-if4	WRONG HERE!!!
+đi	V	I-ano	I-if4	WRONG HERE!!!
+một	V	I-ano	I-if4	WRONG HERE!!!
+chiều	V	I-ano	I-if4	WRONG HERE!!!
+,	,	O	I-if4	WRONG HERE!!!
+nơi	N	B-ano	I-if4	WRONG HERE!!!
+cấm	V	I-ano	I-if4	WRONG HERE!!!
+dừng	V	I-ano	I-if4	WRONG HERE!!!
+,	,	I-ano	O	WRONG HERE!!!
+cấm	V	I-ano	B-if3	WRONG HERE!!!
+đỗ	V	I-ano	I-if3	WRONG HERE!!!
+,	,	I-ano	I-if3	WRONG HERE!!!
+cấm	V	I-ano	I-if3	WRONG HERE!!!
+quay	V	I-ano	I-if3	WRONG HERE!!!
+đầu	N	I-ano	I-if3	WRONG HERE!!!
+xe	N	I-ano	I-if3	WRONG HERE!!!
+,	,	I-ano	O	WRONG HERE!!!
+lắp	V	I-ano	B-a	WRONG HERE!!!
+đặt	V	I-ano	I-a	WRONG HERE!!!
+báo	V	I-ano	I-a	WRONG HERE!!!
+hiệu	V	I-ano	I-a	WRONG HERE!!!
+đường	N	I-ano	I-a	WRONG HERE!!!
+bộ	N	I-ano	I-a	WRONG HERE!!!
+thuộc	V	O	I-a	WRONG HERE!!!
+địa	N	O	I-a	WRONG HERE!!!
+phương	N	O	I-a	WRONG HERE!!!
+quản	V	O	I-a	WRONG HERE!!!
+lý	V	O	I-a	WRONG HERE!!!
+
+ô	N	B-tv	B-tv
+tô	N	I-tv	I-tv
+tham	V	O	O
+gia	V	O	O
+giao	N	O	O
+thông	N	O	O
+trên	E	O	O
+đường	N	O	O
+bộ	N	O	O
+phải	V	B-qt	O	WRONG HERE!!!
+bắt	V	I-qt	O	WRONG HERE!!!
+buộc	V	I-qt	O	WRONG HERE!!!
+có	V	I-qt	O	WRONG HERE!!!
+đủ	A	I-qt	O	WRONG HERE!!!
+bộ	N	I-qt	O	WRONG HERE!!!
+phận	N	I-qt	O	WRONG HERE!!!
+giảm	V	I-qt	O	WRONG HERE!!!
+thanh	N	I-qt	O	WRONG HERE!!!
+,	,	I-qt	O	WRONG HERE!!!
+giảm	V	I-qt	B-a	WRONG HERE!!!
+khói	N	I-qt	I-a	WRONG HERE!!!
+không	R	I-qt	B-qt	WRONG HERE!!!
+
+người	N	O	O
+đủ	A	O	O
+bao	P	B-qt	B-qt
+nhiêu	P	I-qt	I-qt
+tuổi	N	I-qt	I-qt
+trở	A	I-qt	I-qt
+lên	A	I-qt	I-qt
+thì	C	O	O
+được	V	O	O
+điều	V	O	O
+khiển	V	O	O
+máy	N	B-tv	B-tv
+kéo	N	I-tv	I-tv
+có	V	O	O
+trọng	N	B-if1	O	WRONG HERE!!!
+tải	N	I-if1	O	WRONG HERE!!!
+dưới	E	I-if1	O	WRONG HERE!!!
+3,5	M	I-if1	B-v	WRONG HERE!!!
+tấn	Nu	I-if1	I-v	WRONG HERE!!!
+
+xe	N	O	O
+chưa	R	B-if4	O	WRONG HERE!!!
+đi	V	I-if4	B-a	WRONG HERE!!!
+qua	E	I-if4	I-a	WRONG HERE!!!
+vạch	N	I-if4	I-a	WRONG HERE!!!
+dừng	V	I-if4	I-a	WRONG HERE!!!
+trong	E	O	B-if4	WRONG HERE!!!
+khi	N	O	I-if4	WRONG HERE!!!
+đèn	N	B-tl	B-tl
+báo	V	I-tl	I-tl
+hiệu	V	I-tl	I-tl
+chuyển	V	B-if2	O	WRONG HERE!!!
+màu	N	I-if2	O	WRONG HERE!!!
+vàng	N	I-if2	O	WRONG HERE!!!
+thì	C	O	O
+xe	N	O	O
+có	V	B-qt	B-qt
+được	R	I-qt	I-qt
+đi	V	B-a	I-qt	WRONG HERE!!!
+tiếp	V	I-a	I-qt	WRONG HERE!!!
+không	R	B-qt	I-qt	WRONG HERE!!!
+
+khi	N	O	O
+lái	N	B-if3	O	WRONG HERE!!!
+xe	N	I-if3	O	WRONG HERE!!!
+trên	E	I-if3	O	WRONG HERE!!!
+đường	N	I-if3	O	WRONG HERE!!!
+vắng	A	I-if3	O	WRONG HERE!!!
+mà	C	I-if3	O	WRONG HERE!!!
+cảm	V	I-if3	O	WRONG HERE!!!
+thấy	V	I-if3	O	WRONG HERE!!!
+buồn	A	I-if3	O	WRONG HERE!!!
+ngủ	A	I-if3	O	WRONG HERE!!!
+,	,	O	O
+người	N	O	O
+lái	N	O	O
+xe	N	O	O
+nên	V	O	O
+chọn	V	O	O
+cách	N	B-ano	O	WRONG HERE!!!
+xử	V	I-ano	B-qt	WRONG HERE!!!
+lý	V	I-ano	I-qt	WRONG HERE!!!
+như	X	B-qt	I-qt	WRONG HERE!!!
+thế	X	I-qt	I-qt
+nào	X	I-qt	I-qt
+cho	V	I-qt	O	WRONG HERE!!!
+phù	V	I-qt	O	WRONG HERE!!!
+hợp	V	I-qt	O	WRONG HERE!!!
+
+xe	N	O	O
+ô	N	B-tv	B-tv
+tô	N	I-tv	I-tv
+kéo	V	B-a	B-a
+xe	N	I-a	I-a
+khác	A	I-a	I-a
+thế	P	B-qt	B-qt
+nào	P	I-qt	I-qt
+là	V	I-qt	O	WRONG HERE!!!
+đúng	A	I-qt	O	WRONG HERE!!!
+quy	N	I-qt	O	WRONG HERE!!!
+tắc	N	I-qt	O	WRONG HERE!!!
+giao	N	I-qt	O	WRONG HERE!!!
+thông	N	I-qt	O	WRONG HERE!!!
+
+ô	N	B-tv	B-tv
+tô	N	I-tv	I-tv
+phải	V	B-qt	B-qt
+làm	X	I-qt	I-qt
+gì	X	I-qt	I-qt
+trước	E	O	I-qt	WRONG HERE!!!
+khi	N	O	I-qt	WRONG HERE!!!
+rẽ	V	B-a	I-qt	WRONG HERE!!!
+trái	N	I-a	I-qt	WRONG HERE!!!
+
+người	N	O	O
+điều	V	O	O
+khiển	V	O	O
+xe	N	B-tv	B-tv
+máy	N	I-tv	I-tv
+mà	C	O	O
+trong	E	O	B-if3	WRONG HERE!!!
+người	N	O	I-if3	WRONG HERE!!!
+có	V	B-if3	I-if3	WRONG HERE!!!
+chất	N	I-if3	I-if3
+ma	N	I-if3	I-if3
+túy	N	I-if3	I-if3
+thì	C	O	O
+bị	V	O	B-qt	WRONG HERE!!!
+phạt	V	O	I-qt	WRONG HERE!!!
+thế	X	O	I-qt	WRONG HERE!!!
+nào	X	O	I-qt	WRONG HERE!!!
+
+bao	P	B-qt	B-qt
+nhiêu	P	I-qt	I-qt
+tuổi	N	I-qt	I-qt
+thì	C	O	O
+được	V	O	O
+thi	V	B-if3	O	WRONG HERE!!!
+bằng	E	I-if3	O	WRONG HERE!!!
+lái	N	I-if3	O	WRONG HERE!!!
+xe	N	I-if3	O	WRONG HERE!!!
+
+ở	E	B-qt	B-qt
+những	L	I-qt	I-qt
+nơi	N	I-qt	I-qt
+nào	P	I-qt	I-qt
+không	R	B-a	B-a
+được	V	I-a	I-a
+quay	V	I-a	I-a
+đầu	N	I-a	I-a
+xe	N	I-a	O	WRONG HERE!!!
+
+người	N	O	O
+ngồi	V	O	O
+hàng	R	O	O
+ghế	N	O	O
+phía	N	O	O
+trước	A	O	O
+trong	E	O	O
+xe	N	O	O
+ô	N	B-tv	B-tv
+tô	N	I-tv	I-tv
+cạnh	N	O	O
+người	N	O	O
+lái	V	O	O
+xe	V	O	O
+ô	N	O	B-tv	WRONG HERE!!!
+tô	N	O	I-tv	WRONG HERE!!!
+có	V	B-qt	B-qt
+phải	V	I-qt	I-qt
+thắt	V	B-if3	I-qt	WRONG HERE!!!
+dây	N	I-if3	I-qt	WRONG HERE!!!
+an	A	I-if3	I-qt	WRONG HERE!!!
+toàn	A	I-if3	I-qt	WRONG HERE!!!
+không	R	B-qt	I-qt	WRONG HERE!!!
+
+người	N	O	O
+lái	V	O	O
+xe	V	O	O
+phải	V	B-qt	B-qt
+làm	X	I-qt	I-qt
+gì	X	I-qt	I-qt
+khi	N	B-if4	O	WRONG HERE!!!
+điều	V	I-if4	O	WRONG HERE!!!
+khiển	V	I-if4	O	WRONG HERE!!!
+xe	N	I-if4	O	WRONG HERE!!!
+vào	V	I-if4	O	WRONG HERE!!!
+đường	N	I-if4	O	WRONG HERE!!!
+cao	N	I-if4	O	WRONG HERE!!!
+tốc	N	I-if4	O	WRONG HERE!!!
+
+người	N	O	O
+lái	V	O	O
+xe	V	O	O
+phải	V	B-qt	B-qt
+làm	X	I-qt	I-qt
+gì	X	I-qt	I-qt
+khi	N	B-if4	O	WRONG HERE!!!
+điều	V	I-if4	O	WRONG HERE!!!
+khiển	V	I-if4	O	WRONG HERE!!!
+xe	N	I-if4	O	WRONG HERE!!!
+ra	V	I-if4	O	WRONG HERE!!!
+khỏi	V	I-if4	O	WRONG HERE!!!
+đường	N	I-if4	O	WRONG HERE!!!
+cao	N	I-if4	O	WRONG HERE!!!
+tốc	N	I-if4	O	WRONG HERE!!!
+
+người	N	O	O
+lái	V	O	O
+xe	V	O	O
+phải	V	B-qt	B-qt
+làm	X	I-qt	I-qt
+gì	X	I-qt	I-qt
+khi	N	B-if4	O	WRONG HERE!!!
+điều	V	I-if4	O	WRONG HERE!!!
+khiển	V	I-if4	O	WRONG HERE!!!
+xe	N	I-if4	O	WRONG HERE!!!
+vào	V	I-if4	O	WRONG HERE!!!
+đường	N	I-if4	O	WRONG HERE!!!
+cao	N	I-if4	O	WRONG HERE!!!
+tốc	N	I-if4	O	WRONG HERE!!!
+
+khi	N	B-if4	O	WRONG HERE!!!
+vào	V	I-if4	O	WRONG HERE!!!
+số	N	I-if4	O	WRONG HERE!!!
+để	E	I-if4	O	WRONG HERE!!!
+tiến	V	I-if4	O	WRONG HERE!!!
+hoặc	CC	I-if4	O	WRONG HERE!!!
+lùi	V	I-if4	O	WRONG HERE!!!
+xe	N	I-if4	O	WRONG HERE!!!
+ô	N	B-tv	B-tv
+tô	N	I-tv	I-tv
+có	V	B-if1	O	WRONG HERE!!!
+số	N	I-if1	O	WRONG HERE!!!
+tự	A	I-if1	O	WRONG HERE!!!
+động	A	I-if1	O	WRONG HERE!!!
+,	,	O	O
+người	N	O	O
+lái	V	O	O
+xe	V	O	O
+phải	V	O	O
+thực	V	B-qt	B-qt
+hiện	V	I-qt	I-qt
+các	L	I-qt	I-qt
+thao	V	I-qt	I-qt
+tác	V	I-qt	I-qt
+nào	P	I-qt	I-qt
+để	E	O	I-qt	WRONG HERE!!!
+đảm	V	O	I-qt	WRONG HERE!!!
+bảo	V	O	I-qt	WRONG HERE!!!
+an	N	O	I-qt	WRONG HERE!!!
+toàn	N	O	I-qt	WRONG HERE!!!
+
+người	N	O	O
+lái	V	O	O
+xe	V	O	O
+phải	V	B-qt	B-qt
+làm	X	I-qt	I-qt
+gì	X	I-qt	I-qt
+khi	N	B-if4	O	WRONG HERE!!!
+điều	V	I-if4	O	WRONG HERE!!!
+khiển	V	I-if4	O	WRONG HERE!!!
+xe	N	I-if4	O	WRONG HERE!!!
+ra	V	I-if4	O	WRONG HERE!!!
+khỏi	V	I-if4	O	WRONG HERE!!!
+đường	N	I-if4	O	WRONG HERE!!!
+cao	N	I-if4	O	WRONG HERE!!!
+tốc	N	I-if4	O	WRONG HERE!!!
+

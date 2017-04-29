@@ -548,12 +548,12 @@ chiều	N	O
 gặp	V	O
 nhau	N	O
 ,	,	O
-đèn_chiếu	A	B-ano
-sáng	N	I-ano
+đèn_chiếu	A	B-if1
+sáng	N	I-if1
 phải	V	O
 được	V	O
-sử_dụng	V	O
-như_thế_nào	X	B-qt
+sử_dụng	V	B-qt
+như_thế_nào	X	I-qt
 .
 hãy	R	B-qt
 nêu	V	I-qt
@@ -668,17 +668,29 @@ là	V	O
 .
 cơ_quan	N	B-qt
 nào	P	I-qt
-quy_định	N	O
+quy_định	N	I-qt
 các	L	B-ano
 đoạn	Nc	I-ano
 đường	N	I-ano
 cấm	V	I-ano
 đi	V	I-ano
-,	,	O
+thuộc	V	O
+địa_phương	N	O
+quản_lý	V	O
+.
+cơ_quan	N	B-qt
+nào	P	I-qt
+quy_định	N	I-qt
 đường	N	B-ano
 đi	V	I-ano
 một_chiều	V	I-ano
-,	,	O
+thuộc	V	O
+địa_phương	N	O
+quản_lý	V	O
+.
+cơ_quan	N	B-qt
+nào	P	I-qt
+quy_định	N	I-qt
 nơi	N	B-ano
 cấm	V	I-ano
 dừng	V	I-ano
@@ -690,8 +702,14 @@ cấm	V	I-ano
 quay	V	I-ano
 đầu	N	I-ano
 xe	N	I-ano
-,	,	I-ano
-lắp_đặt	V	I-ano
+thuộc	V	O
+địa_phương	N	O
+quản_lý	V	O
+.
+cơ_quan	N	B-qt
+nào	P	I-qt
+quy_định	N	I-qt
+lắp_đặt	V	B-ano
 báo_hiệu	V	I-ano
 đường_bộ	N	I-ano
 thuộc	V	O
@@ -748,8 +766,8 @@ giấy_phép	N	I-ano
 lái_xe	N	I-ano
 ô_tô	N	B-tv
 phải	V	O
-thực_hiện	V	O
-ở	E	B-qt
+thực_hiện	V	B-qt
+ở	E	I-qt
 đâu	P	I-qt
 .
 việc	N	O
@@ -759,8 +777,8 @@ giấy_phép	N	I-ano
 lái_xe	N	I-ano
 ô_tô	N	B-tv
 phải	V	O
-thực_hiện	V	O
-như_thế_nào	X	B-qt
+thực_hiện	V	B-qt
+như_thế_nào	X	I-qt
 .
 khi	N	O
 lái_xe	N	B-if3

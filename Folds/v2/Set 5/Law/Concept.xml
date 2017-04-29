@@ -1,24 +1,5 @@
 khái_niệm	N	O
-đường_bộ	N	B-ano
-được	R	B-qt
-hiểu	V	I-qt
-như_thế_nào	X	I-qt
-là	V	O
-đúng	A	O
-
-khái_niệm	N	O
-phần	N	B-ano
-đường	N	I-ano
-xe	N	I-ano
-chạy	V	I-ano
-được	R	B-qt
-hiểu	V	I-qt
-như_thế_nào	X	I-qt
-là	V	O
-đúng	A	O
-
-khái_niệm	N	O
-đường_phố	N	B-ano
+làn_đường	N	B-ano
 được	R	B-qt
 hiểu	V	I-qt
 như_thế_nào	X	I-qt
@@ -34,14 +15,44 @@ như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
 
-phương_tiện	N	B-ano
-tham_gia	V	I-ano
-giao_thông	N	I-ano
+trong	E	O
+hoạt_động	N	B-ano
+vận_tải	V	I-ano
 đường_bộ	N	I-ano
-gồm	V	B-qt
+,	,	O
+các	L	B-qt
+hành_vi	N	I-qt
+nào	P	I-qt
+sau	E	O
+đây	P	O
+bị	V	B-qt
+nghiêm_cấm	V	I-qt
+
+dải_phân_cách	N	B-ano
+trên	A	I-ano
+đường_bộ	N	I-ano
+có	V	B-qt
 những	L	I-qt
 loại	N	I-qt
 nào	P	I-qt
+
+người	N	B-ano
+điều_khiển	V	I-ano
+phương_tiện	N	I-ano
+tham_gia	V	I-ano
+giao_thông	N	I-ano
+gồm	V	O
+những	L	B-qt
+đối_tượng	N	I-qt
+nào	P	I-qt
+
+khái_niệm	N	O
+đường_phố	N	B-ano
+được	R	B-qt
+hiểu	V	I-qt
+như_thế_nào	X	I-qt
+là	V	O
+đúng	A	O
 
 hãy	R	B-qt
 nêu	V	I-qt
@@ -55,11 +66,48 @@ lắp	V	I-ano
 cho	E	O
 ô_tô	N	B-tv
 
-khái_niệm	N	O
-đường_cao_tốc	N	B-ano
+âm_lượng	N	B-ano
+của	E	I-ano
+còi	N	I-ano
+điện	N	I-ano
+lắp	V	O
+cho	E	O
+ô_tô	N	B-tv
+(	N	O
+đo	V	O
+ở	E	O
+độ	N	O
+cao	A	O
+1,2	M	O
+m	Nu	O
+với	E	O
+khoảng_cách	N	O
+2	M	O
+m	Nu	O
+tính_từ	V	O
+đầu	N	O
+xe	N	O
+)	M	O
+là	V	B-qt
+bao_nhiêu	P	I-qt
+
+bảo_đảm	V	B-ano
+trật_tự	N	I-ano
+,	,	I-ano
+an_toàn	N	I-ano
+giao_thông	N	I-ano
+đường_bộ	N	I-ano
+là	C	B-qt
+trách_nhiệm	N	I-qt
+của	E	I-qt
+ai	P	I-qt
+
+vạch	N	B-ano
+kẻ	V	I-ano
+đường	N	I-ano
 được	R	B-qt
 hiểu	V	I-qt
-như_thế_nào	X	I-qt
+thế_nào	P	I-qt
 là	V	O
 đúng	A	O
 
@@ -70,18 +118,18 @@ an_toàn	A	I-ano
 về	E	I-ano
 kỹ_thuật	N	I-ano
 với	E	I-ano
-dây	N	I-ano
-đai	N	I-ano
-an_toàn	A	I-ano
+gạt	V	I-ano
+nước	N	I-ano
 lắp	V	I-ano
 trên	E	I-ano
 ô_tô	N	B-tv
 
-thế_nào	P	B-qt
-là	V	I-qt
-động_cơ	N	B-ano
-2	M	I-ano
-kỳ	N	I-ano
+hãy	R	B-qt
+nêu	V	I-qt
+công_dụng	N	B-ano
+của	E	I-ano
+động_cơ	N	I-ano
+ô_tô	N	B-tv
 
 phương_tiện	N	B-ano
 giao_thông	N	I-ano
@@ -94,38 +142,26 @@ nào	P	I-qt
 hãy	R	B-qt
 nêu	V	I-qt
 công_dụng	N	B-ano
-ly	N	I-ano
-hợp	V	I-ano
-của	E	O
-ô_tô	N	B-tv
-
-hãy	R	B-qt
-nêu	V	I-qt
-công_dụng	N	B-ano
 hệ_thống	N	I-ano
 lái	N	I-ano
 của	E	O
 ô_tô	N	B-tv
 
 khái_niệm	N	O
-người	N	B-ano
-điều_khiển	V	I-ano
-giao_thông	N	I-ano
+hàng	R	B-ano
+nguy_hiểm	A	I-ano
 được	R	B-qt
 hiểu	V	I-qt
 như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
 
-khái_niệm	N	O
-xe	N	B-ano
-quá	V	I-ano
-tải_trọng	N	I-ano
-của	E	O
-đường_bộ	N	O
-được	R	B-qt
-hiểu	V	I-qt
-như_thế_nào	X	I-qt
-là	V	O
-đúng	A	O
+người	N	B-tp
+tham_gia	V	I-tp
+giao_thông	N	I-tp
+đường_bộ	N	I-tp
+gồm	V	O
+những	L	B-qt
+đối_tượng	N	I-qt
+nào	P	I-qt
 
