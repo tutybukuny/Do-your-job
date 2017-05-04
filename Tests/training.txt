@@ -27939,7 +27939,7 @@ thông	N	I-qt
 không	R	I-qt
 
 
-điều	V	I-ti
+điều	V	B-ti
 khiển	V	I-ti
 giao	N	I-ti
 thông	N	I-ti

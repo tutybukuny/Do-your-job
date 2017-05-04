@@ -482,7 +482,7 @@ tốc	N	I-a
 độ	N	I-a
 9	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -1288,7 +1288,7 @@ quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
 11km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -1878,13 +1878,13 @@ quy	N	I-a
 từ	E	O
 5	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	V	I-v
 đến	E	I-v
 dưới	N	I-v
 10	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -2164,7 +2164,7 @@ tốc	N	I-a
 độ	N	I-a
 15	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -2313,7 +2313,7 @@ quy	N	O
 trên	E	B-v
 20	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -4148,7 +4148,7 @@ phép	V	O
 là	V	O
 50	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 
 người	N	O
@@ -4772,7 +4772,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4820,7 +4820,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4922,7 +4922,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4987,7 +4987,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5024,7 +5024,7 @@ tốc	N	B-sp
 độ	N	I-sp
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5061,7 +5061,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5096,7 +5096,7 @@ tốc	N	B-sp
 là	C	O
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5132,7 +5132,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5233,7 +5233,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5304,7 +5304,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6718,7 +6718,7 @@ tốc	N	I-a
 độ	N	I-a
 6	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -7036,7 +7036,7 @@ nồng	N	B-ac
 cồn	N	I-ac
 dưới	E	B-v
 0.25miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -7067,7 +7067,7 @@ tốc	N	I-a
 độ	N	I-a
 11	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -7083,7 +7083,7 @@ tốc	N	I-a
 độ	N	I-a
 25	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -7177,7 +7177,7 @@ quá	R	I-v
 0.25miligram	M	I-v
 đến	E	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -7303,7 +7303,7 @@ nồng	N	B-ac
 cồn	N	I-ac
 dưới	E	B-v
 0.25miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -7366,7 +7366,7 @@ quá	R	I-v
 0.25miligram	M	I-v
 đến	E	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -7540,7 +7540,7 @@ quy	N	I-a
 định	N	I-a
 35	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -7588,7 +7588,7 @@ cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -7769,11 +7769,11 @@ tốc	N	I-a
 độ	N	I-a
 từ	E	O
 20km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 đến	E	I-v
 35km	M	I-v
-		I-v
+/	/	I-v
 h	V	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -8046,7 +8046,7 @@ quá	R	O
 tốc	N	B-sp
 độ	N	I-sp
 10km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -8429,7 +8429,7 @@ tốc	N	I-a
 độ	N	I-a
 6	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -8750,12 +8750,12 @@ quy	N	I-a
 từ	E	O
 10	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	V	I-v
 đến	E	I-v
 20	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -8862,7 +8862,7 @@ tốc	N	I-a
 độ	N	I-a
 25	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -9279,7 +9279,7 @@ tốc	N	I-a
 dưới	E	B-v
 10	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -10769,7 +10769,7 @@ phép	V	O
 là	V	O
 40	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 
 trong	E	B-l
@@ -10888,12 +10888,12 @@ tốc	N	B-sp
 trên	E	B-v
 80	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 đến	V	I-v
 100	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 ,	,	O
 người	N	O
@@ -11381,7 +11381,7 @@ tốc	N	B-sp
 độ	N	I-sp
 50	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 trên	E	B-l
 đường	N	I-l
@@ -11453,7 +11453,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11485,7 +11485,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11552,7 +11552,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11648,7 +11648,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11712,7 +11712,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11817,7 +11817,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11850,7 +11850,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11924,7 +11924,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11952,7 +11952,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -11983,7 +11983,7 @@ tốc	N	B-sp
 là	C	O
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -12044,7 +12044,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -12054,7 +12054,7 @@ giao	N	I-qt
 thông	N	I-qt
 không	R	I-qt
 
-điều	V	I-ti
+điều	V	B-ti
 khiển	V	I-ti
 giao	N	I-ti
 thông	N	I-ti
@@ -13976,7 +13976,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 0.20miligram	M	B-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -14203,7 +14203,7 @@ cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -14311,7 +14311,7 @@ tốc	N	I-a
 độ	N	I-a
 10	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -14327,7 +14327,7 @@ tốc	N	I-a
 độ	N	I-a
 35	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -14391,7 +14391,7 @@ quá	R	I-v
 50miligram	M	I-v
 đến	E	I-v
 80miligram	M	I-v
-		I-v
+/	/	I-v
 100	M	I-v
 mililít	N	I-v
 máu	N	I-v
@@ -14497,7 +14497,7 @@ quá	R	I-a
 tốc	N	I-a
 độ	N	I-a
 25km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -14571,7 +14571,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 90miligram	M	B-v
-		I-v
+/	/	I-v
 100mililít	M	I-v
 máu	N	I-v
 thì	C	O
@@ -14780,7 +14780,7 @@ tốc	N	I-a
 quy	N	O
 định	N	O
 35km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 thì	C	O
 bị	V	B-qt
@@ -15432,7 +15432,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 0.5miligram	M	B-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -17647,7 +17647,7 @@ tốc	N	B-sp
 đến	E	O
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 ,	,	O
 người	N	O
@@ -18127,7 +18127,7 @@ cồn	N	I-ac
 là	C	O
 0,3	M	B-v
 miligam	N	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -18231,7 +18231,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 trên	E	B-l
 đường	N	I-l
@@ -18306,7 +18306,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18339,7 +18339,7 @@ tốc	N	B-sp
 độ	N	I-sp
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18407,7 +18407,7 @@ tốc	N	B-sp
 độ	N	I-sp
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18440,7 +18440,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18548,7 +18548,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18634,7 +18634,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18673,7 +18673,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18709,7 +18709,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18746,7 +18746,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -18778,7 +18778,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -20780,12 +20780,12 @@ tốc	N	I-a
 từ	E	O
 10	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	V	I-v
 đến	E	I-v
 20	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -20832,7 +20832,7 @@ quá	R	I-v
 50miligram	M	I-v
 đến	E	I-v
 80miligram	M	I-v
-		I-v
+/	/	I-v
 100	M	I-v
 mililít	N	I-v
 máu	N	I-v
@@ -20852,7 +20852,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 90miligram	M	B-v
-		I-v
+/	/	I-v
 100	M	I-v
 mililít	N	I-v
 máu	N	I-v
@@ -20871,7 +20871,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 0.3miligram	M	B-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -20919,7 +20919,7 @@ quy	N	O
 định	N	O
 35	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -21050,7 +21050,7 @@ tốc	N	I-a
 dưới	E	B-v
 20	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -21066,7 +21066,7 @@ tốc	N	I-a
 độ	N	I-a
 20	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -21465,7 +21465,7 @@ quá	R	O
 tốc	N	B-sp
 độ	N	I-sp
 10km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -21480,7 +21480,7 @@ quá	R	O
 tốc	N	B-sp
 độ	N	I-sp
 35km	M	B-v
-		I-v
+/	/	I-v
 h	V	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -21522,7 +21522,7 @@ quá	R	I-v
 50miligram	M	I-v
 đến	E	I-v
 80miligram	M	I-v
-		I-v
+/	/	I-v
 100mililít	M	I-v
 máu	N	I-v
 thì	C	O
@@ -22405,7 +22405,7 @@ vượt	V	B-v
 quá	R	I-v
 0.35	M	I-v
 miligram	Nu	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -23442,7 +23442,7 @@ của	E	O
 ô	N	B-tv
 tô	N	I-tv
 
-cần	V	I-qt
+cần	V	B-qt
 mang	V	B-if3
 theo	E	I-if3
 giấy	N	I-if3
@@ -24213,7 +24213,7 @@ phép	V	O
 là	V	O
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 
 những	L	O
@@ -24301,7 +24301,7 @@ phép	V	O
 là	V	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 
 tuổi	N	O
@@ -24694,7 +24694,7 @@ tốc	N	B-sp
 độ	N	I-sp
 45	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 trên	E	B-l
 đường	N	I-l
@@ -24770,7 +24770,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -24803,7 +24803,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -24836,7 +24836,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -24868,7 +24868,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -24904,7 +24904,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -24942,7 +24942,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -24977,7 +24977,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25076,7 +25076,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25116,7 +25116,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25153,7 +25153,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25185,7 +25185,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25221,7 +25221,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25284,7 +25284,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25353,7 +25353,7 @@ tốc	N	B-sp
 là	C	O
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25390,7 +25390,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25427,7 +25427,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25455,7 +25455,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25514,7 +25514,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25546,7 +25546,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25578,7 +25578,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -25645,7 +25645,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
