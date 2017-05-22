@@ -516,7 +516,7 @@ phép	V	O
 là	V	O
 50	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 .
 tại	E	B-l
@@ -671,15 +671,48 @@ quay	V	B-a
 xe	N	I-a
 trên	E	B-l
 cầu	N	I-l
-,	,	O
-gầm	V	B-l
+.
+người	N	O
+lái	V	O
+xe	V	O
+phải	V	B-qt
+làm	X	I-qt
+gì	X	I-qt
+khi	N	O
+quay	V	B-a
+đầu	N	I-a
+xe	N	I-a
+trong	E	B-l
+gầm	N	I-l
 cầu	N	I-l
 vượt	N	I-l
-,	,	O
-đường	N	B-l
-ngầm	A	I-l
-hay	C	O
-khu	N	B-l
+.
+người	N	O
+lái	V	O
+xe	V	O
+phải	V	B-qt
+làm	X	I-qt
+gì	X	I-qt
+khi	N	O
+quay	V	B-a
+đầu	N	I-a
+xe	N	I-a
+trên	E	B-l
+đường	N	I-l
+ngầm	N	I-l
+.
+người	N	O
+lái	V	O
+xe	V	O
+phải	V	B-qt
+làm	X	I-qt
+gì	X	I-qt
+khi	N	O
+quay	V	B-a
+đầu	N	I-a
+xe	N	I-a
+ở	E	B-l
+khu	N	I-l
 vực	N	I-l
 đường	N	I-l
 bộ	N	I-l
@@ -704,9 +737,9 @@ chạy	V	I-l
 riêng	A	I-l
 biệt	A	I-l
 ,	,	O
-hai	M	O
-xe	N	O
-đi	V	B-if4
+hai	M	B-if4
+xe	N	I-if4
+đi	V	I-if4
 ngược	A	I-if4
 chiều	N	I-if4
 tránh	V	B-a
@@ -728,8 +761,8 @@ có	V	B-qt
 được	R	I-qt
 đỗ	V	B-a
 xe	N	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 bên	N	B-l
 trái	A	I-l
@@ -744,8 +777,8 @@ có	V	B-qt
 được	R	I-qt
 dừng	V	B-a
 xe	N	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 trên	E	B-l
 đường	N	I-l
@@ -778,10 +811,10 @@ khi	N	O
 khiển	V	O
 xe	N	O
 chạy	V	O
-trên	E	B-if4
-đoạn	Nc	I-if4
-đường	N	I-if4
-vòng	N	I-if4
+trên	E	B-l
+đoạn	Nc	I-l
+đường	N	I-l
+vòng	N	I-l
 người	N	O
 lái	N	O
 xe	N	O
@@ -802,8 +835,9 @@ khi	N	O
 khiển	V	O
 xe	N	O
 chạy	V	O
-đầu	N	B-if4
-dốc	N	I-if4
+trên	E	B-l
+đầu	N	I-l
+dốc	N	I-l
 người	N	O
 lái	N	O
 xe	N	O
@@ -866,13 +900,13 @@ khi	N	O
 lái	V	O
 ô	N	B-tv
 tô	N	I-tv
-qua	E	O
-đường	N	B-if4
-sắt	N	I-if4
-không	R	I-if4
-có	V	I-if4
-rào	N	I-if4
-chắn	N	I-if4
+qua	E	B-a
+đường	N	I-a
+sắt	N	I-a
+không	R	I-a
+có	V	I-a
+rào	N	I-a
+chắn	N	I-a
 ,	,	O
 không	R	B-if4
 có	V	I-if4
@@ -944,12 +978,12 @@ nguy	A	I-if4
 hiểm	A	I-if4
 được	R	B-qt
 nhận	V	O
-chở	V	O
+chở	V	B-a
 trên	E	O
 xe	N	B-tv
 khách	N	I-tv
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 hàng	R	B-if4
 có	V	I-if4
@@ -958,12 +992,12 @@ hôi	A	I-if4
 thối	A	I-if4
 được	R	B-qt
 nhận	V	O
-chở	V	O
+chở	V	B-a
 trên	E	O
 xe	N	B-tv
 khách	N	I-tv
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 hàng	N	B-if4
 hóa	N	I-if4
@@ -977,12 +1011,12 @@ hành	N	I-if4
 khách	N	I-if4
 được	R	B-qt
 nhận	V	O
-chở	V	O
+chở	V	B-a
 trên	E	O
 xe	N	B-tv
 khách	N	I-tv
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 điều	V	O
@@ -1171,8 +1205,20 @@ mức	N	I-l
 với	E	I-l
 đường	N	I-l
 sắt	N	I-l
-,	,	O
-cầu	N	B-l
+thì	C	O
+loại	N	O
+phương	N	B-qt
+tiện	N	I-qt
+nào	P	I-qt
+được	V	B-a
+quyền	N	I-a
+ưu	V	I-a
+tiên	V	I-a
+đi	V	I-a
+trước	E	I-a
+.
+trên	E	B-l
+cầu	N	I-l
 đường	N	I-l
 bộ	N	I-l
 đi	V	I-l
@@ -1317,14 +1363,14 @@ quay	V	I-if4
 xe	N	I-if4
 ,	,	O
 người	N	O
-lái	V	O
-xe	V	O
-cần	V	B-qt
-phải	V	I-qt
-quan	V	I-qt
-sát	V	I-qt
-và	CC	I-qt
-thực	V	I-qt
+lái	N	O
+xe	N	O
+cần	V	O
+phải	V	O
+quan	V	O
+sát	V	O
+và	CC	O
+thực	V	B-qt
 hiện	V	I-qt
 các	L	I-qt
 thao	V	I-qt
@@ -1568,9 +1614,9 @@ thao	V	I-qt
 tác	V	I-qt
 nào	P	I-qt
 .
-khi	N	O
-đèn	N	B-if4
-pha	N	I-if4
+khi	N	B-if4
+đèn	V	I-if4
+pha	V	I-if4
 của	E	I-if4
 xe	N	I-if4
 ngược	V	I-if4
@@ -3051,8 +3097,8 @@ thì	C	O
 có	V	B-qt
 được	R	I-qt
 đi	V	B-a
-trên	E	I-a
-đường	N	I-a
+trên	E	B-l
+đường	N	I-l
 không	R	B-qt
 .
 đi	V	O
@@ -3132,8 +3178,8 @@ hỏng	V	I-if1
 có	V	B-qt
 được	R	I-qt
 đi	V	B-a
-trên	E	I-a
-đường	N	I-a
+trên	E	B-l
+đường	N	I-l
 không	R	B-qt
 .
 xe	N	O
@@ -3145,8 +3191,8 @@ số	N	I-if1
 có	V	B-qt
 được	R	I-qt
 đi	V	B-a
-trên	E	I-a
-đường	N	I-a
+trên	E	B-l
+đường	N	I-l
 không	R	B-qt
 .
 xe	N	O
@@ -3465,8 +3511,8 @@ vượt	V	I-qt
 ô	N	O
 tô	N	O
 đó	P	O
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 phía	N	B-if4
 trước	A	I-if4
@@ -3545,9 +3591,9 @@ tô	N	O
 đến	E	O
 ngã	N	B-l
 ba	M	I-l
-có	V	I-l
-vòng	N	I-l
-xuyến	N	I-l
+có	V	B-if4
+vòng	N	I-if4
+xuyến	N	I-if4
 ,	,	O
 xe	N	O
 ô	N	B-tv
@@ -3566,14 +3612,14 @@ nào	P	I-qt
 tại	E	B-l
 ngã	N	I-l
 tư	M	I-l
-không	R	I-l
-có	V	I-l
-báo	V	O
-hiệu	V	O
-đi	V	O
-theo	E	O
-vòng	N	B-l
-xuyến	N	I-l
+không	R	B-if4
+có	V	I-if4
+báo	V	I-if4
+hiệu	V	I-if4
+đi	V	I-if4
+theo	E	I-if4
+vòng	N	I-if4
+xuyến	N	I-if4
 ,	,	O
 xe	N	O
 phải	V	B-qt
@@ -3737,8 +3783,8 @@ có	V	B-qt
 phép	N	O
 di	V	B-a
 chuyển	V	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 xe	N	O
 chưa	R	B-if4
@@ -3781,8 +3827,8 @@ có	V	B-qt
 được	R	I-qt
 đi	V	B-a
 tiếp	V	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 đèn	N	B-tl
 báo	V	I-tl
@@ -3797,8 +3843,8 @@ có	V	B-qt
 được	R	I-qt
 đi	V	B-a
 tiếp	V	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 lúc	N	O
 đèn	N	B-tl
@@ -3815,8 +3861,8 @@ có	V	B-qt
 được	R	I-qt
 đi	V	B-a
 tiếp	V	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 đèn	N	B-tl
 xanh	N	I-tl
@@ -5037,8 +5083,8 @@ thông	N	O
 có	V	B-qt
 được	R	I-qt
 đi	V	I-qt
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 cảnh	N	B-ti
 sát	N	I-ti
@@ -5059,8 +5105,8 @@ sát	N	I-if1
 có	V	B-qt
 được	R	I-qt
 đi	V	I-qt
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 cảnh	N	B-ti
 sát	N	I-ti
@@ -5461,8 +5507,8 @@ giao	N	O
 thông	N	O
 được	R	B-qt
 đi	V	I-qt
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 cảnh	N	B-ti
 sát	N	I-ti
@@ -5481,8 +5527,8 @@ cảnh	N	I-if1
 sát	N	I-if1
 được	R	B-qt
 đi	V	I-qt
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 cảnh	N	B-ti
 sát	N	I-ti
@@ -5506,8 +5552,8 @@ bị	V	O
 vi	V	B-qt
 phạm	V	I-qt
 luật	N	I-qt
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 cảnh	N	B-ti
 sát	N	I-ti
@@ -5528,8 +5574,8 @@ có	V	B-qt
 được	R	I-qt
 rẽ	V	B-a
 phải	V	I-a
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 cảnh	N	B-ti
 sát	N	I-ti

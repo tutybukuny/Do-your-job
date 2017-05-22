@@ -566,8 +566,8 @@ vác	V	I-if3
 vật	N	I-if3
 cồng	A	I-if3
 kềnh	A	I-if3
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 ngồi	V	O
@@ -590,8 +590,8 @@ vác	V	I-if3
 vật	N	I-if3
 cồng	A	I-if3
 kềnh	A	I-if3
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 ngồi	V	O
@@ -612,8 +612,8 @@ vác	V	I-if3
 vật	N	I-if3
 cồng	A	I-if3
 kềnh	A	I-if3
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 ô	N	B-tv
 tô	N	I-tv
@@ -1001,29 +1001,96 @@ phố	N	O
 có	V	B-qt
 được	R	I-qt
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 trên	E	B-l
 đường	N	I-l
 xe	N	I-l
 điện	N	I-l
-,	,	O
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+dừng	V	B-a
+xe	N	O
 trên	E	B-l
 miệng	N	I-l
 cống	N	I-l
 thoát	V	I-l
 nước	N	I-l
-,	,	O
-miệng	N	B-l
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+dừng	V	B-a
+xe	N	O
+trên	E	B-l
+miệng	N	I-l
 hầm	N	I-l
 của	E	I-l
 đường	N	I-l
 điện	N	I-l
 thoại	N	I-l
-,	,	I-l
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+dừng	V	B-a
+xe	N	O
+chỗ	N	B-l
+đường	N	I-l
 điện	N	I-l
 cao	A	I-l
 thế	A	I-l
-,	,	O
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+dừng	V	B-a
+xe	N	O
 chỗ	N	B-l
 dành	V	I-l
 riêng	A	I-l
@@ -1033,8 +1100,8 @@ chữa	V	I-l
 cháy	V	I-l
 lấy	V	I-l
 nước	N	I-l
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 điều	V	O
@@ -1049,29 +1116,95 @@ phố	N	O
 có	V	B-qt
 được	R	I-qt
 đỗ	V	B-a
-xe	N	I-a
+xe	N	O
 trên	E	B-l
 đường	N	I-l
 xe	N	I-l
 điện	N	I-l
-,	,	O
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+đỗ	V	B-a
+xe	N	O
 trên	E	B-l
 miệng	N	I-l
 cống	N	I-l
 thoát	V	I-l
 nước	N	I-l
-,	,	O
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+đỗ	V	B-a
+xe	N	O
 miệng	N	B-l
 hầm	N	I-l
 của	E	I-l
 đường	N	I-l
 điện	N	I-l
 thoại	N	I-l
-,	,	I-l
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+đỗ	V	B-a
+xe	N	O
+chỗ	N	B-l
+đường	N	I-l
 điện	N	I-l
 cao	A	I-l
 thế	A	I-l
-,	,	O
+hay	C	O
+không	R	B-qt
+.
+người	N	O
+điều	V	O
+khiển	V	O
+phương	N	O
+tiện	N	O
+giao	N	O
+thông	N	O
+trên	E	O
+đường	N	O
+phố	N	O
+có	V	B-qt
+được	R	I-qt
+đỗ	V	B-a
+xe	N	O
 chỗ	N	B-l
 dành	V	I-l
 riêng	A	I-l
@@ -1081,8 +1214,8 @@ chữa	V	I-l
 cháy	V	I-l
 lấy	V	I-l
 nước	N	I-l
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 ở	E	B-qt
 những	L	I-qt
@@ -1122,8 +1255,8 @@ vác	V	I-if3
 vật	N	I-if3
 cồng	A	I-if3
 kềnh	A	I-if3
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 ngồi	V	O
@@ -1146,8 +1279,8 @@ vác	V	I-if3
 vật	N	I-if3
 cồng	A	I-if3
 kềnh	A	I-if3
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 ngồi	V	O
@@ -1170,8 +1303,8 @@ vác	V	I-if3
 vật	N	I-if3
 cồng	A	I-if3
 kềnh	A	I-if3
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 việc	N	B-if3
 họp	V	I-if3
@@ -1180,10 +1313,10 @@ trên	E	I-if3
 đường	N	I-if3
 bộ	N	I-if3
 có	V	B-qt
-được	V	I-qt
-phép	N	I-qt
-hay	C	I-qt
-không	R	I-qt
+được	R	I-qt
+phép	N	O
+hay	C	O
+không	R	B-qt
 .
 tụ	V	B-if3
 tập	V	I-if3
@@ -1195,10 +1328,10 @@ trên	E	I-if3
 đường	N	I-if3
 bộ	N	I-if3
 có	V	B-qt
-được	V	I-qt
-phép	N	I-qt
-hay	C	I-qt
-không	R	I-qt
+được	R	I-qt
+phép	N	O
+hay	C	O
+không	R	B-qt
 .
 thả	V	B-if3
 rông	N	I-if3
@@ -1208,10 +1341,10 @@ trên	E	I-if3
 đường	N	I-if3
 bộ	N	I-if3
 có	V	B-qt
-được	V	I-qt
-phép	N	I-qt
-hay	C	I-qt
-không	R	I-qt
+được	R	I-qt
+phép	N	O
+hay	C	O
+không	R	B-qt
 .
 trên	E	O
 đường	N	O
@@ -1297,7 +1430,7 @@ phép	V	O
 là	V	O
 40	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 .
 trong	E	B-l
@@ -1388,7 +1521,7 @@ phép	V	O
 là	V	O
 50	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 .
 trên	E	O
@@ -1418,7 +1551,7 @@ phép	V	O
 là	V	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 .
 xe	N	B-tv
@@ -1606,7 +1739,7 @@ phép	V	O
 là	V	O
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 .
 nơi	N	B-l
@@ -1671,7 +1804,7 @@ lái	V	O
 xe	V	O
 phải	V	O
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 như	X	B-qt
 thế	X	I-qt
 nào	X	I-qt
@@ -1686,7 +1819,7 @@ lái	V	O
 xe	V	O
 phải	V	O
 đỗ	V	B-a
-xe	N	I-a
+xe	N	O
 như	X	B-qt
 thế	X	I-qt
 nào	X	I-qt
@@ -1718,7 +1851,7 @@ phép	V	O
 là	V	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 .
 trên	E	B-l
@@ -1753,7 +1886,7 @@ tốc	N	B-sp
 đến	E	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 ,	,	O
 người	N	O
@@ -1955,12 +2088,12 @@ tốc	N	B-sp
 trên	E	B-v
 60	M	I-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	V	I-v
 đến	E	I-v
 80	M	I-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 ,	,	O
 người	N	O
@@ -2177,12 +2310,12 @@ tốc	N	B-sp
 trên	E	B-v
 80	M	I-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 đến	V	I-v
 100	M	I-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 ,	,	O
 người	N	O
@@ -2377,12 +2510,12 @@ tốc	N	B-sp
 trên	E	B-v
 100	M	I-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	V	I-v
 đến	E	I-v
 120	M	I-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 ,	,	O
 người	N	O
@@ -2813,9 +2946,9 @@ xe	N	I-a
 khác	A	I-a
 không	R	B-qt
 .
-tại	E	O
-các	L	O
-điểm	N	B-l
+tại	E	B-l
+các	L	I-l
+điểm	N	I-l
 giao	V	I-l
 nhau	N	I-l
 thì	C	O
@@ -2826,8 +2959,8 @@ xe	N	I-a
 khác	A	I-a
 không	R	B-qt
 .
-tại	E	O
-ngã	N	B-l
+tại	E	B-l
+ngã	N	I-l
 tư	M	I-l
 xe	N	B-tv
 máy	N	I-tv
@@ -2876,8 +3009,8 @@ nào	P	I-qt
 xe	N	O
 quay	V	B-a
 đầu	N	I-a
-ở	E	O
-phần	N	B-l
+ở	E	B-l
+phần	N	I-l
 đường	N	I-l
 dành	V	I-l
 cho	E	I-l
@@ -2898,8 +3031,8 @@ không	R	I-qt
 xe	N	O
 quay	V	B-a
 đầu	N	I-a
-ở	E	O
-phần	N	B-l
+ở	E	B-l
+phần	N	I-l
 đường	N	I-l
 dành	V	I-l
 cho	E	I-l
@@ -2920,8 +3053,8 @@ có	V	B-qt
 quay	V	B-a
 đầu	N	I-a
 xe	N	I-a
-ở	E	O
-trên	E	B-l
+ở	E	B-l
+trên	N	I-l
 cầu	N	I-l
 không	R	B-qt
 .
@@ -2930,8 +3063,8 @@ có	V	B-qt
 quay	V	B-a
 đầu	N	I-a
 xe	N	I-a
-ở	E	O
-gầm	V	B-l
+ở	E	B-l
+gầm	N	I-l
 cầu	N	I-l
 vượt	N	I-l
 không	R	B-qt
@@ -2941,11 +3074,11 @@ có	V	B-qt
 quay	V	B-a
 đầu	N	I-a
 xe	N	I-a
-ở	E	O
-trong	E	B-l
+ở	E	B-l
+trong	E	I-l
 hầm	N	I-l
-đường	N	I-l
-bộ	N	I-l
+đường	N	O
+bộ	N	O
 không	R	B-qt
 .
 có	V	B-qt
@@ -2953,8 +3086,8 @@ có	V	B-qt
 quay	V	B-a
 đầu	N	I-a
 xe	N	I-a
-ở	E	O
-trên	E	B-l
+ở	E	B-l
+trên	N	I-l
 đường	N	I-l
 cao	N	I-l
 tốc	N	I-l
@@ -2973,7 +3106,7 @@ dốc	N	I-a
 không	R	B-qt
 .
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 bên	N	B-l
 trái	A	I-l
 đường	N	I-l
@@ -2988,7 +3121,7 @@ thông	N	I-qt
 không	R	I-qt
 .
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 bên	N	B-l
 trái	A	I-l
 đường	N	I-l
@@ -3003,7 +3136,7 @@ không	R	I-qt
 có	V	B-qt
 được	R	I-qt
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 bên	N	B-l
 trái	A	I-l
 đường	N	I-l
@@ -3012,7 +3145,7 @@ chiều	V	I-l
 không	R	B-qt
 .
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 trên	E	B-l
 cầu	N	I-l
 vượt	N	I-l
@@ -3026,7 +3159,7 @@ thông	N	I-qt
 không	R	I-qt
 .
 dừng	V	B-a
-xe	N	I-a
+xe	N	O
 trên	E	B-l
 cầu	N	I-l
 vượt	N	I-l
@@ -3041,9 +3174,9 @@ có	V	B-qt
 được	R	I-qt
 phép	N	O
 dừng	V	B-a
-xe	N	I-a
-ở	E	O
-gầm	V	B-l
+xe	N	O
+ở	E	B-l
+gầm	N	I-l
 cầu	N	I-l
 vượt	N	I-l
 không	R	B-qt
@@ -3052,8 +3185,8 @@ xe	N	O
 ô	N	B-tv
 tô	N	I-tv
 dừng	V	B-a
-ở	E	O
-nơi	N	B-l
+ở	E	B-l
+nơi	N	I-l
 dừng	V	I-l
 của	E	I-l
 xe	N	I-l
@@ -3071,8 +3204,8 @@ xe	N	O
 ô	N	B-tv
 tô	N	I-tv
 dừng	V	B-a
-ở	E	O
-nơi	N	B-l
+ở	E	B-l
+nơi	N	I-l
 dừng	V	I-l
 của	E	I-l
 xe	N	I-l
@@ -3089,8 +3222,8 @@ xe	N	O
 tô	N	I-tv
 đang	R	O
 dừng	V	B-a
-ở	E	O
-trên	E	B-l
+ở	E	B-l
+trên	N	I-l
 cầu	N	I-l
 vượt	N	I-l
 có	V	B-qt
@@ -3103,9 +3236,9 @@ có	V	B-qt
 được	R	I-qt
 phép	N	O
 dừng	V	B-a
-xe	N	I-a
-ở	E	O
-trên	E	B-l
+xe	N	O
+ở	E	B-l
+trên	E	I-l
 phần	N	I-l
 đường	N	I-l
 dành	V	I-l
@@ -3124,8 +3257,8 @@ có	V	B-qt
 được	R	I-qt
 phép	N	O
 dừng	V	B-a
-ở	E	O
-nơi	N	B-l
+ở	E	B-l
+nơi	N	I-l
 dừng	V	I-l
 của	E	I-l
 xe	N	I-l
@@ -3153,8 +3286,8 @@ xe	N	O
 tô	N	I-tv
 đang	R	O
 dừng	V	B-a
-ở	E	O
-phía	N	B-l
+ở	E	B-l
+phía	N	I-l
 bên	N	I-l
 trái	N	I-l
 đường	N	I-l
@@ -3177,8 +3310,8 @@ xe	N	O
 tô	N	I-tv
 đang	R	O
 dừng	V	B-a
-ở	E	O
-phía	N	B-l
+ở	E	B-l
+phía	N	I-l
 bên	N	I-l
 trái	N	I-l
 đường	N	I-l
@@ -3393,7 +3526,7 @@ dừng	V	I-l
 xe	N	I-l
 khẩn	V	I-l
 cấp	V	I-l
-trên	E	B-l
+trên	E	I-l
 đường	N	I-l
 cao	N	I-l
 tốc	N	I-l
@@ -3640,8 +3773,8 @@ phanh	N	I-if1
 có	V	B-qt
 được	R	I-qt
 đi	V	B-a
-trên	E	I-a
-đường	N	I-a
+trên	E	B-l
+đường	N	I-l
 không	R	B-qt
 .
 xe	N	O
@@ -4125,8 +4258,8 @@ có	V	B-qt
 đi	V	I-qt
 xe	N	B-tv
 máy	N	I-tv
-hay	C	B-qt
-không	R	I-qt
+hay	C	O
+không	R	B-qt
 .
 người	N	O
 đi	V	O
@@ -4139,7 +4272,7 @@ cồn	N	I-ac
 là	C	O
 0,3	M	B-v
 miligam	N	I-v
-/	/	I-v
+		I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -4359,7 +4492,7 @@ tô	N	I-tv
 trên	E	B-l
 đường	N	I-l
 đôi	N	I-l
-trong	E	B-l
+trong	E	I-l
 khu	N	I-l
 vực	N	I-l
 đông	N	I-l
@@ -4371,7 +4504,7 @@ tốc	N	B-sp
 là	C	O
 65	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4397,7 +4530,7 @@ tốc	N	B-sp
 là	C	O
 55	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4430,7 +4563,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4462,7 +4595,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4479,7 +4612,7 @@ tốc	N	B-sp
 độ	N	I-sp
 50	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 trên	E	B-l
 đường	N	I-l
@@ -4562,7 +4695,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 trên	E	B-l
 đường	N	I-l
@@ -4593,7 +4726,7 @@ tốc	N	B-sp
 độ	N	I-sp
 45	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 trên	E	B-l
 đường	N	I-l
@@ -4641,7 +4774,7 @@ vực	N	I-l
 đông	N	I-l
 dân	N	I-l
 cư	N	I-l
-không	R	B-l
+không	R	I-l
 có	V	I-l
 dải	N	I-l
 phân	N	I-l
@@ -4712,7 +4845,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4741,7 +4874,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4802,7 +4935,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4834,7 +4967,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4897,7 +5030,7 @@ tốc	N	B-sp
 độ	N	I-sp
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4930,7 +5063,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -4997,7 +5130,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5032,7 +5165,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5095,7 +5228,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5128,7 +5261,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5211,7 +5344,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5243,7 +5376,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5310,7 +5443,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5345,7 +5478,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5414,7 +5547,7 @@ tốc	N	B-sp
 độ	N	I-sp
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5450,7 +5583,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5522,7 +5655,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5560,7 +5693,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5627,7 +5760,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5662,7 +5795,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5748,7 +5881,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5781,7 +5914,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5850,7 +5983,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5886,7 +6019,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5957,7 +6090,7 @@ tốc	N	B-sp
 độ	N	I-sp
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -5994,7 +6127,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6071,7 +6204,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6111,7 +6244,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6182,7 +6315,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6219,7 +6352,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6302,7 +6435,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6332,7 +6465,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6399,7 +6532,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6434,7 +6567,7 @@ tốc	N	B-sp
 là	C	O
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6503,7 +6636,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6539,7 +6672,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6614,7 +6747,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6653,7 +6786,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6722,7 +6855,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6758,7 +6891,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6845,7 +6978,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6878,7 +7011,7 @@ tốc	N	B-sp
 là	C	O
 100	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6947,7 +7080,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -6983,7 +7116,7 @@ tốc	N	B-sp
 là	C	O
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7054,7 +7187,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7091,7 +7224,7 @@ tốc	N	B-sp
 độ	N	I-sp
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7168,7 +7301,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7208,7 +7341,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7279,7 +7412,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7316,7 +7449,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7387,7 +7520,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7415,7 +7548,7 @@ tốc	N	B-sp
 là	C	O
 80	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7456,8 +7589,8 @@ nhiêu	P	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 có	V	I-l
 dải	N	I-l
 phân	N	I-l
@@ -7474,7 +7607,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7505,7 +7638,7 @@ tốc	N	B-sp
 là	C	O
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7547,10 +7680,10 @@ nhiêu	P	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
-một	V	I-l
-chiều	V	I-l
+trên	E	B-l
+đường	N	I-l
+một	N	I-l
+chiều	N	I-l
 có	V	I-l
 2	M	I-l
 làn	N	I-l
@@ -7566,7 +7699,7 @@ tốc	N	B-sp
 độ	N	I-sp
 90	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7579,8 +7712,8 @@ không	R	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 một	A	I-l
 chiều	A	I-l
 có	V	I-l
@@ -7598,7 +7731,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7611,8 +7744,8 @@ không	R	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 hai	M	I-l
 chiều	N	I-l
 không	R	I-l
@@ -7643,8 +7776,8 @@ nhiêu	P	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 hai	M	I-l
 chiều	N	I-l
 không	R	I-l
@@ -7665,7 +7798,7 @@ tốc	N	B-sp
 là	C	O
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7678,8 +7811,8 @@ không	R	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 hai	M	I-l
 chiều	N	I-l
 không	R	I-l
@@ -7700,7 +7833,7 @@ tốc	N	B-sp
 là	C	O
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7742,8 +7875,8 @@ nhiêu	P	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 một	V	I-l
 chiều	V	I-l
 có	V	I-l
@@ -7761,7 +7894,7 @@ tốc	N	B-sp
 độ	N	I-sp
 70	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt
@@ -7774,8 +7907,8 @@ không	R	I-qt
 xe	N	B-tv
 máy	N	I-tv
 đi	V	O
-trên	E	O
-đường	N	B-l
+trên	E	B-l
+đường	N	I-l
 một	V	I-l
 chiều	V	I-l
 có	V	I-l
@@ -7793,7 +7926,7 @@ tốc	N	B-sp
 độ	N	I-sp
 60	M	B-v
 km	Nu	I-v
-/	/	I-v
+		I-v
 h	N	I-v
 có	V	B-qt
 vi	V	I-qt

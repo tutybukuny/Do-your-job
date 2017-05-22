@@ -180,9 +180,9 @@ tiền	N	I-qt
 .
 xe_đạp	N	B-tv
 dừng	V	B-a
-trong	E	I-a
-lòng_đường	N	I-a
-ngoài	E	B-l
+trong	E	B-l
+lòng_đường	N	I-l
+ngoài	N	I-l
 thành_phố	N	I-l
 thì	C	O
 bị	V	B-qt
@@ -195,7 +195,7 @@ thô_sơ	A	I-tv
 dừng	V	B-a
 trong	E	B-l
 lòng_đường	N	I-l
-ngoài	E	B-l
+ngoài	N	I-l
 thành_phố	N	I-l
 thì	C	O
 bị	V	B-qt
@@ -228,7 +228,7 @@ xe_đạp	N	B-tv
 đỗ	V	B-a
 trong	E	B-l
 lòng_đường	N	I-l
-ngoài	E	B-l
+ngoài	N	I-l
 thành_phố	N	I-l
 thì	C	O
 bị	V	B-qt
@@ -241,7 +241,7 @@ thô_sơ	A	I-tv
 đỗ	V	B-a
 trong	E	B-l
 lòng_đường	N	I-l
-ngoài	E	B-l
+ngoài	N	I-l
 thành_phố	N	I-l
 thì	C	O
 bị	V	B-qt
@@ -274,7 +274,7 @@ xe_đạp	N	B-tv
 chạy	V	B-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 không	R	B-if1
 có	V	I-if1
 đèn	N	I-if1
@@ -289,7 +289,7 @@ thô_sơ	A	I-tv
 chạy	V	B-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 không	R	B-if1
 có	V	I-if1
 đèn	N	I-if1
@@ -300,21 +300,6 @@ bao_nhiêu	P	I-qt
 tiền	N	I-qt
 .
 xe_đạp	N	B-tv
-chạy	V	B-a
-trong	E	I-a
-hầm	N	I-a
-mà	C	O
-không	R	B-if1
-có	V	I-if1
-đèn	N	I-if1
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-.
-xe	N	B-tv
-thô_sơ	A	I-tv
 chạy	V	B-a
 trong	E	I-a
 hầm	N	I-a
@@ -328,11 +313,26 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 .
+xe	N	B-tv
+thô_sơ	A	I-tv
+chạy	V	B-a
+trong	E	I-a
+hầm	N	I-a
+mà	C	O
+không	R	B-if1
+có	V	I-if1
+đèn	N	I-if1
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+.
 xe_đạp	N	B-tv
 dừng	V	B-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -344,7 +344,7 @@ thô_sơ	A	I-tv
 dừng	V	B-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -376,7 +376,7 @@ xe_đạp	N	B-tv
 đỗ	V	B-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -388,7 +388,7 @@ thô_sơ	A	I-tv
 đỗ	V	B-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -421,7 +421,7 @@ quay	V	B-a
 đầu	N	I-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -434,7 +434,7 @@ quay	V	B-a
 đầu	N	I-a
 trong	E	B-l
 hầm	N	I-l
-đường_bộ	N	I-l
+đường_bộ	N	O
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -618,7 +618,7 @@ xe	N	B-tv
 thô_sơ	A	I-tv
 trong	E	B-l
 lòng_đường	N	I-l
-nội_thành	N	B-l
+nội_thành	N	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -629,7 +629,7 @@ tiền	N	I-qt
 xe_đạp	N	B-tv
 trong	E	B-l
 lòng_đường	N	I-l
-thành_phố	N	B-l
+thành_phố	N	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt

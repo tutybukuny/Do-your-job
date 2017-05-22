@@ -23,26 +23,6 @@ public class CreateTest {
     private static final String newLine = "\r\n";
     static int count;
 
-    private static void createTestAsOne(String version) {
-        try {
-            PrintWriter writer = new PrintWriter("Tests\\training.txt", "UTF-8");
-            File[] fine = new File("Training Data " + version + "\\Fine").listFiles();
-            File[] law = new File("Training Data " + version + "\\Law").listFiles();
-
-            for (File file : fine) {
-                write(file, writer, 3);
-            }
-
-            for (File file : law) {
-                write(file, writer, 3);
-            }
-
-            writer.close();
-        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
-            Logger.getLogger(CreateTest.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-
     public static void createTest(String version) {
         File file = new File("Folds" + version);
         for (int i = 1; i <= 5; i++) {
@@ -103,8 +83,6 @@ public class CreateTest {
                 } else {
                     if (action == 0) {
                         sentence += line.split("\\s")[0] + " ";
-                    } else if (action == 3) {
-                        sentence += ((line.equals(".")) ? line.replaceAll("\\.", newLine) : line + newLine);
                     } else {
                         sentence += line + newLine;
                     }
@@ -125,7 +103,6 @@ public class CreateTest {
     }
 
     public static void main(String[] args) {
-//        CreateTest.createTestAsOne("v3");
-        createTest("\\v3");
+        CreateTest.createTest("\\v2");
     }
 }

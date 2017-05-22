@@ -60,7 +60,6 @@ public class TrainingDataBuiderv2 {
                 }
 
                 res = res.replaceAll("\r\n\t\t\t\tO", "");
-                res = res.replaceAll("\t\tI-v", "/\t/\tI-v");
 
                 print.write(res + "." + newLine);
             }
