@@ -125,6 +125,7 @@ public class CreateTest {
     }
 
     public static void main(String[] args) {
-        CreateTest.createTestAsOne("v3");
+//        CreateTest.createTestAsOne("v3");
+        createTest("\\v3");
     }
 }

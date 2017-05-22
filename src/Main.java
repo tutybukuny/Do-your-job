@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 
-import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  *
@@ -12,19 +13,8 @@ import java.util.Scanner;
 class Main {
 
     public static void main(String[] args) {
-        Scanner inp = new Scanner(System.in);
-        while (true) {
-            int t = inp.nextInt();
-            if (t == 0) {
-                return;
-            }
-
-            cal(t);
-        }
-    }
-
-    private static void cal(int t) {
-        int tax = ((t <= 1000000) ? 0 : ((1000000 < t && t <= 5000000) ? 10 : 20));
-        System.out.println(t * (100 - tax) / 100);
+        Pattern p = Pattern.compile("(?!')(?=(\\W|\\d)).");
+        Matcher m = p.matcher("don1t");
+        System.out.println(m.find());
     }
 }

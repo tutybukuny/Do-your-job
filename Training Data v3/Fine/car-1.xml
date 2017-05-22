@@ -1875,7 +1875,7 @@ từ	E	O
 đến	E	I-v
 10	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -1891,7 +1891,7 @@ tốc	N	I-a
 độ	N	I-a
 6	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -1907,7 +1907,7 @@ tốc	N	I-a
 độ	N	I-a
 9	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -3786,7 +3786,7 @@ nồng	N	B-ac
 cồn	N	I-ac
 dưới	E	B-v
 0.25miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -3806,7 +3806,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 0.20miligram	M	B-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -3979,12 +3979,12 @@ tốc	N	I-a
 từ	E	O
 10	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	V	I-v
 đến	E	I-v
 20	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -4000,7 +4000,7 @@ tốc	N	I-a
 độ	N	I-a
 11	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -4017,12 +4017,12 @@ tốc	N	I-a
 từ	E	O
 20	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 đến	V	I-v
 35	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -4038,7 +4038,7 @@ tốc	N	I-a
 độ	N	I-a
 25	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -4349,7 +4349,7 @@ quá	R	I-v
 50miligram	M	I-v
 đến	E	I-v
 80miligram	M	I-v
-		I-v
+/	/	I-v
 100	M	I-v
 mililít	N	I-v
 máu	N	I-v
@@ -4369,7 +4369,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 90miligram	M	B-v
-		I-v
+/	/	I-v
 100	M	I-v
 mililít	N	I-v
 máu	N	I-v
@@ -4398,7 +4398,7 @@ quá	R	I-v
 0.25miligram	M	I-v
 đến	E	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -4418,7 +4418,7 @@ nồng	N	B-ac
 độ	N	I-ac
 cồn	N	I-ac
 0.3miligram	M	B-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -4849,7 +4849,7 @@ quy	N	O
 định	N	O
 35	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -4914,7 +4914,7 @@ cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -5166,7 +5166,7 @@ nồng	N	B-ac
 cồn	N	I-ac
 dưới	E	B-v
 0.25miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -5318,7 +5318,7 @@ tốc	N	I-a
 dưới	E	B-v
 20	M	I-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -5334,7 +5334,7 @@ tốc	N	I-a
 độ	N	I-a
 10	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -5350,7 +5350,7 @@ tốc	N	I-a
 độ	N	I-a
 10	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -5366,7 +5366,7 @@ tốc	N	I-a
 độ	N	I-a
 20	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -5382,7 +5382,7 @@ tốc	N	I-a
 độ	N	I-a
 35	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 bị	V	B-qt
 phạt	V	I-qt
@@ -5532,7 +5532,7 @@ quá	R	I-v
 50miligram	M	I-v
 đến	E	I-v
 80miligram	M	I-v
-		I-v
+/	/	I-v
 100	M	I-v
 mililít	N	I-v
 máu	N	I-v
@@ -5560,7 +5560,7 @@ quá	R	I-v
 0.25miligram	M	I-v
 đến	E	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v
@@ -5821,7 +5821,7 @@ quy	N	I-a
 định	N	I-a
 35	M	B-v
 km	Nu	I-v
-		I-v
+/	/	I-v
 h	N	I-v
 thì	C	O
 bị	V	B-qt
@@ -5869,7 +5869,7 @@ cồn	N	I-ac
 vượt	V	B-v
 quá	R	I-v
 0.4miligram	M	I-v
-		I-v
+/	/	I-v
 1	M	I-v
 lít	Nu	I-v
 khí	N	I-v

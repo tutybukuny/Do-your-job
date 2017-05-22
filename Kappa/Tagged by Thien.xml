@@ -1,0 +1,50 @@
+<question><tv>xe máy</tv> <a>dừng giữa đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>chuyển hướng nhanh</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>đỗ</a> <tv>ô tô</tv> <l>trên cầu</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>sử dụng đèn chiếu xa</a> <if1>khi tránh xe ngược chiều</if1> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>đi quá gần với xe đằng trước</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>lái <tv>xe máy</tv> không chú ý quan sát <a>gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>lái <tv>xe máy</tv> <if3>không chịu kiểm tra nồng độ cồn</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><if3>dùng chân để lái</if3> <tv>xe máy</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>chở hàng quá trọng tải</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>điều khiển <tv>xe máy</tv> <a>không giảm tốc độ khi đi từ trong ngõ ra</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>điều khiển xe <tv>ô tô</tv> <a>chạy dưới tốc độ tối thiểu</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>chạy quá gần xe đi trước gây ra va chạm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>đi vào đường cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>chiếm một phần đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>điều khiển xe <tv>ô tô</tv> mà trong máu có có <ac>nồng độ cồn</ac> <v>vượt quá 0.25miligram đến 0.4miligram / 1lít khí thở</v> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>đỗ sai luật</a> <l>trên đường cao tốc</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>đuổi nhau trên đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>đỗ</a> <tv>xe máy</tv> ở <l>giữa lòng đường thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>lái xe</a> <tv>ô tô</tv> <a>quá tốc độ quy định gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>không sử dụng đèn chiếu sáng</a> <if4>khi trời tối</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>chạy</a> <tv>xe máy</tv> <a>quá tốc độ quy định gây tai nạn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>lùi</a> <tv>ô tô</tv> <l>trên đường một chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>dừng</a> <tv>ô tô</tv> <a>ngược với chiều của làn đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+<question><tv>ô tô</tv> <a>chạy nhanh ra đường chính</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>đi sai phần đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>không nhường người đi bộ khi rẽ</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>không nhường xe ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>không tuân thủ các quy định dừng, đỗ xe</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>người điều khiển <tv>ô tô</tv> <a>gây tai nạn không cấp cứu nạn nhân</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>chạy</a> <tv>ô tô</tv> <a>quá gần với xe đi trước</a> <qt>bị phạt bao nhiêu</qt>?</question>
+<question><tv>xe đạp</tv> <a>đi ngược chiều tại đường có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>bật đèn pha</a> <tv>ô tô</tv> <a>khi tránh xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>không có tín hiệu khi lùi</a> <tv>ô tô</tv> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>dừng</a> <tv>xe máy</tv> <l>tại nơi đường giao nhau</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>chạy dàn hàng 2, hàng 3</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><if3>nằm lái</if3> <tv>xe máy</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>ô tô</tv> <a>gây tai nạn mà không dừng lại</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><if3>dùng chân điều khiển vô lăng</if3> <tv>ô tô</tv> <a>không chấp hành hiệu lệnh dừng xe</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>dừng, đỗ</a> xe <tv>ô tô</tv> <l>trên đường cao tốc</l> <a>không đặt biển báo</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><if3>điều khiển</if3> <tv>ô tô</tv> <if3>bằng chân</if3> <a>gây tai nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>điều khiển xe <tv>ô tô</tv> <a>đi quá dải phân cách</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><if3>buông cả 2 tay</if3> lái <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question>lái <tv>ô tô</tv> <a>vào vùng cấm</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>dừng</a> <tv>xe máy</tv> <l>ở giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><a>chạy</a> <tv>ô tô</tv> <a>ngược chiều</a> <l>trên đường cao tốc</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe thô sơ</tv> <a>mang vác vật cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+<question><tv>xe máy</tv> <a>rẽ không nhường xe đi ngược chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>

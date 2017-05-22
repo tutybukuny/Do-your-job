@@ -1,28 +1,10 @@
 xe_đạp	N	B-tv
-rẽ	V	B-a
-đột_ngột	A	I-a
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe_đạp	N	B-tv
-không	R	B-a
-chấp_hành	V	I-a
-biển_báo	N	I-a
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe_đạp	N	B-tv
-không	R	B-a
-chấp_hành	V	I-a
-vạch	N	I-a
-kẻ	V	I-a
-đường	N	I-a
+vượt	V	B-a
+bên	N	I-a
+phải	V	I-a
+khi_không	V	I-a
+được	V	I-a
+phép	N	I-a
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -31,7 +13,20 @@ tiền	N	I-qt
 
 xe	N	B-tv
 thô_sơ	A	I-tv
-đỗ	V	B-a
+vượt	V	B-a
+bên	N	I-a
+phải	V	I-a
+khi_không	V	I-a
+được	V	I-a
+phép	N	I-a
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+xe_đạp	N	B-tv
+dừng	V	B-a
 giữa	E	B-l
 lòng_đường	N	I-l
 thì	C	O
@@ -40,61 +35,6 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
-xe	N	B-tv
-thô_sơ	A	I-tv
-chạy	V	B-a
-trong	E	B-l
-hầm	N	I-l
-đường_bộ	N	I-l
-không	R	B-if1
-có	V	I-if1
-đèn	N	I-if1
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe_đạp	N	B-tv
-chạy	V	B-a
-trong	E	I-a
-hầm	N	I-a
-mà	C	O
-không	R	B-if1
-có	V	I-if1
-đèn	N	I-if1
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe	N	B-tv
-thô_sơ	A	I-tv
-chạy	V	B-a
-trong	E	I-a
-hầm	N	I-a
-mà	C	O
-không	R	B-if1
-có	V	I-if1
-đèn	N	I-if1
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe	N	B-tv
-thô_sơ	A	I-tv
-dừng	V	B-a
-trong	E	B-l
-hầm	N	I-l
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
 xe_đạp	N	B-tv
 đỗ	V	B-a
 trong	E	B-l
@@ -107,11 +47,31 @@ bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
 xe_đạp	N	B-tv
+đỗ	V	B-a
+trong	E	B-l
+hầm	N	I-l
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+xe	N	B-tv
+thô_sơ	A	I-tv
 quay	V	B-a
 đầu	N	I-a
 trong	E	B-l
 hầm	N	I-l
 đường_bộ	N	I-l
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+xe_đạp	N	B-tv
+dùng	V	B-if3
+ô_dù	N	I-if3
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -128,52 +88,22 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
+để	E	B-a
 xe_đạp	N	B-tv
-đi	V	O
-ban_đêm	N	B-if4
-không	R	B-if1
-có	V	I-if1
-vật	N	I-if1
-phản_quang	A	I-if1
+trong	E	B-l
+lòng_đường	N	I-l
+thành_phố	N	B-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
-đỗ	V	B-a
-xe_đạp	N	B-tv
-trên	E	B-l
-cầu	N	I-l
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
+để	E	B-a
 xe	N	B-tv
 thô_sơ	A	I-tv
-không	R	B-a
-nhường	V	I-a
-đường	N	I-a
-cho	E	I-a
-xe	N	I-a
-xin	V	I-a
-vượt	V	I-a
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe_đạp	N	B-tv
-không	R	B-a
-nhường	V	I-a
-đường	N	I-a
-cho	E	I-a
-xe	N	I-a
-xin	V	I-a
-vượt	V	I-a
+ở	E	B-l
+hè_phố	N	I-l
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -185,22 +115,7 @@ gây	V	B-a
 cản_trở	V	I-a
 cho	E	I-a
 xe	N	I-a
-xin	V	I-a
-vượt	V	I-a
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
-xe	N	B-tv
-thô_sơ	A	I-tv
-gây	V	B-a
-cản_trở	V	I-a
-cho	E	I-a
-xe	N	I-a
-xin	V	I-a
-vượt	V	I-a
+ưu_tiên	V	I-a
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -224,24 +139,17 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
-xe_đạp	N	B-tv
-xếp	V	B-a
-hàng_hóa	N	I-a
-không	R	I-a
-đảm_bảo	V	I-a
-an_toàn	N	I-a
-thì	C	O
-bị	V	B-qt
-phạt	V	I-qt
-bao_nhiêu	P	I-qt
-tiền	N	I-qt
-
 xe	N	B-tv
 thô_sơ	A	I-tv
 không	R	B-a
-chấp_hành	V	I-a
-đèn	N	I-a
-giao_thông	N	I-a
+nhường	V	I-a
+đường	N	I-a
+cho	E	I-a
+xe	N	I-a
+đi	V	I-a
+trên	E	I-a
+đường	N	I-a
+chính	T	I-a
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -250,8 +158,11 @@ tiền	N	I-qt
 
 xe	N	B-tv
 thô_sơ	A	I-tv
-vượt	V	B-a
-đèn_vàng	N	B-tl
+xếp	V	B-a
+hàng_hóa	N	I-a
+vượt	V	I-a
+quá	R	I-a
+giới_hạn	N	I-a
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -259,9 +170,22 @@ bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
 xe_đạp	N	B-tv
-bám	V	B-a
-xe	N	I-a
-khác	A	I-a
+xếp	V	B-a
+hàng_hóa	N	I-a
+vượt	V	I-a
+quá	R	I-a
+giới_hạn	N	I-a
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+dùng	V	B-if3
+chân	N	I-if3
+để	E	I-if3
+điều_khiển	V	I-if3
+xe_đạp	N	B-tv
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -281,8 +205,9 @@ tiền	N	I-qt
 
 xe	N	B-tv
 thô_sơ	A	I-tv
-chở	V	B-a
-đồ	N	I-a
+mang	V	B-a
+vác	N	I-a
+vật	N	I-a
 cồng_kềnh	A	I-a
 thì	C	O
 bị	V	B-qt
@@ -299,15 +224,69 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
+xe_đạp	N	B-tv
+gây	V	B-a
+tai_nạn	N	I-a
+giao_thông	N	I-a
+không	R	I-a
+dừng	V	I-a
+lại	R	I-a
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
 xe	N	B-tv
 thô_sơ	A	I-tv
 gây	V	B-a
 tai_nạn	N	I-a
 giao_thông	N	I-a
 không	R	I-a
-giữ	V	I-a
-nguyên	A	I-a
-hiện_trường	N	I-a
+dừng	V	I-a
+lại	R	I-a
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+xe	N	B-tv
+thô_sơ	A	I-tv
+gây	V	B-a
+tai_nạn	N	I-a
+giao_thông	N	I-a
+rồi	C	I-a
+bỏ	V	I-a
+trốn	V	I-a
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+xe_đạp	N	B-tv
+gây	V	B-a
+tai_nạn	N	I-a
+giao_thông	N	I-a
+không	R	I-a
+tham_gia	V	I-a
+cấp_cứu	V	I-a
+người	N	I-a
+bị	V	I-a
+nạn	N	I-a
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+lái	N	O
+xe_đạp	N	B-tv
+điện	N	I-tv
+không	R	B-if3
+đội	V	I-if3
+mũ_bảo_hiểm	N	I-if3
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt
@@ -320,7 +299,8 @@ trên	E	O
 xe_đạp	N	B-tv
 điện	N	I-tv
 không	R	B-if3
-đội	V	I-if3
+cài	V	I-if3
+quai	N	I-if3
 mũ_bảo_hiểm	N	I-if3
 thì	C	O
 bị	V	B-qt
@@ -345,10 +325,11 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
-xe_đạp	N	B-tv
+xe	N	B-tv
+thô_sơ	A	I-tv
 đi	V	B-a
 vào	E	I-a
-khu_vực	N	I-a
+đường	N	I-a
 cấm	V	I-a
 thì	C	O
 bị	V	B-qt
@@ -357,6 +338,19 @@ bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
 xe_đạp	N	B-tv
+đi	V	B-a
+ngược	A	I-a
+chiều	N	I-a
+đường	N	B-l
+một_chiều	V	I-l
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
+xe	N	B-tv
+thô_sơ	A	I-tv
 đi	V	B-a
 ngược	V	I-a
 đường	N	B-l
@@ -367,13 +361,28 @@ phạt	V	I-qt
 bao_nhiêu	P	I-qt
 tiền	N	I-qt
 
+xe_đạp	N	B-tv
+đi	V	B-a
+ngược	A	I-a
+chiều	N	I-a
+tại	E	B-l
+đường	N	I-l
+có	V	I-l
+biển	N	I-l
+cấm	V	I-l
+thì	C	O
+bị	V	B-qt
+phạt	V	I-qt
+bao_nhiêu	P	I-qt
+tiền	N	I-qt
+
 người	N	B-tp
 đi	V	I-tp
 bộ	N	I-tp
-qua	E	B-if3
-đường_không	N	I-if3
-đảm_bảo	V	I-if3
-an_toàn	N	I-if3
+đu	V	B-if3
+bám	V	I-if3
+phương_tiện	N	I-if3
+khác	A	I-if3
 thì	C	O
 bị	V	B-qt
 phạt	V	I-qt

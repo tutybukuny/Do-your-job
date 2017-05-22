@@ -1,3 +1,20 @@
+vạch	N	B-ano
+kẻ	V	I-ano
+đường	N	I-ano
+được	R	B-qt
+hiểu	V	I-qt
+thế_nào	P	I-qt
+là	V	O
+đúng	A	O
+
+khái_niệm	N	O
+làn_đường	N	B-ano
+được	R	B-qt
+hiểu	V	I-qt
+như_thế_nào	X	I-qt
+là	V	O
+đúng	A	O
+
 khái_niệm	N	O
 đường_phố	N	B-ano
 được	R	B-qt
@@ -6,25 +23,35 @@ như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
 
-khái_niệm	N	O
 phương_tiện	N	B-ano
+tham_gia	V	I-ano
 giao_thông	N	I-ano
-cơ_giới	N	I-ano
 đường_bộ	N	I-ano
-được	R	B-qt
-hiểu	V	I-qt
-thế_nào	P	I-qt
-là	V	O
-đúng	A	O
+gồm	V	B-qt
+những	L	I-qt
+loại	N	I-qt
+nào	P	I-qt
 
 khái_niệm	N	O
-công_trình	N	B-ano
-đường_bộ	N	I-ano
+làn_đường	N	B-ano
 được	R	B-qt
 hiểu	V	I-qt
 như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
+
+trong	E	O
+hoạt_động	N	B-ano
+vận_tải	V	I-ano
+đường_bộ	N	I-ano
+,	,	O
+các	L	B-qt
+hành_vi	N	I-qt
+nào	P	I-qt
+sau	E	O
+đây	P	O
+bị	V	B-qt
+nghiêm_cấm	V	I-qt
 
 khái_niệm	N	O
 phần	N	B-ano
@@ -36,6 +63,16 @@ hiểu	V	I-qt
 như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
+
+người	N	B-ano
+điều_khiển	V	I-ano
+phương_tiện	N	I-ano
+tham_gia	V	I-ano
+giao_thông	N	I-ano
+gồm	V	O
+những	L	B-qt
+đối_tượng	N	I-qt
+nào	P	I-qt
 
 khái_niệm	N	O
 về	V	O
@@ -55,33 +92,38 @@ như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
 
-vạch	N	B-ano
-kẻ	V	I-ano
-đường	N	I-ano
-được	R	B-qt
-hiểu	V	I-qt
-thế_nào	P	I-qt
-là	V	O
-đúng	A	O
+bảo_đảm	V	B-ano
+trật_tự	N	I-ano
+,	,	I-ano
+an_toàn	N	I-ano
+giao_thông	N	I-ano
+đường_bộ	N	I-ano
+là	C	B-qt
+trách_nhiệm	N	I-qt
+của	E	I-qt
+ai	P	I-qt
 
-vận_tải	V	B-ano
-đa	N	I-ano
-phương_thức	N	I-ano
+khái_niệm	N	O
+đường_cao_tốc	N	B-ano
 được	R	B-qt
 hiểu	V	I-qt
 như_thế_nào	X	I-qt
 là	V	O
 đúng	A	O
 
-đường_bộ	N	B-ano
-trong	E	B-l
-khu_vực	N	I-l
-đông	N	I-l
-dân_cư	N	I-l
-gồm	V	B-qt
-những	L	I-qt
-đường	N	I-qt
-nào	P	I-qt
+hãy	R	B-qt
+nêu	V	I-qt
+yêu_cầu	V	B-ano
+an_toàn	A	I-ano
+về	E	I-ano
+kỹ_thuật	N	I-ano
+với	E	I-ano
+dây	N	I-ano
+đai	N	I-ano
+an_toàn	A	I-ano
+lắp	V	I-ano
+trên	E	I-ano
+ô_tô	N	B-tv
 
 khái_niệm	N	O
 đường	N	B-ano
@@ -95,59 +137,6 @@ là	V	O
 thế_nào	P	B-qt
 là	V	I-qt
 động_cơ	N	B-ano
-4	M	I-ano
+2	M	I-ano
 kỳ	N	I-ano
-
-ban_đêm	N	B-if4
-xe_cơ_giới	N	B-tv
-đi	V	O
-ngược	A	O
-chiều	N	O
-gặp	V	O
-nhau	N	O
-,	,	O
-đèn_chiếu	A	B-if1
-sáng	N	I-if1
-phải	V	O
-được	V	O
-sử_dụng	V	B-qt
-như_thế_nào	X	I-qt
-
-niên_hạn	N	B-ano
-sử_dụng	V	I-ano
-của	E	O
-ô_tô	N	B-tv
-chở	V	B-if1
-người	N	I-if1
-trên	E	I-if1
-9	M	I-if1
-chỗ	N	I-if1
-ngồi	V	I-if1
-(	M	O
-tính_từ	N	O
-năm	N	O
-bắt_đầu	V	O
-sản_xuất	V	O
-)	N	O
-là	V	O
-bao_nhiêu	P	B-qt
-năm	N	I-qt
-
-hãy	R	B-qt
-nêu	V	I-qt
-công_dụng	N	B-ano
-hộp_số	N	I-ano
-của	E	O
-ô_tô	N	B-tv
-
-việc	N	O
-sát_hạch	N	B-ano
-cấp	V	I-ano
-giấy_phép	N	I-ano
-lái_xe	N	I-ano
-ô_tô	N	B-tv
-phải	V	O
-thực_hiện	V	B-qt
-ở	E	I-qt
-đâu	P	I-qt
 
