@@ -28,7 +28,7 @@ public class CreateBat {
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
                         writer.print("crf_learn " + i
-                                + "gram/template Tests/v" + j
+                                + "gram/template SpecificTests/v" + j
                                 + "/Test" + k + "/Train.txt " + i + "gram/modelv" + j
                                 + "t" + k + newLine);
                     }
@@ -40,7 +40,7 @@ public class CreateBat {
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
                         writer.print("crf_learn " + i
-                                + "gram/postemplate Tests/v" + j
+                                + "gram/postemplate SpecificTests/v" + j
                                 + "/Test" + k + "/Train.txt " + i + "gram/modelv" + j
                                 + "t" + k + "pos" + newLine);
                     }
@@ -52,10 +52,10 @@ public class CreateBat {
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
                         writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
-                                + " Tests/v" + j + "/Test" + k + "/lawTest.txt > " + i
+                                + " SpecificTests/v" + j + "/Test" + k + "/lawTest.txt > " + i
                                 + "gram/lawoutputv" + j + "t" + k + ".txt" + newLine);
                         writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
-                                + " Tests/v" + j + "/Test" + k + "/fineTest.txt > " + i
+                                + " SpecificTests/v" + j + "/Test" + k + "/fineTest.txt > " + i
                                 + "gram/fineoutputv" + j + "t" + k + ".txt" + newLine);
                     }
                     writer.print(newLine);
@@ -64,10 +64,10 @@ public class CreateBat {
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
                         writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
-                                + "pos Tests/v" + j + "/Test" + k + "/lawTest.txt > " + i
+                                + "pos SpecificTests/v" + j + "/Test" + k + "/lawTest.txt > " + i
                                 + "gram/lawoutputv" + j + "t" + k + "pos.txt" + newLine);
                         writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
-                                + "pos Tests/v" + j + "/Test" + k + "/fineTest.txt > " + i
+                                + "pos SpecificTests/v" + j + "/Test" + k + "/fineTest.txt > " + i
                                 + "gram/fineoutputv" + j + "t" + k + "pos.txt" + newLine);
                     }
                     writer.print(newLine);
