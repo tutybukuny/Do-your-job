@@ -18,7 +18,7 @@ public class CreateBat {
     public static void main(String[] args) {
         try {
             String newLine = "\r\n";
-            PrintWriter writer = new PrintWriter("runMIRA.bat");
+            PrintWriter writer = new PrintWriter("runSpecificTest.bat");
 
             for (int i = 1; i <= 3; i++) {
                 writer.print(":: set of " + i + "-gram ---------------------------------"
@@ -27,9 +27,9 @@ public class CreateBat {
 
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
-                        writer.print("crf_learn -a MIRA " + i
+                        writer.print("crf_learn " + i
                                 + "gram/template Tests/v" + j
-                                + "/Test" + k + "/Train.txt " + i + "gram/miramodelv" + j
+                                + "/Test" + k + "/Train.txt " + i + "gram/modelv" + j
                                 + "t" + k + newLine);
                     }
                     writer.print(newLine);
@@ -39,9 +39,9 @@ public class CreateBat {
 
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
-                        writer.print("crf_learn -a MIRA " + i
+                        writer.print("crf_learn " + i
                                 + "gram/postemplate Tests/v" + j
-                                + "/Test" + k + "/Train.txt " + i + "gram/miramodelv" + j
+                                + "/Test" + k + "/Train.txt " + i + "gram/modelv" + j
                                 + "t" + k + "pos" + newLine);
                     }
                     writer.print(newLine);
@@ -51,18 +51,24 @@ public class CreateBat {
 
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
-                        writer.print("crf_test -m " + i + "gram/miramodelv" + j + "t" + k
-                                + " Tests/v" + j + "/Test" + k + "/Test.txt > " + i
-                                + "gram/miraoutputv" + j + "t" + k + ".txt" + newLine);
+                        writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
+                                + " Tests/v" + j + "/Test" + k + "/lawTest.txt > " + i
+                                + "gram/lawoutputv" + j + "t" + k + ".txt" + newLine);
+                        writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
+                                + " Tests/v" + j + "/Test" + k + "/fineTest.txt > " + i
+                                + "gram/fineoutputv" + j + "t" + k + ".txt" + newLine);
                     }
                     writer.print(newLine);
                 }
 
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
-                        writer.print("crf_test -m " + i + "gram/miramodelv" + j + "t" + k
-                                + "pos Tests/v" + j + "/Test" + k + "/Test.txt > " + i
-                                + "gram/miraoutputv" + j + "t" + k + "pos.txt" + newLine);
+                        writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
+                                + "pos Tests/v" + j + "/Test" + k + "/lawTest.txt > " + i
+                                + "gram/lawoutputv" + j + "t" + k + "pos.txt" + newLine);
+                        writer.print("crf_test -m " + i + "gram/modelv" + j + "t" + k
+                                + "pos Tests/v" + j + "/Test" + k + "/fineTest.txt > " + i
+                                + "gram/fineoutputv" + j + "t" + k + "pos.txt" + newLine);
                     }
                     writer.print(newLine);
                 }
@@ -72,8 +78,8 @@ public class CreateBat {
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
                         writer.print("perl conlleval.pl -l -d \"\\t\" < " + i
-                                + "gram/miraoutputv" + j + "t" + k + ".txt > " + i
-                                + "gram/miraresultv" + j + "t" + k + ".txt" + newLine);
+                                + "gram/lawoutputv" + j + "t" + k + ".txt > " + i
+                                + "gram/fineresultv" + j + "t" + k + ".txt" + newLine);
                     }
                     writer.print(newLine);
                 }
@@ -81,8 +87,8 @@ public class CreateBat {
                 for (int j = 2; j <= 3; j++) {
                     for (int k = 1; k <= 5; k++) {
                         writer.print("perl conlleval.pl -l -d \"\\t\" < " + i
-                                + "gram/miraoutputv" + j + "t" + k + "pos.txt > " + i
-                                + "gram/miraresultv" + j + "t" + k + "pos.txt" + newLine);
+                                + "gram/lawoutputv" + j + "t" + k + "pos.txt > " + i
+                                + "gram/fineresultv" + j + "t" + k + "pos.txt" + newLine);
                     }
                     writer.print(newLine);
                 }
