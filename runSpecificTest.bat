@@ -30,49 +30,49 @@ crf_learn 1gram/postemplate SpecificTests/v3/Test5/Train.txt 1gram/modelv3t5pos
 
 :: testing 1-gram
 
-crf_test -m 1gram/modelv2t1 SpecificTests/v2/Test1/lawTest.txt > 1gram/lawoutputv2t1.txt
-crf_test -m 1gram/modelv2t1 SpecificTests/v2/Test1/fineTest.txt > 1gram/fineoutputv2t1.txt
-crf_test -m 1gram/modelv2t2 SpecificTests/v2/Test2/lawTest.txt > 1gram/lawoutputv2t2.txt
-crf_test -m 1gram/modelv2t2 SpecificTests/v2/Test2/fineTest.txt > 1gram/fineoutputv2t2.txt
-crf_test -m 1gram/modelv2t3 SpecificTests/v2/Test3/lawTest.txt > 1gram/lawoutputv2t3.txt
-crf_test -m 1gram/modelv2t3 SpecificTests/v2/Test3/fineTest.txt > 1gram/fineoutputv2t3.txt
-crf_test -m 1gram/modelv2t4 SpecificTests/v2/Test4/lawTest.txt > 1gram/lawoutputv2t4.txt
-crf_test -m 1gram/modelv2t4 SpecificTests/v2/Test4/fineTest.txt > 1gram/fineoutputv2t4.txt
-crf_test -m 1gram/modelv2t5 SpecificTests/v2/Test5/lawTest.txt > 1gram/lawoutputv2t5.txt
-crf_test -m 1gram/modelv2t5 SpecificTests/v2/Test5/fineTest.txt > 1gram/fineoutputv2t5.txt
+crf_test -m 1gram/modelv2t1 SpecificTests/v2/Test1/lawTesting.txt > 1gram/lawoutputv2t1.txt
+crf_test -m 1gram/modelv2t1 SpecificTests/v2/Test1/fineTesting.txt > 1gram/fineoutputv2t1.txt
+crf_test -m 1gram/modelv2t2 SpecificTests/v2/Test2/lawTesting.txt > 1gram/lawoutputv2t2.txt
+crf_test -m 1gram/modelv2t2 SpecificTests/v2/Test2/fineTesting.txt > 1gram/fineoutputv2t2.txt
+crf_test -m 1gram/modelv2t3 SpecificTests/v2/Test3/lawTesting.txt > 1gram/lawoutputv2t3.txt
+crf_test -m 1gram/modelv2t3 SpecificTests/v2/Test3/fineTesting.txt > 1gram/fineoutputv2t3.txt
+crf_test -m 1gram/modelv2t4 SpecificTests/v2/Test4/lawTesting.txt > 1gram/lawoutputv2t4.txt
+crf_test -m 1gram/modelv2t4 SpecificTests/v2/Test4/fineTesting.txt > 1gram/fineoutputv2t4.txt
+crf_test -m 1gram/modelv2t5 SpecificTests/v2/Test5/lawTesting.txt > 1gram/lawoutputv2t5.txt
+crf_test -m 1gram/modelv2t5 SpecificTests/v2/Test5/fineTesting.txt > 1gram/fineoutputv2t5.txt
 
-crf_test -m 1gram/modelv3t1 SpecificTests/v3/Test1/lawTest.txt > 1gram/lawoutputv3t1.txt
-crf_test -m 1gram/modelv3t1 SpecificTests/v3/Test1/fineTest.txt > 1gram/fineoutputv3t1.txt
-crf_test -m 1gram/modelv3t2 SpecificTests/v3/Test2/lawTest.txt > 1gram/lawoutputv3t2.txt
-crf_test -m 1gram/modelv3t2 SpecificTests/v3/Test2/fineTest.txt > 1gram/fineoutputv3t2.txt
-crf_test -m 1gram/modelv3t3 SpecificTests/v3/Test3/lawTest.txt > 1gram/lawoutputv3t3.txt
-crf_test -m 1gram/modelv3t3 SpecificTests/v3/Test3/fineTest.txt > 1gram/fineoutputv3t3.txt
-crf_test -m 1gram/modelv3t4 SpecificTests/v3/Test4/lawTest.txt > 1gram/lawoutputv3t4.txt
-crf_test -m 1gram/modelv3t4 SpecificTests/v3/Test4/fineTest.txt > 1gram/fineoutputv3t4.txt
-crf_test -m 1gram/modelv3t5 SpecificTests/v3/Test5/lawTest.txt > 1gram/lawoutputv3t5.txt
-crf_test -m 1gram/modelv3t5 SpecificTests/v3/Test5/fineTest.txt > 1gram/fineoutputv3t5.txt
+crf_test -m 1gram/modelv3t1 SpecificTests/v3/Test1/lawTesting.txt > 1gram/lawoutputv3t1.txt
+crf_test -m 1gram/modelv3t1 SpecificTests/v3/Test1/fineTesting.txt > 1gram/fineoutputv3t1.txt
+crf_test -m 1gram/modelv3t2 SpecificTests/v3/Test2/lawTesting.txt > 1gram/lawoutputv3t2.txt
+crf_test -m 1gram/modelv3t2 SpecificTests/v3/Test2/fineTesting.txt > 1gram/fineoutputv3t2.txt
+crf_test -m 1gram/modelv3t3 SpecificTests/v3/Test3/lawTesting.txt > 1gram/lawoutputv3t3.txt
+crf_test -m 1gram/modelv3t3 SpecificTests/v3/Test3/fineTesting.txt > 1gram/fineoutputv3t3.txt
+crf_test -m 1gram/modelv3t4 SpecificTests/v3/Test4/lawTesting.txt > 1gram/lawoutputv3t4.txt
+crf_test -m 1gram/modelv3t4 SpecificTests/v3/Test4/fineTesting.txt > 1gram/fineoutputv3t4.txt
+crf_test -m 1gram/modelv3t5 SpecificTests/v3/Test5/lawTesting.txt > 1gram/lawoutputv3t5.txt
+crf_test -m 1gram/modelv3t5 SpecificTests/v3/Test5/fineTesting.txt > 1gram/fineoutputv3t5.txt
 
-crf_test -m 1gram/modelv2t1pos SpecificTests/v2/Test1/lawTest.txt > 1gram/lawoutputv2t1pos.txt
-crf_test -m 1gram/modelv2t1pos SpecificTests/v2/Test1/fineTest.txt > 1gram/fineoutputv2t1pos.txt
-crf_test -m 1gram/modelv2t2pos SpecificTests/v2/Test2/lawTest.txt > 1gram/lawoutputv2t2pos.txt
-crf_test -m 1gram/modelv2t2pos SpecificTests/v2/Test2/fineTest.txt > 1gram/fineoutputv2t2pos.txt
-crf_test -m 1gram/modelv2t3pos SpecificTests/v2/Test3/lawTest.txt > 1gram/lawoutputv2t3pos.txt
-crf_test -m 1gram/modelv2t3pos SpecificTests/v2/Test3/fineTest.txt > 1gram/fineoutputv2t3pos.txt
-crf_test -m 1gram/modelv2t4pos SpecificTests/v2/Test4/lawTest.txt > 1gram/lawoutputv2t4pos.txt
-crf_test -m 1gram/modelv2t4pos SpecificTests/v2/Test4/fineTest.txt > 1gram/fineoutputv2t4pos.txt
-crf_test -m 1gram/modelv2t5pos SpecificTests/v2/Test5/lawTest.txt > 1gram/lawoutputv2t5pos.txt
-crf_test -m 1gram/modelv2t5pos SpecificTests/v2/Test5/fineTest.txt > 1gram/fineoutputv2t5pos.txt
+crf_test -m 1gram/modelv2t1pos SpecificTests/v2/Test1/lawTesting.txt > 1gram/lawoutputv2t1pos.txt
+crf_test -m 1gram/modelv2t1pos SpecificTests/v2/Test1/fineTesting.txt > 1gram/fineoutputv2t1pos.txt
+crf_test -m 1gram/modelv2t2pos SpecificTests/v2/Test2/lawTesting.txt > 1gram/lawoutputv2t2pos.txt
+crf_test -m 1gram/modelv2t2pos SpecificTests/v2/Test2/fineTesting.txt > 1gram/fineoutputv2t2pos.txt
+crf_test -m 1gram/modelv2t3pos SpecificTests/v2/Test3/lawTesting.txt > 1gram/lawoutputv2t3pos.txt
+crf_test -m 1gram/modelv2t3pos SpecificTests/v2/Test3/fineTesting.txt > 1gram/fineoutputv2t3pos.txt
+crf_test -m 1gram/modelv2t4pos SpecificTests/v2/Test4/lawTesting.txt > 1gram/lawoutputv2t4pos.txt
+crf_test -m 1gram/modelv2t4pos SpecificTests/v2/Test4/fineTesting.txt > 1gram/fineoutputv2t4pos.txt
+crf_test -m 1gram/modelv2t5pos SpecificTests/v2/Test5/lawTesting.txt > 1gram/lawoutputv2t5pos.txt
+crf_test -m 1gram/modelv2t5pos SpecificTests/v2/Test5/fineTesting.txt > 1gram/fineoutputv2t5pos.txt
 
-crf_test -m 1gram/modelv3t1pos SpecificTests/v3/Test1/lawTest.txt > 1gram/lawoutputv3t1pos.txt
-crf_test -m 1gram/modelv3t1pos SpecificTests/v3/Test1/fineTest.txt > 1gram/fineoutputv3t1pos.txt
-crf_test -m 1gram/modelv3t2pos SpecificTests/v3/Test2/lawTest.txt > 1gram/lawoutputv3t2pos.txt
-crf_test -m 1gram/modelv3t2pos SpecificTests/v3/Test2/fineTest.txt > 1gram/fineoutputv3t2pos.txt
-crf_test -m 1gram/modelv3t3pos SpecificTests/v3/Test3/lawTest.txt > 1gram/lawoutputv3t3pos.txt
-crf_test -m 1gram/modelv3t3pos SpecificTests/v3/Test3/fineTest.txt > 1gram/fineoutputv3t3pos.txt
-crf_test -m 1gram/modelv3t4pos SpecificTests/v3/Test4/lawTest.txt > 1gram/lawoutputv3t4pos.txt
-crf_test -m 1gram/modelv3t4pos SpecificTests/v3/Test4/fineTest.txt > 1gram/fineoutputv3t4pos.txt
-crf_test -m 1gram/modelv3t5pos SpecificTests/v3/Test5/lawTest.txt > 1gram/lawoutputv3t5pos.txt
-crf_test -m 1gram/modelv3t5pos SpecificTests/v3/Test5/fineTest.txt > 1gram/fineoutputv3t5pos.txt
+crf_test -m 1gram/modelv3t1pos SpecificTests/v3/Test1/lawTesting.txt > 1gram/lawoutputv3t1pos.txt
+crf_test -m 1gram/modelv3t1pos SpecificTests/v3/Test1/fineTesting.txt > 1gram/fineoutputv3t1pos.txt
+crf_test -m 1gram/modelv3t2pos SpecificTests/v3/Test2/lawTesting.txt > 1gram/lawoutputv3t2pos.txt
+crf_test -m 1gram/modelv3t2pos SpecificTests/v3/Test2/fineTesting.txt > 1gram/fineoutputv3t2pos.txt
+crf_test -m 1gram/modelv3t3pos SpecificTests/v3/Test3/lawTesting.txt > 1gram/lawoutputv3t3pos.txt
+crf_test -m 1gram/modelv3t3pos SpecificTests/v3/Test3/fineTesting.txt > 1gram/fineoutputv3t3pos.txt
+crf_test -m 1gram/modelv3t4pos SpecificTests/v3/Test4/lawTesting.txt > 1gram/lawoutputv3t4pos.txt
+crf_test -m 1gram/modelv3t4pos SpecificTests/v3/Test4/fineTesting.txt > 1gram/fineoutputv3t4pos.txt
+crf_test -m 1gram/modelv3t5pos SpecificTests/v3/Test5/lawTesting.txt > 1gram/lawoutputv3t5pos.txt
+crf_test -m 1gram/modelv3t5pos SpecificTests/v3/Test5/fineTesting.txt > 1gram/fineoutputv3t5pos.txt
 
 :: checking result for 1-gram
 
@@ -132,49 +132,49 @@ crf_learn 2gram/postemplate SpecificTests/v3/Test5/Train.txt 2gram/modelv3t5pos
 
 :: testing 2-gram
 
-crf_test -m 2gram/modelv2t1 SpecificTests/v2/Test1/lawTest.txt > 2gram/lawoutputv2t1.txt
-crf_test -m 2gram/modelv2t1 SpecificTests/v2/Test1/fineTest.txt > 2gram/fineoutputv2t1.txt
-crf_test -m 2gram/modelv2t2 SpecificTests/v2/Test2/lawTest.txt > 2gram/lawoutputv2t2.txt
-crf_test -m 2gram/modelv2t2 SpecificTests/v2/Test2/fineTest.txt > 2gram/fineoutputv2t2.txt
-crf_test -m 2gram/modelv2t3 SpecificTests/v2/Test3/lawTest.txt > 2gram/lawoutputv2t3.txt
-crf_test -m 2gram/modelv2t3 SpecificTests/v2/Test3/fineTest.txt > 2gram/fineoutputv2t3.txt
-crf_test -m 2gram/modelv2t4 SpecificTests/v2/Test4/lawTest.txt > 2gram/lawoutputv2t4.txt
-crf_test -m 2gram/modelv2t4 SpecificTests/v2/Test4/fineTest.txt > 2gram/fineoutputv2t4.txt
-crf_test -m 2gram/modelv2t5 SpecificTests/v2/Test5/lawTest.txt > 2gram/lawoutputv2t5.txt
-crf_test -m 2gram/modelv2t5 SpecificTests/v2/Test5/fineTest.txt > 2gram/fineoutputv2t5.txt
+crf_test -m 2gram/modelv2t1 SpecificTests/v2/Test1/lawTesting.txt > 2gram/lawoutputv2t1.txt
+crf_test -m 2gram/modelv2t1 SpecificTests/v2/Test1/fineTesting.txt > 2gram/fineoutputv2t1.txt
+crf_test -m 2gram/modelv2t2 SpecificTests/v2/Test2/lawTesting.txt > 2gram/lawoutputv2t2.txt
+crf_test -m 2gram/modelv2t2 SpecificTests/v2/Test2/fineTesting.txt > 2gram/fineoutputv2t2.txt
+crf_test -m 2gram/modelv2t3 SpecificTests/v2/Test3/lawTesting.txt > 2gram/lawoutputv2t3.txt
+crf_test -m 2gram/modelv2t3 SpecificTests/v2/Test3/fineTesting.txt > 2gram/fineoutputv2t3.txt
+crf_test -m 2gram/modelv2t4 SpecificTests/v2/Test4/lawTesting.txt > 2gram/lawoutputv2t4.txt
+crf_test -m 2gram/modelv2t4 SpecificTests/v2/Test4/fineTesting.txt > 2gram/fineoutputv2t4.txt
+crf_test -m 2gram/modelv2t5 SpecificTests/v2/Test5/lawTesting.txt > 2gram/lawoutputv2t5.txt
+crf_test -m 2gram/modelv2t5 SpecificTests/v2/Test5/fineTesting.txt > 2gram/fineoutputv2t5.txt
 
-crf_test -m 2gram/modelv3t1 SpecificTests/v3/Test1/lawTest.txt > 2gram/lawoutputv3t1.txt
-crf_test -m 2gram/modelv3t1 SpecificTests/v3/Test1/fineTest.txt > 2gram/fineoutputv3t1.txt
-crf_test -m 2gram/modelv3t2 SpecificTests/v3/Test2/lawTest.txt > 2gram/lawoutputv3t2.txt
-crf_test -m 2gram/modelv3t2 SpecificTests/v3/Test2/fineTest.txt > 2gram/fineoutputv3t2.txt
-crf_test -m 2gram/modelv3t3 SpecificTests/v3/Test3/lawTest.txt > 2gram/lawoutputv3t3.txt
-crf_test -m 2gram/modelv3t3 SpecificTests/v3/Test3/fineTest.txt > 2gram/fineoutputv3t3.txt
-crf_test -m 2gram/modelv3t4 SpecificTests/v3/Test4/lawTest.txt > 2gram/lawoutputv3t4.txt
-crf_test -m 2gram/modelv3t4 SpecificTests/v3/Test4/fineTest.txt > 2gram/fineoutputv3t4.txt
-crf_test -m 2gram/modelv3t5 SpecificTests/v3/Test5/lawTest.txt > 2gram/lawoutputv3t5.txt
-crf_test -m 2gram/modelv3t5 SpecificTests/v3/Test5/fineTest.txt > 2gram/fineoutputv3t5.txt
+crf_test -m 2gram/modelv3t1 SpecificTests/v3/Test1/lawTesting.txt > 2gram/lawoutputv3t1.txt
+crf_test -m 2gram/modelv3t1 SpecificTests/v3/Test1/fineTesting.txt > 2gram/fineoutputv3t1.txt
+crf_test -m 2gram/modelv3t2 SpecificTests/v3/Test2/lawTesting.txt > 2gram/lawoutputv3t2.txt
+crf_test -m 2gram/modelv3t2 SpecificTests/v3/Test2/fineTesting.txt > 2gram/fineoutputv3t2.txt
+crf_test -m 2gram/modelv3t3 SpecificTests/v3/Test3/lawTesting.txt > 2gram/lawoutputv3t3.txt
+crf_test -m 2gram/modelv3t3 SpecificTests/v3/Test3/fineTesting.txt > 2gram/fineoutputv3t3.txt
+crf_test -m 2gram/modelv3t4 SpecificTests/v3/Test4/lawTesting.txt > 2gram/lawoutputv3t4.txt
+crf_test -m 2gram/modelv3t4 SpecificTests/v3/Test4/fineTesting.txt > 2gram/fineoutputv3t4.txt
+crf_test -m 2gram/modelv3t5 SpecificTests/v3/Test5/lawTesting.txt > 2gram/lawoutputv3t5.txt
+crf_test -m 2gram/modelv3t5 SpecificTests/v3/Test5/fineTesting.txt > 2gram/fineoutputv3t5.txt
 
-crf_test -m 2gram/modelv2t1pos SpecificTests/v2/Test1/lawTest.txt > 2gram/lawoutputv2t1pos.txt
-crf_test -m 2gram/modelv2t1pos SpecificTests/v2/Test1/fineTest.txt > 2gram/fineoutputv2t1pos.txt
-crf_test -m 2gram/modelv2t2pos SpecificTests/v2/Test2/lawTest.txt > 2gram/lawoutputv2t2pos.txt
-crf_test -m 2gram/modelv2t2pos SpecificTests/v2/Test2/fineTest.txt > 2gram/fineoutputv2t2pos.txt
-crf_test -m 2gram/modelv2t3pos SpecificTests/v2/Test3/lawTest.txt > 2gram/lawoutputv2t3pos.txt
-crf_test -m 2gram/modelv2t3pos SpecificTests/v2/Test3/fineTest.txt > 2gram/fineoutputv2t3pos.txt
-crf_test -m 2gram/modelv2t4pos SpecificTests/v2/Test4/lawTest.txt > 2gram/lawoutputv2t4pos.txt
-crf_test -m 2gram/modelv2t4pos SpecificTests/v2/Test4/fineTest.txt > 2gram/fineoutputv2t4pos.txt
-crf_test -m 2gram/modelv2t5pos SpecificTests/v2/Test5/lawTest.txt > 2gram/lawoutputv2t5pos.txt
-crf_test -m 2gram/modelv2t5pos SpecificTests/v2/Test5/fineTest.txt > 2gram/fineoutputv2t5pos.txt
+crf_test -m 2gram/modelv2t1pos SpecificTests/v2/Test1/lawTesting.txt > 2gram/lawoutputv2t1pos.txt
+crf_test -m 2gram/modelv2t1pos SpecificTests/v2/Test1/fineTesting.txt > 2gram/fineoutputv2t1pos.txt
+crf_test -m 2gram/modelv2t2pos SpecificTests/v2/Test2/lawTesting.txt > 2gram/lawoutputv2t2pos.txt
+crf_test -m 2gram/modelv2t2pos SpecificTests/v2/Test2/fineTesting.txt > 2gram/fineoutputv2t2pos.txt
+crf_test -m 2gram/modelv2t3pos SpecificTests/v2/Test3/lawTesting.txt > 2gram/lawoutputv2t3pos.txt
+crf_test -m 2gram/modelv2t3pos SpecificTests/v2/Test3/fineTesting.txt > 2gram/fineoutputv2t3pos.txt
+crf_test -m 2gram/modelv2t4pos SpecificTests/v2/Test4/lawTesting.txt > 2gram/lawoutputv2t4pos.txt
+crf_test -m 2gram/modelv2t4pos SpecificTests/v2/Test4/fineTesting.txt > 2gram/fineoutputv2t4pos.txt
+crf_test -m 2gram/modelv2t5pos SpecificTests/v2/Test5/lawTesting.txt > 2gram/lawoutputv2t5pos.txt
+crf_test -m 2gram/modelv2t5pos SpecificTests/v2/Test5/fineTesting.txt > 2gram/fineoutputv2t5pos.txt
 
-crf_test -m 2gram/modelv3t1pos SpecificTests/v3/Test1/lawTest.txt > 2gram/lawoutputv3t1pos.txt
-crf_test -m 2gram/modelv3t1pos SpecificTests/v3/Test1/fineTest.txt > 2gram/fineoutputv3t1pos.txt
-crf_test -m 2gram/modelv3t2pos SpecificTests/v3/Test2/lawTest.txt > 2gram/lawoutputv3t2pos.txt
-crf_test -m 2gram/modelv3t2pos SpecificTests/v3/Test2/fineTest.txt > 2gram/fineoutputv3t2pos.txt
-crf_test -m 2gram/modelv3t3pos SpecificTests/v3/Test3/lawTest.txt > 2gram/lawoutputv3t3pos.txt
-crf_test -m 2gram/modelv3t3pos SpecificTests/v3/Test3/fineTest.txt > 2gram/fineoutputv3t3pos.txt
-crf_test -m 2gram/modelv3t4pos SpecificTests/v3/Test4/lawTest.txt > 2gram/lawoutputv3t4pos.txt
-crf_test -m 2gram/modelv3t4pos SpecificTests/v3/Test4/fineTest.txt > 2gram/fineoutputv3t4pos.txt
-crf_test -m 2gram/modelv3t5pos SpecificTests/v3/Test5/lawTest.txt > 2gram/lawoutputv3t5pos.txt
-crf_test -m 2gram/modelv3t5pos SpecificTests/v3/Test5/fineTest.txt > 2gram/fineoutputv3t5pos.txt
+crf_test -m 2gram/modelv3t1pos SpecificTests/v3/Test1/lawTesting.txt > 2gram/lawoutputv3t1pos.txt
+crf_test -m 2gram/modelv3t1pos SpecificTests/v3/Test1/fineTesting.txt > 2gram/fineoutputv3t1pos.txt
+crf_test -m 2gram/modelv3t2pos SpecificTests/v3/Test2/lawTesting.txt > 2gram/lawoutputv3t2pos.txt
+crf_test -m 2gram/modelv3t2pos SpecificTests/v3/Test2/fineTesting.txt > 2gram/fineoutputv3t2pos.txt
+crf_test -m 2gram/modelv3t3pos SpecificTests/v3/Test3/lawTesting.txt > 2gram/lawoutputv3t3pos.txt
+crf_test -m 2gram/modelv3t3pos SpecificTests/v3/Test3/fineTesting.txt > 2gram/fineoutputv3t3pos.txt
+crf_test -m 2gram/modelv3t4pos SpecificTests/v3/Test4/lawTesting.txt > 2gram/lawoutputv3t4pos.txt
+crf_test -m 2gram/modelv3t4pos SpecificTests/v3/Test4/fineTesting.txt > 2gram/fineoutputv3t4pos.txt
+crf_test -m 2gram/modelv3t5pos SpecificTests/v3/Test5/lawTesting.txt > 2gram/lawoutputv3t5pos.txt
+crf_test -m 2gram/modelv3t5pos SpecificTests/v3/Test5/fineTesting.txt > 2gram/fineoutputv3t5pos.txt
 
 :: checking result for 2-gram
 
@@ -234,49 +234,49 @@ crf_learn 3gram/postemplate SpecificTests/v3/Test5/Train.txt 3gram/modelv3t5pos
 
 :: testing 3-gram
 
-crf_test -m 3gram/modelv2t1 SpecificTests/v2/Test1/lawTest.txt > 3gram/lawoutputv2t1.txt
-crf_test -m 3gram/modelv2t1 SpecificTests/v2/Test1/fineTest.txt > 3gram/fineoutputv2t1.txt
-crf_test -m 3gram/modelv2t2 SpecificTests/v2/Test2/lawTest.txt > 3gram/lawoutputv2t2.txt
-crf_test -m 3gram/modelv2t2 SpecificTests/v2/Test2/fineTest.txt > 3gram/fineoutputv2t2.txt
-crf_test -m 3gram/modelv2t3 SpecificTests/v2/Test3/lawTest.txt > 3gram/lawoutputv2t3.txt
-crf_test -m 3gram/modelv2t3 SpecificTests/v2/Test3/fineTest.txt > 3gram/fineoutputv2t3.txt
-crf_test -m 3gram/modelv2t4 SpecificTests/v2/Test4/lawTest.txt > 3gram/lawoutputv2t4.txt
-crf_test -m 3gram/modelv2t4 SpecificTests/v2/Test4/fineTest.txt > 3gram/fineoutputv2t4.txt
-crf_test -m 3gram/modelv2t5 SpecificTests/v2/Test5/lawTest.txt > 3gram/lawoutputv2t5.txt
-crf_test -m 3gram/modelv2t5 SpecificTests/v2/Test5/fineTest.txt > 3gram/fineoutputv2t5.txt
+crf_test -m 3gram/modelv2t1 SpecificTests/v2/Test1/lawTesting.txt > 3gram/lawoutputv2t1.txt
+crf_test -m 3gram/modelv2t1 SpecificTests/v2/Test1/fineTesting.txt > 3gram/fineoutputv2t1.txt
+crf_test -m 3gram/modelv2t2 SpecificTests/v2/Test2/lawTesting.txt > 3gram/lawoutputv2t2.txt
+crf_test -m 3gram/modelv2t2 SpecificTests/v2/Test2/fineTesting.txt > 3gram/fineoutputv2t2.txt
+crf_test -m 3gram/modelv2t3 SpecificTests/v2/Test3/lawTesting.txt > 3gram/lawoutputv2t3.txt
+crf_test -m 3gram/modelv2t3 SpecificTests/v2/Test3/fineTesting.txt > 3gram/fineoutputv2t3.txt
+crf_test -m 3gram/modelv2t4 SpecificTests/v2/Test4/lawTesting.txt > 3gram/lawoutputv2t4.txt
+crf_test -m 3gram/modelv2t4 SpecificTests/v2/Test4/fineTesting.txt > 3gram/fineoutputv2t4.txt
+crf_test -m 3gram/modelv2t5 SpecificTests/v2/Test5/lawTesting.txt > 3gram/lawoutputv2t5.txt
+crf_test -m 3gram/modelv2t5 SpecificTests/v2/Test5/fineTesting.txt > 3gram/fineoutputv2t5.txt
 
-crf_test -m 3gram/modelv3t1 SpecificTests/v3/Test1/lawTest.txt > 3gram/lawoutputv3t1.txt
-crf_test -m 3gram/modelv3t1 SpecificTests/v3/Test1/fineTest.txt > 3gram/fineoutputv3t1.txt
-crf_test -m 3gram/modelv3t2 SpecificTests/v3/Test2/lawTest.txt > 3gram/lawoutputv3t2.txt
-crf_test -m 3gram/modelv3t2 SpecificTests/v3/Test2/fineTest.txt > 3gram/fineoutputv3t2.txt
-crf_test -m 3gram/modelv3t3 SpecificTests/v3/Test3/lawTest.txt > 3gram/lawoutputv3t3.txt
-crf_test -m 3gram/modelv3t3 SpecificTests/v3/Test3/fineTest.txt > 3gram/fineoutputv3t3.txt
-crf_test -m 3gram/modelv3t4 SpecificTests/v3/Test4/lawTest.txt > 3gram/lawoutputv3t4.txt
-crf_test -m 3gram/modelv3t4 SpecificTests/v3/Test4/fineTest.txt > 3gram/fineoutputv3t4.txt
-crf_test -m 3gram/modelv3t5 SpecificTests/v3/Test5/lawTest.txt > 3gram/lawoutputv3t5.txt
-crf_test -m 3gram/modelv3t5 SpecificTests/v3/Test5/fineTest.txt > 3gram/fineoutputv3t5.txt
+crf_test -m 3gram/modelv3t1 SpecificTests/v3/Test1/lawTesting.txt > 3gram/lawoutputv3t1.txt
+crf_test -m 3gram/modelv3t1 SpecificTests/v3/Test1/fineTesting.txt > 3gram/fineoutputv3t1.txt
+crf_test -m 3gram/modelv3t2 SpecificTests/v3/Test2/lawTesting.txt > 3gram/lawoutputv3t2.txt
+crf_test -m 3gram/modelv3t2 SpecificTests/v3/Test2/fineTesting.txt > 3gram/fineoutputv3t2.txt
+crf_test -m 3gram/modelv3t3 SpecificTests/v3/Test3/lawTesting.txt > 3gram/lawoutputv3t3.txt
+crf_test -m 3gram/modelv3t3 SpecificTests/v3/Test3/fineTesting.txt > 3gram/fineoutputv3t3.txt
+crf_test -m 3gram/modelv3t4 SpecificTests/v3/Test4/lawTesting.txt > 3gram/lawoutputv3t4.txt
+crf_test -m 3gram/modelv3t4 SpecificTests/v3/Test4/fineTesting.txt > 3gram/fineoutputv3t4.txt
+crf_test -m 3gram/modelv3t5 SpecificTests/v3/Test5/lawTesting.txt > 3gram/lawoutputv3t5.txt
+crf_test -m 3gram/modelv3t5 SpecificTests/v3/Test5/fineTesting.txt > 3gram/fineoutputv3t5.txt
 
-crf_test -m 3gram/modelv2t1pos SpecificTests/v2/Test1/lawTest.txt > 3gram/lawoutputv2t1pos.txt
-crf_test -m 3gram/modelv2t1pos SpecificTests/v2/Test1/fineTest.txt > 3gram/fineoutputv2t1pos.txt
-crf_test -m 3gram/modelv2t2pos SpecificTests/v2/Test2/lawTest.txt > 3gram/lawoutputv2t2pos.txt
-crf_test -m 3gram/modelv2t2pos SpecificTests/v2/Test2/fineTest.txt > 3gram/fineoutputv2t2pos.txt
-crf_test -m 3gram/modelv2t3pos SpecificTests/v2/Test3/lawTest.txt > 3gram/lawoutputv2t3pos.txt
-crf_test -m 3gram/modelv2t3pos SpecificTests/v2/Test3/fineTest.txt > 3gram/fineoutputv2t3pos.txt
-crf_test -m 3gram/modelv2t4pos SpecificTests/v2/Test4/lawTest.txt > 3gram/lawoutputv2t4pos.txt
-crf_test -m 3gram/modelv2t4pos SpecificTests/v2/Test4/fineTest.txt > 3gram/fineoutputv2t4pos.txt
-crf_test -m 3gram/modelv2t5pos SpecificTests/v2/Test5/lawTest.txt > 3gram/lawoutputv2t5pos.txt
-crf_test -m 3gram/modelv2t5pos SpecificTests/v2/Test5/fineTest.txt > 3gram/fineoutputv2t5pos.txt
+crf_test -m 3gram/modelv2t1pos SpecificTests/v2/Test1/lawTesting.txt > 3gram/lawoutputv2t1pos.txt
+crf_test -m 3gram/modelv2t1pos SpecificTests/v2/Test1/fineTesting.txt > 3gram/fineoutputv2t1pos.txt
+crf_test -m 3gram/modelv2t2pos SpecificTests/v2/Test2/lawTesting.txt > 3gram/lawoutputv2t2pos.txt
+crf_test -m 3gram/modelv2t2pos SpecificTests/v2/Test2/fineTesting.txt > 3gram/fineoutputv2t2pos.txt
+crf_test -m 3gram/modelv2t3pos SpecificTests/v2/Test3/lawTesting.txt > 3gram/lawoutputv2t3pos.txt
+crf_test -m 3gram/modelv2t3pos SpecificTests/v2/Test3/fineTesting.txt > 3gram/fineoutputv2t3pos.txt
+crf_test -m 3gram/modelv2t4pos SpecificTests/v2/Test4/lawTesting.txt > 3gram/lawoutputv2t4pos.txt
+crf_test -m 3gram/modelv2t4pos SpecificTests/v2/Test4/fineTesting.txt > 3gram/fineoutputv2t4pos.txt
+crf_test -m 3gram/modelv2t5pos SpecificTests/v2/Test5/lawTesting.txt > 3gram/lawoutputv2t5pos.txt
+crf_test -m 3gram/modelv2t5pos SpecificTests/v2/Test5/fineTesting.txt > 3gram/fineoutputv2t5pos.txt
 
-crf_test -m 3gram/modelv3t1pos SpecificTests/v3/Test1/lawTest.txt > 3gram/lawoutputv3t1pos.txt
-crf_test -m 3gram/modelv3t1pos SpecificTests/v3/Test1/fineTest.txt > 3gram/fineoutputv3t1pos.txt
-crf_test -m 3gram/modelv3t2pos SpecificTests/v3/Test2/lawTest.txt > 3gram/lawoutputv3t2pos.txt
-crf_test -m 3gram/modelv3t2pos SpecificTests/v3/Test2/fineTest.txt > 3gram/fineoutputv3t2pos.txt
-crf_test -m 3gram/modelv3t3pos SpecificTests/v3/Test3/lawTest.txt > 3gram/lawoutputv3t3pos.txt
-crf_test -m 3gram/modelv3t3pos SpecificTests/v3/Test3/fineTest.txt > 3gram/fineoutputv3t3pos.txt
-crf_test -m 3gram/modelv3t4pos SpecificTests/v3/Test4/lawTest.txt > 3gram/lawoutputv3t4pos.txt
-crf_test -m 3gram/modelv3t4pos SpecificTests/v3/Test4/fineTest.txt > 3gram/fineoutputv3t4pos.txt
-crf_test -m 3gram/modelv3t5pos SpecificTests/v3/Test5/lawTest.txt > 3gram/lawoutputv3t5pos.txt
-crf_test -m 3gram/modelv3t5pos SpecificTests/v3/Test5/fineTest.txt > 3gram/fineoutputv3t5pos.txt
+crf_test -m 3gram/modelv3t1pos SpecificTests/v3/Test1/lawTesting.txt > 3gram/lawoutputv3t1pos.txt
+crf_test -m 3gram/modelv3t1pos SpecificTests/v3/Test1/fineTesting.txt > 3gram/fineoutputv3t1pos.txt
+crf_test -m 3gram/modelv3t2pos SpecificTests/v3/Test2/lawTesting.txt > 3gram/lawoutputv3t2pos.txt
+crf_test -m 3gram/modelv3t2pos SpecificTests/v3/Test2/fineTesting.txt > 3gram/fineoutputv3t2pos.txt
+crf_test -m 3gram/modelv3t3pos SpecificTests/v3/Test3/lawTesting.txt > 3gram/lawoutputv3t3pos.txt
+crf_test -m 3gram/modelv3t3pos SpecificTests/v3/Test3/fineTesting.txt > 3gram/fineoutputv3t3pos.txt
+crf_test -m 3gram/modelv3t4pos SpecificTests/v3/Test4/lawTesting.txt > 3gram/lawoutputv3t4pos.txt
+crf_test -m 3gram/modelv3t4pos SpecificTests/v3/Test4/fineTesting.txt > 3gram/fineoutputv3t4pos.txt
+crf_test -m 3gram/modelv3t5pos SpecificTests/v3/Test5/lawTesting.txt > 3gram/lawoutputv3t5pos.txt
+crf_test -m 3gram/modelv3t5pos SpecificTests/v3/Test5/fineTesting.txt > 3gram/fineoutputv3t5pos.txt
 
 :: checking result for 3-gram
 
