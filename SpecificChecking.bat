@@ -48,29 +48,53 @@ crf_test -m 1gram/modelv3t5pos SpecificTests/v3/Test5/fineTesting.txt > 1gram/fi
 
 :: checking result for 1-gram
 
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t1.txt > 1gram/fineresultv2t1.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t2.txt > 1gram/fineresultv2t2.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t3.txt > 1gram/fineresultv2t3.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t4.txt > 1gram/fineresultv2t4.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t5.txt > 1gram/fineresultv2t5.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t1.txt > 1gram/lawresultv2t1.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t2.txt > 1gram/lawresultv2t2.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t3.txt > 1gram/lawresultv2t3.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t4.txt > 1gram/lawresultv2t4.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t5.txt > 1gram/lawresultv2t5.txt
 
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t1.txt > 1gram/fineresultv3t1.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t2.txt > 1gram/fineresultv3t2.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t3.txt > 1gram/fineresultv3t3.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t4.txt > 1gram/fineresultv3t4.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t5.txt > 1gram/fineresultv3t5.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t1.txt > 1gram/lawresultv3t1.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t2.txt > 1gram/lawresultv3t2.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t3.txt > 1gram/lawresultv3t3.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t4.txt > 1gram/lawresultv3t4.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t5.txt > 1gram/lawresultv3t5.txt
 
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t1pos.txt > 1gram/fineresultv2t1pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t2pos.txt > 1gram/fineresultv2t2pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t3pos.txt > 1gram/fineresultv2t3pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t4pos.txt > 1gram/fineresultv2t4pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t5pos.txt > 1gram/fineresultv2t5pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t1pos.txt > 1gram/lawresultv2t1pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t2pos.txt > 1gram/lawresultv2t2pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t3pos.txt > 1gram/lawresultv2t3pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t4pos.txt > 1gram/lawresultv2t4pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv2t5pos.txt > 1gram/lawresultv2t5pos.txt
 
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t1pos.txt > 1gram/fineresultv3t1pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t2pos.txt > 1gram/fineresultv3t2pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t3pos.txt > 1gram/fineresultv3t3pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t4pos.txt > 1gram/fineresultv3t4pos.txt
-perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t5pos.txt > 1gram/fineresultv3t5pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t1pos.txt > 1gram/lawresultv3t1pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t2pos.txt > 1gram/lawresultv3t2pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t3pos.txt > 1gram/lawresultv3t3pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t4pos.txt > 1gram/lawresultv3t4pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/lawoutputv3t5pos.txt > 1gram/lawresultv3t5pos.txt
+
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t1.txt > 1gram/fineresultv2t1.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t2.txt > 1gram/fineresultv2t2.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t3.txt > 1gram/fineresultv2t3.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t4.txt > 1gram/fineresultv2t4.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t5.txt > 1gram/fineresultv2t5.txt
+
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t1.txt > 1gram/fineresultv3t1.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t2.txt > 1gram/fineresultv3t2.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t3.txt > 1gram/fineresultv3t3.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t4.txt > 1gram/fineresultv3t4.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t5.txt > 1gram/fineresultv3t5.txt
+
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t1pos.txt > 1gram/fineresultv2t1pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t2pos.txt > 1gram/fineresultv2t2pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t3pos.txt > 1gram/fineresultv2t3pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t4pos.txt > 1gram/fineresultv2t4pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv2t5pos.txt > 1gram/fineresultv2t5pos.txt
+
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t1pos.txt > 1gram/fineresultv3t1pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t2pos.txt > 1gram/fineresultv3t2pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t3pos.txt > 1gram/fineresultv3t3pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t4pos.txt > 1gram/fineresultv3t4pos.txt
+perl conlleval.pl -l -d "\t" < 1gram/fineoutputv3t5pos.txt > 1gram/fineresultv3t5pos.txt
 
 :: set of 2-gram ---------------------------------------------------------
 
@@ -122,29 +146,53 @@ crf_test -m 2gram/modelv3t5pos SpecificTests/v3/Test5/fineTesting.txt > 2gram/fi
 
 :: checking result for 2-gram
 
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t1.txt > 2gram/fineresultv2t1.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t2.txt > 2gram/fineresultv2t2.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t3.txt > 2gram/fineresultv2t3.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t4.txt > 2gram/fineresultv2t4.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t5.txt > 2gram/fineresultv2t5.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t1.txt > 2gram/lawresultv2t1.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t2.txt > 2gram/lawresultv2t2.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t3.txt > 2gram/lawresultv2t3.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t4.txt > 2gram/lawresultv2t4.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t5.txt > 2gram/lawresultv2t5.txt
 
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t1.txt > 2gram/fineresultv3t1.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t2.txt > 2gram/fineresultv3t2.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t3.txt > 2gram/fineresultv3t3.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t4.txt > 2gram/fineresultv3t4.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t5.txt > 2gram/fineresultv3t5.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t1.txt > 2gram/lawresultv3t1.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t2.txt > 2gram/lawresultv3t2.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t3.txt > 2gram/lawresultv3t3.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t4.txt > 2gram/lawresultv3t4.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t5.txt > 2gram/lawresultv3t5.txt
 
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t1pos.txt > 2gram/fineresultv2t1pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t2pos.txt > 2gram/fineresultv2t2pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t3pos.txt > 2gram/fineresultv2t3pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t4pos.txt > 2gram/fineresultv2t4pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t5pos.txt > 2gram/fineresultv2t5pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t1pos.txt > 2gram/lawresultv2t1pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t2pos.txt > 2gram/lawresultv2t2pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t3pos.txt > 2gram/lawresultv2t3pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t4pos.txt > 2gram/lawresultv2t4pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv2t5pos.txt > 2gram/lawresultv2t5pos.txt
 
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t1pos.txt > 2gram/fineresultv3t1pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t2pos.txt > 2gram/fineresultv3t2pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t3pos.txt > 2gram/fineresultv3t3pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t4pos.txt > 2gram/fineresultv3t4pos.txt
-perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t5pos.txt > 2gram/fineresultv3t5pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t1pos.txt > 2gram/lawresultv3t1pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t2pos.txt > 2gram/lawresultv3t2pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t3pos.txt > 2gram/lawresultv3t3pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t4pos.txt > 2gram/lawresultv3t4pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/lawoutputv3t5pos.txt > 2gram/lawresultv3t5pos.txt
+
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t1.txt > 2gram/fineresultv2t1.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t2.txt > 2gram/fineresultv2t2.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t3.txt > 2gram/fineresultv2t3.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t4.txt > 2gram/fineresultv2t4.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t5.txt > 2gram/fineresultv2t5.txt
+
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t1.txt > 2gram/fineresultv3t1.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t2.txt > 2gram/fineresultv3t2.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t3.txt > 2gram/fineresultv3t3.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t4.txt > 2gram/fineresultv3t4.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t5.txt > 2gram/fineresultv3t5.txt
+
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t1pos.txt > 2gram/fineresultv2t1pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t2pos.txt > 2gram/fineresultv2t2pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t3pos.txt > 2gram/fineresultv2t3pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t4pos.txt > 2gram/fineresultv2t4pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv2t5pos.txt > 2gram/fineresultv2t5pos.txt
+
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t1pos.txt > 2gram/fineresultv3t1pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t2pos.txt > 2gram/fineresultv3t2pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t3pos.txt > 2gram/fineresultv3t3pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t4pos.txt > 2gram/fineresultv3t4pos.txt
+perl conlleval.pl -l -d "\t" < 2gram/fineoutputv3t5pos.txt > 2gram/fineresultv3t5pos.txt
 
 :: set of 3-gram ---------------------------------------------------------
 
@@ -196,27 +244,50 @@ crf_test -m 3gram/modelv3t5pos SpecificTests/v3/Test5/fineTesting.txt > 3gram/fi
 
 :: checking result for 3-gram
 
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t1.txt > 3gram/fineresultv2t1.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t2.txt > 3gram/fineresultv2t2.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t3.txt > 3gram/fineresultv2t3.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t4.txt > 3gram/fineresultv2t4.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t5.txt > 3gram/fineresultv2t5.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t1.txt > 3gram/lawresultv2t1.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t2.txt > 3gram/lawresultv2t2.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t3.txt > 3gram/lawresultv2t3.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t4.txt > 3gram/lawresultv2t4.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t5.txt > 3gram/lawresultv2t5.txt
 
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t1.txt > 3gram/fineresultv3t1.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t2.txt > 3gram/fineresultv3t2.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t3.txt > 3gram/fineresultv3t3.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t4.txt > 3gram/fineresultv3t4.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t5.txt > 3gram/fineresultv3t5.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t1.txt > 3gram/lawresultv3t1.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t2.txt > 3gram/lawresultv3t2.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t3.txt > 3gram/lawresultv3t3.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t4.txt > 3gram/lawresultv3t4.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t5.txt > 3gram/lawresultv3t5.txt
 
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t1pos.txt > 3gram/fineresultv2t1pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t2pos.txt > 3gram/fineresultv2t2pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t3pos.txt > 3gram/fineresultv2t3pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t4pos.txt > 3gram/fineresultv2t4pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t5pos.txt > 3gram/fineresultv2t5pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t1pos.txt > 3gram/lawresultv2t1pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t2pos.txt > 3gram/lawresultv2t2pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t3pos.txt > 3gram/lawresultv2t3pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t4pos.txt > 3gram/lawresultv2t4pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv2t5pos.txt > 3gram/lawresultv2t5pos.txt
 
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t1pos.txt > 3gram/fineresultv3t1pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t2pos.txt > 3gram/fineresultv3t2pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t3pos.txt > 3gram/fineresultv3t3pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t4pos.txt > 3gram/fineresultv3t4pos.txt
-perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t5pos.txt > 3gram/fineresultv3t5pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t1pos.txt > 3gram/lawresultv3t1pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t2pos.txt > 3gram/lawresultv3t2pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t3pos.txt > 3gram/lawresultv3t3pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t4pos.txt > 3gram/lawresultv3t4pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/lawoutputv3t5pos.txt > 3gram/lawresultv3t5pos.txt
 
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t1.txt > 3gram/fineresultv2t1.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t2.txt > 3gram/fineresultv2t2.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t3.txt > 3gram/fineresultv2t3.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t4.txt > 3gram/fineresultv2t4.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t5.txt > 3gram/fineresultv2t5.txt
+
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t1.txt > 3gram/fineresultv3t1.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t2.txt > 3gram/fineresultv3t2.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t3.txt > 3gram/fineresultv3t3.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t4.txt > 3gram/fineresultv3t4.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t5.txt > 3gram/fineresultv3t5.txt
+
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t1pos.txt > 3gram/fineresultv2t1pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t2pos.txt > 3gram/fineresultv2t2pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t3pos.txt > 3gram/fineresultv2t3pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t4pos.txt > 3gram/fineresultv2t4pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv2t5pos.txt > 3gram/fineresultv2t5pos.txt
+
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t1pos.txt > 3gram/fineresultv3t1pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t2pos.txt > 3gram/fineresultv3t2pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t3pos.txt > 3gram/fineresultv3t3pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t4pos.txt > 3gram/fineresultv3t4pos.txt
+perl conlleval.pl -l -d "\t" < 3gram/fineoutputv3t5pos.txt > 3gram/fineresultv3t5pos.txt
