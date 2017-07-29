@@ -1895,12 +1895,12 @@ tiền	I-qt
 lái	O
 ô	B-tv
 tô	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
-quy	I-a
-định	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
+quy	I-sp
+định	I-sp
 từ	O
 5	B-v
 đến	I-v
@@ -1912,12 +1912,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 6	B-v
 km/h	I-v
 bị	B-qt
@@ -1926,12 +1926,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 9	B-v
 km/h	I-v
 bị	B-qt
@@ -2332,19 +2332,6 @@ che	B-a
 khuất	I-a
 biển	I-a
 báo	I-a
-bị	B-qt
-phạt	I-qt
-bao	I-qt
-nhiêu	I-qt
-tiền	I-qt
-
-đỗ	B-a
-ô	B-tv
-tô	I-tv
-trên	B-l
-đường	I-l
-xe	I-l
-điện	I-l
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -3995,12 +3982,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 từ	O
 10	B-v
 km/h	I-v
@@ -4015,10 +4002,10 @@ tiền	I-qt
 
 ô	B-tv
 tô	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 11	B-v
 km/h	I-v
 bị	B-qt
@@ -4027,12 +4014,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 từ	O
 20	B-v
 km/h	I-v
@@ -4047,10 +4034,10 @@ tiền	I-qt
 
 ô	B-tv
 tô	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 25	B-v
 km/h	I-v
 bị	B-qt
@@ -4795,9 +4782,9 @@ tiền	I-qt
 lái	O
 ô	B-tv
 tô	I-tv
-thiếu	O
-ý	O
-thức	O
+thiếu	B-if3
+ý	I-if3
+thức	I-if3
 gây	B-a
 tai	I-a
 nạn	I-a
@@ -4850,10 +4837,10 @@ khiển	O
 xe	O
 ô	B-tv
 tô	I-tv
-chạy	B-a
-quá	B-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 quy	O
 định	O
 35	B-v
@@ -5314,12 +5301,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 dưới	B-v
 20	I-v
 km/h	I-v
@@ -5329,12 +5316,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 10	B-v
 km/h	I-v
 bị	B-qt
@@ -5345,10 +5332,10 @@ tiền	I-qt
 
 ô	B-tv
 tô	I-tv
-chạy	B-a
-quá	B-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 10	B-v
 km/h	I-v
 bị	B-qt
@@ -5357,12 +5344,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 20	B-v
 km/h	I-v
 bị	B-qt
@@ -5371,12 +5358,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-chạy	B-a
+chạy	B-sp
 ô	B-tv
 tô	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 35	B-v
 km/h	I-v
 bị	B-qt
@@ -5677,14 +5664,14 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-điều	B-a
-khiển	I-a
-vô	I-a
-lăng	I-a
+điều	B-if3
+khiển	I-if3
+vô	I-if3
+lăng	I-if3
 ô	B-tv
 tô	I-tv
-bằng	B-a
-chân	I-a
+bằng	B-if3
+chân	I-if3
 thì	O
 bị	B-qt
 phạt	I-qt
@@ -5807,12 +5794,12 @@ tiền	I-qt
 
 ô	B-tv
 tô	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
-quy	I-a
-định	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
+quy	I-sp
+định	I-sp
 35	B-v
 km/h	I-v
 thì	O
@@ -7278,12 +7265,12 @@ tiền	I-qt
 khiển	O
 xe	B-tv
 máy	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
-quy	I-a
-định	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
+quy	I-sp
+định	I-sp
 từ	O
 5	B-v
 km/h	I-v
@@ -7300,10 +7287,10 @@ tiền	I-qt
 
 xe	B-tv
 máy	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 6	B-v
 km/h	I-v
 thì	O
@@ -8923,12 +8910,12 @@ tiền	I-qt
 khiển	O
 xe	B-tv
 máy	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
-quy	I-a
-định	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
+quy	O
+định	O
 từ	O
 10	B-v
 km/h	I-v
@@ -8944,10 +8931,10 @@ tiền	I-qt
 
 xe	B-tv
 máy	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 15	B-v
 km/h	I-v
 thì	O
@@ -9562,12 +9549,12 @@ bao	I-qt
 nhiêu	I-qt
 tiền	I-qt
 
-đi	B-a
+đi	B-sp
 xe	B-tv
 máy	I-tv
-quá	B-a
-tốc	I-a
-độ	I-a
+quá	B-sp
+tốc	I-sp
+độ	I-sp
 quy	O
 định	O
 trên	B-v
@@ -9582,10 +9569,10 @@ tiền	I-qt
 
 xe	B-tv
 máy	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 25	B-v
 km/h	I-v
 thì	O
@@ -10011,9 +9998,9 @@ buông	B-if3
 cả	I-if3
 2	I-if3
 tay	I-if3
-khi	I-if3
-đang	I-if3
-đi	I-if3
+khi	O
+đang	O
+đi	O
 xe	B-tv
 máy	I-tv
 gây	B-a
@@ -10290,9 +10277,9 @@ buông	B-if3
 cả	I-if3
 2	I-if3
 tay	I-if3
-khi	I-if3
-đang	I-if3
-đi	I-if3
+khi	O
+đang	O
+đi	O
 xe	B-tv
 máy	I-tv
 không	B-a
@@ -11310,10 +11297,10 @@ tiền	I-qt
 
 xe	B-tv
 máy	I-tv
-chạy	B-a
-quá	I-a
-tốc	I-a
-độ	I-a
+chạy	B-sp
+quá	I-sp
+tốc	I-sp
+độ	I-sp
 dưới	B-v
 10	I-v
 km/h	I-v
@@ -14165,9 +14152,9 @@ mặt	I-if3
 tại	I-if3
 hiện	I-if3
 trường	I-if3
-vụ	O
-tai	O
-nạn	O
+vụ	I-if3
+tai	I-if3
+nạn	I-if3
 phải	B-qt
 thực	I-qt
 hiện	I-qt
@@ -14294,8 +14281,8 @@ cơ	I-ano
 giới	I-ano
 xe	I-ano
 máy	I-ano
-chuyên	O
-dùng	O
+chuyên	I-ano
+dùng	I-ano
 được	O
 quy	O
 định	O
@@ -14602,9 +14589,9 @@ cơ	I-ano
 2	I-ano
 kỳ	I-ano
 
-hoạt	O
-động	O
-vận	B-ano
+hoạt	B-ano
+động	I-ano
+vận	I-ano
 tải	I-ano
 đường	I-ano
 bộ	I-ano
@@ -17646,9 +17633,9 @@ thông	O
 với	O
 tốc	B-qt
 độ	I-qt
-tối	O
-đa	O
-cho	B-qt
+tối	I-qt
+đa	I-qt
+cho	I-qt
 phép	I-qt
 là	I-qt
 bao	I-qt
@@ -17673,9 +17660,9 @@ thông	O
 với	O
 tốc	B-qt
 độ	I-qt
-tối	O
-đa	O
-cho	B-qt
+tối	I-qt
+đa	I-qt
+cho	I-qt
 phép	I-qt
 là	I-qt
 bao	I-qt
@@ -18080,73 +18067,6 @@ giao	O
 thông	O
 không	B-qt
 
-người	O
-ngồi	O
-trên	O
-xe	O
-mô	B-tv
-tô	I-tv
-3	I-tv
-bánh	I-tv
-khi	O
-tham	O
-gia	O
-giao	O
-thông	O
-có	B-qt
-được	I-qt
-mang	B-if3
-vác	I-if3
-vật	I-if3
-cồng	I-if3
-kềnh	I-if3
-hay	O
-không	B-qt
-
-người	O
-ngồi	O
-trên	O
-xe	O
-mô	B-tv
-tô	I-tv
-2	I-tv
-bánh	I-tv
-khi	O
-tham	O
-gia	O
-giao	O
-thông	O
-có	B-qt
-được	I-qt
-mang	B-if3
-vác	I-if3
-vật	I-if3
-cồng	I-if3
-kềnh	I-if3
-hay	O
-không	B-qt
-
-người	O
-ngồi	O
-trên	O
-xe	B-tv
-gắn	I-tv
-máy	I-tv
-khi	O
-tham	O
-gia	O
-giao	O
-thông	O
-có	B-qt
-được	I-qt
-mang	B-if3
-vác	I-if3
-vật	I-if3
-cồng	I-if3
-kềnh	I-if3
-hay	O
-không	B-qt
-
 ô	B-tv
 tô	I-tv
 tham	O
@@ -18235,8 +18155,8 @@ chạy	B-a
 quá	I-a
 tốc	I-a
 độ	I-a
-quy	I-a
-định	I-a
+quy	O
+định	O
 có	B-qt
 bị	I-qt
 nghiêm	I-qt
@@ -18935,8 +18855,8 @@ thông	O
 với	O
 tốc	B-sp
 độ	I-sp
-tối	O
-đa	O
+tối	I-sp
+đa	I-sp
 cho	O
 phép	O
 là	O
@@ -19020,8 +18940,8 @@ thông	O
 với	O
 tốc	B-sp
 độ	I-sp
-tối	O
-đa	O
+tối	I-sp
+đa	I-sp
 cho	O
 phép	O
 là	O
@@ -19047,8 +18967,8 @@ thông	O
 với	O
 tốc	B-sp
 độ	I-sp
-tối	O
-đa	O
+tối	I-sp
+đa	I-sp
 cho	O
 phép	O
 là	O
@@ -19225,8 +19145,8 @@ thông	O
 với	O
 tốc	B-sp
 độ	I-sp
-tối	O
-đa	O
+tối	I-sp
+đa	I-sp
 cho	O
 phép	O
 là	O
@@ -19316,8 +19236,8 @@ thông	O
 với	O
 tốc	B-sp
 độ	I-sp
-tối	O
-đa	O
+tối	I-sp
+đa	I-sp
 cho	O
 phép	O
 là	O
@@ -19687,9 +19607,9 @@ tuổi	I-qt
 trở	I-qt
 lên	I-qt
 
-tuổi	O
-tối	O
-đa	O
+tuổi	B-if4
+tối	I-if4
+đa	I-if4
 của	O
 người	O
 lái	O
@@ -19707,9 +19627,9 @@ bao	B-qt
 nhiêu	I-qt
 tuổi	I-qt
 
-tuổi	O
-tối	O
-đa	O
+tuổi	B-if4
+tối	I-if4
+đa	I-if4
 của	O
 người	O
 lái	O
@@ -21340,8 +21260,8 @@ người	I-qt
 xe	B-tv
 đạp	I-tv
 máy	I-tv
-có	O
-	B-qt
+có	B-qt
+	I-qt
 phải	I-qt
 đội	B-if3
 mũ	I-if3
@@ -21540,9 +21460,9 @@ thông	O
 với	O
 tốc	B-qt
 độ	I-qt
-tối	O
-đa	O
-cho	B-qt
+tối	I-qt
+đa	I-qt
+cho	I-qt
 phép	I-qt
 là	I-qt
 bao	I-qt
@@ -21569,9 +21489,9 @@ thông	O
 với	O
 tốc	B-qt
 độ	I-qt
-tối	O
-đa	O
-cho	B-qt
+tối	I-qt
+đa	I-qt
+cho	I-qt
 phép	I-qt
 là	I-qt
 bao	I-qt
@@ -21786,10 +21706,10 @@ bị	I-qt
 cấm	I-qt
 không	I-qt
 
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
 của	O
 xe	B-tv
 cơ	I-tv
@@ -21812,11 +21732,11 @@ khu	I-l
 đông	I-l
 dân	I-l
 cư	I-l
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -21837,11 +21757,11 @@ vực	I-l
 dân	I-l
 cư	I-l
 thì	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -21864,11 +21784,11 @@ vực	I-l
 dân	I-l
 cư	I-l
 thì	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -21890,11 +21810,11 @@ vực	I-l
 dân	I-l
 cư	I-l
 thì	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22057,11 +21977,11 @@ vực	I-l
 dân	I-l
 cư	I-l
 thì	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22082,11 +22002,11 @@ vực	I-l
 dân	I-l
 cư	I-l
 thì	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22156,9 +22076,9 @@ máy	I-tv
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
 đa	I-qt
 là	I-qt
 bao	I-qt
@@ -22216,11 +22136,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22299,11 +22219,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22389,11 +22309,11 @@ tô	I-tv
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22579,11 +22499,11 @@ tô	I-tv
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22691,11 +22611,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22783,11 +22703,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22882,11 +22802,11 @@ ngồi	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -22984,11 +22904,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23088,11 +23008,11 @@ chỗ	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23208,11 +23128,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23308,11 +23228,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23414,11 +23334,11 @@ tấn	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23524,11 +23444,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23636,11 +23556,11 @@ tấn	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23759,11 +23679,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23849,11 +23769,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -23948,11 +23868,11 @@ ngồi	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24052,11 +23972,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24159,11 +24079,11 @@ ngồi	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24254,9 +24174,9 @@ tấn	I-if1
 được	O
 phép	O
 đi	O
-tối	B-sp
-đa	I-sp
-là	B-qt
+tối	B-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24283,11 +24203,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24382,11 +24302,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24489,11 +24409,11 @@ tấn	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24600,11 +24520,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24715,11 +24635,11 @@ tấn	I-if1
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24807,9 +24727,9 @@ máy	I-tv
 được	O
 phép	O
 đi	O
-tối	B-sp
-đa	I-sp
-là	B-qt
+tối	B-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24830,11 +24750,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24910,11 +24830,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -24997,11 +24917,11 @@ máy	I-tv
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -25089,11 +25009,11 @@ thì	O
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -25184,11 +25104,11 @@ máy	I-tv
 phép	O
 đi	O
 với	O
-tốc	B-sp
-độ	I-sp
-tối	O
-đa	O
-là	B-qt
+tốc	B-qt
+độ	I-qt
+tối	I-qt
+đa	I-qt
+là	I-qt
 bao	I-qt
 nhiêu	I-qt
 
@@ -25526,7 +25446,7 @@ người	O
 khiển	O
 phương	O
 tiện	O
-phải	B-qt
+phải	O
 nhường	B-a
 đường	I-a
 như	B-qt
@@ -25548,7 +25468,7 @@ trên	B-l
 không	I-l
 ưu	I-l
 tiên	I-l
-phải	B-qt
+phải	O
 nhường	B-a
 đường	I-a
 như	O
@@ -25701,8 +25621,8 @@ thông	O
 với	O
 tốc	B-sp
 độ	I-sp
-tối	O
-đa	O
+tối	I-sp
+đa	I-sp
 cho	O
 phép	O
 là	O
