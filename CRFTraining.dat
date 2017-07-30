@@ -1051,8 +1051,8 @@ cách	B-a
 lề	I-a
 đường	I-a
 quá	I-a
-0	I-a
-25m	I-a
+0.25	I-a
+m	I-a
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -2068,9 +2068,9 @@ tiền	I-qt
 đỗ	B-a
 ô	B-tv
 tô	I-tv
-gần	B-a
-đường	I-a
-sắt	I-a
+gần	B-if4
+đường	I-if4
+sắt	I-if4
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -2190,13 +2190,13 @@ tiền	I-qt
 đỗ	B-a
 ô	B-tv
 tô	I-tv
-song	B-a
-song	I-a
-với	I-a
-một	I-a
-xe	I-a
-đang	I-a
-đỗ	I-a
+song	B-if4
+song	I-if4
+với	I-if4
+một	I-if4
+xe	I-if4
+đang	I-if4
+đỗ	I-if4
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -2206,10 +2206,10 @@ tiền	I-qt
 đỗ	B-a
 ô	B-tv
 tô	I-tv
-ngay	B-a
-cạnh	I-a
-xe	I-a
-khác	I-a
+ngay	B-if4
+cạnh	I-if4
+xe	I-if4
+khác	I-if4
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -2314,11 +2314,11 @@ tiền	I-qt
 đỗ	B-a
 ô	B-tv
 tô	I-tv
-che	B-a
-khuất	I-a
-biển	I-a
-báo	I-a
-hiệu	I-a
+che	B-if4
+khuất	I-if4
+biển	I-if4
+báo	I-if4
+hiệu	I-if4
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -2328,10 +2328,10 @@ tiền	I-qt
 đỗ	B-a
 ô	B-tv
 tô	I-tv
-che	B-a
-khuất	I-a
-biển	I-a
-báo	I-a
+che	B-if4
+khuất	I-if4
+biển	I-if4
+báo	I-if4
 bị	B-qt
 phạt	I-qt
 bao	I-qt
@@ -3799,8 +3799,8 @@ nồng	B-ac
 độ	I-ac
 cồn	I-ac
 dưới	B-v
-0	I-v
-25miligram/1	I-v
+0.25	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -3818,8 +3818,8 @@ có	O
 nồng	B-ac
 độ	I-ac
 cồn	I-ac
-0	B-v
-20miligram/1	I-v
+0.20	B-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -4392,11 +4392,11 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-25miligram	I-v
+0.25	I-v
+miligram	I-v
 đến	I-v
-0	I-v
-4miligram/1	I-v
+0.4	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -4414,8 +4414,8 @@ mà	O
 nồng	B-ac
 độ	I-ac
 cồn	I-ac
-0	B-v
-3miligram/1	I-v
+0.3	B-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -4644,13 +4644,13 @@ lạng	B-a
 lách	I-a
 đánh	I-a
 võng	I-a
-không	O
-chấp	O
-hành	O
-hiệu	O
-lệnh	O
-dừng	O
-xe	O
+không	I-a
+chấp	I-a
+hành	I-a
+hiệu	I-a
+lệnh	I-a
+dừng	I-a
+xe	I-a
 thì	O
 bị	B-qt
 phạt	I-qt
@@ -4769,9 +4769,9 @@ lạng	B-a
 lách	I-a
 đánh	I-a
 võng	I-a
-gây	O
-tai	O
-nạn	O
+gây	I-a
+tai	I-a
+nạn	I-a
 thì	O
 bị	B-qt
 phạt	I-qt
@@ -4907,8 +4907,8 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-4miligram/1	I-v
+0.4	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -5158,8 +5158,8 @@ nồng	B-ac
 độ	I-ac
 cồn	I-ac
 dưới	B-v
-0	I-v
-25miligram/1	I-v
+0.25	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -5538,11 +5538,11 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-25miligram	I-v
+0.25	I-v
+miligram	I-v
 đến	I-v
-0	I-v
-4miligram/1	I-v
+0.4	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -5847,8 +5847,8 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-4miligram/1	I-v
+0.4	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -9298,9 +9298,10 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-50miligram	I-v
+50	I-v
+miligram	I-v
 đến	I-v
-80miligram	I-v
+80amiligram	I-v
 trên	I-v
 100	I-v
 mililít	I-v
@@ -9341,11 +9342,10 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-25miligram	I-v
+0.25	I-v
+miligram	I-v
 đến	I-v
-0	I-v
-4	I-v
+0.4	I-v
 miligram	I-v
 trên	I-v
 1	I-v
@@ -9368,8 +9368,7 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-35	I-v
+0.35	I-v
 miligram/1	I-v
 lít	I-v
 khí	I-v
@@ -9709,8 +9708,8 @@ nồng	B-ac
 cồn	I-ac
 vượt	B-v
 quá	I-v
-0	I-v
-4miligram/1	I-v
+0.4	I-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -9729,8 +9728,8 @@ có	O
 nồng	B-ac
 độ	I-ac
 cồn	I-ac
-0	B-v
-5miligram/1	I-v
+0.5	B-v
+miligram/1	I-v
 lít	I-v
 khí	I-v
 thở	I-v
@@ -15001,11 +15000,11 @@ khi	B-if4
 xe	I-if4
 không	B-qt
 
-điều	B-a
-khiển	I-a
-xe	I-a
-cơ	I-a
-giới	I-a
+điều	O
+khiển	O
+xe	B-tv
+cơ	I-tv
+giới	I-tv
 có	B-qt
 cần	I-qt
 phải	O
@@ -15280,9 +15279,9 @@ tô	I-tv
 9	B-if1
 chỗ	I-if1
 ngồi	I-if1
-phải	O
-đủ	O
-bao	B-qt
+phải	B-qt
+đủ	I-qt
+bao	I-qt
 nhiêu	I-qt
 tuổi	I-qt
 
@@ -15296,9 +15295,9 @@ tô	I-tv
 30	I-if1
 chỗ	I-if1
 ngồi	I-if1
-phải	O
-đủ	O
-bao	B-qt
+phải	B-qt
+đủ	I-qt
+bao	I-qt
 nhiêu	I-qt
 tuổi	I-qt
 
@@ -15317,8 +15316,8 @@ chỗ	I-if1
 ngồi	I-if1
 
 tuổi	B-qt
-tối	O
-đa	O
+tối	I-qt
+đa	I-qt
 của	O
 người	O
 lái	O
@@ -15929,7 +15928,7 @@ xe	I-dl
 từ	O
 d	B-dl
 lên	B-a
-fc	I-a
+fd	I-a
 là	B-qt
 gì	I-qt
 
@@ -15951,7 +15950,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fd	I-a
 không	B-qt
 
 người	O
@@ -15971,7 +15970,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fd	I-a
 không	B-qt
 
 người	O
@@ -15995,7 +15994,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fd	I-a
 không	B-qt
 
 người	O
@@ -16019,7 +16018,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fd	I-a
 không	B-qt
 
 người	O
@@ -16043,7 +16042,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fd	I-a
 không	B-qt
 
 người	O
@@ -16067,7 +16066,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fd	I-a
 không	B-qt
 
 khi	B-qt
@@ -16082,7 +16081,7 @@ xe	I-dl
 từ	O
 d	B-dl
 lên	B-a
-fc	I-a
+fd	I-a
 
 điều	B-qt
 kiện	I-qt
@@ -16096,7 +16095,7 @@ xe	I-dl
 từ	O
 e	B-dl
 lên	B-a
-fc	I-a
+fe	I-a
 là	B-qt
 gì	I-qt
 
@@ -16118,7 +16117,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fe	I-a
 không	B-qt
 
 người	O
@@ -16138,7 +16137,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fe	I-a
 không	B-qt
 
 người	O
@@ -16162,7 +16161,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fe	I-a
 không	B-qt
 
 người	O
@@ -16186,7 +16185,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fe	I-a
 không	B-qt
 
 người	O
@@ -16210,7 +16209,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fe	I-a
 không	B-qt
 
 người	O
@@ -16234,7 +16233,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-fc	I-a
+fe	I-a
 không	B-qt
 
 khi	B-qt
@@ -16249,7 +16248,7 @@ xe	I-dl
 từ	O
 e	B-dl
 lên	B-a
-fc	I-a
+fe	I-a
 
 điều	B-qt
 kiện	I-qt
@@ -16764,7 +16763,7 @@ xe	I-dl
 từ	O
 b2	B-dl
 lên	B-a
-f	I-a
+fb2	I-a
 là	B-qt
 gì	I-qt
 
@@ -16786,7 +16785,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fb2	I-a
 không	B-qt
 
 người	O
@@ -16806,7 +16805,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fb2	I-a
 không	B-qt
 
 người	O
@@ -16830,7 +16829,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fb2	I-a
 không	B-qt
 
 người	O
@@ -16854,7 +16853,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fb2	I-a
 không	B-qt
 
 người	O
@@ -16878,7 +16877,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fb2	I-a
 không	B-qt
 
 người	O
@@ -16902,7 +16901,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fb2	I-a
 không	B-qt
 
 khi	B-qt
@@ -16917,7 +16916,7 @@ xe	I-dl
 từ	O
 b2	B-dl
 lên	B-a
-f	I-a
+fb2	I-a
 
 điều	B-qt
 kiện	I-qt
@@ -16931,7 +16930,7 @@ xe	I-dl
 từ	O
 d	B-dl
 lên	B-a
-f	I-a
+fc	I-a
 là	B-qt
 gì	I-qt
 
@@ -16953,7 +16952,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -16973,7 +16972,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -16997,7 +16996,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17021,7 +17020,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17045,7 +17044,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17069,7 +17068,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 khi	B-qt
@@ -17084,7 +17083,7 @@ xe	I-dl
 từ	O
 d	B-dl
 lên	B-a
-f	I-a
+fc	I-a
 
 điều	B-qt
 kiện	I-qt
@@ -17098,7 +17097,7 @@ xe	I-dl
 từ	O
 e	B-dl
 lên	B-a
-f	I-a
+fc	I-a
 là	B-qt
 gì	I-qt
 
@@ -17120,7 +17119,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17140,7 +17139,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17164,7 +17163,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17188,7 +17187,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17212,7 +17211,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 người	O
@@ -17236,7 +17235,7 @@ có	B-qt
 được	I-qt
 nâng	B-a
 lên	I-a
-f	I-a
+fc	I-a
 không	B-qt
 
 khi	B-qt
@@ -17251,7 +17250,7 @@ xe	I-dl
 từ	O
 e	B-dl
 lên	B-a
-f	I-a
+fc	I-a
 
 điều	B-qt
 kiện	I-qt
@@ -17611,6 +17610,1091 @@ sơ	I-qt
 cần	I-qt
 những	I-qt
 gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a1	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a2	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a3	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a4	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+số	I-dl
+tự	I-dl
+động	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b2	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+c	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+d	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+e	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a1	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a2	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a3	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a4	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+số	I-dl
+tự	I-dl
+động	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b2	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+c	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+d	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+e	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a1	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a2	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a3	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a4	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+số	I-dl
+tự	I-dl
+động	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b2	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+c	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+d	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+e	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+nào	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+f	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fc	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fb2	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fd	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fe	I-dl
+cấp	O
+cho	O
+người	O
+lái	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+f	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fc	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fb2	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fd	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fe	I-dl
+cấp	O
+cho	O
+người	O
+điều	O
+khiển	O
+xe	B-qt
+loại	I-qt
+gì	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+f	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+gì	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fc	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+gì	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fb2	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+gì	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fd	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+gì	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fe	I-dl
+được	O
+điều	O
+khiển	O
+loại	B-qt
+xe	I-qt
+gì	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a1	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a2	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a3	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a4	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b2	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+c	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+d	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+e	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fb2	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fc	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fd	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fe	I-dl
+có	O
+thời	B-qt
+hạn	I-qt
+là	I-qt
+bao	I-qt
+nhiêu	I-qt
+lâu	I-qt
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a1	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a2	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a3	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b1	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+a4	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+b2	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+c	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+d	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+e	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fb2	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fc	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fd	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
+
+người	O
+có	O
+giấy	B-dl
+phép	I-dl
+lái	I-dl
+xe	I-dl
+hạng	I-dl
+fe	I-dl
+bao	B-qt
+nhiêu	I-qt
+lâu	I-qt
+phải	O
+làm	B-if3
+lại	I-if3
+bằng	I-if3
+lái	I-if3
+xe	I-if3
 
 trên	O
 đường	O
@@ -19607,9 +20691,9 @@ tuổi	I-qt
 trở	I-qt
 lên	I-qt
 
-tuổi	B-if4
-tối	I-if4
-đa	I-if4
+tuổi	B-qt
+tối	I-qt
+đa	I-qt
 của	O
 người	O
 lái	O
@@ -19627,9 +20711,9 @@ bao	B-qt
 nhiêu	I-qt
 tuổi	I-qt
 
-tuổi	B-if4
-tối	I-if4
-đa	I-if4
+tuổi	B-qt
+tối	I-qt
+đa	I-qt
 của	O
 người	O
 lái	O
@@ -19974,8 +21058,8 @@ có	B-qt
 xe	I-qt
 không	I-qt
 
-xe	O
-máy	O
+xe	B-tv
+máy	I-tv
 có	B-qt
 được	I-qt
 phép	O
@@ -20016,8 +21100,8 @@ luật	I-qt
 giao	I-qt
 thông	I-qt
 
-xe	O
-tải	O
+xe	B-tv
+tải	I-tv
 bấm	B-a
 còi	I-a
 hơi	I-a
@@ -20247,8 +21331,8 @@ không	B-a
 vượt	I-a
 xe	I-a
 
-xe	O
-máy	O
+xe	B-tv
+máy	I-tv
 đi	O
 trên	B-l
 cầu	I-l
@@ -21589,7 +22673,7 @@ mililít	I-v
 máu	I-v
 có	B-qt
 được	I-qt
-đi	I-qt
+đi	O
 xe	B-tv
 máy	I-tv
 hay	O
@@ -25468,11 +26552,11 @@ trên	B-l
 không	I-l
 ưu	I-l
 tiên	I-l
-phải	O
+phải	B-qt
 nhường	B-a
 đường	I-a
-như	O
-thế	B-qt
+như	B-qt
+thế	I-qt
 nào	I-qt
 
 tại	B-l
@@ -26277,8 +27361,8 @@ khiển	O
 phương	O
 tiện	O
 phải	O
-nhường	O
-đường	O
+nhường	B-a
+đường	I-a
 như	B-qt
 thế	I-qt
 nào	I-qt
@@ -28630,8 +29714,8 @@ từ	I-qt
 hướng	I-qt
 nào	I-qt
 
-xe	O
-máy	O
+xe	B-tv
+máy	I-tv
 vượt	B-a
 đèn	B-tl
 đỏ	I-tl
@@ -28640,8 +29724,39 @@ bị	I-qt
 phạt	I-qt
 không	I-qt
 
-xe	O
-máy	O
+ô	B-tv
+tô	I-tv
+vượt	B-a
+đèn	B-tl
+đỏ	I-tl
+có	B-qt
+bị	I-qt
+phạt	I-qt
+không	I-qt
+
+xe	B-tv
+tải	I-tv
+vượt	B-a
+đèn	B-tl
+đỏ	I-tl
+có	B-qt
+bị	I-qt
+phạt	I-qt
+không	I-qt
+
+xe	B-tv
+gắn	I-tv
+máy	I-tv
+vượt	B-a
+đèn	B-tl
+đỏ	I-tl
+có	B-qt
+bị	I-qt
+phạt	I-qt
+không	I-qt
+
+xe	B-tv
+máy	I-tv
 vượt	B-a
 qua	I-a
 vạch	I-a
@@ -28664,8 +29779,57 @@ giao	I-qt
 thông	I-qt
 không	I-qt
 
-xe	O
-máy	O
+ô	B-tv
+tô	I-tv
+vượt	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+sau	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+giao	I-qt
+thông	I-qt
+không	I-qt
+
+xe	B-tv
+gắn	I-tv
+máy	I-tv
+vượt	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+sau	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+giao	I-qt
+thông	I-qt
+không	I-qt
+
+xe	B-tv
+máy	I-tv
 vượt	B-a
 qua	I-a
 vạch	I-a
@@ -28686,8 +29850,75 @@ phạm	I-qt
 luật	I-qt
 không	I-qt
 
-xe	O
-máy	O
+ô	B-tv
+tô	I-tv
+vượt	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+sau	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+không	I-qt
+
+xe	B-tv
+đạp	I-tv
+vượt	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+sau	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+không	I-qt
+
+xe	B-tv
+gắn	I-tv
+máy	I-tv
+vượt	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+sau	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+không	I-qt
+
+xe	B-tv
+máy	I-tv
 đi	B-a
 qua	I-a
 vạch	I-a
@@ -28711,8 +29942,83 @@ giao	I-qt
 thông	I-qt
 không	I-qt
 
-xe	O
-máy	O
+ô	B-tv
+tô	I-tv
+đi	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+trước	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+thì	O
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+giao	I-qt
+thông	I-qt
+không	I-qt
+
+xe	B-tv
+tải	I-tv
+đi	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+trước	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+thì	O
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+giao	I-qt
+thông	I-qt
+không	I-qt
+
+xe	B-tv
+đạp	I-tv
+đi	B-a
+qua	I-a
+vạch	I-a
+dừng	I-a
+trước	B-if4
+khi	I-if4
+đèn	B-tl
+báo	I-tl
+hiệu	I-tl
+chuyển	B-if2
+sang	I-if2
+màu	I-if2
+đỏ	I-if2
+thì	O
+có	O
+	B-qt
+vi	I-qt
+phạm	I-qt
+luật	I-qt
+giao	I-qt
+thông	I-qt
+không	I-qt
+
+xe	B-tv
+máy	I-tv
 đi	B-a
 qua	I-a
 vạch	I-a
@@ -28781,8 +30087,35 @@ không	I-qt
 lúc	O
 đèn	B-tl
 vàng	I-tl
-ô	O
-tô	O
+ô	B-tv
+tô	I-tv
+có	B-qt
+được	I-qt
+phép	O
+di	B-a
+chuyển	I-a
+hay	O
+không	B-qt
+
+lúc	O
+đèn	B-tl
+vàng	I-tl
+xe	B-tv
+máy	I-tv
+có	B-qt
+được	I-qt
+phép	O
+di	B-a
+chuyển	I-a
+hay	O
+không	B-qt
+
+lúc	O
+đèn	B-tl
+vàng	I-tl
+xe	B-tv
+máy	I-tv
+điện	I-tv
 có	B-qt
 được	I-qt
 phép	O
@@ -29390,8 +30723,8 @@ thẳng	I-if4
 thì	O
 xe	O
 ở	O
-hướng	O
-nào	B-qt
+hướng	B-qt
+nào	I-qt
 được	I-qt
 đi	I-qt
 
