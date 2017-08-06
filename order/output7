@@ -1,0 +1,4061 @@
+Mới	1	0	0	0	NONE	Mới	R	R	R	R
+vãi	0	0	0	0	NONE	vãi	V	V	V	V
+Dương	1	0	0	0	NONE	Dương	Np	Np	Np	Np
+giờ	0	0	0	0	NONE	giờ	N	N	N	N
+lại	0	0	0	0	NONE	lại	R	R	R	R
+thêm	0	0	0	0	NONE	thêm	V	V	V	V
+Vãi_Mằn	1	0	1	0	NONE	Vãi_Mằn	Np	Np	Np	Np
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Buồn_cười	1	0	0	0	NONE	Buồn_cười	A	A	A	A
+đoạn	0	0	0	0	NONE	đoạn	N	N	N	N
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+chuẩn_bị	0	0	0	0	NONE	chuẩn_bị	V	V	V	V
+ăn	0	0	0	0	NONE	ăn	V	V	V	V
+chị	0	0	0	0	NONE	chị	N	N	N	N
+thì	0	0	0	0	NONE	thì	C	C	C	C
+lại	0	0	0	0	NONE	lại	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+vụ_án	0	0	0	0	NONE	vụ_án	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Shop	1	0	0	0	NONE	XP	Np	Np	N	N
+thiết_kế	0	0	0	0	NONE	thiết_kế	V	V	V	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+mẫu	0	0	0	0	NONE	mẫu	N	N	N	N
+đẹp	0	0	0	0	NONE	đẹp	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+
+Phải	1	0	0	0	NONE	Phải	V	V	V	V
+quần	0	0	0	0	NONE	quần	N	N	N	N
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+đường	0	0	0	0	NONE	đường	N	N	N	N
+gân	0	0	0	0	NONE	gân	N	N	N	N
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+shop	0	0	0	0	NONE	XP	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Cho	1	0	0	0	NONE	K	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+hỏi	0	0	0	0	NONE	hỏi	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+cách	0	0	0	0	NONE	cách	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+để	0	0	0	0	NONE	để	E	E	E	E
+cây	0	0	0	0	NONE	cây	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+mọc	0	0	0	0	NONE	mọc	V	V	V	V
+dài_ngoằng	0	0	0	0	NONE	dài_ngoằng	A	A	A	A
+ra	0	0	0	0	NONE	R	R	R	R	R
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+:))))	0	0	0	0	HP	:))))	PUN	HP	HP	HP
+
+Chị	1	0	0	0	NONE	Chị	N	N	N	N
+Thủy_Minh	1	0	1	0	NONE	Thủy_MNH	Np	Np	Np	Np
+nè	0	0	0	0	NONE	nè	T	T	P	P
+:)	0	0	0	0	HP	:)	PUN	HP	HP	HP
+
+Ban	1	0	0	0	NONE	BN	N	N	N	N
+qua	0	0	0	0	NONE	K	V	V	V	V
+số	0	0	0	0	NONE	số	N	N	N	N
+9	0	1	0	0	NONE	9	M	M	M	M
+Chùa_Bộc	1	0	1	0	NONE	Chùa_Bộc	Np	Np	Np	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+Hà_Nội	1	0	1	0	NONE	Hà_Nội	Np	Np	Np	Np
+xem	0	0	0	0	NONE	SM	V	V	V	V
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+thử	0	0	0	0	NONE	thử	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+ưng	0	0	0	0	NONE	ưng	V	V	V	V
+nha	0	0	0	0	NONE	NH	T	T	T	T
+
+Nấu	1	0	0	0	NONE	Nấu	V	V	V	V
+như	0	0	0	0	NONE	như	C	C	C	C
+rau_ngót	0	0	0	0	NONE	R_ngót	N	N	N	N
+í	0	0	0	0	NONE	í	N	N	P	N
+ạ	0	0	0	0	NONE	ạ	T	T	I	I
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+khổ	0	0	0	0	NONE	khổ	A	A	A	A
+cả	0	0	0	0	NONE	cả	T	T	T	T
+một	0	0	0	0	NONE	một	M	M	M	M
+thế_hệ	0	0	0	0	NONE	thế_hệ	N	N	N	N
+vô_tội	0	0	0	0	NONE	vô_tội	A	A	A	A
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+thật	0	0	0	0	NONE	thật	R	R	R	R
+ah	0	0	0	0	NONE	A	A	A	T	T
+em	0	0	0	0	NONE	EM	N	N	N	N
+
+Gemini_Lazi	1	0	1	0	NONE	JMN_LS	Np	Np	Np	Np
+chị	0	0	0	0	NONE	chị	N	N	N	N
+nè	0	0	0	0	NONE	nè	T	T	P	P
+
+Cám_ơn	1	0	0	0	NONE	Cám_ơn	V	V	V	V
+mẹ	0	0	0	0	NONE	mẹ	N	N	Nc	N
+Bống	1	0	0	0	NONE	Bống	Np	Np	Np	Np
+nhiều_nhiều	0	0	0	0	NONE	nhiều_nhiều	A	A	A	A
+lắm	0	0	0	0	NONE	lắm	R	R	R	R
+í	0	0	0	0	NONE	í	V	V	N	V
+(?)	0	0	0	0	SPECIAL	(?)	M	M	X	X
+(?)	0	0	0	0	SPECIAL	(?)	PUN	PUN	X	X
+(?)	0	0	0	0	SPECIAL	(?)	M	M	X	X
+
+Đến	1	0	0	0	NONE	Đến	E	E	E	E
+giờ	0	0	0	0	NONE	giờ	N	N	N	N
+mesumo	0	0	0	0	NONE	MSM	N	N	Np	N
+phải	0	0	0	0	NONE	phải	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+làm	0	0	0	0	NONE	làm	V	V	V	V
+rồi	0	0	0	0	NONE	rồi	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Nresu	1	0	0	0	NONE	NRS	Np	Np	Np	AB
+mua	0	0	0	0	NONE	M	V	V	V	V
+thì	0	0	0	0	NONE	thì	C	C	C	C
+ở	0	0	0	0	NONE	ở	V	V	V	V
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+
+Ờ	1	0	1	0	NONE	Ờ	I	I	I	I
+ngày_trc	0	0	0	0	NONE	ngày_TRK	N	N	AB	N
+bọn	0	0	0	0	NONE	bọn	Nc	Nc	Nc	Nc
+mìh	0	0	0	0	NONE	mìh	N	N	P	N
+vui	0	0	0	0	NONE	F	A	A	A	A
+nhở	0	0	0	0	NONE	nhở	V	V	T	T
+
+Cưng	1	0	0	0	NONE	Cưng	V	V	V	V
+wá	0	0	0	0	NONE	wá	N	N	R	N
+à	0	0	0	0	NONE	à	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+moahhhhhh	0	0	0	0	NONE	M	V	V	X	V
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Quần	1	0	0	0	NONE	Quần	N	N	N	N
+chất	0	0	0	0	NONE	chất	V	V	V	V
+tuyết	0	0	0	0	NONE	tuyết	N	N	N	N
+mưa	0	0	0	0	NONE	mưa	N	N	N	N
+ah	0	0	0	0	NONE	A	V	V	T	T
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+
+Quần	1	0	0	0	NONE	Quần	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+đủ	0	0	0	0	NONE	đủ	A	A	A	A
+Size	1	0	0	0	NONE	SS	Np	Np	FL	Np
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+chị	0	0	0	0	NONE	chị	N	N	N	N
+
+Eo	1	0	0	0	NONE	E	N	N	N	N
+63	0	1	0	0	NONE	63	M	M	M	M
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+48	0	1	0	0	NONE	48	M	M	M	M
+kg	0	0	0	0	NONE	KK	Nu	Nu	Nu	Nu
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cao	0	0	0	0	NONE	K	A	A	A	A
+1	0	1	0	0	NONE	1	M	M	M	M
+m	0	0	0	0	NONE	m	Nu	Nu	Nu	Nu
+56	0	1	0	0	NONE	56	M	M	M	M
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+size	0	0	0	0	NONE	SS	V	V	FL	FL
+j	0	0	0	0	NONE	j	N	N	P	P
+shop	0	0	0	0	NONE	XP	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+ẩn	0	0	0	0	NONE	ẩn	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+.	0	0	0	0	SPECIAL	.	M	M	PUN	PUN
+làm_gì	0	0	0	0	NONE	làm_gì	N	N	X	R
+:))))	0	0	0	0	HP	:))))	PUN	HP	HP	HP
+
+xem	0	0	0	0	NONE	SM	V	V	V	V
+thử	0	0	0	0	NONE	thử	V	V	V	V
+chỗ	0	0	0	0	NONE	chỗ	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+like	0	0	0	0	NONE	LK	N	N	FL	FL
+nào	0	0	0	0	NONE	nào	P	P	P	P
+like	0	0	0	0	NONE	LK	N	N	FL	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+like	0	0	0	0	NONE	LK	V	V	FL	FL
+để	0	0	0	0	NONE	để	V	V	E	V
+biết	0	0	0	0	NONE	biết	V	V	V	V
+mình	0	0	0	0	NONE	mình	P	P	P	P
+ở	0	0	0	0	NONE	ở	E	E	E	E
+vị_trí	0	0	0	0	NONE	vị_trí	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+nào	0	0	0	0	NONE	nào	P	P	P	P
+=))))	0	0	0	0	HP	=))))	V	HP	HP	HP
+
+cảm_ơn	0	0	0	0	NONE	cảm_ơn	V	V	V	V
+nạ	0	0	0	0	NONE	nạ	N	N	T	N
+
+Từ_Bé_Ngoan	1	0	1	0	NONE	Từ_Bé_NKN	Np	Np	Np	Np
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+bố	0	0	0	0	NONE	bố	N	N	N	N
+nó	0	0	0	0	NONE	nó	P	P	P	P
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+từ	0	0	0	0	NONE	từ	E	E	E	E
+h	0	0	0	0	NONE	h	N	N	AB	N
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+truyện	0	0	0	0	NONE	truyện	N	N	N	N
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+nc	0	0	0	0	NONE	NK	N	N	AB	N
+vs	0	0	0	0	NONE	FS	V	V	AB	AB
+con	0	0	0	0	NONE	KN	N	N	N	N
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+hơn	0	0	0	0	NONE	hơn	R	R	R	R
+nhá	0	0	0	0	NONE	nhá	T	T	T	T
+
+Cứ	1	0	0	0	NONE	Cứ	R	R	R	R
+nghe	0	0	0	0	NONE	NK	V	V	V	V
+mấy	0	0	0	0	NONE	mấy	L	L	L	L
+bài	0	0	0	0	NONE	bài	N	N	N	N
+cùi	0	0	0	0	NONE	cùi	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+bao_giờ	0	0	0	0	NONE	B_giờ	P	P	P	P
+mới	0	0	0	0	NONE	mới	R	R	R	R
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+đc	0	0	0	0	NONE	đc	V	V	V	AB
+đây	0	0	0	0	NONE	đây	P	P	T	P
+:(((	0	0	0	0	SD	:(((	PUN	SD	SD	SD
+
+chào	0	0	0	0	NONE	chào	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+có	0	0	0	0	NONE	có	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+nha	0	0	0	0	NONE	NH	I	I	I	T
+
+Khuôn_mặt	1	0	0	0	NONE	Khuôn_mặt	N	N	N	N
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+đủ	0	0	0	0	NONE	đủ	A	A	A	A
+tự_tin	0	0	0	0	NONE	tự_TN	V	V	V	V
+để	0	0	0	0	NONE	để	E	E	E	E
+up	0	0	0	0	NONE	UP	V	V	FL	FL
+ảnh	0	0	0	0	NONE	ảnh	N	N	N	N
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+đọc	0	0	0	0	NONE	đọc	M	M	V	V
+là	0	0	0	0	NONE	là	N	N	V	V
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+chả	0	0	0	0	NONE	chả	N	N	R	N
+có	0	0	0	0	NONE	có	N	N	V	V
+j	0	0	0	0	NONE	j	R	R	P	P
+là	0	0	0	0	NONE	là	V	V	V	V
+quan_tâm	0	0	0	0	NONE	KN_tâm	N	N	V	N
+cả	0	0	0	0	NONE	cả	V	V	P	V
+
+Js	1	0	0	0	NONE	JS	Np	Np	Np	Np
+đã	0	0	0	0	NONE	đã	R	R	R	R
+về	0	0	0	0	NONE	về	V	V	V	V
+vn	0	0	0	0	NONE	FN	V	V	Np	V
+ah	0	0	0	0	NONE	A	N	N	T	T
+
+Trước	1	0	0	0	NONE	Trước	E	E	E	E
+cửa_nhà	0	0	0	0	NONE	cửa_nhà	N	N	N	N
+tui	0	0	0	0	NONE	T	P	P	P	P
+ở	0	0	0	0	NONE	ở	E	E	E	E
+bắc_Ninh	0	0	0	0	NONE	bắc_NNH	N	N	Np	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+cả	0	0	0	0	NONE	cả	T	T	T	T
+1	0	1	0	0	NONE	1	M	M	M	M
+dàn	0	0	0	0	NONE	dàn	N	N	N	N
+hoa_sữa	0	0	0	0	NONE	H_sữa	N	N	N	N
+bên	0	0	0	0	NONE	bên	N	N	N	N
+đường	0	0	0	0	NONE	đường	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+đến	0	0	0	0	NONE	đến	E	E	E	E
+mùa	0	0	0	0	NONE	mùa	N	N	N	N
+cả	0	0	0	0	NONE	cả	P	P	P	P
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+lại	0	0	0	0	NONE	lại	R	R	R	R
+hắt_hơi	0	0	0	0	NONE	hắt_hơi	V	V	V	V
+stun_emoticon	0	0	0	0	CF	STN_EMTKN	N	CF	CF	CF
+~	0	0	0	0	SPECIAL	~	A	A	PUN	PUN
+iu	0	0	0	0	NONE	I	A	A	V	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+cry_emoticon	0	0	0	0	SD	KR_EMTKN	A	SD	SD	SD
+
+Thi	1	0	0	0	NONE	0	V	V	V	V
+đh	0	0	0	0	NONE	đh	N	N	AB	N
+năm	0	0	0	0	NONE	năm	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+đề	0	0	0	0	NONE	đề	V	V	V	V
+đéo	0	0	0	0	NONE	đéo	N	N	R	N
+khó	0	0	0	0	NONE	khó	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+_	0	0	0	0	SPECIAL	_	Np	Np	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Thuyy_Phuong	1	0	1	0	NONE	0_FNK	Np	Np	Np	Np
+bn	0	0	0	0	NONE	BN	V	V	AB	V
+ấy	0	0	0	0	NONE	ấy	P	P	P	P
+viết	0	0	0	0	NONE	viết	V	V	V	V
+trên	0	0	0	0	NONE	trên	E	E	E	E
+fb	0	0	0	0	NONE	FB	N	N	AB	AB
+bn	0	0	0	0	NONE	BN	V	V	AB	V
+ý	0	0	0	0	NONE	ý	N	N	N	N
+như_thế	0	0	0	0	NONE	như_thế	X	X	X	X
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+chắc	0	0	0	0	NONE	chắc	A	A	A	A
+chỉ	0	0	0	0	NONE	chỉ	R	R	R	R
+ngy	0	0	0	0	NONE	NJ	V	V	AB	V
+thôi	0	0	0	0	NONE	thôi	T	T	T	T
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+
+Gấu	1	0	0	0	NONE	Gấu	N	N	N	N
+lồng_kính	0	0	0	0	NONE	lồng_kính	V	V	N	V
+hoa_cúc	0	0	0	0	NONE	H_cúc	N	N	N	N
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	V	HP	HP	HP
+
+phải	0	0	0	0	NONE	phải	V	V	V	V
+nói	0	0	0	0	NONE	nói	V	V	V	V
+để	0	0	0	0	NONE	để	E	E	E	E
+thí_sinh	0	0	0	0	NONE	thí_SNH	V	V	V	V
+rút	0	0	0	0	NONE	rút	V	V	V	V
+kinh_nghiệm	0	0	0	0	NONE	KNH_nghiệm	N	N	N	N
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+chứ	0	0	0	0	NONE	chứ	C	C	C	T
+
+Giao	1	0	0	0	NONE	J	V	V	V	V
+hàng	0	0	0	0	NONE	hàng	R	R	R	R
+thu	0	0	0	0	NONE	0	V	V	V	V
+tiền	0	0	0	0	NONE	tiền	N	N	N	N
+toàn_quốc	0	0	0	0	NONE	toàn_quốc	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+xem	0	0	0	0	NONE	SM	V	V	V	V
+không	0	0	0	0	NONE	không	R	R	R	R
+thích	0	0	0	0	NONE	thích	V	V	V	V
+có_thể	0	0	0	0	NONE	có_thể	R	R	R	R
+trả	0	0	0	0	NONE	trả	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Em	1	0	0	0	NONE	EM	N	N	N	N
+cưới	0	0	0	0	NONE	cưới	V	V	V	V
+hộ	0	0	0	0	NONE	hộ	N	N	N	N
+
+Co_dãn	1	0	0	0	NONE	K_dãn	N	N	V	N
+nhẹ	0	0	0	0	NONE	nhẹ	A	A	A	A
+nhed	0	0	0	0	NONE	NHT	V	V	X	X
+
+Bây_giờ	1	0	0	0	NONE	Bây_giờ	P	P	P	P
+sinh	0	0	0	0	NONE	SNH	V	V	V	V
+con	0	0	0	0	NONE	KN	N	N	N	N
+xong	0	0	0	0	NONE	SNK	V	V	R	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+hay	0	0	0	0	NONE	H	C	C	C	C
+lảm_nhảm	0	0	0	0	NONE	lảm_nhảm	V	V	V	V
+tỉ_tê	0	0	0	0	NONE	tỉ_tê	A	A	A	A
+với	0	0	0	0	NONE	với	E	E	E	E
+con	0	0	0	0	NONE	KN	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+mọi	0	0	0	0	NONE	mọi	L	L	L	L
+người	0	0	0	0	NONE	người	N	N	N	N
+lại	0	0	0	0	NONE	lại	R	R	R	R
+nghi_ngờ	0	0	0	0	NONE	NK_ngờ	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+trầm_cảm	0	0	0	0	NONE	trầm_cảm	V	V	A	V
+sau	0	0	0	0	NONE	S	N	N	N	N
+sinh	0	0	0	0	NONE	SNH	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Váy	1	0	0	0	NONE	Váy	N	N	N	N
+xanh	0	0	0	0	NONE	SNH	A	A	A	A
+nơ	0	0	0	0	NONE	nơ	A	A	N	A
+xanh	0	0	0	0	NONE	SNH	A	A	A	A
+hnay	0	0	0	0	NONE	N	A	A	AB	A
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+nàooo	0	0	0	0	NONE	nàooo	V	V	X	V
+
+muốn	0	0	0	0	NONE	muốn	V	V	V	V
+đc	0	0	0	0	NONE	đc	V	V	V	AB
+đi	0	0	0	0	NONE	đi	V	V	V	V
+làm	0	0	0	0	NONE	làm	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+j	0	0	0	0	NONE	j	N	N	P	P
+đó	0	0	0	0	NONE	đó	P	P	P	P
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+
+Em	1	0	0	0	NONE	EM	N	N	N	N
+bé	0	0	0	0	NONE	bé	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+yêu	0	0	0	0	NONE	yêu	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+bé	0	0	0	0	NONE	bé	A	A	A	A
+lắm_lắm	0	0	0	0	NONE	lắm_lắm	R	R	R	R
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Mesumo	1	0	0	0	NONE	MSM	Np	Np	Np	Np
+đang	0	0	0	0	NONE	đang	R	R	R	R
+dùng	0	0	0	0	NONE	dùng	V	V	V	V
+loại	0	0	0	0	NONE	loại	N	N	N	N
+Cure	1	0	0	0	NONE	KR	Np	Np	Np	Np
+của	0	0	0	0	NONE	của	E	E	E	E
+Nhật	1	0	0	0	NONE	Nhật	Np	Np	Np	Np
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+bao_giờ	0	0	0	0	NONE	B_giờ	P	P	P	P
+hết	0	0	0	0	NONE	hết	V	V	A	V
+sách	0	0	0	0	NONE	sách	N	N	N	N
+ạaaa	0	0	0	0	NONE	ạaaa	V	V	X	V
+
+Ko	1	0	0	0	NONE	K	Np	Np	AB	AB
+chị	0	0	0	0	NONE	chị	N	N	N	N
+à	0	0	0	0	NONE	à	T	T	T	T
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Nếu	1	0	0	0	NONE	Nếu	C	C	C	C
+chỉ	0	0	0	0	NONE	chỉ	R	R	R	R
+dùng	0	0	0	0	NONE	dùng	V	V	V	V
+một	0	0	0	0	NONE	một	M	M	M	M
+từ	0	0	0	0	NONE	từ	N	N	N	N
+để	0	0	0	0	NONE	để	E	E	E	E
+nói	0	0	0	0	NONE	nói	V	V	V	V
+về	0	0	0	0	NONE	về	E	E	E	E
+team	0	0	0	0	NONE	TM	N	N	FL	N
+DKL	1	0	1	0	NONE	DKL	Np	Np	X	Np
+thì	0	0	0	0	NONE	thì	C	C	C	C
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+sẽ	0	0	0	0	NONE	sẽ	R	R	R	R
+nói	0	0	0	0	NONE	nói	V	V	V	V
+gì	0	0	0	0	NONE	gì	V	V	P	P
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Thằng	1	0	0	0	NONE	Thằng	N	N	N	N
+quân	0	0	0	0	NONE	quân	N	N	N	N
+chứ	0	0	0	0	NONE	chứ	C	C	C	C
+bí_ẩn	0	0	0	0	NONE	bí_ẩn	N	N	N	N
+j	0	0	0	0	NONE	j	N	N	P	P
+
+E	1	0	1	0	NONE	E	V	V	AB	AB
+nghĩ	0	0	0	0	NONE	nghĩ	V	V	V	V
+c	0	0	0	0	NONE	c	N	N	AB	AB
+nên	0	0	0	0	NONE	nên	C	C	C	C
+dùng	0	0	0	0	NONE	dùng	V	V	V	V
+cái	0	0	0	0	NONE	cái	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Sống	1	0	0	0	NONE	Sống	V	V	V	V
+ở	0	0	0	0	NONE	ở	E	E	E	E
+Tây	1	0	0	0	NONE	Tây	Np	Np	Np	Np
+ng_ta	0	0	0	0	NONE	NK_T	N	N	AB	AB
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+bẩn	0	0	0	0	NONE	bẩn	A	A	A	A
+vậy	0	0	0	0	NONE	vậy	P	P	P	P
+đâu	0	0	0	0	NONE	đâu	P	P	T	P
+ạ	0	0	0	0	NONE	ạ	T	T	I	I
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Bh	1	0	0	0	NONE	BH	Np	Np	AB	AB
+đy	0	0	0	0	NONE	đy	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+k	0	0	0	0	NONE	k	N	N	AB	AB
+còn	0	0	0	0	NONE	còn	V	V	V	V
+đôi	0	0	0	0	NONE	đôi	M	M	M	M
+t	0	0	0	0	NONE	t	N	N	AB	AB
+thic	0	0	0	0	NONE	0K	N	N	V	N
+nua	0	0	0	0	NONE	N	V	V	R	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+cám_ơn	0	0	0	0	NONE	cám_ơn	V	V	V	V
+chị	0	0	0	0	NONE	chị	N	N	N	N
+rất	0	0	0	0	NONE	rất	R	R	R	R
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Thank	1	0	0	0	NONE	0NK	N	N	FL	N
+c	0	0	0	0	NONE	c	N	N	AB	AB
+Nguyen_Thi_Luyen	1	0	1	0	NONE	NKYN_0_LYN	Np	Np	Np	Np
+Thi_Nguyen	1	0	1	0	NONE	0_NKYN	Np	Np	Np	Np
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+ạ	0	0	0	0	NONE	ạ	T	T	I	I
+
+lại	0	0	0	0	NONE	lại	R	R	R	R
+bắt_đầu	0	0	0	0	NONE	bắt_đầu	V	V	V	V
+k	0	0	0	0	NONE	k	V	V	AB	AB
+phải	0	0	0	0	NONE	phải	V	V	V	V
+nhá	0	0	0	0	NONE	nhá	T	T	T	T
+
+tóm_lại	0	0	0	0	NONE	tóm_lại	C	C	C	C
+là	0	0	0	0	NONE	là	V	V	V	V
+thôi	0	0	0	0	NONE	thôi	T	T	T	T
+chả	0	0	0	0	NONE	chả	R	R	R	R
+tiết_kiệm	0	0	0	0	NONE	tiết_kiệm	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+đâu	0	0	0	0	NONE	đâu	P	P	T	T
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+định	0	0	0	0	NONE	định	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+gì	0	0	0	0	NONE	gì	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+tự	0	0	0	0	NONE	tự	P	P	P	P
+hẹn	0	0	0	0	NONE	hẹn	V	V	V	V
+với	0	0	0	0	NONE	với	E	E	E	E
+bản_thân	0	0	0	0	NONE	bản_thân	N	N	N	N
+để	0	0	0	0	NONE	để	E	E	E	E
+ra	0	0	0	0	NONE	R	V	V	V	V
+trường	0	0	0	0	NONE	trường	N	N	N	N
+vậy	0	0	0	0	NONE	vậy	P	P	T	P
+
+Bạc_cận_ngôn	1	0	0	0	NONE	Bạc_cận_ngôn	N	N	Np	N
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+nam	0	0	0	0	NONE	NM	N	N	N	N
+thần	0	0	0	0	NONE	thần	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+lòng	0	0	0	0	NONE	lòng	N	N	N	N
+e	0	0	0	0	NONE	e	V	V	AB	AB
+
+Ước_ao	1	0	0	0	NONE	Ước_A	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+trở_lại	0	0	0	0	NONE	trở_lại	V	V	V	V
+xuân	0	0	0	0	NONE	xuân	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+size	0	0	0	0	NONE	SS	N	N	FL	FL
+L	1	0	1	0	NONE	L	Np	Np	Np	Np
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+nhé	0	0	0	0	NONE	nhé	I	I	T	T
+
+Cực_kì	1	0	0	0	NONE	Cực_kì	N	N	N	N
+thích	0	0	0	0	NONE	thích	V	V	V	V
+nếu	0	0	0	0	NONE	nếu	C	C	C	C
+có	0	0	0	0	NONE	có	V	V	V	V
+điều_kiện	0	0	0	0	NONE	điều_kiện	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Bài	1	0	0	0	NONE	Bài	N	N	N	N
+viết	0	0	0	0	NONE	viết	V	V	V	V
+hay	0	0	0	0	NONE	H	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+chị	0	0	0	0	NONE	chị	N	N	N	N
+à	0	0	0	0	NONE	à	T	T	I	I
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+bắn	0	0	0	0	NONE	bắn	V	V	V	V
+chết	0	0	0	0	NONE	chết	V	V	V	V
+cm	0	0	0	0	NONE	KM	Nu	Nu	AB	AB
+chung	0	0	0	0	NONE	KNK	A	A	A	A
+no	0	0	0	0	NONE	N	A	A	A	A
+het	0	0	0	0	NONE	HT	N	N	N	N
+di	0	0	0	0	NONE	T	V	V	V	V
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+thi	0	0	0	0	NONE	0	V	V	V	V
+việt_nam	0	0	0	0	NONE	việt_NM	V	V	Np	V
+loạn	0	0	0	0	NONE	loạn	V	V	V	V
+hết	0	0	0	0	NONE	hết	V	V	V	V
+
+Hết	1	0	0	0	NONE	Hết	V	V	V	V
+hè	0	0	0	0	NONE	hè	N	N	N	N
+năm	0	0	0	0	NONE	năm	N	N	N	N
+3	0	1	0	0	NONE	3	N	N	M	M
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+6	0	1	0	0	NONE	6	M	M	M	M
+năm	0	0	0	0	NONE	năm	N	N	N	N
+rồi	0	0	0	0	NONE	rồi	T	T	R	C
+đấy	0	0	0	0	NONE	đấy	T	T	T	T
+nhóe	0	0	0	0	NONE	nhóe	M	M	T	T
+m	0	0	0	0	NONE	m	Nu	Nu	AB	AB
+grin_emoticon	0	0	0	0	HP	KRN_EMTKN	V	HP	HP	HP
+
+thế	0	0	0	0	NONE	thế	P	P	T	P
+e	0	0	0	0	NONE	e	V	V	AB	AB
+k	0	0	0	0	NONE	k	N	N	AB	AB
+mời	0	0	0	0	NONE	mời	V	V	V	V
+thì	0	0	0	0	NONE	thì	C	C	C	C
+để	0	0	0	0	NONE	để	E	E	E	E
+a	0	0	0	0	NONE	a	N	N	AB	AB
+mời	0	0	0	0	NONE	mời	V	V	V	V
+hả	0	0	0	0	NONE	hả	A	A	T	T
+stun_emoticon	0	0	0	0	CF	STN_EMTKN	N	CF	CF	CF
+
+Lần	1	0	0	0	NONE	Lần	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+là	0	0	0	0	NONE	là	V	V	V	V
+bao_h	0	0	0	0	NONE	B_h	N	N	AB	N
+:(((((	0	0	0	0	SD	:(((((	PUN	SD	SD	SD
+lâu	0	0	0	0	NONE	lâu	M	M	A	M
+quớ	0	0	0	0	NONE	quớ	N	N	R	N
+
+Nửa	1	0	0	0	NONE	Nửa	N	N	M	N
+đêm	0	0	0	0	NONE	đêm	N	N	N	N
+ngồi	0	0	0	0	NONE	ngồi	V	V	V	V
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+stt	0	0	0	0	NONE	ST	N	N	AB	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+ngắm	0	0	0	0	NONE	ngắm	V	V	V	V
+ảnh	0	0	0	0	NONE	ảnh	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+bọn	0	0	0	0	NONE	bọn	Nc	Nc	Nc	Nc
+có	0	0	0	0	NONE	có	V	V	V	V
+gấu	0	0	0	0	NONE	gấu	N	N	N	N
+
+Gửi	1	0	0	0	NONE	Gửi	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+mình	0	0	0	0	NONE	mình	P	P	P	P
+2	0	1	0	0	NONE	2	M	M	M	M
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+đen	0	0	0	0	NONE	đen	A	A	A	A
+1	0	1	0	0	NONE	1	M	M	M	M
+dáng	0	0	0	0	NONE	dáng	N	N	N	N
+ngắn	0	0	0	0	NONE	ngắn	A	A	A	A
+1	0	1	0	0	NONE	1	M	M	M	M
+dáng	0	0	0	0	NONE	dáng	N	N	N	N
+dài	0	0	0	0	NONE	dài	A	A	A	A
+size	0	0	0	0	NONE	SS	V	V	V	FL
+S	1	0	1	0	NONE	S	Np	Np	Np	Np
+nhé	0	0	0	0	NONE	nhé	I	I	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Yêu	1	0	0	0	NONE	Yêu	V	V	A	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+Daisy	1	0	0	0	NONE	TS	Np	Np	Np	Np
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+bé	0	0	0	0	NONE	bé	N	N	N	N
+đáng_yêu	0	0	0	0	NONE	đáng_yêu	V	V	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+ai	0	0	0	0	NONE	A	P	P	P	P
+bựa_bựa	0	0	0	0	NONE	bựa_bựa	V	V	A	V
+mạnh_mẽ	0	0	0	0	NONE	mạnh_mẽ	A	A	A	A
+squint_emoticon	0	0	0	0	CF	SKNT_EMTKN	N	CF	CF	CF
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+Vuốt_vuốt	1	0	0	0	NONE	Vuốt_vuốt	V	V	V	V
+các	0	0	0	0	NONE	các	L	L	L	L
+kiểu	0	0	0	0	NONE	kiểu	N	N	N	N
+:))))	0	0	0	0	HP	:))))	PUN	HP	HP	HP
+
+Có_thể	1	0	0	0	NONE	Có_thể	R	R	R	R
+tp	0	0	0	0	NONE	TP	V	V	X	V
+nhận_xét	0	0	0	0	NONE	nhận_xét	V	V	V	V
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+sai	0	0	0	0	NONE	S	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+E	1	0	1	0	NONE	E	V	V	AB	AB
+chạy	0	0	0	0	NONE	chạy	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+tí	0	0	0	0	NONE	tí	N	N	A	N
+mà	0	0	0	0	NONE	mà	C	C	C	C
+k	0	0	0	0	NONE	k	V	V	AB	AB
+thở	0	0	0	0	NONE	thở	V	V	V	V
+nổi	0	0	0	0	NONE	nổi	R	R	R	R
+
+Đào_Hoa	1	0	1	0	NONE	Đào_H	Np	Np	A	Np
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+Đa_Tình	1	0	1	0	NONE	Đa_Tình	Np	Np	A	Np
+
+mấy	0	0	0	0	NONE	mấy	L	L	L	L
+áo	0	0	0	0	NONE	áo	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+bán	0	0	0	0	NONE	bán	V	V	V	V
+ở	0	0	0	0	NONE	ở	E	E	E	E
+shop	0	0	0	0	NONE	XP	N	N	N	N
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+mình	0	0	0	0	NONE	mình	P	P	P	P
+
+thôi	0	0	0	0	NONE	thôi	V	V	T	V
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+e	0	0	0	0	NONE	e	V	V	AB	AB
+lại	0	0	0	0	NONE	lại	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+điện	0	0	0	0	NONE	điện	N	N	N	N
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+tóc	0	0	0	0	NONE	tóc	N	N	N	N
+dựng	0	0	0	0	NONE	dựng	V	V	V	V
+hết	0	0	0	0	NONE	hết	R	R	R	R
+cả	0	0	0	0	NONE	cả	P	P	P	P
+:)	0	0	0	0	HP	:)	PUN	HP	HP	HP
+
+thanks	0	0	0	0	NONE	0NKS	V	V	FL	V
+nhiều_nhiều	0	0	0	0	NONE	nhiều_nhiều	A	A	A	A
+
+Vẫn	1	0	0	0	NONE	Vẫn	R	R	R	R
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+xinh	0	0	0	0	NONE	SNH	A	A	A	A
+gái	0	0	0	0	NONE	gái	N	N	N	N
+thế	0	0	0	0	NONE	thế	P	P	T	P
+nhờ	0	0	0	0	NONE	nhờ	V	V	T	T
+
+2.9.2015	0	1	0	0	NONE	2.9.2015	M	M	M	M
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+Cùng	1	0	0	0	NONE	Cùng	A	A	A	A
+nhau	0	0	0	0	NONE	NH	N	N	N	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+khắp	0	0	0	0	NONE	khắp	A	A	A	A
+thế_gian	0	0	0	0	NONE	thế_JN	N	N	N	N
+
+Chà_chà	1	0	0	0	NONE	Chà_chà	N	N	I	N
+hai	0	0	0	0	NONE	H	M	M	M	M
+mụ	0	0	0	0	NONE	mụ	N	N	N	N
+o	0	0	0	0	NONE	o	V	V	V	V
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+mềnh	0	0	0	0	NONE	mềnh	A	A	A	A
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Phí	1	0	0	0	NONE	Phí	N	N	N	N
+ship	0	0	0	0	NONE	XP	V	V	FL	FL
+Lạng_Sơn	1	0	1	0	NONE	Lạng_Sơn	Np	Np	Np	Np
+từ	0	0	0	0	NONE	từ	E	E	E	E
+40	0	1	0	0	NONE	40	M	M	M	M
+đến	0	0	0	0	NONE	đến	E	E	E	E
+50k	0	1	0	0	NONE	50k	M	M	M	M
+nha	0	0	0	0	NONE	NH	I	I	I	T
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+
+Cống_hiến	1	0	0	0	NONE	Cống_hiến	N	N	V	N
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+hy_sinh	0	0	0	0	NONE	_SNH	M	M	V	V
+đời	0	0	0	0	NONE	đời	V	V	N	V
+bố	0	0	0	0	NONE	bố	V	V	N	V
+củng_cố	0	0	0	0	NONE	củng_cố	N	N	V	N
+đời	0	0	0	0	NONE	đời	V	V	N	V
+con	0	0	0	0	NONE	KN	V	V	N	N
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Nhưng	1	0	0	0	NONE	Nhưng	C	C	C	C
+người	0	0	0	0	NONE	người	N	N	N	N
+phát_hiện	0	0	0	0	NONE	phát_hiện	V	V	V	V
+bảo	0	0	0	0	NONE	bảo	V	V	V	V
+cách	0	0	0	0	NONE	cách	N	N	N	N
+20	0	1	0	0	NONE	20	M	M	M	M
+m	0	0	0	0	NONE	m	Nu	Nu	Nu	Nu
+chẳng_lẽ	0	0	0	0	NONE	chẳng_lẽ	R	R	R	R
+bà	0	0	0	0	NONE	bà	Nc	Nc	Nc	Nc
+vk	0	0	0	0	NONE	FK	N	N	AB	N
+bị	0	0	0	0	NONE	bị	V	V	V	V
+què	0	0	0	0	NONE	què	V	V	V	V
+hay_sao	0	0	0	0	NONE	H_S	X	X	X	X
+mà	0	0	0	0	NONE	mà	C	C	C	C
+bò	0	0	0	0	NONE	bò	N	N	V	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+20	0	1	0	0	NONE	20	M	M	M	M
+m	0	0	0	0	NONE	m	Nu	Nu	Nu	AB
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Mọi	1	0	0	0	NONE	Mọi	L	L	L	L
+người	0	0	0	0	NONE	người	N	N	N	N
+muốn	0	0	0	0	NONE	muốn	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+mỹ_phẩm	0	0	0	0	NONE	mỹ_phẩm	N	N	N	N
+có_thể	0	0	0	0	NONE	có_thể	R	R	R	R
+ib	0	0	0	0	NONE	IB	V	V	AB	V
+mình	0	0	0	0	NONE	mình	P	P	P	P
+mn	0	0	0	0	NONE	MN	V	V	AB	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Có	1	0	0	0	NONE	Có	V	V	V	V
+cả	0	0	0	0	NONE	cả	P	P	P	P
+5xl	0	1	0	0	NONE	5xl	M	M	M	M
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+nha	0	0	0	0	NONE	NH	T	T	T	T
+
+Một	1	0	0	0	NONE	Một	M	M	M	M
+lồng_ngực	0	0	0	0	NONE	lồng_ngực	N	N	N	N
+có_thể	0	0	0	0	NONE	có_thể	A	A	R	A
+tựa	0	0	0	0	NONE	tựa	V	V	V	V
+vào	0	0	0	0	NONE	vào	R	R	R	R
+để	0	0	0	0	NONE	để	E	E	E	E
+khóc	0	0	0	0	NONE	khóc	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+
+Đẹp	1	0	0	0	NONE	Đẹp	A	A	A	A
+zoai	0	0	0	0	NONE	S	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Lug_ljh	1	0	0	0	NONE	LK_LJH	Np	Np	A	Np
+vãi	0	0	0	0	NONE	vãi	N	N	T	N
+
+Khoảng	1	0	0	0	NONE	Khoảng	N	N	N	N
+4	0	1	0	0	NONE	4	M	M	M	M
+cây	0	0	0	0	NONE	cây	N	N	Nu	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Ông	1	0	0	0	NONE	Ông	Nc	Nc	Nc	Nc
+a	0	0	0	0	NONE	a	N	N	AB	AB
+chê	0	0	0	0	NONE	chê	V	V	V	V
+già	0	0	0	0	NONE	già	A	A	A	A
+hơi	0	0	0	0	NONE	hơi	R	R	R	R
+bị	0	0	0	0	NONE	bị	V	V	V	V
+lịch_sự	0	0	0	0	NONE	lịch_sự	A	A	A	A
+đấy	0	0	0	0	NONE	đấy	P	P	T	T
+
+Hội	1	0	0	0	NONE	Hội	N	N	N	N
+tìm	0	0	0	0	NONE	tìm	V	V	V	V
+quanh	0	0	0	0	NONE	KNH	N	N	N	N
+đây	0	0	0	0	NONE	đây	P	P	P	P
+
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+đc	0	0	0	0	NONE	đc	N	N	AB	AB
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+shop	0	0	0	0	NONE	XP	N	N	N	N
+xin	0	0	0	0	NONE	SN	V	V	V	V
+chiều_cao	0	0	0	0	NONE	chiều_K	N	N	N	N
+cân_nặng	0	0	0	0	NONE	cân_nặng	N	N	N	N
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+Cưng	1	0	0	0	NONE	Cưng	V	V	V	V
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+chịu	0	0	0	0	NONE	chịu	V	V	V	V
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+(^^^)	0	0	0	0	AR	(^^^)	M	AR	AR	AR
+
+p/s	0	0	0	0	NONE	p/s	V	V	AB	AB
+:	0	0	0	0	SPECIAL	:	X	X	PUN	PUN
+cơ_mà	0	0	0	0	NONE	cơ_mà	V	V	T	V
+tag	0	0	0	0	NONE	TK	R	R	FL	R
+mệt	0	0	0	0	NONE	mệt	R	R	A	R
+quá	0	0	0	0	NONE	quá	V	V	R	V
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	A	CF	CF	CF
+
+Người	1	0	0	0	NONE	Người	N	N	N	N
+nghệ_an	0	0	0	0	NONE	nghệ_AN	N	N	Np	N
+tướng	0	0	0	0	NONE	tướng	N	N	Nc	N
+Tiến	1	0	0	0	NONE	Tiến	Np	Np	Np	Np
+là	0	0	0	0	NONE	là	V	V	V	V
+người	0	0	0	0	NONE	người	N	N	N	N
+nghệ_an	0	0	0	0	NONE	nghệ_AN	N	N	Np	N
+phải	0	0	0	0	NONE	phải	V	V	V	V
+thế	0	0	0	0	NONE	thế	P	P	P	P
+chơ	0	0	0	0	NONE	chơ	V	V	T	T
+
+Thế_mà	1	0	0	0	NONE	Thế_mà	C	C	C	C
+những	0	0	0	0	NONE	những	L	L	L	L
+anh_hùng	0	0	0	0	NONE	ANH_hùng	N	N	N	N
+bàn_phím	0	0	0	0	NONE	bàn_phím	N	N	N	N
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+thế	0	0	0	0	NONE	thế	R	R	R	R
+này	0	0	0	0	NONE	này	P	P	P	P
+thế	0	0	0	0	NONE	thế	P	P	P	P
+nọ	0	0	0	0	NONE	nọ	P	P	P	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Uống	1	0	0	0	NONE	Uống	V	V	V	V
+nước_mắm	0	0	0	0	NONE	nước_mắm	N	N	N	N
+riết	0	0	0	0	NONE	riết	V	V	A	V
+hà	0	0	0	0	NONE	hà	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Kinh_khủng	1	0	0	0	NONE	KNH_khủng	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+
+Héng	1	0	0	0	NONE	Héng	Np	Np	I	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+trời	0	0	0	0	NONE	trời	N	N	N	N
+mưa	0	0	0	0	NONE	mưa	V	V	V	V
+k	0	0	0	0	NONE	k	A	A	AB	AB
+làm_gì	0	0	0	0	NONE	làm_gì	X	X	X	X
+nên	0	0	0	0	NONE	nên	C	C	C	C
+mn	0	0	0	0	NONE	MN	V	V	AB	V
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+hỏi	0	0	0	0	NONE	hỏi	V	V	V	V
+đê	0	0	0	0	NONE	đê	N	N	I	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+t	0	0	0	0	NONE	t	N	N	AB	AB
+sẽ	0	0	0	0	NONE	sẽ	R	R	R	R
+trả_lời	0	0	0	0	NONE	trả_lời	V	V	V	V
+hết	0	0	0	0	NONE	hết	V	V	V	V
+:x	0	0	0	0	IL	:x	PUN	IL	IL	IL
+
+Kiều_Thủy	1	0	1	0	NONE	Kiều_Thủy	Np	Np	Np	Np
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+ở	0	0	0	0	NONE	ở	V	V	V	V
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+à	0	0	0	0	NONE	à	T	T	T	T
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	V	CF	CF	CF
+
+hiếm	0	0	0	0	NONE	hiếm	A	A	A	A
+được	0	0	0	0	NONE	được	R	R	R	R
+ai	0	0	0	0	NONE	A	P	P	P	P
+thật	0	0	0	0	NONE	thật	T	T	T	T
+lòng	0	0	0	0	NONE	lòng	N	N	N	N
+unsure_emoticon	0	0	0	0	SD	UNSR_EMTKN	N	SD	SD	SD
+unsure_emoticon	0	0	0	0	SD	UNSR_EMTKN	N	SD	SD	SD
+unsure_emoticon	0	0	0	0	SD	UNSR_EMTKN	N	SD	SD	SD
+
+Này	1	0	0	0	NONE	Này	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+mưa	0	0	0	0	NONE	mưa	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+ta	0	0	0	0	NONE	T	P	P	P	P
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+đi	0	0	0	0	NONE	đi	V	V	V	V
+xem	0	0	0	0	NONE	SM	V	V	V	V
+pháo_hoa	0	0	0	0	NONE	pháo_H	N	N	N	N
+như	0	0	0	0	NONE	như	A	A	C	A
+thường	0	0	0	0	NONE	thường	A	A	A	A
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+tôi	0	0	0	0	NONE	tôi	P	P	P	P
+lậy	0	0	0	0	NONE	lậy	V	V	V	V
+ông	0	0	0	0	NONE	ông	Nc	Nc	N	Nc
+=)))))))))))	0	0	0	0	HP	=)))))))))))	Np	HP	HP	HP
+.	0	0	0	0	SPECIAL	.	V	V	PUN	PUN
+
+tuần	0	0	0	0	NONE	tuần	N	N	N	N
+chầu	0	0	0	0	NONE	chầu	N	N	N	N
+trực	0	0	0	0	NONE	trực	V	V	V	V
+mới	0	0	0	0	NONE	mới	R	R	R	R
+đc	0	0	0	0	NONE	đc	N	N	AB	AB
+2	0	1	0	0	NONE	2	M	M	M	M
+tập	0	0	0	0	NONE	tập	V	V	V	V
+
+Chẳng	1	0	0	0	NONE	Chẳng	R	R	R	R
+bít	0	0	0	0	NONE	bít	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+tý	0	0	0	0	NONE	tý	N	N	N	N
+gọi_là	0	0	0	0	NONE	gọi_là	X	X	X	X
+may_mắn	0	0	0	0	NONE	M_mắn	A	A	A	A
+của	0	0	0	0	NONE	của	E	E	E	E
+shop	0	0	0	0	NONE	XP	N	N	N	N
+dành	0	0	0	0	NONE	dành	V	V	V	V
+tặng	0	0	0	0	NONE	tặng	V	V	V	V
+hay	0	0	0	0	NONE	H	C	C	C	C
+k	0	0	0	0	NONE	k	N	N	AB	AB
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+Hic	1	0	0	0	NONE	HK	Np	Np	I	I
+
+phim	0	0	0	0	NONE	FM	N	N	N	N
+ngu_độn	0	0	0	0	NONE	NK_độn	V	V	A	N
+=)))	0	0	0	0	HP	=)))	M	HP	HP	HP
+
+ôi	0	0	0	0	NONE	ôi	N	N	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+trộm_vía	0	0	0	0	NONE	trộm_vía	N	N	X	N
+em	0	0	0	0	NONE	EM	N	N	N	N
+đáng_yêu	0	0	0	0	NONE	đáng_yêu	V	V	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+:x	0	0	0	0	IL	:x	PUN	IL	IL	IL
+
+Tối	1	0	0	0	NONE	Tối	N	N	N	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+các	0	0	0	0	NONE	các	L	L	L	L
+c	0	0	0	0	NONE	c	N	N	AB	AB
+cho	0	0	0	0	NONE	K	E	E	V	E
+t	0	0	0	0	NONE	t	N	N	AB	AB
+sdt	0	0	0	0	NONE	STT	V	V	AB	V
+với	0	0	0	0	NONE	với	E	E	E	E
+
+Cái	1	0	0	0	NONE	Cái	Nc	Nc	Nc	Nc
+này	0	0	0	0	NONE	này	P	P	P	P
+ở	0	0	0	0	NONE	ở	E	E	E	E
+sg	0	0	0	0	NONE	SK	N	N	Np	N
+hay	0	0	0	0	NONE	H	C	C	C	C
+đâu	0	0	0	0	NONE	đâu	P	P	T	P
+vậy	0	0	0	0	NONE	vậy	P	P	P	P
+ban	0	0	0	0	NONE	BN	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cho	0	0	0	0	NONE	K	E	E	E	E
+mình	0	0	0	0	NONE	mình	P	P	P	P
+xin	0	0	0	0	NONE	SN	V	V	V	V
+địa_chỉ	0	0	0	0	NONE	địa_chỉ	N	N	N	N
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+Ôi_trời	1	0	0	0	NONE	Ôi_trời	I	I	I	I
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Bác	1	0	0	0	NONE	Bác	Np	Np	N	N
+Nguyễn_Thị_Lan	1	0	1	0	NONE	Nguyễn_Thị_LN	Np	Np	Np	Np
+cài	0	0	0	0	NONE	cài	V	V	V	V
+cả	0	0	0	0	NONE	cả	P	P	P	P
+hoa	0	0	0	0	NONE	H	N	N	N	N
+^^	0	0	0	0	HP	^^	N	HP	HP	HP
+
+sự	0	0	0	0	NONE	sự	N	N	N	N
+cho	0	0	0	0	NONE	K	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+nhận	0	0	0	0	NONE	nhận	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+
+Bác	1	0	0	0	NONE	Bác	N	N	N	N
+ngồi	0	0	0	0	NONE	ngồi	V	V	V	V
+đoạn	0	0	0	0	NONE	đoạn	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+ạh	0	0	0	0	NONE	ạh	V	V	T	V
+mng	0	0	0	0	NONE	MNK	N	N	AB	N
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+C	1	0	1	0	NONE	C	N	N	AB	AB
+cho	0	0	0	0	NONE	K	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+mượn	0	0	0	0	NONE	mượn	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Kính_trọng	1	0	0	0	NONE	Kính_trọng	V	V	A	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Dáng	1	0	0	0	NONE	Dáng	N	N	N	N
+mik	0	0	0	0	NONE	MK	N	N	X	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+chuẩn	0	0	0	0	NONE	chuẩn	A	A	A	A
+phết	0	0	0	0	NONE	phết	V	V	V	V
+
+Mới	1	0	0	0	NONE	Mới	R	R	R	R
+sinh	0	0	0	0	NONE	SNH	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+dk	0	0	0	0	NONE	TK	N	N	X	AB
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+ahop	0	0	0	0	NONE	AP	N	N	X	N
+
+Công_an	1	0	0	0	NONE	Công_AN	N	N	N	N
+Việt_Nam	1	0	1	0	NONE	Việt_NM	Np	Np	Np	Np
+giỏi	0	0	0	0	NONE	giỏi	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+
+cảm_ơn	0	0	0	0	NONE	cảm_ơn	V	V	V	V
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+Daisy	1	0	0	0	NONE	TS	Np	Np	Np	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+xin_phép	0	0	0	0	NONE	SN_phép	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+share	0	0	0	0	NONE	XR	V	V	FL	V
+bài	0	0	0	0	NONE	bài	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+để	0	0	0	0	NONE	để	E	E	E	E
+truyền	0	0	0	0	NONE	truyền	V	V	V	V
+thêm	0	0	0	0	NONE	thêm	V	V	V	V
+cảm_hứng	0	0	0	0	NONE	cảm_hứng	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+bà_mẹ	0	0	0	0	NONE	bà_mẹ	N	N	N	N
+hơn_nữa	0	0	0	0	NONE	hơn_nữa	R	R	R	R
+
+g9	0	0	0	0	NONE	g9	M	M	AB	M
+C	1	0	1	0	NONE	C	N	N	AB	N
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+:x	0	0	0	0	IL	:x	PUN	IL	IL	IL
+
+Chụp	1	0	0	0	NONE	Chụp	V	V	V	V
+dáng	0	0	0	0	NONE	dáng	N	N	N	N
+dài	0	0	0	0	NONE	dài	A	A	A	A
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+làm	0	0	0	0	NONE	làm	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+b	0	0	0	0	NONE	b	N	N	AB	AB
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Nhớ	1	0	0	0	NONE	Nhớ	V	V	V	V
+mấy	0	0	0	0	NONE	mấy	L	L	L	L
+con	0	0	0	0	NONE	KN	Nc	Nc	Nc	Nc
+điêng	0	0	0	0	NONE	điêng	N	N	A	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+nhớ	0	0	0	0	NONE	nhớ	V	V	V	V
+ngày	0	0	0	0	NONE	ngày	N	N	N	N
+ý_nghĩa	0	0	0	0	NONE	ý_nghĩa	N	N	N	N
+
+Đưa	1	0	0	0	NONE	Đưa	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+khắp	0	0	0	0	NONE	khắp	A	A	A	A
+thế_gian	0	0	0	0	NONE	thế_JN	N	N	N	N
+:)	0	0	0	0	HP	:)	PUN	HP	HP	HP
+
+như	0	0	0	0	NONE	như	C	C	C	C
+tên	0	0	0	0	NONE	tên	N	N	N	N
+tiếng_anh	0	0	0	0	NONE	tiếng_ANH	N	N	Np	N
+là	0	0	0	0	NONE	là	V	V	V	V
+succulent	0	0	0	0	NONE	SKLNT	N	N	FL	N
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Áo	1	0	0	0	NONE	Áo	N	N	N	N
+size	0	0	0	0	NONE	SS	V	V	FL	FL
+3xl	0	1	0	0	NONE	3xl	M	M	M	M
+or	0	0	0	0	NONE	OR	N	N	FL	N
+4xl	0	1	0	0	NONE	4xl	M	M	M	M
+có	0	0	0	0	NONE	có	V	V	V	V
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+lâu	0	0	0	0	NONE	lâu	A	A	A	A
+r	0	0	0	0	NONE	r	N	N	AB	AB
+ms	0	0	0	0	NONE	MS	N	N	AB	N
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Muốn	1	0	0	0	NONE	Muốn	V	V	V	V
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+uống	0	0	0	0	NONE	uống	V	V	V	V
+nước	0	0	0	0	NONE	nước	N	N	N	N
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Đến	1	0	0	0	NONE	Đến	E	E	E	E
+tuổi	0	0	0	0	NONE	tuổi	N	N	N	N
+rưỡi	0	0	0	0	NONE	rưỡi	M	M	M	M
+thì	0	0	0	0	NONE	thì	C	C	C	C
+nói	0	0	0	0	NONE	nói	V	V	V	V
+câu	0	0	0	0	NONE	câu	N	N	N	N
+dài	0	0	0	0	NONE	dài	A	A	A	A
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+
+uk	0	0	0	0	NONE	UK	N	N	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+có	0	0	0	0	NONE	có	V	V	V	V
+chút	0	0	0	0	NONE	chút	N	N	N	N
+buồn	0	0	0	0	NONE	buồn	V	V	A	V
+c	0	0	0	0	NONE	c	N	N	AB	AB
+grin_emoticon	0	0	0	0	HP	KRN_EMTKN	V	HP	HP	HP
+
+Thích	1	0	0	0	NONE	Thích	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+ko_khí	0	0	0	0	NONE	K_khí	N	N	AB	N
+trong_veo	0	0	0	0	NONE	TRNK_F	A	A	A	A
+mát_mẻ	0	0	0	0	NONE	mát_mẻ	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+nó	0	0	0	0	NONE	nó	P	P	P	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+sáng	0	0	0	0	NONE	sáng	N	N	N	N
+nay	0	0	0	0	NONE	N	P	P	P	P
+3h	0	1	0	0	NONE	3h	M	M	M	M
+dậy	0	0	0	0	NONE	dậy	V	V	V	V
+sau	0	0	0	0	NONE	S	E	E	E	E
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+tiếp	0	0	0	0	NONE	tiếp	V	V	V	V
+ms	0	0	0	0	NONE	MS	N	N	AB	N
+muộn	0	0	0	0	NONE	muộn	A	A	A	A
+
+Cảm_giác	1	0	0	0	NONE	Cảm_giác	N	N	N	N
+1	0	1	0	0	NONE	1	M	M	M	M
+mình	0	0	0	0	NONE	mình	P	P	P	P
+cuối	0	0	0	0	NONE	cuối	A	A	A	A
+ngày	0	0	0	0	NONE	ngày	N	N	N	N
+lại	0	0	0	0	NONE	lại	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+2	0	1	0	0	NONE	2	M	M	M	M
+đứa	0	0	0	0	NONE	đứa	Nc	Nc	Nc	Nc
+bên_cạnh	0	0	0	0	NONE	bên_cạnh	N	N	N	N
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+e	0	0	0	0	NONE	e	V	V	AB	AB
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+khéo	0	0	0	0	NONE	khéo	V	V	V	V
+đùa	0	0	0	0	NONE	đùa	V	V	V	V
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+tục_tưng	0	0	0	0	NONE	tục_tưng	A	A	N	A
+tục_tưng	0	0	0	0	NONE	tục_tưng	A	A	N	N
+
+Chúc_mừng	1	0	0	0	NONE	Chúc_mừng	V	V	V	V
+sinh_nhật	0	0	0	0	NONE	SNH_nhật	N	N	N	N
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+Thuỷ_Lê	1	0	1	0	NONE	Thuỷ_Lê	Np	Np	Np	Np
+
+Có	1	0	0	0	NONE	Có	V	V	V	V
+ảnh	0	0	0	0	NONE	ảnh	N	N	N	N
+cháu	0	0	0	0	NONE	cháu	N	N	N	N
+giống	0	0	0	0	NONE	giống	A	A	A	A
+bố	0	0	0	0	NONE	bố	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+ảnh	0	0	0	0	NONE	ảnh	N	N	N	N
+cháu	0	0	0	0	NONE	cháu	N	N	N	N
+lại	0	0	0	0	NONE	lại	V	V	R	V
+giống	0	0	0	0	NONE	giống	V	V	A	V
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+ạ	0	0	0	0	NONE	ạ	T	T	T	T
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	V	HP	HP	HP
+
+Lúc	1	0	0	0	NONE	Lúc	N	N	N	N
+ở	0	0	0	0	NONE	ở	E	E	E	E
+dưới	0	0	0	0	NONE	dưới	N	N	E	N
+hầm	0	0	0	0	NONE	hầm	N	N	N	N
+A2	1	0	0	0	NONE	A2	Np	Np	Np	Np
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+biết	0	0	0	0	NONE	biết	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+phải	0	0	0	0	NONE	phải	V	V	V	V
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+
+Có	1	0	0	0	NONE	Có	V	V	V	V
+cảm_giác	0	0	0	0	NONE	cảm_giác	N	N	N	N
+từ	0	0	0	0	NONE	từ	E	E	E	E
+mấy	0	0	0	0	NONE	mấy	L	L	L	L
+vòng	0	0	0	0	NONE	vòng	N	N	N	N
+đầu	0	0	0	0	NONE	đầu	N	N	N	N
+đến	0	0	0	0	NONE	đến	E	E	E	E
+giờ	0	0	0	0	NONE	giờ	N	N	N	N
+c	0	0	0	0	NONE	c	N	N	AB	AB
+TP	1	0	1	0	NONE	TP	Np	Np	X	X
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+ưa	0	0	0	0	NONE	ưa	V	V	V	V
+C_MT	1	0	1	0	NONE	C_MT	Np	Np	X	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+kiểu	0	0	0	0	NONE	kiểu	N	N	N	N
+nói_móc	0	0	0	0	NONE	nói_móc	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+chơi_chữ	0	0	0	0	NONE	chơi_chữ	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Đúng	1	0	0	0	NONE	Đúng	A	A	A	A
+hôm	0	0	0	0	NONE	hôm	N	N	N	N
+mình	0	0	0	0	NONE	mình	P	P	P	P
+đi	0	0	0	0	NONE	đi	V	V	V	V
+trực	0	0	0	0	NONE	trực	V	V	V	V
+frown_emoticon	0	0	0	0	SD	FRN_EMTKN	N	SD	SD	SD
+
+là	0	0	0	0	NONE	là	C	C	C	C
+lấy	0	0	0	0	NONE	lấy	V	V	V	V
+bao_nhiêu	0	0	0	0	NONE	B_nhiêu	P	P	P	P
+để	0	0	0	0	NONE	để	E	E	E	E
+có_giá	0	0	0	0	NONE	có_giá	A	A	A	A
+sỉ	0	0	0	0	NONE	sỉ	V	V	V	V
+vậy	0	0	0	0	NONE	vậy	P	P	P	P
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Đẹp	1	0	0	0	NONE	Đẹp	A	A	A	A
+wá	0	0	0	0	NONE	wá	N	N	R	N
+chị	0	0	0	0	NONE	chị	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+mà	0	0	0	0	NONE	mà	C	C	C	C
+hết	0	0	0	0	NONE	hết	V	V	A	V
+tiền	0	0	0	0	NONE	tiền	N	N	N	N
+ùi	0	0	0	0	NONE	ùi	V	V	R	V
+sao	0	0	0	0	NONE	S	P	P	P	P
+mua	0	0	0	0	NONE	M	V	V	V	V
+đây	0	0	0	0	NONE	đây	P	P	T	P
+
+Dùng	1	0	0	0	NONE	Dùng	V	V	V	V
+thích	0	0	0	0	NONE	thích	V	V	V	V
+đó	0	0	0	0	NONE	đó	P	P	P	P
+cưng	0	0	0	0	NONE	cưng	V	V	N	V
+Nga_Vicky	1	0	1	0	NONE	NK_FK	Np	Np	Np	Np
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+tí	0	0	0	0	NONE	tí	N	N	A	A
+thôi	0	0	0	0	NONE	thôi	V	V	T	T
+a	0	0	0	0	NONE	a	N	N	AB	AB
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+Hảy	1	0	0	0	NONE	Hảy	Np	Np	X	Np
+cho	0	0	0	0	NONE	K	V	V	V	V
+mình	0	0	0	0	NONE	mình	P	P	P	P
+điạ_chỉ	0	0	0	0	NONE	điạ_chỉ	V	V	N	V
+để	0	0	0	0	NONE	để	E	E	E	E
+mình	0	0	0	0	NONE	mình	P	P	P	P
+đến	0	0	0	0	NONE	đến	V	V	V	V
+trị	0	0	0	0	NONE	trị	V	V	V	V
+mụn	0	0	0	0	NONE	mụn	N	N	N	N
+dùm	0	0	0	0	NONE	dùm	V	V	V	V
+mình	0	0	0	0	NONE	mình	P	P	P	P
+với	0	0	0	0	NONE	với	E	E	E	E
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+C	1	0	1	0	NONE	C	Np	Np	AB	AB
+đki	0	0	0	0	NONE	đki	V	V	AB	V
+1	0	1	0	0	NONE	1	M	M	M	M
+suất	0	0	0	0	NONE	suất	N	N	N	N
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+hem	0	0	0	0	NONE	HM	N	N	R	R
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Hoa_Ngọc_Lan	1	0	1	0	NONE	H_Ngọc_LN	Np	Np	Np	Np
+cây	0	0	0	0	NONE	cây	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+lượng	0	0	0	0	NONE	lượng	N	N	N	N
+canxi	0	0	0	0	NONE	KNKS	N	N	N	N
+cao	0	0	0	0	NONE	K	A	A	A	A
+gấp	0	0	0	0	NONE	gấp	V	V	V	V
+4	0	1	0	0	NONE	4	M	M	M	M
+lần	0	0	0	0	NONE	lần	N	N	N	N
+cà_rốt	0	0	0	0	NONE	cà_rốt	V	V	N	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+bỏ	0	0	0	0	NONE	bỏ	V	V	V	V
+kiểu	0	0	0	0	NONE	kiểu	N	N	N	N
+đó	0	0	0	0	NONE	đó	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+chị	0	0	0	0	NONE	chị	N	N	N	N
+chít	0	0	0	0	NONE	chít	V	V	V	V
+Minh_Tiến	1	0	1	0	NONE	MNH_Tiến	Np	Np	Np	Np
+ợ	0	0	0	0	NONE	ợ	V	V	T	T
+
+Trường	1	0	0	0	NONE	Trường	N	N	N	N
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+bắt	0	0	0	0	NONE	bắt	V	V	V	V
+đi	0	0	0	0	NONE	đi	R	R	R	R
+quai_hậu	0	0	0	0	NONE	K_hậu	V	V	N	V
+hoàiii	0	0	0	0	NONE	hoàiii	N	N	X	N
+
+Minh	1	0	0	0	NONE	MNH	Np	Np	Np	Np
+đặt	0	0	0	0	NONE	đặt	V	V	V	V
+voucher	0	0	0	0	NONE	FXR	N	N	FL	N
+tri	0	0	0	0	NONE	TR	N	N	V	N
+tan_nhang	0	0	0	0	NONE	TN_NHNK	V	V	N	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Đạt	1	0	0	0	NONE	Đạt	Np	Np	Np	Np
+đừng	0	0	0	0	NONE	đừng	R	R	R	R
+gọi	0	0	0	0	NONE	gọi	V	V	V	V
+t	0	0	0	0	NONE	t	N	N	AB	AB
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+t	0	0	0	0	NONE	t	N	N	AB	AB
+mủi_lòng	0	0	0	0	NONE	mủi_lòng	V	V	V	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Shop	1	0	0	0	NONE	XP	Np	Np	N	N
+ship	0	0	0	0	NONE	XP	V	V	FL	FL
+hàng	0	0	0	0	NONE	hàng	N	N	N	N
+toàn_quốc	0	0	0	0	NONE	toàn_quốc	N	N	N	N
+nhed	0	0	0	0	NONE	NHT	V	V	X	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+inbox	0	0	0	0	NONE	INBKS	N	N	FL	FL
+đặt_hàng	0	0	0	0	NONE	đặt_hàng	V	V	V	V
+nhe	0	0	0	0	NONE	NH	V	V	T	T
+
+Hai	1	0	0	0	NONE	H	M	M	M	M
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+con	0	0	0	0	NONE	KN	N	N	N	N
+yêu	0	0	0	0	NONE	yêu	V	V	A	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+đi	0	0	0	0	NONE	đi	V	V	T	V
+thôi	0	0	0	0	NONE	thôi	V	V	T	T
+
+hix	0	0	0	0	NONE	HKS	N	N	I	N
+hem	0	0	0	0	NONE	HM	V	V	R	R
+biết	0	0	0	0	NONE	biết	R	R	V	V
+đâu	0	0	0	0	NONE	đâu	R	R	T	T
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+ghét	0	0	0	0	NONE	ghét	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+rồi	0	0	0	0	NONE	rồi	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	N	HP	HP	HP
+hôm_nay	0	0	0	0	NONE	hôm_N	N	N	N	N
+tớ	0	0	0	0	NONE	tớ	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+phiền	0	0	0	0	NONE	phiền	N	N	N	N
+2	0	1	0	0	NONE	2	M	M	M	M
+cậu	0	0	0	0	NONE	cậu	N	N	N	N
+lắm	0	0	0	0	NONE	lắm	R	R	R	R
+không	0	0	0	0	NONE	không	R	R	R	R
+
+C	1	0	1	0	NONE	C	Np	Np	AB	AB
+về	0	0	0	0	NONE	về	V	V	V	V
+ăn	0	0	0	0	NONE	ăn	V	V	V	V
+jỗ	0	0	0	0	NONE	jỗ	N	N	N	N
+ông	0	0	0	0	NONE	ông	N	N	N	N
+tối	0	0	0	0	NONE	tối	N	N	N	N
+c	0	0	0	0	NONE	c	N	N	AB	AB
+gửi	0	0	0	0	NONE	gửi	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+ít	0	0	0	0	NONE	ít	A	A	A	A
+đồ_ăn	0	0	0	0	NONE	đồ_ăn	V	V	V	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+À	1	0	1	0	NONE	À	I	I	I	I
+đây	0	0	0	0	NONE	đây	P	P	P	P
+là	0	0	0	0	NONE	là	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+lúc	0	0	0	0	NONE	lúc	N	N	N	N
+mà	0	0	0	0	NONE	mà	C	C	C	C
+toai	0	0	0	0	NONE	T	N	N	P	N
+còn	0	0	0	0	NONE	còn	R	R	R	R
+nùn	0	0	0	0	NONE	nùn	V	V	A	V
+xịt	0	0	0	0	NONE	xịt	N	N	N	N
+zà	0	0	0	0	NONE	zà	V	V	X	V
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+giảm	0	0	0	0	NONE	giảm	V	V	V	V
+cân	0	0	0	0	NONE	cân	N	N	N	N
+đó	0	0	0	0	NONE	đó	P	P	P	P
+mờ	0	0	0	0	NONE	mờ	A	A	R	A
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+giờ	0	0	0	0	NONE	giờ	N	N	N	N
+toai	0	0	0	0	NONE	T	N	N	P	N
+đã	0	0	0	0	NONE	đã	R	R	R	R
+cao	0	0	0	0	NONE	K	A	A	A	A
+hơn	0	0	0	0	NONE	hơn	R	R	R	R
+dc	0	0	0	0	NONE	TK	V	V	AB	AB
+chút	0	0	0	0	NONE	chút	N	N	N	N
+xếu	0	0	0	0	NONE	xếu	V	V	A	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+giảm	0	0	0	0	NONE	giảm	V	V	V	V
+iu	0	0	0	0	NONE	I	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+cơ	0	0	0	0	NONE	cơ	N	N	T	T
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Cái	1	0	0	0	NONE	Cái	Nc	Nc	Nc	Nc
+mà	0	0	0	0	NONE	mà	C	C	C	C
+người_ta	0	0	0	0	NONE	người_T	P	P	P	P
+gọi_là	0	0	0	0	NONE	gọi_là	X	X	X	X
+trưởng_thành	0	0	0	0	NONE	trưởng_thành	V	V	V	V
+thật_ra	0	0	0	0	NONE	thật_R	X	X	X	X
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+chỉ	0	0	0	0	NONE	chỉ	R	R	R	R
+là	0	0	0	0	NONE	là	V	V	V	V
+biết	0	0	0	0	NONE	biết	V	V	V	V
+chịu_đựng	0	0	0	0	NONE	chịu_đựng	V	V	V	V
+nỗi	0	0	0	0	NONE	nỗi	N	N	N	N
+đau	0	0	0	0	NONE	đau	V	V	V	V
+giỏi	0	0	0	0	NONE	giỏi	A	A	A	A
+hơn	0	0	0	0	NONE	hơn	R	R	R	R
+mà	0	0	0	0	NONE	mà	T	T	C	T
+thôi	0	0	0	0	NONE	thôi	T	T	T	T
+
+Đc	1	0	0	0	NONE	Đc	Np	Np	AB	AB
+về	0	0	0	0	NONE	về	V	V	V	V
+sướng	0	0	0	0	NONE	sướng	V	V	A	V
+nhaa	0	0	0	0	NONE	NH	N	N	X	N
+
+Con_gái	1	0	0	0	NONE	KN_gái	N	N	N	N
+đáng_iu	0	0	0	0	NONE	đáng_I	V	V	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+
+Do	1	0	0	0	NONE	T	E	E	E	E
+cháu	0	0	0	0	NONE	cháu	N	N	N	N
+ngu	0	0	0	0	NONE	NK	V	V	A	V
+hay	0	0	0	0	NONE	H	C	C	C	C
+bà	0	0	0	0	NONE	bà	N	N	N	N
+giỏi	0	0	0	0	NONE	giỏi	A	A	A	A
+thế	0	0	0	0	NONE	thế	P	P	T	T
+
+Vui_vui	1	0	0	0	NONE	F_F	V	V	A	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Vui	1	0	0	0	NONE	F	V	V	V	V
+a	0	0	0	0	NONE	a	N	N	AB	AB
+nhờ	0	0	0	0	NONE	nhờ	V	V	T	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Toàn	1	0	0	0	NONE	Toàn	Np	Np	N	Np
+sát_thủ	0	0	0	0	NONE	sát_thủ	V	V	V	V
+vỏ_lâm	0	0	0	0	NONE	vỏ_lâm	N	N	N	N
+cả	0	0	0	0	NONE	cả	P	P	P	P
+
+Nhìn	1	0	0	0	NONE	Nhìn	V	V	V	V
+iu	0	0	0	0	NONE	I	N	N	V	N
+nhỉ	0	0	0	0	NONE	nhỉ	R	R	T	T
+^^	0	0	0	0	HP	^^	M	HP	HP	HP
+Kiều_Nhật_Anh	1	0	1	0	NONE	Kiều_Nhật_ANH	N	N	Np	Np
+
+Thế	1	0	0	0	NONE	Thế	T	T	T	T
+à	0	0	0	0	NONE	à	T	T	T	T
+thế	0	0	0	0	NONE	thế	P	P	P	P
+tối	0	0	0	0	NONE	tối	N	N	N	N
+nay	0	0	0	0	NONE	N	P	P	P	P
+Kit_Phanh	1	0	1	0	NONE	KT_FNH	Np	Np	Np	Np
+khao	0	0	0	0	NONE	KH	A	A	A	A
+đấy	0	0	0	0	NONE	đấy	P	P	P	P
+c	0	0	0	0	NONE	c	N	N	AB	AB
+ạ	0	0	0	0	NONE	ạ	T	T	T	I
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+ship	0	0	0	0	NONE	XP	N	N	FL	N
+Sài_Gòn	1	0	1	0	NONE	Sài_Gòn	Np	Np	Np	Np
+30k	0	1	0	0	NONE	30k	M	M	M	M
+nha	0	0	0	0	NONE	NH	I	I	T	T
+
+Cố_lênnnn	1	0	0	0	NONE	Cố_lênnnn	V	V	X	V
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+Dù	1	0	0	0	NONE	Dù	C	C	C	C
+thành_công	0	0	0	0	NONE	thành_công	V	V	V	V
+hay	0	0	0	0	NONE	H	C	C	C	C
+thất_bại	0	0	0	0	NONE	thất_bại	N	N	V	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+nản_lòng	0	0	0	0	NONE	nản_lòng	V	V	V	V
+
+Phần_Audio	1	0	1	0	NONE	Phần_AT	Np	Np	Np	Np
+của	0	0	0	0	NONE	của	E	E	E	E
+CAM	1	0	1	0	NONE	CAM	Np	Np	Np	Np
+10	0	1	0	0	NONE	10	M	M	M	M
+cần	0	0	0	0	NONE	cần	V	V	V	V
+mật_khẩu	0	0	0	0	NONE	mật_khẩu	V	V	V	V
+xả	0	0	0	0	NONE	xả	V	V	V	V
+nén	0	0	0	0	NONE	nén	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+vui_lòng	0	0	0	0	NONE	F_lòng	N	N	N	N
+cho_biết	0	0	0	0	NONE	K_biết	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+không	0	0	0	0	NONE	không	R	R	R	R
+Bách	1	0	0	0	NONE	Bách	V	V	Np	V
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Bờm_Bụng_Bự	1	0	1	0	NONE	Bờm_Bụng_Bự	Np	Np	Np	Np
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+đây	0	0	0	0	NONE	đây	P	P	P	P
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+bố	0	0	0	0	NONE	bố	N	N	N	N
+trẻ	0	0	0	0	NONE	trẻ	A	A	A	A
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Ngày	1	0	0	0	NONE	Ngày	N	N	N	N
+mình	0	0	0	0	NONE	mình	P	P	P	P
+còn	0	0	0	0	NONE	còn	R	R	R	R
+rất	0	0	0	0	NONE	rất	R	R	R	R
+trẻ	0	0	0	0	NONE	trẻ	A	A	A	A
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Em	1	0	0	0	NONE	EM	N	N	N	N
+thích	0	0	0	0	NONE	thích	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+chị	0	0	0	0	NONE	chị	Nc	Nc	Nc	Nc
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+vậy_mà	0	0	0	0	NONE	vậy_mà	C	C	C	C
+em	0	0	0	0	NONE	EM	N	N	N	N
+lại	0	0	0	0	NONE	lại	R	R	R	R
+ở	0	0	0	0	NONE	ở	E	E	E	E
+xa	0	0	0	0	NONE	S	A	A	A	A
+tít_mù	0	0	0	0	NONE	tít_mù	N	N	R	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+phải	0	0	0	0	NONE	phải	V	V	V	V
+nàm_thaooooo	0	0	0	0	NONE	nàm_0	V	V	X	V
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+
+Nói	1	0	0	0	NONE	Nói	V	V	V	V
+đúng	0	0	0	0	NONE	đúng	A	A	A	A
+đấy	0	0	0	0	NONE	đấy	P	P	T	P
+gasp_emoticon	0	0	0	0	CF	KSP_EMTKN	V	CF	CF	CF
+
+Rất	1	0	0	0	NONE	Rất	R	R	R	R
+cảm_ơn	0	0	0	0	NONE	cảm_ơn	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+đã	0	0	0	0	NONE	đã	R	R	R	R
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+đeo	0	0	0	0	NONE	đeo	V	V	V	V
+kính	0	0	0	0	NONE	kính	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Ước	1	0	0	0	NONE	Ước	V	V	V	V
+ji	0	0	0	0	NONE	J	N	N	P	N
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+xe	0	0	0	0	NONE	S	N	N	N	N
+minh	0	0	0	0	NONE	MNH	N	N	X	N
+bị	0	0	0	0	NONE	bị	V	V	V	V
+mất	0	0	0	0	NONE	mất	V	V	V	V
+cung	0	0	0	0	NONE	KNK	N	N	X	N
+dc	0	0	0	0	NONE	TK	V	V	AB	AB
+tim	0	0	0	0	NONE	TM	N	N	X	N
+ra	0	0	0	0	NONE	R	V	V	V	V
+nhanh	0	0	0	0	NONE	NHNH	A	A	A	A
+như_vậy	0	0	0	0	NONE	như_vậy	X	X	X	X
+nhỉ	0	0	0	0	NONE	nhỉ	I	I	T	T
+
+bộ	0	0	0	0	NONE	bộ	N	N	N	N
+ảnh	0	0	0	0	NONE	ảnh	N	N	N	N
+quá	0	0	0	0	NONE	quá	R	R	R	R
+đẹp	0	0	0	0	NONE	đẹp	A	A	A	A
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	V	HP	HP	HP
+
+ở	0	0	0	0	NONE	ở	E	E	E	E
+đấy	0	0	0	0	NONE	đấy	P	P	P	P
+còn	0	0	0	0	NONE	còn	R	R	R	R
+kêu	0	0	0	0	NONE	kêu	V	V	V	V
+buồn	0	0	0	0	NONE	buồn	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Cũng	1	0	0	0	NONE	Cũng	R	R	R	R
+đang	0	0	0	0	NONE	đang	R	R	R	R
+định	0	0	0	0	NONE	định	V	V	V	V
+lấy	0	0	0	0	NONE	lấy	V	V	V	V
+làm	0	0	0	0	NONE	làm	V	V	V	V
+ảnh	0	0	0	0	NONE	ảnh	N	N	N	N
+bìa	0	0	0	0	NONE	bìa	N	N	N	N
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+được	0	0	0	0	NONE	được	R	R	R	R
+buổi	0	0	0	0	NONE	buổi	N	N	N	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+chơi	0	0	0	0	NONE	chơi	V	V	V	V
+gặp	0	0	0	0	NONE	gặp	V	V	V	V
+toàn	0	0	0	0	NONE	toàn	R	R	L	R
+người	0	0	0	0	NONE	người	N	N	N	N
+quen	0	0	0	0	NONE	KN	V	V	V	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+mọi	0	0	0	0	NONE	mọi	L	L	L	L
+người	0	0	0	0	NONE	người	N	N	N	N
+bảo	0	0	0	0	NONE	bảo	V	V	V	V
+gầy	0	0	0	0	NONE	gầy	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+ăn	0	0	0	0	NONE	ăn	V	V	V	V
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+cho	0	0	0	0	NONE	K	E	E	E	E
+mập_mạp	0	0	0	0	NONE	mập_mạp	N	N	A	N
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+chuyện	0	0	0	0	NONE	chuyện	N	N	N	N
+cổ_tích	0	0	0	0	NONE	cổ_tích	N	N	N	N
+
+Để	1	0	0	0	NONE	Để	E	E	E	E
+cho	0	0	0	0	NONE	K	V	V	V	V
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+là	0	0	0	0	NONE	là	V	V	V	V
+Yvie	1	0	0	0	NONE	F	Np	Np	Np	Np
+ngưng	0	0	0	0	NONE	ngưng	V	V	V	V
+dùng	0	0	0	0	NONE	dùng	V	V	V	V
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+sao	0	0	0	0	NONE	S	T	T	T	T
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+chiều	0	0	0	0	NONE	chiều	N	N	N	N
+nay	0	0	0	0	NONE	N	P	P	P	P
+mưa	0	0	0	0	NONE	mưa	N	N	V	N
+roài	0	0	0	0	NONE	roài	V	V	T	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+đời	0	0	0	0	NONE	đời	N	N	N	N
+đâu	0	0	0	0	NONE	đâu	P	P	T	P
+ai	0	0	0	0	NONE	A	P	P	P	P
+hoàn_hảo	0	0	0	0	NONE	hoàn_hảo	A	A	A	A
+huốn_hồ	0	0	0	0	NONE	huốn_hồ	V	V	X	V
+chi	0	0	0	0	NONE	K	V	V	P	V
+là	0	0	0	0	NONE	là	V	V	V	V
+cuộc_thi	0	0	0	0	NONE	cuộc_0	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Nhưg	1	0	0	0	NONE	Nhưg	N	N	C	N
+do	0	0	0	0	NONE	T	E	E	E	E
+nó	0	0	0	0	NONE	nó	P	P	P	P
+đắt	0	0	0	0	NONE	đắt	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+nên	0	0	0	0	NONE	nên	C	C	C	C
+k	0	0	0	0	NONE	k	V	V	AB	AB
+mua	0	0	0	0	NONE	M	V	V	V	V
+đk	0	0	0	0	NONE	đk	N	N	X	X
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Ẻm	0	0	0	0	NONE	Ẻm	N	N	N	N
+yêu	0	0	0	0	NONE	yêu	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	N	HP	HP	HP
+thực_ra	0	0	0	0	NONE	thực_R	A	A	A	A
+thì	0	0	0	0	NONE	thì	C	C	C	C
+em	0	0	0	0	NONE	EM	N	N	N	N
+đăng	0	0	0	0	NONE	đăng	V	V	V	V
+stt	0	0	0	0	NONE	ST	V	V	AB	V
+xong	0	0	0	0	NONE	SNK	R	R	R	R
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+chứ	0	0	0	0	NONE	chứ	C	C	C	C
+chẳng	0	0	0	0	NONE	chẳng	R	R	R	R
+muốn	0	0	0	0	NONE	muốn	V	V	V	V
+kể	0	0	0	0	NONE	kể	V	V	V	V
+chuyện	0	0	0	0	NONE	chuyện	N	N	N	N
+gì	0	0	0	0	NONE	gì	P	P	P	P
+với	0	0	0	0	NONE	với	E	E	E	E
+ai	0	0	0	0	NONE	A	P	P	P	P
+a	0	0	0	0	NONE	a	N	N	AB	AB
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+:))))	0	0	0	0	HP	:))))	PUN	HP	HP	HP
+
+số	0	0	0	0	NONE	số	N	N	N	N
+9	0	1	0	0	NONE	9	M	M	M	M
+Chùa_Bộc	1	0	1	0	NONE	Chùa_Bộc	Np	Np	Np	Np
+nhé	0	0	0	0	NONE	nhé	I	I	T	T
+
+lên	0	0	0	0	NONE	lên	E	E	E	E
+mediamart	0	0	0	0	NONE	MTMRT	N	N	Np	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+Nghiêm_Thảo	1	0	1	0	NONE	Nghiêm_Thảo	Np	Np	Np	Np
+Nguyễn_Thị_Bình_An	1	0	1	0	NONE	Nguyễn_Thị_Bình_AN	Np	Np	Np	Np
+grin_emoticon	0	0	0	0	HP	KRN_EMTKN	V	HP	HP	HP
+
+P/s	1	0	0	0	NONE	P/s	Np	Np	AB	AB
+:	0	0	0	0	SPECIAL	:	X	X	PUN	PUN
+Mr.Văn_Thơ	1	0	1	0	NONE	Mr.Văn_Thơ	V	V	Np	Np
+
+Loại	1	0	0	0	NONE	Loại	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+không	0	0	0	0	NONE	không	R	R	R	R
+nên	0	0	0	0	NONE	nên	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+nó	0	0	0	0	NONE	nó	P	P	P	P
+chết	0	0	0	0	NONE	chết	V	V	V	V
+ngay	0	0	0	0	NONE	NK	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+mà	0	0	0	0	NONE	mà	C	C	C	C
+phải	0	0	0	0	NONE	phải	V	V	V	V
+chết	0	0	0	0	NONE	chết	V	V	V	V
+từ_từ	0	0	0	0	NONE	từ_từ	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Lúc_nào	1	0	0	0	NONE	Lúc_nào	N	N	P	N
+chả	0	0	0	0	NONE	chả	R	R	R	R
+đẹp	0	0	0	0	NONE	đẹp	A	A	A	A
+hơn	0	0	0	0	NONE	hơn	R	R	A	R
+ai	0	0	0	0	NONE	A	P	P	P	P
+đấy	0	0	0	0	NONE	đấy	T	T	T	T
+
+nộp	0	0	0	0	NONE	nộp	V	V	V	V
+trường	0	0	0	0	NONE	trường	N	N	N	N
+gì	0	0	0	0	NONE	gì	P	P	P	P
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+con	0	0	0	0	NONE	KN	Nc	Nc	Nc	Nc
+ngu	0	0	0	0	NONE	NK	N	N	A	N
+nhất	0	0	0	0	NONE	nhất	A	A	A	A
+thê_giới	0	0	0	0	NONE	thê_giới	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+
+Size	1	0	0	0	NONE	SS	N	N	FL	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+vừa	0	0	0	0	NONE	vừa	R	R	R	R
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Haha	1	0	0	0	NONE	H	Np	Np	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cháu	0	0	0	0	NONE	cháu	N	N	N	N
+ai	0	0	0	0	NONE	A	P	P	P	P
+:D	0	0	0	0	HP	:D	PUN	HP	HP	HP
+
+Set_Pitera	1	0	1	0	NONE	ST_PTR	Np	Np	Np	Np
+essence	0	0	0	0	NONE	ESNS	V	V	Np	V
+set	0	0	0	0	NONE	ST	V	V	FL	V
+giá	0	0	0	0	NONE	giá	N	N	N	N
+sale_off	0	0	0	0	NONE	SL_OF	V	V	FL	V
+kỷ_niệm	0	0	0	0	NONE	kỷ_niệm	N	N	N	N
+35	0	1	0	0	NONE	35	M	M	M	M
+th	0	0	0	0	NONE	0	N	N	X	N
+thành_lập	0	0	0	0	NONE	thành_lập	V	V	V	V
+của	0	0	0	0	NONE	của	E	E	E	E
+SKII	1	0	1	0	NONE	SKII	Np	Np	Np	Np
+
+Cao	1	0	0	0	NONE	K	A	A	A	A
+163	0	1	0	0	NONE	163	M	M	M	M
+nặng	0	0	0	0	NONE	nặng	A	A	N	N
+60	0	1	0	0	NONE	60	M	M	M	M
+kg	0	0	0	0	NONE	KK	Nu	Nu	Nu	Nu
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+đc	0	0	0	0	NONE	đc	N	N	AB	AB
+L	1	0	1	0	NONE	L	Np	Np	Np	Np
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+ban	0	0	0	0	NONE	BN	N	N	N	N
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+H	1	0	1	0	NONE	H	Np	Np	AB	Np
+này	0	0	0	0	NONE	này	P	P	P	P
+bán	0	0	0	0	NONE	bán	V	V	V	V
+gì	0	0	0	0	NONE	gì	P	P	P	P
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+đang	0	0	0	0	NONE	đang	R	R	R	R
+ấy	0	0	0	0	NONE	ấy	V	V	P	V
+là	0	0	0	0	NONE	là	V	V	V	V
+hình	0	0	0	0	NONE	hình	N	N	N	N
+minh_họa	0	0	0	0	NONE	MNH_họa	V	V	V	V
+thể_hiện	0	0	0	0	NONE	thể_hiện	V	V	V	V
+sự	0	0	0	0	NONE	sự	N	N	N	N
+đói	0	0	0	0	NONE	đói	V	V	V	V
+của	0	0	0	0	NONE	của	E	E	E	E
+t	0	0	0	0	NONE	t	N	N	AB	AB
+thôi	0	0	0	0	NONE	thôi	T	T	T	T
+cry_emoticon	0	0	0	0	SD	KR_EMTKN	V	SD	SD	SD
+t	0	0	0	0	NONE	t	N	N	AB	AB
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+đói	0	0	0	0	NONE	đói	V	V	V	V
+vồn	0	0	0	0	NONE	vồn	N	N	T	T
+
+Chị	1	0	0	0	NONE	Chị	N	N	N	N
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+cười	0	0	0	0	NONE	cười	V	V	V	V
+tươi	0	0	0	0	NONE	tươi	A	A	A	A
+là	0	0	0	0	NONE	là	V	V	V	V
+trẻ	0	0	0	0	NONE	trẻ	N	N	N	N
+đẹp	0	0	0	0	NONE	đẹp	A	A	A	A
+c	0	0	0	0	NONE	c	N	N	AB	AB
+ah	0	0	0	0	NONE	A	V	V	T	T
+
+Có	1	0	0	0	NONE	Có	V	V	V	V
+gì	0	0	0	0	NONE	gì	P	P	P	P
+mà	0	0	0	0	NONE	mà	C	C	C	C
+phải	0	0	0	0	NONE	phải	V	V	V	V
+lên	0	0	0	0	NONE	lên	V	V	V	V
+tiếng	0	0	0	0	NONE	tiếng	V	V	N	N
+bảo_vệ	0	0	0	0	NONE	bảo_vệ	V	V	V	V
+cơ	0	0	0	0	NONE	cơ	N	N	T	N
+chứ	0	0	0	0	NONE	chứ	C	C	T	C
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+e	0	0	0	0	NONE	e	V	V	AB	AB
+chỉ	0	0	0	0	NONE	chỉ	R	R	R	R
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+sách	0	0	0	0	NONE	sách	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+tranh_ảnh	0	0	0	0	NONE	TRNH_ảnh	N	N	N	N
+thôi	0	0	0	0	NONE	thôi	V	V	T	T
+:'(	0	0	0	0	SD	:'(	PUN	SD	SD	SD
+
+Hoan_hô	1	0	0	0	NONE	HN_hô	C	C	V	V
+các	0	0	0	0	NONE	các	L	L	L	L
+csca	0	0	0	0	NONE	KSK	N	N	Np	N
+
+về	0	0	0	0	NONE	về	E	E	E	E
+quái	0	0	0	0	NONE	quái	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+dc	0	0	0	0	NONE	TK	V	V	AB	AB
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+đi	0	0	0	0	NONE	đi	V	V	V	V
+học	0	0	0	0	NONE	học	V	V	V	V
+mà	0	0	0	0	NONE	mà	C	C	T	C
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+ông	0	0	0	0	NONE	ông	Nc	Nc	Nc	Nc
+đây	0	0	0	0	NONE	đây	P	P	P	P
+cháu	0	0	0	0	NONE	cháu	N	N	N	N
+
+Hà_Nguyễn	1	0	1	0	NONE	Hà_Nguyễn	Np	Np	Np	Np
+vào	0	0	0	0	NONE	vào	V	V	V	V
+xem	0	0	0	0	NONE	SM	V	V	V	V
+này	0	0	0	0	NONE	này	P	P	P	P
+
+âu	0	0	0	0	NONE	âu	N	N	I	N
+lâu	0	0	0	0	NONE	lâu	A	A	A	A
+lại	0	0	0	0	NONE	lại	R	R	R	R
+lôi	0	0	0	0	NONE	lôi	V	V	V	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+toàn	0	0	0	0	NONE	toàn	R	R	L	R
+những	0	0	0	0	NONE	những	L	L	L	L
+nỗi	0	0	0	0	NONE	nỗi	Nc	Nc	N	Nc
+nhớ	0	0	0	0	NONE	nhớ	V	V	V	V
+squint_emoticon	0	0	0	0	CF	SKNT_EMTKN	V	CF	CF	CF
+
+ok	0	0	0	0	NONE	OK	N	N	I	I
+hôm_qua	0	0	0	0	NONE	hôm_K	N	N	N	N
+mưa	0	0	0	0	NONE	mưa	V	V	V	V
+nên	0	0	0	0	NONE	nên	C	C	C	C
+chị	0	0	0	0	NONE	chị	N	N	N	N
+k	0	0	0	0	NONE	k	V	V	AB	AB
+bảo	0	0	0	0	NONE	bảo	V	V	V	V
+đứa	0	0	0	0	NONE	đứa	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+cả	0	0	0	0	NONE	cả	P	P	P	P
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+chị	0	0	0	0	NONE	chị	N	N	N	N
+chỉ	0	0	0	0	NONE	chỉ	R	R	R	R
+làm	0	0	0	0	NONE	làm	V	V	V	V
+cúng	0	0	0	0	NONE	cúng	V	V	V	V
+mụ	0	0	0	0	NONE	mụ	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+cháu	0	0	0	0	NONE	cháu	N	N	N	N
+thôi	0	0	0	0	NONE	thôi	V	V	T	T
+
+thư_giãn	0	0	0	0	NONE	thư_giãn	V	V	V	V
+chút	0	0	0	0	NONE	chút	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	T	P
+
+chất_liệu	0	0	0	0	NONE	chất_liệu	N	N	N	N
+sản_phẩm	0	0	0	0	NONE	sản_phẩm	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+giống	0	0	0	0	NONE	giống	A	A	A	A
+với	0	0	0	0	NONE	với	E	E	E	E
+các	0	0	0	0	NONE	các	L	L	L	L
+sản_phẩm	0	0	0	0	NONE	sản_phẩm	N	N	N	N
+giá	0	0	0	0	NONE	giá	N	N	N	N
+cao	0	0	0	0	NONE	K	A	A	A	A
+hơn	0	0	0	0	NONE	hơn	R	R	R	R
+không	0	0	0	0	NONE	không	R	R	R	R
+adm	0	0	0	0	NONE	ATM	V	V	X	V
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+ôi_zời	0	0	0	0	NONE	ôi_zời	N	N	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+nc	0	0	0	0	NONE	NK	V	V	AB	V
+vs	0	0	0	0	NONE	FS	N	N	AB	AB
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+Lan	1	0	0	0	NONE	LN	Np	Np	Np	Np
+thà	0	0	0	0	NONE	thà	V	V	V	V
+nc	0	0	0	0	NONE	NK	N	N	AB	AB
+vs	0	0	0	0	NONE	FS	V	V	AB	AB
+đầu_gối	0	0	0	0	NONE	đầu_gối	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+nó	0	0	0	0	NONE	nó	P	P	P	P
+nhanh	0	0	0	0	NONE	NHNH	A	A	A	A
+
+Một	1	0	0	0	NONE	Một	X	X	M	X
+mình	0	0	0	0	NONE	mình	X	X	P	X
+có	0	0	0	0	NONE	có	V	V	V	V
+lạnh	0	0	0	0	NONE	lạnh	A	A	A	A
+không	0	0	0	0	NONE	không	R	R	R	R
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+Minh	1	0	0	0	NONE	MNH	Np	Np	N	Np
+hẹn_hò	0	0	0	0	NONE	hẹn_hò	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+
+Co	1	0	0	0	NONE	K	V	V	V	V
+big	0	0	0	0	NONE	BK	N	N	FL	N
+size	0	0	0	0	NONE	SS	V	V	FL	V
+ham	0	0	0	0	NONE	HM	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+^^	0	0	0	0	HP	^^	M	HP	HP	HP
+
+đẹp	0	0	0	0	NONE	đẹp	A	A	A	A
+quạ	0	0	0	0	NONE	quạ	N	N	N	N
+
+Ở	1	0	1	0	NONE	Ở	E	E	E	E
+đà_nẵng	0	0	0	0	NONE	đà_nẵng	N	N	Np	N
+muốn	0	0	0	0	NONE	muốn	V	V	V	V
+đặt	0	0	0	0	NONE	đặt	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+đc	0	0	0	0	NONE	đc	N	N	AB	AB
+k	0	0	0	0	NONE	k	A	A	AB	AB
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Em	1	0	0	0	NONE	EM	N	N	N	N
+đồng	0	0	0	0	NONE	đồng	V	V	V	V
+quan_điểm	0	0	0	0	NONE	KN_điểm	N	N	N	N
+với	0	0	0	0	NONE	với	E	E	E	E
+chị	0	0	0	0	NONE	chị	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+tối	0	0	0	0	NONE	tối	N	N	N	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+uống	0	0	0	0	NONE	uống	V	V	V	V
+mấy	0	0	0	0	NONE	mấy	L	L	L	L
+h	0	0	0	0	NONE	h	N	N	AB	N
+nhớ	0	0	0	0	NONE	nhớ	V	V	V	V
+hú	0	0	0	0	NONE	hú	V	V	V	V
+trc	0	0	0	0	NONE	TRK	N	N	AB	N
+30	0	1	0	0	NONE	30	M	M	M	M
+phút	0	0	0	0	NONE	phút	Nu	Nu	Nu	Nu
+nhớ	0	0	0	0	NONE	nhớ	V	V	T	V
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+
+Tnay	1	0	0	0	NONE	TN	Np	Np	Np	Np
+bảo	0	0	0	0	NONE	bảo	V	V	V	V
+sao	0	0	0	0	NONE	S	P	P	P	P
+ế	0	0	0	0	NONE	ế	A	A	A	A
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Chào	1	0	0	0	NONE	Chào	V	V	V	V
+năm	0	0	0	0	NONE	năm	N	N	N	N
+mới	0	0	0	0	NONE	mới	R	R	R	R
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	V	HP	HP	HP
+
+Ố_ồ	1	0	0	0	NONE	Ố_ồ	A	A	I	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Bạn	1	0	0	0	NONE	Bạn	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+có_vẻ	0	0	0	0	NONE	có_vẻ	X	X	R	X
+giống	0	0	0	0	NONE	giống	A	A	A	A
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+phải	0	0	0	0	NONE	phải	V	V	V	V
+không	0	0	0	0	NONE	không	R	R	R	R
+a	0	0	0	0	NONE	a	N	N	AB	AB
+Tuấn_Bình_Lê	1	0	1	0	NONE	Tuấn_Bình_Lê	Np	Np	Np	Np
+
+Mượn	1	0	0	0	NONE	Mượn	V	V	V	V
+ở	0	0	0	0	NONE	ở	E	E	E	E
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+đấy	0	0	0	0	NONE	đấy	P	P	T	P
+c	0	0	0	0	NONE	c	N	N	AB	AB
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Đọc	1	0	0	0	NONE	Đọc	V	V	V	V
+mà	0	0	0	0	NONE	mà	C	C	C	C
+không_thể	0	0	0	0	NONE	không_thể	R	R	R	R
+nhịn	0	0	0	0	NONE	nhịn	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+cười	0	0	0	0	NONE	cười	V	V	V	V
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+đứa	0	0	0	0	NONE	đứa	Nc	Nc	Nc	Nc
+nào	0	0	0	0	NONE	nào	P	P	P	P
+ngồi	0	0	0	0	NONE	ngồi	V	V	V	V
+m	0	0	0	0	NONE	m	Nu	Nu	X	AB
+tính	0	0	0	0	NONE	tính	N	N	N	N
+mua	0	0	0	0	NONE	M	V	V	V	V
+hàng	0	0	0	0	NONE	hàng	N	N	N	N
+online	0	0	0	0	NONE	ONLN	V	V	FL	V
+thế	0	0	0	0	NONE	thế	P	P	T	T
+=))))	0	0	0	0	HP	=))))	M	HP	HP	HP
+
+chả	0	0	0	0	NONE	chả	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+thằng	0	0	0	0	NONE	thằng	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+biết	0	0	0	0	NONE	biết	V	V	V	V
+bỏ	0	0	0	0	NONE	bỏ	V	V	V	V
+thằng	0	0	0	0	NONE	thằng	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+Đầu	1	0	0	0	NONE	Đầu	N	N	N	N
+xù	0	0	0	0	NONE	xù	V	V	V	V
+tóc	0	0	0	0	NONE	tóc	N	N	N	N
+rối	0	0	0	0	NONE	rối	V	V	V	V
+è_è	0	0	0	0	NONE	è_è	N	N	T	N
+
+Xin_phép	1	0	0	0	NONE	SN_phép	V	V	V	V
+chị	0	0	0	0	NONE	chị	N	N	N	N
+cho	0	0	0	0	NONE	K	V	V	V	V
+e	0	0	0	0	NONE	e	V	V	AB	AB
+share	0	0	0	0	NONE	XR	N	N	FL	FL
+ạ	0	0	0	0	NONE	ạ	T	T	I	I
+
+ai	0	0	0	0	NONE	A	P	P	P	P
+hay	0	0	0	0	NONE	H	C	C	R	C
+up	0	0	0	0	NONE	UP	V	V	FL	V
+stt	0	0	0	0	NONE	ST	A	A	AB	A
+nhất	0	0	0	0	NONE	nhất	R	R	R	R
+squint_emoticon	0	0	0	0	CF	SKNT_EMTKN	V	CF	CF	CF
+
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+Hàn_Xẻng	1	0	1	0	NONE	Hàn_Xẻng	Np	Np	V	Np
+như	0	0	0	0	NONE	như	V	V	C	V
+ai	0	0	0	0	NONE	A	V	V	P	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+hay	0	0	0	0	NONE	H	C	C	A	C
+like_emoticon	0	0	0	0	IL	LK_EMTKN	V	IL	IL	IL
+
+Nhiệm_vụ	1	0	0	0	NONE	Nhiệm_vụ	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+hlv	0	0	0	0	NONE	LF	N	N	AB	N
+là	0	0	0	0	NONE	là	V	V	V	V
+đưa	0	0	0	0	NONE	đưa	V	V	V	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+ý_kiến	0	0	0	0	NONE	ý_kiến	N	N	N	N
+còn	0	0	0	0	NONE	còn	R	R	R	R
+hay_dở	0	0	0	0	NONE	H_dở	V	V	A	V
+thì	0	0	0	0	NONE	thì	C	C	C	C
+khán_giả	0	0	0	0	NONE	khán_giả	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+quan_điểm	0	0	0	0	NONE	KN_điểm	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+họ	0	0	0	0	NONE	họ	P	P	P	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Nhưng	1	0	0	0	NONE	Nhưng	C	C	C	C
+chị	0	0	0	0	NONE	chị	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+lúc	0	0	0	0	NONE	lúc	N	N	N	N
+chia_tay	0	0	0	0	NONE	K_T	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+chẳng	0	0	0	0	NONE	chẳng	R	R	R	R
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+nói	0	0	0	0	NONE	nói	V	V	V	V
+cám_ơn	0	0	0	0	NONE	cám_ơn	V	V	V	V
+chị	0	0	0	0	NONE	chị	N	N	N	N
+Tâm	1	0	0	0	NONE	Tâm	Np	Np	Np	Np
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Đủ	1	0	0	0	NONE	Đủ	A	A	A	A
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+cò	0	0	0	0	NONE	cò	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+
+Có	1	0	0	0	NONE	Có	V	V	V	V
+ngày	0	0	0	0	NONE	ngày	N	N	N	N
+bị	0	0	0	0	NONE	bị	V	V	V	V
+dẫm	0	0	0	0	NONE	dẫm	V	V	V	V
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Đã	1	0	0	0	NONE	Đã	R	R	R	R
+cất	0	0	0	0	NONE	cất	V	V	V	V
+mồm	0	0	0	0	NONE	mồm	N	N	N	N
+lên	0	0	0	0	NONE	lên	V	V	V	V
+vay	0	0	0	0	NONE	F	V	V	V	V
+thì	0	0	0	0	NONE	thì	C	C	C	C
+nghĩa_là	0	0	0	0	NONE	nghĩa_là	X	X	X	X
+phải	0	0	0	0	NONE	phải	V	V	V	V
+trả	0	0	0	0	NONE	trả	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+còn	0	0	0	0	NONE	còn	C	C	R	C
+xin	0	0	0	0	NONE	SN	V	V	V	V
+thì	0	0	0	0	NONE	thì	C	C	C	C
+cho	0	0	0	0	NONE	K	V	V	V	V
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+bù	0	0	0	0	NONE	bù	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+còn	0	0	0	0	NONE	còn	R	R	R	R
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+câu	0	0	0	0	NONE	câu	N	N	N	N
+cám_ơn	0	0	0	0	NONE	cám_ơn	V	V	V	V
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+đa_tạ	0	0	0	0	NONE	đa_tạ	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+form	0	0	0	0	NONE	FRM	N	N	FL	N
+36	0	1	0	0	NONE	36	M	M	M	M
+này	0	0	0	0	NONE	này	P	P	P	P
+37	0	1	0	0	NONE	37	M	M	M	M
+đi	0	0	0	0	NONE	đi	V	V	V	V
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+đó	0	0	0	0	NONE	đó	P	P	P	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Mình	1	0	0	0	NONE	Mình	P	P	P	P
+nặng	0	0	0	0	NONE	nặng	A	A	A	A
+52kg	0	1	0	0	NONE	52kg	M	M	M	M
+cao	0	0	0	0	NONE	K	N	N	N	N
+1.54	0	1	0	0	NONE	1.54	M	M	M	M
+thì	0	0	0	0	NONE	thì	C	C	C	C
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+cỡ	0	0	0	0	NONE	cỡ	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Nhg	1	0	0	0	NONE	NK	Np	Np	X	AB
+dù_sao	0	0	0	0	NONE	dù_S	C	C	C	C
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+hơn	0	0	0	0	NONE	hơn	A	A	A	A
+m	0	0	0	0	NONE	m	Nu	Nu	AB	AB
+đấy	0	0	0	0	NONE	đấy	T	T	T	T
+con	0	0	0	0	NONE	KN	Nc	Nc	Nc	Nc
+lề_mề	0	0	0	0	NONE	lề_mề	A	A	A	A
+make	0	0	0	0	NONE	MK	V	V	FL	V
+up	0	0	0	0	NONE	UP	N	N	FL	N
+=)))	0	0	0	0	HP	=)))	V	HP	HP	HP
+
+C	1	0	1	0	NONE	C	Np	Np	AB	AB
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+e	0	0	0	0	NONE	e	V	V	AB	AB
+mượn	0	0	0	0	NONE	mượn	V	V	V	V
+quyển	0	0	0	0	NONE	quyển	Nc	Nc	Nc	Nc
+ngòii_khóc_trên_câyyy	0	0	0	0	NONE	ngòii_khóc_trên_câyyy	N	N	X	N
+với	0	0	0	0	NONE	với	E	E	E	E
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Hồng_Cương_Chu	1	0	1	0	NONE	Hồng_Cương_K	Np	Np	Np	Np
+bố	0	0	0	0	NONE	bố	N	N	N	N
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+để	0	0	0	0	NONE	để	E	E	E	E
+còn	0	0	0	0	NONE	còn	R	R	R	R
+nói	0	0	0	0	NONE	nói	V	V	V	V
+chuyện	0	0	0	0	NONE	chuyện	V	V	N	N
+với	0	0	0	0	NONE	với	E	E	E	E
+con	0	0	0	0	NONE	KN	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+đã	0	0	0	0	NONE	đã	R	R	R	R
+bị	0	0	0	0	NONE	bị	V	V	V	V
+dính	0	0	0	0	NONE	dính	V	V	V	V
+mấy	0	0	0	0	NONE	mấy	L	L	L	L
+lần	0	0	0	0	NONE	lần	N	N	N	N
+thật	0	0	0	0	NONE	thật	T	T	A	T
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	A	HP	HP	HP
+
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+Ng	1	0	0	0	NONE	NK	Np	Np	AB	AB
+chê	0	0	0	0	NONE	chê	V	V	V	V
+ta	0	0	0	0	NONE	T	P	P	P	P
+đúng	0	0	0	0	NONE	đúng	A	A	A	A
+ms	0	0	0	0	NONE	MS	N	N	AB	N
+là	0	0	0	0	NONE	là	V	V	V	V
+thầy	0	0	0	0	NONE	thầy	N	N	N	N
+ta	0	0	0	0	NONE	T	P	P	P	P
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+
+Số_lượng	1	0	0	0	NONE	Số_lượng	N	N	N	N
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+2	0	1	0	0	NONE	2	M	M	M	M
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Trần_Như_Tuấn_Anh	1	0	1	0	NONE	Trần_Như_Tuấn_ANH	X	X	Np	Np
+bao_giờ	0	0	0	0	NONE	B_giờ	P	P	P	P
+dẫn	0	0	0	0	NONE	dẫn	V	V	V	V
+mình	0	0	0	0	NONE	mình	P	P	P	P
+đi	0	0	0	0	NONE	đi	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+sách	0	0	0	0	NONE	sách	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+đi	0	0	0	0	NONE	đi	V	V	V	V
+
+Nhà	1	0	0	0	NONE	Nhà	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+chỗ	0	0	0	0	NONE	chỗ	N	N	N	N
+đâu	0	0	0	0	NONE	đâu	P	P	T	P
+mà	0	0	0	0	NONE	mà	C	C	C	C
+trồng	0	0	0	0	NONE	trồng	V	V	V	V
+
+Vừa_phải	1	0	0	0	NONE	Vừa_phải	N	N	N	N
+thôi	0	0	0	0	NONE	thôi	V	V	T	T
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Ai	1	0	0	0	NONE	A	P	P	P	P
+đã	0	0	0	0	NONE	đã	R	R	R	R
+từng	0	0	0	0	NONE	từng	R	R	R	R
+như	0	0	0	0	NONE	như	C	C	C	C
+này	0	0	0	0	NONE	này	P	P	P	P
+ta	0	0	0	0	NONE	T	P	P	P	P
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	V	CF	CF	CF
+
+Yêu	1	0	0	0	NONE	Yêu	V	V	V	V
+là	0	0	0	0	NONE	là	C	C	C	C
+phải	0	0	0	0	NONE	phải	V	V	V	V
+nói	0	0	0	0	NONE	nói	V	V	V	V
+như	0	0	0	0	NONE	như	C	C	C	C
+đói	0	0	0	0	NONE	đói	V	V	V	V
+là	0	0	0	0	NONE	là	C	C	C	C
+phải	0	0	0	0	NONE	phải	V	V	V	V
+ăn	0	0	0	0	NONE	ăn	V	V	V	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+Hàng	1	0	0	0	NONE	Hàng	N	N	N	N
+chuẩn	0	0	0	0	NONE	chuẩn	N	N	A	N
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+có	0	0	0	0	NONE	có	V	V	V	V
+bill	0	0	0	0	NONE	BL	N	N	FL	N
+đầy_đủ	0	0	0	0	NONE	đầy_đủ	A	A	A	A
+0912802617	0	1	0	0	NONE	0912802617	M	M	M	M
+
+E	1	0	1	0	NONE	E	V	V	AB	AB
+có	0	0	0	0	NONE	có	V	V	V	V
+xem	0	0	0	0	NONE	SM	V	V	V	V
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+
+hóng	0	0	0	0	NONE	hóng	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+
+vãi	0	0	0	0	NONE	vãi	V	V	T	T
+cả	0	0	0	0	NONE	cả	P	P	P	P
+gấm	0	0	0	0	NONE	gấm	N	N	N	N
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+
+Chuẩn	1	0	0	0	NONE	Chuẩn	A	A	A	A
+a	0	0	0	0	NONE	a	N	N	AB	AB
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+có	0	0	0	0	NONE	có	V	V	V	V
+chê	0	0	0	0	NONE	chê	V	V	V	V
+thì	0	0	0	0	NONE	thì	C	C	C	C
+thí_sinh	0	0	0	0	NONE	thí_SNH	V	V	V	V
+ms	0	0	0	0	NONE	MS	N	N	AB	N
+rút	0	0	0	0	NONE	rút	V	V	V	V
+kinh_nghiệm	0	0	0	0	NONE	KNH_nghiệm	N	N	N	N
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+tiến_bộ	0	0	0	0	NONE	tiến_bộ	N	N	N	N
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+chứ	0	0	0	0	NONE	chứ	C	C	T	T
+
+Ui	1	0	0	0	NONE	U	I	I	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+hum	0	0	0	0	NONE	HM	V	V	V	V
+trước	0	0	0	0	NONE	trước	E	E	E	E
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+thử	0	0	0	0	NONE	thử	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+e	0	0	0	0	NONE	e	V	V	AB	AB
+bị	0	0	0	0	NONE	bị	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+nhầm	0	0	0	0	NONE	nhầm	V	V	V	V
+dáng	0	0	0	0	NONE	dáng	N	N	N	N
+dài	0	0	0	0	NONE	dài	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+yeah	0	0	0	0	NONE	Y	N	N	I	N
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+Bác	1	0	0	0	NONE	Bác	N	N	Nc	N
+Leng_keng	1	0	0	0	NONE	LNK_KNK	Np	Np	Np	Np
+trở_lại	0	0	0	0	NONE	trở_lại	V	V	V	V
+^_^	0	0	0	0	HP	^_^	A	HP	HP	HP
+
+Bỏ	1	0	0	0	NONE	Bỏ	V	V	V	V
+túi	0	0	0	0	NONE	túi	V	V	N	V
+các	0	0	0	0	NONE	các	L	L	L	L
+mẹo	0	0	0	0	NONE	mẹo	N	N	N	N
+gia_đình	0	0	0	0	NONE	J_đình	N	N	N	N
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+chuẩn	0	0	0	0	NONE	chuẩn	N	N	A	N
+không	0	0	0	0	NONE	không	R	R	R	R
+cần	0	0	0	0	NONE	cần	V	V	V	V
+chỉnh	0	0	0	0	NONE	chỉnh	V	V	V	V
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+nè	0	0	0	0	NONE	nè	T	T	T	P
+các	0	0	0	0	NONE	các	L	L	L	L
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	V	CF	CF	CF
+
+chị	0	0	0	0	NONE	chị	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+nhưng	0	0	0	0	NONE	nhưng	C	C	C	C
+chị	0	0	0	0	NONE	chị	N	N	N	N
+tặng	0	0	0	0	NONE	tặng	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+mất	0	0	0	0	NONE	mất	V	V	V	V
+rồi	0	0	0	0	NONE	rồi	R	R	R	R
+
+Như_vậy	1	0	0	0	NONE	Như_vậy	C	C	C	C
+kháng_giả	0	0	0	0	NONE	kháng_giả	N	N	X	N
+mới	0	0	0	0	NONE	mới	R	R	R	R
+pít	0	0	0	0	NONE	pít	V	V	V	V
+người	0	0	0	0	NONE	người	N	N	N	N
+nào	0	0	0	0	NONE	nào	V	V	P	V
+hay	0	0	0	0	NONE	H	V	V	A	V
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+người	0	0	0	0	NONE	người	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+k	0	0	0	0	NONE	k	V	V	AB	AB
+hay	0	0	0	0	NONE	H	R	R	R	R
+chứ	0	0	0	0	NONE	chứ	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+sửa	0	0	0	0	NONE	sửa	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+sửa	0	0	0	0	NONE	sửa	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+ếu	0	0	0	0	NONE	ếu	V	V	R	V
+sửa	0	0	0	0	NONE	sửa	V	V	V	V
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+Quý_bà	1	0	0	0	NONE	Quý_bà	N	N	N	N
+sang	0	0	0	0	NONE	SNK	V	V	A	V
+chảnh	0	0	0	0	NONE	chảnh	V	V	A	V
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+
+Vừa	1	0	0	0	NONE	Vừa	R	R	R	R
+size	0	0	0	0	NONE	SS	V	V	FL	FL
+L	1	0	1	0	NONE	L	N	N	Np	N
+ah	0	0	0	0	NONE	A	V	V	T	T
+
+Bố	1	0	0	0	NONE	Bố	Np	Np	Nc	Nc
+Bui_Tuan	1	0	1	0	NONE	B_TN	Np	Np	Np	Np
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+để	0	0	0	0	NONE	để	E	E	E	E
+học_hỏi	0	0	0	0	NONE	học_hỏi	V	V	V	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+Mình	1	0	0	0	NONE	Mình	P	P	P	P
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+xem	0	0	0	0	NONE	SM	V	V	V	V
+thoải_mái	0	0	0	0	NONE	thoải_mái	A	A	A	A
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+xem	0	0	0	0	NONE	SM	M	M	V	V
+chỉ	0	0	0	0	NONE	chỉ	N	N	R	R
+cuồng	0	0	0	0	NONE	cuồng	V	V	V	V
+nhạc	0	0	0	0	NONE	nhạc	R	R	N	R
+phim	0	0	0	0	NONE	FM	V	V	N	V
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Chị	1	0	0	0	NONE	Chị	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	T	T	T	T
+cho_phép	0	0	0	0	NONE	K_phép	V	V	V	V
+e	0	0	0	0	NONE	e	V	V	AB	AB
+share	0	0	0	0	NONE	XR	N	N	FL	FL
+mhá	0	0	0	0	NONE	mhá	V	V	X	V
+
+Cái_mẹc	1	0	0	0	NONE	Cái_mẹc	Nc	Nc	N	Nc
+xổ	0	0	0	0	NONE	xổ	V	V	V	V
+sữa	0	0	0	0	NONE	sữa	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cưng	0	0	0	0	NONE	cưng	V	V	V	V
+ớn	0	0	0	0	NONE	ớn	V	V	V	V
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Kkk	1	0	0	0	NONE	K	Np	Np	I	I
+
+Hy_vọng	1	0	0	0	NONE	_vọng	N	N	N	N
+thời_gian	0	0	0	0	NONE	thời_JN	N	N	N	N
+làm	0	0	0	0	NONE	làm	V	V	V	V
+mờ	0	0	0	0	NONE	mờ	A	A	A	A
+tất_cả	0	0	0	0	NONE	tất_cả	P	P	P	P
+
+280k	0	1	0	0	NONE	280k	M	M	M	M
+nha	0	0	0	0	NONE	NH	I	I	T	T
+
+Nga_Tran_Lily	1	0	1	0	NONE	NK_TRN_LL	Np	Np	Np	Np
+đã	0	0	0	0	NONE	đã	R	R	R	R
+cặp	0	0	0	0	NONE	cặp	V	V	V	V
+đc	0	0	0	0	NONE	đc	N	N	AB	AB
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Đy	1	0	0	0	NONE	Đy	Np	Np	V	Np
+chọn	0	0	0	0	NONE	chọn	V	V	V	V
+cả	0	0	0	0	NONE	cả	P	P	P	P
+buổi	0	0	0	0	NONE	buổi	N	N	N	N
+mãi	0	0	0	0	NONE	mãi	R	R	R	R
+mới	0	0	0	0	NONE	mới	R	R	R	R
+ưng	0	0	0	0	NONE	ưng	V	V	V	V
+nó	0	0	0	0	NONE	nó	P	P	P	P
+heart_emoticon	0	0	0	0	IL	HRT_EMTKN	V	IL	IL	IL
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Nhận_xét	1	0	0	0	NONE	Nhận_xét	V	V	V	V
+kiểu	0	0	0	0	NONE	kiểu	N	N	N	N
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+vỗ_về	0	0	0	0	NONE	vỗ_về	V	V	V	V
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+thì	0	0	0	0	NONE	thì	C	C	C	C
+kêu	0	0	0	0	NONE	kêu	V	V	V	V
+thảo_mai	0	0	0	0	NONE	thảo_M	V	V	A	V
+hát	0	0	0	0	NONE	hát	V	V	V	V
+thế	0	0	0	0	NONE	thế	C	C	T	C
+mà	0	0	0	0	NONE	mà	C	C	C	C
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+khen	0	0	0	0	NONE	KHN	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+đùa	0	0	0	0	NONE	đùa	V	V	V	V
+có	0	0	0	0	NONE	có	V	V	V	V
+tí	0	0	0	0	NONE	tí	N	N	N	N
+đanh_đá	0	0	0	0	NONE	đanh_đá	N	N	A	A
+thôi	0	0	0	0	NONE	thôi	V	V	T	T
+:(((	0	0	0	0	SD	:(((	PUN	SD	SD	SD
+
+Ngoài	1	0	0	0	NONE	Ngoài	E	E	E	E
+việc	0	0	0	0	NONE	việc	N	N	N	N
+lâng_lâng	0	0	0	0	NONE	lâng_lâng	A	A	A	A
+ra	0	0	0	0	NONE	R	R	R	R	R
+thì	0	0	0	0	NONE	thì	C	C	C	C
+t	0	0	0	0	NONE	t	A	A	AB	AB
+ks	0	0	0	0	NONE	KS	M	M	X	V
+m	0	0	0	0	NONE	m	Nu	Nu	AB	AB
+ạ	0	0	0	0	NONE	ạ	I	I	I	I
+
+xe_pháo	0	0	0	0	NONE	S_pháo	N	N	N	N
+thế_nào	0	0	0	0	NONE	thế_nào	P	P	P	P
+rồi	0	0	0	0	NONE	rồi	T	T	C	R
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Tâm_sự	1	0	0	0	NONE	Tâm_sự	V	V	V	V
+lòng	0	0	0	0	NONE	lòng	N	N	N	N
+em	0	0	0	0	NONE	EM	N	N	N	N
+ai	0	0	0	0	NONE	A	P	P	P	P
+thấu_hiểu	0	0	0	0	NONE	thấu_hiểu	V	V	V	V
+
+mũ	0	0	0	0	NONE	mũ	N	N	N	N
+t	0	0	0	0	NONE	t	N	N	AB	AB
+mang	0	0	0	0	NONE	MNK	V	V	V	V
+đi	0	0	0	0	NONE	đi	R	R	V	R
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+Đặng_Quang_Huy	1	0	1	0	NONE	Đặng_KNK_H	Np	Np	Np	Np
+k	0	0	0	0	NONE	k	V	V	AB	AB
+cần	0	0	0	0	NONE	cần	V	V	V	V
+mang	0	0	0	0	NONE	MNK	V	V	V	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+Thu_Phương	1	0	1	0	NONE	0_Phương	Np	Np	Np	Np
+đúng	0	0	0	0	NONE	đúng	A	A	A	A
+chất	0	0	0	0	NONE	chất	N	N	N	N
+Hải_Phòng	1	0	1	0	NONE	Hải_Phòng	N	N	Np	Np
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Đây	1	0	0	0	NONE	Đây	P	P	P	P
+chính	0	0	0	0	NONE	chính	T	T	T	T
+là	0	0	0	0	NONE	là	V	V	V	V
+lí_do	0	0	0	0	NONE	lí_T	N	N	N	N
+vì_sao	0	0	0	0	NONE	vì_S	X	X	X	X
+văn_hoá	0	0	0	0	NONE	văn_hoá	N	N	N	N
+Việt_Nam	1	0	1	0	NONE	Việt_NM	Np	Np	Np	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+ý_thức	0	0	0	0	NONE	ý_thức	N	N	N	N
+ng	0	0	0	0	NONE	NK	V	V	AB	AB
+Việt	1	0	0	0	NONE	Việt	Np	Np	Np	Np
+chẳng	0	0	0	0	NONE	chẳng	R	R	R	R
+bao_giờ	0	0	0	0	NONE	B_giờ	P	P	P	P
+tiến_bộ	0	0	0	0	NONE	tiến_bộ	V	V	V	V
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Chị	1	0	0	0	NONE	Chị	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+có	0	0	0	0	NONE	có	V	V	V	V
+chế_độ	0	0	0	0	NONE	chế_độ	N	N	N	N
+up	0	0	0	0	NONE	UP	V	V	FL	V
+clip	0	0	0	0	NONE	KLP	N	N	N	N
+HD	1	0	1	0	NONE	HD	Np	Np	Np	Np
+từ	0	0	0	0	NONE	từ	E	E	E	E
+đt	0	0	0	0	NONE	đt	N	N	AB	N
+đấy	0	0	0	0	NONE	đấy	P	P	P	P
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+chị	0	0	0	0	NONE	chị	N	N	N	N
+up	0	0	0	0	NONE	UP	V	V	FL	FL
+HD	1	0	1	0	NONE	HD	Np	Np	Np	Np
+để	0	0	0	0	NONE	để	E	E	E	E
+mọi	0	0	0	0	NONE	mọi	L	L	L	L
+ng	0	0	0	0	NONE	NK	N	N	N	AB
+xem	0	0	0	0	NONE	SM	V	V	V	V
+clip	0	0	0	0	NONE	KLP	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+Daisy	1	0	0	0	NONE	TS	Np	Np	Np	Np
+cho	0	0	0	0	NONE	K	V	V	V	V
+rõ	0	0	0	0	NONE	rõ	A	A	A	A
+
+có	0	0	0	0	NONE	có	V	V	V	V
+size	0	0	0	0	NONE	SS	N	N	FL	FL
+s	0	0	0	0	NONE	s	A	A	Np	A
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+m	0	0	0	0	NONE	m	Nu	Nu	Np	AB
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+L	1	0	1	0	NONE	L	Np	Np	Np	Np
+nhé	0	0	0	0	NONE	nhé	I	I	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+ACE	1	0	1	0	NONE	ACE	N	N	AB	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+làm	0	0	0	0	NONE	làm	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+bài_tập	0	0	0	0	NONE	bài_tập	N	N	N	N
+lớn	0	0	0	0	NONE	lớn	A	A	A	A
+môn	0	0	0	0	NONE	môn	N	N	N	N
+Các_Hệ_thống_dưa_trên_tri_thức	1	0	0	0	NONE	Các_Hệ_thống_dưa_trên_TR_thức	Np	Np	Np	Np
+rồi	0	0	0	0	NONE	rồi	C	C	R	C
+cho	0	0	0	0	NONE	K	E	E	E	E
+mình	0	0	0	0	NONE	mình	P	P	P	P
+hướng	0	0	0	0	NONE	hướng	N	N	N	N
+làm	0	0	0	0	NONE	làm	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+(?)	0	0	0	0	SPECIAL	(?)	N	N	X	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Nhưng_mà	1	0	0	0	NONE	Nhưng_mà	N	N	C	N
+công_nhận	0	0	0	0	NONE	công_nhận	V	V	V	V
+xem	0	0	0	0	NONE	SM	V	V	V	V
+ức_chế	0	0	0	0	NONE	ức_chế	V	V	V	V
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+Em	1	0	0	0	NONE	EM	N	N	N	N
+làm	0	0	0	0	NONE	làm	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+bé	0	0	0	0	NONE	bé	N	N	N	N
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+biến	0	0	0	0	NONE	biến	V	V	V	V
+thành	0	0	0	0	NONE	thành	V	V	V	V
+con	0	0	0	0	NONE	KN	N	N	N	N
+chuột	0	0	0	0	NONE	chuột	A	A	A	A
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Fan	1	0	0	0	NONE	FN	N	N	N	N
+MT	1	0	1	0	NONE	MT	Np	Np	X	Np
+bảo_vệ	0	0	0	0	NONE	bảo_vệ	V	V	V	V
+thần_tượng	0	0	0	0	NONE	thần_tượng	N	N	N	N
+lố	0	0	0	0	NONE	lố	V	V	V	V
+nhỉ	0	0	0	0	NONE	nhỉ	R	R	T	T
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Ông	1	0	0	0	NONE	Ông	Nc	Nc	Nc	Nc
+Hồ_Sỹ_Tiến	1	0	1	0	NONE	Hồ_Sỹ_Tiến	Np	Np	Np	Np
+giỏi	0	0	0	0	NONE	giỏi	V	V	V	V
+thật	0	0	0	0	NONE	thật	R	R	R	R
+hôm	0	0	0	0	NONE	hôm	N	N	N	N
+trước	0	0	0	0	NONE	trước	A	A	N	A
+ở	0	0	0	0	NONE	ở	E	E	E	E
+vụ	0	0	0	0	NONE	vụ	N	N	N	N
+Bình_Phước	1	0	1	0	NONE	Bình_Phước	Np	Np	Np	Np
+h	0	0	0	0	NONE	h	V	V	AB	V
+thêm	0	0	0	0	NONE	thêm	V	V	V	V
+vụ	0	0	0	0	NONE	vụ	N	N	N	N
+Nghệ_An	1	0	1	0	NONE	Nghệ_AN	N	N	Np	Np
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+
+Em	1	0	0	0	NONE	EM	N	N	N	N
+xin_phép	0	0	0	0	NONE	SN_phép	V	V	V	V
+share	0	0	0	0	NONE	XR	A	A	FL	FL
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+chị	0	0	0	0	NONE	chị	N	N	N	N
+
+Tien	1	0	0	0	NONE	TN	Np	Np	N	Np
+bac	0	0	0	0	NONE	BK	V	V	V	V
+la	0	0	0	0	NONE	L	V	V	V	V
+phù_du	0	0	0	0	NONE	phù_T	N	N	A	N
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+không	0	0	0	0	NONE	không	R	R	R	R
+tiền	0	0	0	0	NONE	tiền	N	N	N	N
+thì	0	0	0	0	NONE	thì	C	C	C	C
+phù	0	0	0	0	NONE	phù	V	V	V	V
+mỏ	0	0	0	0	NONE	mỏ	N	N	N	N
+
+Vì	1	0	0	0	NONE	Vì	E	E	E	E
+tương_lai	0	0	0	0	NONE	tương_L	N	N	N	N
+không	0	0	0	0	NONE	không	R	R	R	R
+phải	0	0	0	0	NONE	phải	V	V	V	V
+đóng	0	0	0	0	NONE	đóng	V	V	V	V
+tiền	0	0	0	0	NONE	tiền	N	N	N	N
+học	0	0	0	0	NONE	học	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+con	0	0	0	0	NONE	KN	N	N	N	N
+à	0	0	0	0	NONE	à	T	T	T	T
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Ôi	1	0	0	0	NONE	Ôi	I	I	I	I
+chán	0	0	0	0	NONE	chán	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+chả	0	0	0	0	NONE	chả	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+gì	0	0	0	0	NONE	gì	P	P	P	P
+chơi	0	0	0	0	NONE	chơi	V	V	V	V
+
+full	0	0	0	0	NONE	FL	N	N	FL	N
+màu	0	0	0	0	NONE	màu	N	N	N	N
+giá	0	0	0	0	NONE	giá	N	N	N	N
+sao	0	0	0	0	NONE	S	P	P	P	P
+
+hem	0	0	0	0	NONE	HM	N	N	R	N
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+truyện	0	0	0	0	NONE	truyện	N	N	N	N
+kiểu	0	0	0	0	NONE	kiểu	N	N	N	N
+thế	0	0	0	0	NONE	thế	P	P	P	T
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+
+Lòng	1	0	0	0	NONE	Lòng	N	N	N	N
+yêu	0	0	0	0	NONE	yêu	V	V	V	V
+nước	0	0	0	0	NONE	nước	N	N	N	N
+chân_thành	0	0	0	0	NONE	chân_thành	A	A	A	A
+
+Hôm	1	0	0	0	NONE	Hôm	N	N	N	N
+trước	0	0	0	0	NONE	trước	A	A	E	A
+em	0	0	0	0	NONE	EM	N	N	N	N
+mới	0	0	0	0	NONE	mới	R	R	R	R
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+bác	0	0	0	0	NONE	bác	N	N	N	N
+ngồi	0	0	0	0	NONE	ngồi	V	V	V	V
+hiu_hắt	0	0	0	0	NONE	H_hắt	V	V	A	V
+ở	0	0	0	0	NONE	ở	E	E	E	E
+ngã	0	0	0	0	NONE	ngã	N	N	N	N
+tư	0	0	0	0	NONE	tư	N	N	N	N
+ấy	0	0	0	0	NONE	ấy	P	P	P	P
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+thương_thương	0	0	0	0	NONE	thương_thương	V	V	V	V
+nên	0	0	0	0	NONE	nên	C	C	C	C
+em	0	0	0	0	NONE	EM	N	N	N	N
+tạt	0	0	0	0	NONE	tạt	V	V	V	V
+vào	0	0	0	0	NONE	vào	E	E	E	E
+bơm	0	0	0	0	NONE	bơm	N	N	V	N
+xe	0	0	0	0	NONE	S	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+mặc_dù	0	0	0	0	NONE	mặc_dù	C	C	C	C
+xe	0	0	0	0	NONE	S	N	N	N	N
+lốp	0	0	0	0	NONE	lốp	N	N	N	N
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+căng	0	0	0	0	NONE	căng	V	V	A	A
+:)	0	0	0	0	HP	:)	PUN	HP	HP	HP
+
+Á	1	0	1	0	NONE	Á	Np	Np	I	Np
+sao	0	0	0	0	NONE	S	P	P	P	P
+lại	0	0	0	0	NONE	lại	R	R	R	R
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+nhận	0	0	0	0	NONE	nhận	V	V	V	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+ạ	0	0	0	0	NONE	ạ	T	T	T	I
+
+kế_hoạch	0	0	0	0	NONE	kế_hoạch	N	N	N	N
+tối	0	0	0	0	NONE	tối	N	N	N	N
+nay	0	0	0	0	NONE	N	P	P	P	P
+sẽ	0	0	0	0	NONE	sẽ	R	R	R	R
+là	0	0	0	0	NONE	là	V	V	V	V
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+lên	0	0	0	0	NONE	lên	R	R	E	R
+gác	0	0	0	0	NONE	gác	N	N	N	N
+ba	0	0	0	0	NONE	B	M	M	M	M
+xem	0	0	0	0	NONE	SM	V	V	V	V
+phim	0	0	0	0	NONE	FM	N	N	N	N
+ma	0	0	0	0	NONE	M	N	N	N	N
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+1	0	1	0	0	NONE	1	M	M	M	M
+mình	0	0	0	0	NONE	mình	P	P	P	P
+
+đã	0	0	0	0	NONE	đã	R	R	R	R
+hết	0	0	0	0	NONE	hết	V	V	V	V
+tiền	0	0	0	0	NONE	tiền	N	N	N	N
+xuống	0	0	0	0	NONE	xuống	V	V	V	V
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+a	0	0	0	0	NONE	a	N	N	AB	AB
+ăn_vạ	0	0	0	0	NONE	ăn_vạ	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+quần	0	0	0	0	NONE	quần	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+a	0	0	0	0	NONE	a	N	N	AB	AB
+zai	0	0	0	0	NONE	S	V	V	V	V
+túi	0	0	0	0	NONE	túi	N	N	N	N
+lại	0	0	0	0	NONE	lại	R	R	R	R
+thủng	0	0	0	0	NONE	thủng	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+rơi	0	0	0	0	NONE	rơi	V	V	V	V
+điện_thoại	0	0	0	0	NONE	điện_thoại	N	N	N	N
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+>	0	0	0	0	SPECIAL	>	M	M	PUN	PUN
+vỡ	0	0	0	0	NONE	vỡ	V	V	V	V
+cmn	0	0	0	0	NONE	KMN	N	N	AB	N
+màn_hình	0	0	0	0	NONE	màn_hình	N	N	N	N
+cry_emoticon	0	0	0	0	SD	KR_EMTKN	V	SD	SD	SD
+cry_emoticon	0	0	0	0	SD	KR_EMTKN	V	SD	SD	SD
+
+Bạn	1	0	0	0	NONE	Bạn	N	N	N	N
+bé	0	0	0	0	NONE	bé	N	N	N	N
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+mình	0	0	0	0	NONE	mình	P	P	P	P
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+áp_dụng	0	0	0	0	NONE	áp_dụng	V	V	V	V
+như	0	0	0	0	NONE	như	C	C	C	C
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+lớn	0	0	0	0	NONE	lớn	A	A	A	A
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+buổi	0	0	0	0	NONE	buổi	N	N	N	N
+tối	0	0	0	0	NONE	tối	N	N	N	N
+trước	0	0	0	0	NONE	trước	E	E	E	E
+khi	0	0	0	0	NONE	KH	N	N	N	N
+đi	0	0	0	0	NONE	đi	V	V	V	V
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+hoặc	0	0	0	0	NONE	hoặc	CC	CC	CC	CC
+là	0	0	0	0	NONE	là	V	V	V	V
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+sẽ	0	0	0	0	NONE	sẽ	R	R	R	R
+kể	0	0	0	0	NONE	kể	V	V	V	V
+truyện	0	0	0	0	NONE	truyện	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+2	0	1	0	0	NONE	2	M	M	M	M
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+e	0	0	0	0	NONE	e	V	V	AB	AB
+hoặc	0	0	0	0	NONE	hoặc	CC	CC	CC	CC
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+sẽ	0	0	0	0	NONE	sẽ	R	R	R	R
+kể	0	0	0	0	NONE	kể	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+e	0	0	0	0	NONE	e	V	V	AB	AB
+nghe	0	0	0	0	NONE	NK	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+anh	0	0	0	0	NONE	ANH	N	N	N	N
+lớn	0	0	0	0	NONE	lớn	A	A	A	A
+tự	0	0	0	0	NONE	tự	P	P	P	P
+phân_vai	0	0	0	0	NONE	phân_F	V	V	V	V
+nhân_vật	0	0	0	0	NONE	nhân_vật	N	N	N	N
+trong	0	0	0	0	NONE	TRNK	E	E	E	E
+truyện	0	0	0	0	NONE	truyện	N	N	N	N
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+cả	0	0	0	0	NONE	cả	P	P	P	P
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+cùng	0	0	0	0	NONE	cùng	A	A	A	A
+tham_gia	0	0	0	0	NONE	0M_J	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Giống	1	0	0	0	NONE	Giống	A	A	A	A
+bé	0	0	0	0	NONE	bé	N	N	Nc	N
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+mình	0	0	0	0	NONE	mình	P	P	P	P
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+áo	0	0	0	0	NONE	áo	N	N	N	N
+nó	0	0	0	0	NONE	nó	P	P	P	P
+còn	0	0	0	0	NONE	còn	R	R	R	R
+đeo	0	0	0	0	NONE	đeo	V	V	V	V
+ngược	0	0	0	0	NONE	ngược	V	V	A	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+sau	0	0	0	0	NONE	S	N	N	N	N
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+nói	0	0	0	0	NONE	nói	V	V	V	V
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+mai	0	0	0	0	NONE	M	N	N	N	N
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+em	0	0	0	0	NONE	EM	N	N	N	N
+đeo	0	0	0	0	NONE	đeo	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+ba_lô	0	0	0	0	NONE	B_lô	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+đi	0	0	0	0	NONE	đi	V	V	V	V
+học	0	0	0	0	NONE	học	V	V	V	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+
+Cho	1	0	0	0	NONE	K	E	E	E	E
+mình	0	0	0	0	NONE	mình	P	P	P	P
+màu	0	0	0	0	NONE	màu	N	N	N	N
+đen	0	0	0	0	NONE	đen	A	A	A	A
+
+quên	0	0	0	0	NONE	quên	V	V	V	V
+mất	0	0	0	0	NONE	mất	V	V	V	V
+là	0	0	0	0	NONE	là	C	C	C	C
+ko	0	0	0	0	NONE	K	N	N	AB	AB
+có	0	0	0	0	NONE	có	V	V	V	V
+rồi	0	0	0	0	NONE	rồi	C	C	R	R
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Thôi	1	0	0	0	NONE	Thôi	V	V	T	V
+vô_duyên	0	0	0	0	NONE	vô_duyên	A	A	A	A
+với	0	0	0	0	NONE	với	E	E	E	E
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+môn	0	0	0	0	NONE	môn	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+thật	0	0	0	0	NONE	thật	T	T	T	T
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+=]]]	0	0	0	0	HP	=]]]	M	HP	HP	HP
+
+nhận_xét	0	0	0	0	NONE	nhận_xét	N	N	N	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+tốt	0	0	0	0	NONE	tốt	A	A	A	A
+mà	0	0	0	0	NONE	mà	T	T	C	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Phương_pháp	1	0	0	0	NONE	Phương_pháp	N	N	N	N
+hay	0	0	0	0	NONE	H	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Người	1	0	0	0	NONE	Người	N	N	N	N
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+thuê	0	0	0	0	NONE	thuê	V	V	V	V
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+cưỡng	0	0	0	0	NONE	cưỡng	V	V	V	V
+cơn	0	0	0	0	NONE	cơn	N	N	N	N
+gió_bấc	0	0	0	0	NONE	gió_bấc	A	A	N	A
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Đúng	1	0	0	0	NONE	Đúng	A	A	A	A
+là	0	0	0	0	NONE	là	C	C	C	C
+tướng	0	0	0	0	NONE	tướng	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+khác	0	0	0	0	NONE	khác	A	A	A	A
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Dương_Phạm	1	0	1	0	NONE	Dương_Phạm	V	V	Np	V
+ông	0	0	0	0	NONE	ông	N	N	N	N
+yên_tâm	0	0	0	0	NONE	yên_tâm	V	V	V	V
+lợn	0	0	0	0	NONE	lợn	N	N	N	N
+k	0	0	0	0	NONE	k	A	A	AB	AB
+què	0	0	0	0	NONE	què	V	V	A	V
+mà	0	0	0	0	NONE	mà	C	C	C	C
+thành	0	0	0	0	NONE	thành	V	V	V	V
+lợn	0	0	0	0	NONE	lợn	N	N	N	N
+k	0	0	0	0	NONE	k	A	A	AB	AB
+có	0	0	0	0	NONE	có	V	V	V	V
+răng	0	0	0	0	NONE	răng	N	N	N	N
+thôi	0	0	0	0	NONE	thôi	V	V	T	V
+ông	0	0	0	0	NONE	ông	N	N	N	N
+
+Nếu	1	0	0	0	NONE	Nếu	C	C	C	C
+đã	0	0	0	0	NONE	đã	R	R	R	R
+k	0	0	0	0	NONE	k	V	V	AB	AB
+chấp_nhận	0	0	0	0	NONE	chấp_nhận	V	V	V	V
+lời	0	0	0	0	NONE	lời	N	N	N	N
+nx	0	0	0	0	NONE	NKS	V	V	X	V
+đó	0	0	0	0	NONE	đó	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+sẽ	0	0	0	0	NONE	sẽ	R	R	R	R
+k	0	0	0	0	NONE	k	V	V	AB	AB
+có	0	0	0	0	NONE	có	V	V	V	V
+cơ_hội	0	0	0	0	NONE	cơ_hội	N	N	N	N
+chiến_thắng	0	0	0	0	NONE	chiến_thắng	V	V	V	V
+bản_thân	0	0	0	0	NONE	bản_thân	N	N	N	N
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+nói	0	0	0	0	NONE	nói	V	V	V	V
+đến	0	0	0	0	NONE	đến	E	E	E	E
+cuộc_thi	0	0	0	0	NONE	cuộc_0	N	N	N	N
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Giá	1	0	0	0	NONE	Giá	N	N	N	N
+bao_nhiêu	0	0	0	0	NONE	B_nhiêu	P	P	P	P
+vậy	0	0	0	0	NONE	vậy	P	P	P	P
+ta	0	0	0	0	NONE	T	P	P	P	P
+
+nam	0	0	0	0	NONE	NM	N	N	Np	N
+có	0	0	0	0	NONE	có	V	V	V	V
+hải_dương	0	0	0	0	NONE	hải_dương	N	N	Np	N
+
+ứ	0	0	0	0	NONE	ứ	N	N	R	N
+nói	0	0	0	0	NONE	nói	V	V	V	V
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+=)))	0	0	0	0	HP	=)))	V	HP	HP	HP
+
+hóng	0	0	0	0	NONE	hóng	V	V	V	V
+qtqđ	0	0	0	0	NONE	qtqđ	N	N	AB	N
+
+trò	0	0	0	0	NONE	trò	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+chịu	0	0	0	0	NONE	chịu	V	V	V	V
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+pit	0	0	0	0	NONE	PT	N	N	V	V
+chơi	0	0	0	0	NONE	chơi	V	V	V	V
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Hế_lô	1	0	0	0	NONE	Hế_lô	V	V	V	V
+summer	0	0	0	0	NONE	SMR	N	N	FL	N
+(?)	0	0	0	0	SPECIAL	(?)	M	M	X	X
+(?)	0	0	0	0	SPECIAL	(?)	PUN	PUN	X	X
+(?)	0	0	0	0	SPECIAL	(?)	M	M	X	X
+
+t	0	0	0	0	NONE	t	N	N	AB	AB
+đi	0	0	0	0	NONE	đi	V	V	V	V
+quất_lâm	0	0	0	0	NONE	quất_lâm	V	V	Np	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+Hải_yến	1	0	0	0	NONE	Hải_yến	N	N	Np	N
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+thái_sơn	0	0	0	0	NONE	thái_sơn	N	N	Np	N
+hát	0	0	0	0	NONE	hát	V	V	V	V
+rất	0	0	0	0	NONE	rất	R	R	R	R
+hay	0	0	0	0	NONE	H	C	C	A	C
+họ	0	0	0	0	NONE	họ	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+tài	0	0	0	0	NONE	tài	N	N	N	N
+nhu_vây	0	0	0	0	NONE	NH_vây	N	N	X	N
+mà	0	0	0	0	NONE	mà	C	C	C	C
+kg	0	0	0	0	NONE	KK	N	N	X	N
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+đi	0	0	0	0	NONE	đi	V	V	V	V
+tiếp	0	0	0	0	NONE	tiếp	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+bao	0	0	0	0	NONE	B	N	N	N	N
+đẹp	0	0	0	0	NONE	đẹp	A	A	A	A
+lun	0	0	0	0	NONE	LN	A	A	R	A
+nha	0	0	0	0	NONE	NH	I	I	T	T
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Size	1	0	0	0	NONE	SS	Np	Np	FL	Np
+l	0	0	0	0	NONE	l	V	V	Np	V
+vòng	0	0	0	0	NONE	vòng	N	N	N	N
+eo	0	0	0	0	NONE	E	N	N	N	N
+bn	0	0	0	0	NONE	BN	V	V	V	AB
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+
+Mặc	1	0	0	0	NONE	Mặc	V	V	V	V
+size	0	0	0	0	NONE	SS	N	N	FL	N
+M	1	0	1	0	NONE	M	Np	Np	Np	Np
+nha	0	0	0	0	NONE	NH	I	I	I	T
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+
+Chào_đón	1	0	0	0	NONE	Chào_đón	V	V	V	V
+trung_thu	0	0	0	0	NONE	TRNK_0	N	N	N	N
+sớm	0	0	0	0	NONE	sớm	A	A	A	A
+
+Cao	1	0	0	0	NONE	K	A	A	A	A
+1	0	1	0	0	NONE	1	M	M	M	M
+m	0	0	0	0	NONE	m	Nu	Nu	Nu	Nu
+61	0	1	0	0	NONE	61	M	M	M	M
+năng	0	0	0	0	NONE	năng	R	R	R	R
+62	0	1	0	0	NONE	62	M	M	M	M
+kg	0	0	0	0	NONE	KK	Nu	Nu	Nu	Nu
+có	0	0	0	0	NONE	có	V	V	V	V
+size	0	0	0	0	NONE	SS	N	N	FL	FL
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+ban	0	0	0	0	NONE	BN	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+
+Hoa	1	0	0	0	NONE	H	Np	Np	N	Np
+sen_đá	0	0	0	0	NONE	SN_đá	N	N	Np	Np
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Đẹp	1	0	0	0	NONE	Đẹp	A	A	A	A
+mê	0	0	0	0	NONE	mê	V	V	V	V
+^_^	0	0	0	0	HP	^_^	A	HP	HP	HP
+
+mới	0	0	0	0	NONE	mới	R	R	R	R
+nghĩ	0	0	0	0	NONE	nghĩ	V	V	V	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+cách	0	0	0	0	NONE	cách	N	N	N	N
+làm	0	0	0	0	NONE	làm	V	V	V	V
+giàu	0	0	0	0	NONE	giàu	V	V	A	V
+
+Hay_là	1	0	0	0	NONE	H_là	C	C	C	C
+trường	0	0	0	0	NONE	trường	N	N	N	N
+gần	0	0	0	0	NONE	gần	A	A	A	A
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+em	0	0	0	0	NONE	EM	N	N	N	N
+nhỉ	0	0	0	0	NONE	nhỉ	R	R	T	T
+
+Thảo_Ly	1	0	1	0	NONE	Thảo_L	Np	Np	Np	Np
+áp_dụng	0	0	0	0	NONE	áp_dụng	V	V	V	V
+này	0	0	0	0	NONE	này	P	P	P	P
+
+Nhưng	1	0	0	0	NONE	Nhưng	C	C	C	C
+đúng	0	0	0	0	NONE	đúng	A	A	A	A
+là	0	0	0	0	NONE	là	C	C	C	C
+phần	0	0	0	0	NONE	phần	N	N	N	N
+thi	0	0	0	0	NONE	0	V	V	V	V
+TS	1	0	1	0	NONE	TS	N	N	X	Np
+không	0	0	0	0	NONE	không	R	R	R	R
+bằng	0	0	0	0	NONE	bằng	E	E	E	E
+các	0	0	0	0	NONE	các	L	L	L	L
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+team	0	0	0	0	NONE	TM	V	V	FL	FL
+đội	0	0	0	0	NONE	đội	N	N	N	N
+vì	0	0	0	0	NONE	vì	E	E	E	E
+anh	0	0	0	0	NONE	ANH	Nc	Nc	Nc	Nc
+hát	0	0	0	0	NONE	hát	V	V	V	V
+tiếng_Anh	0	0	0	0	NONE	tiếng_ANH	N	N	Np	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+giọng	0	0	0	0	NONE	giọng	N	N	N	N
+hay	0	0	0	0	NONE	H	C	C	C	A
+nhưng	0	0	0	0	NONE	nhưng	C	C	C	C
+không	0	0	0	0	NONE	không	R	R	R	R
+phải	0	0	0	0	NONE	phải	V	V	V	V
+ai	0	0	0	0	NONE	A	P	P	P	P
+hát	0	0	0	0	NONE	hát	V	V	V	V
+tiếng_anh	0	0	0	0	NONE	tiếng_ANH	N	N	Np	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+hay	0	0	0	0	NONE	H	V	V	V	A
+đâu	0	0	0	0	NONE	đâu	P	P	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+ô	0	0	0	0	NONE	ô	N	N	I	I
+thế	0	0	0	0	NONE	thế	P	P	T	P
+à	0	0	0	0	NONE	à	T	T	I	T
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+thế	0	0	0	0	NONE	thế	P	P	T	P
+thôi	0	0	0	0	NONE	thôi	T	T	T	T
+k	0	0	0	0	NONE	k	V	V	AB	AB
+cưới	0	0	0	0	NONE	cưới	N	N	N	N
+đợi	0	0	0	0	NONE	đợi	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+Chung	1	0	0	0	NONE	KNK	Np	Np	Np	Np
+có	0	0	0	0	NONE	có	V	V	V	V
+ny	0	0	0	0	NONE	N	N	N	AB	N
+đã	0	0	0	0	NONE	đã	C	C	R	C
+vậy	0	0	0	0	NONE	vậy	C	C	T	T
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Bên	1	0	0	0	NONE	Bên	N	N	N	N
+Quân_y	1	0	0	0	NONE	Quân_y	N	N	Np	Np
+
+chúng	0	0	0	0	NONE	chúng	P	P	P	P
+e	0	0	0	0	NONE	e	V	V	AB	AB
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+tin	0	0	0	0	NONE	TN	V	V	V	V
+vào	0	0	0	0	NONE	vào	E	E	E	E
+thầy	0	0	0	0	NONE	thầy	N	N	N	N
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+thầy	0	0	0	0	NONE	thầy	N	N	N	N
+là	0	0	0	0	NONE	là	V	V	V	V
+người	0	0	0	0	NONE	người	N	N	N	N
+thầy	0	0	0	0	NONE	thầy	N	N	N	N
+tốt	0	0	0	0	NONE	tốt	A	A	A	A
+nhất	0	0	0	0	NONE	nhất	R	R	R	R
+mà	0	0	0	0	NONE	mà	C	C	C	C
+e	0	0	0	0	NONE	e	V	V	AB	AB
+thừng	0	0	0	0	NONE	thừng	N	N	N	N
+gặp	0	0	0	0	NONE	gặp	V	V	V	V
+
+E	1	0	1	0	NONE	E	V	V	AB	AB
+ở	0	0	0	0	NONE	ở	E	E	E	E
+trên	0	0	0	0	NONE	trên	E	E	E	E
+thái_bình	0	0	0	0	NONE	thái_bình	N	N	Np	N
+chị	0	0	0	0	NONE	chị	N	N	N	N
+
+Cám_ơn	1	0	0	0	NONE	Cám_ơn	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+Trang	1	0	0	0	NONE	TRNK	Np	Np	Np	Np
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+nha	0	0	0	0	NONE	NH	I	I	T	T
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	N	HP	HP	HP
+
+Chồng	1	0	0	0	NONE	Chồng	N	N	N	N
+gì	0	0	0	0	NONE	gì	P	P	P	P
+mà	0	0	0	0	NONE	mà	C	C	C	C
+tính	0	0	0	0	NONE	tính	V	V	V	V
+đàn_bà	0	0	0	0	NONE	đàn_bà	N	N	N	N
+quá	0	0	0	0	NONE	quá	R	R	R	R
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+vợ	0	0	0	0	NONE	vợ	N	N	N	N
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+nói	0	0	0	0	NONE	nói	V	V	V	V
+mà	0	0	0	0	NONE	mà	C	C	C	C
+đã	0	0	0	0	NONE	đã	R	R	R	R
+nói	0	0	0	0	NONE	nói	V	V	V	V
+trước	0	0	0	0	NONE	trước	E	E	E	E
+cả	0	0	0	0	NONE	cả	P	P	P	P
+vợ	0	0	0	0	NONE	vợ	N	N	N	N
+lun	0	0	0	0	NONE	LN	V	V	R	V
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+
+Cái	1	0	0	0	NONE	Cái	Nc	Nc	Nc	Nc
+này	0	0	0	0	NONE	này	P	P	P	P
+thì	0	0	0	0	NONE	thì	C	C	C	C
+t	0	0	0	0	NONE	t	N	N	AB	AB
+xấu	0	0	0	0	NONE	xấu	A	A	A	A
+nhứt	0	0	0	0	NONE	nhứt	V	V	A	V
+ná	0	0	0	0	NONE	ná	N	N	T	N
+nhưng	0	0	0	0	NONE	nhưng	C	C	C	C
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+up	0	0	0	0	NONE	UP	V	V	FL	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+nó	0	0	0	0	NONE	nó	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+kk	0	0	0	0	NONE	K	N	N	X	N
+:p	0	0	0	0	CF	:p	PUN	CF	CF	CF
+
+à	0	0	0	0	NONE	à	T	T	I	I
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+đi	0	0	0	0	NONE	đi	V	V	V	V
+đá	0	0	0	0	NONE	đá	N	N	N	N
+cầu	0	0	0	0	NONE	cầu	N	N	N	N
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+h	0	0	0	0	NONE	h	N	N	AB	AB
+mới	0	0	0	0	NONE	mới	R	R	R	R
+về	0	0	0	0	NONE	về	V	V	V	V
+tongue_emoticon	0	0	0	0	CF	TNK_EMTKN	N	CF	CF	CF
+
+10	0	1	0	0	NONE	10	M	M	M	M
+ngày	0	0	0	0	NONE	ngày	N	N	N	N
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+Chắc	1	0	0	0	NONE	Chắc	V	V	V	V
+học	0	0	0	0	NONE	học	V	V	V	V
+xuyên	0	0	0	0	NONE	xuyên	V	V	V	V
+màn_đêm	0	0	0	0	NONE	màn_đêm	N	N	N	N
+mất	0	0	0	0	NONE	mất	V	V	V	V
+
+quần	0	0	0	0	NONE	quần	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+đủ	0	0	0	0	NONE	đủ	A	A	A	A
+size	0	0	0	0	NONE	SS	N	N	FL	FL
+nha	0	0	0	0	NONE	NH	T	T	T	T
+
+Trên	1	0	0	0	NONE	Trên	E	E	E	E
+phố	0	0	0	0	NONE	phố	N	N	N	N
+BT	1	0	1	0	NONE	BT	Np	Np	Np	Np
+hay	0	0	0	0	NONE	H	C	C	C	C
+LTK	1	0	1	0	NONE	LTK	Np	Np	Np	Np
+ạh	0	0	0	0	NONE	ạh	V	V	T	V
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+uk	0	0	0	0	NONE	UK	V	V	I	V
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+Chú	1	0	0	0	NONE	Chú	N	N	Nc	N
+Tiến	1	0	0	0	NONE	Tiến	V	V	Np	Np
+quá	0	0	0	0	NONE	quá	R	R	R	R
+tuyệt_vời	0	0	0	0	NONE	tuyệt_vời	A	A	A	A
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+dislike	0	0	0	0	NONE	TSLK	N	N	FL	N
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+cm	0	0	0	0	NONE	KM	Nu	Nu	AB	A
+của	0	0	0	0	NONE	của	E	E	E	E
+chị	0	0	0	0	NONE	chị	N	N	N	N
+Ly_Tran	1	0	1	0	NONE	L_TRN	Np	Np	Np	Np
+nhá	0	0	0	0	NONE	nhá	T	T	T	T
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+để	0	0	0	0	NONE	để	E	E	E	E
+cho	0	0	0	0	NONE	K	V	V	V	V
+em	0	0	0	0	NONE	EM	N	N	N	N
+nghỉ	0	0	0	0	NONE	nghỉ	V	V	V	V
+đẻ	0	0	0	0	NONE	đẻ	V	V	V	V
+được	0	0	0	0	NONE	được	R	R	R	R
+yên	0	0	0	0	NONE	yên	A	A	A	A
+:D	0	0	0	0	HP	:D	PUN	HP	HP	HP
+
+HỒI	1	0	1	0	NONE	HỒI	Np	Np	R	Np
+CÒN	1	0	0	0	NONE	CÒN	Np	Np	R	V
+TRẺ	1	0	0	0	NONE	TRẺ	Np	Np	A	N
+È	0	0	0	0	NONE	È	Np	Np	P	A
+
+May	1	0	0	0	NONE	M	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+ae	0	0	0	0	NONE	E	A	A	AB	A
+mình	0	0	0	0	NONE	mình	P	P	P	P
+về	0	0	0	0	NONE	về	V	V	V	V
+mới	0	0	0	0	NONE	mới	R	R	R	R
+mưa	0	0	0	0	NONE	mưa	V	V	V	V
+grin_emoticon	0	0	0	0	HP	KRN_EMTKN	A	HP	HP	HP
+
+40	0	1	0	0	NONE	40	M	M	M	M
+kg	0	0	0	0	NONE	KK	Nu	Nu	Nu	Nu
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+vừa	0	0	0	0	NONE	vừa	R	R	R	R
+size	0	0	0	0	NONE	SS	V	V	FL	FL
+l	0	0	0	0	NONE	l	N	N	Np	N
+k	0	0	0	0	NONE	k	N	N	AB	AB
+ạ	0	0	0	0	NONE	ạ	I	I	I	I
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Qua	1	0	0	0	NONE	K	E	E	E	E
+gian	0	0	0	0	NONE	JN	N	N	N	N
+đoạn	0	0	0	0	NONE	đoạn	N	N	N	N
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+Rồ	1	0	0	0	NONE	Rồ	V	V	A	V
+"	0	0	0	0	SPECIAL	"	PUN	PUN	PUN	PUN
+thì	0	0	0	0	NONE	thì	C	C	C	C
+ng_ta	0	0	0	0	NONE	NK_T	N	N	AB	AB
+gọi_là	0	0	0	0	NONE	gọi_là	X	X	X	X
+j	0	0	0	0	NONE	j	V	V	P	V
+hả	0	0	0	0	NONE	hả	A	A	T	A
+én	0	0	0	0	NONE	én	V	V	N	V
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Thật	1	0	0	0	NONE	Thật	R	R	R	R
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+người	0	0	0	0	NONE	người	N	N	N	N
+VN	1	0	1	0	NONE	VN	Np	Np	Np	Np
+hồn_nhiên	0	0	0	0	NONE	hồn_nhiên	A	A	A	A
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+nồng_nàn	0	0	0	0	NONE	nồng_nàn	A	A	A	A
+yêu	0	0	0	0	NONE	yêu	V	V	V	V
+nước	0	0	0	0	NONE	nước	N	N	N	N
+
+ơ	0	0	0	0	NONE	ơ	N	N	I	I
+xưn	0	0	0	0	NONE	xưn	A	A	A	A
+như	0	0	0	0	NONE	như	C	C	C	C
+này	0	0	0	0	NONE	này	P	P	P	P
+sao	0	0	0	0	NONE	S	P	P	P	P
+e	0	0	0	0	NONE	e	V	V	AB	AB
+chưa	0	0	0	0	NONE	chưa	R	R	R	R
+like	0	0	0	0	NONE	LK	V	V	FL	FL
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+biết	0	0	0	0	NONE	biết	V	V	V	V
+mua	0	0	0	0	NONE	M	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+tem	0	0	0	0	NONE	TM	N	N	N	N
+dán	0	0	0	0	NONE	dán	V	V	V	V
+ntn	0	0	0	0	NONE	NTN	N	N	AB	N
+ở	0	0	0	0	NONE	ở	E	E	E	E
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+k	0	0	0	0	NONE	k	N	N	AB	AB
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	V	CF	CF	CF
+
+Thùy_Dương_Mai	1	0	1	0	NONE	Thùy_Dương_M	Np	Np	Np	Np
+ai	0	0	0	0	NONE	A	P	P	P	P
+vậy	0	0	0	0	NONE	vậy	P	P	P	P
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+Bạn	1	0	0	0	NONE	Bạn	N	N	N	N
+inbox	0	0	0	0	NONE	INBKS	V	V	FL	FL
+shop	0	0	0	0	NONE	XP	N	N	N	N
+nha	0	0	0	0	NONE	NH	I	I	T	T
+
+neitizens	0	0	0	0	NONE	NTSNS	N	N	Np	N
+việt_nam	0	0	0	0	NONE	việt_NM	N	N	Np	N
+giờ	0	0	0	0	NONE	giờ	N	N	N	N
+giống	0	0	0	0	NONE	giống	N	N	N	N
+netizens	0	0	0	0	NONE	NTSNS	N	N	Np	N
+hàn_quốc	0	0	0	0	NONE	hàn_quốc	V	V	Np	V
+nhỉ	0	0	0	0	NONE	nhỉ	R	R	T	R
+lúc_nào	0	0	0	0	NONE	lúc_nào	N	N	N	N
+củng	0	0	0	0	NONE	củng	N	N	N	N
+soi_mói	0	0	0	0	NONE	S_mói	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+làm	0	0	0	0	NONE	làm	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+lên	0	0	0	0	NONE	lên	R	R	R	R
+
+sáng	0	0	0	0	NONE	sáng	N	N	N	N
+thứ	0	0	0	0	NONE	thứ	N	N	N	N
+7	0	1	0	0	NONE	7	M	M	M	M
+có	0	0	0	0	NONE	có	V	V	V	V
+ai	0	0	0	0	NONE	A	P	P	P	P
+muốn	0	0	0	0	NONE	muốn	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+chơi	0	0	0	0	NONE	chơi	V	V	V	V
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Coban	1	0	0	0	NONE	KBN	Np	Np	FL	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+Ghi	1	0	0	0	NONE	K	Np	Np	A	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+Đen	1	0	0	0	NONE	Đen	Np	Np	A	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+Trắng	1	0	0	0	NONE	Trắng	Np	Np	A	Np
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+Xanh	1	0	0	0	NONE	SNH	Np	Np	A	Np
+pastel	0	0	0	0	NONE	PSTL	V	V	FL	V
+
+Nhận_xét	1	0	0	0	NONE	Nhận_xét	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+có	0	0	0	0	NONE	có	V	V	V	V
+Chứ	1	0	0	0	NONE	Chứ	Np	Np	Np	Np
+săp_xếp	0	0	0	0	NONE	săp_xếp	V	V	V	V
+hết	0	0	0	0	NONE	hết	V	V	V	V
+rồi	0	0	0	0	NONE	rồi	R	R	R	R
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Cả	1	0	0	0	NONE	Cả	P	P	P	P
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+khoẻ	0	0	0	0	NONE	khoẻ	A	A	A	A
+chứ	0	0	0	0	NONE	chứ	C	C	C	C
+e	0	0	0	0	NONE	e	V	V	AB	AB
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+nếu	0	0	0	0	NONE	nếu	C	C	C	C
+đóng_góp	0	0	0	0	NONE	đóng_góp	V	V	V	V
+trên	0	0	0	0	NONE	trên	E	E	E	E
+tinh_thần	0	0	0	0	NONE	TNH_thần	N	N	N	N
+xây_dựng	0	0	0	0	NONE	xây_dựng	V	V	V	V
+là	0	0	0	0	NONE	là	V	V	V	V
+rất	0	0	0	0	NONE	rất	R	R	R	R
+ok	0	0	0	0	NONE	OK	A	A	I	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+lâu_lâu	0	0	0	0	NONE	lâu_lâu	R	R	R	R
+mới	0	0	0	0	NONE	mới	R	R	R	R
+gặp	0	0	0	0	NONE	gặp	V	V	V	V
+vui	0	0	0	0	NONE	F	A	A	A	A
+vch	0	0	0	0	NONE	FX	A	A	AB	A
+:))))	0	0	0	0	HP	:))))	PUN	HP	HP	HP
+
+Thời_gian	1	0	0	0	NONE	Thời_JN	N	N	N	N
+:	0	0	0	0	SPECIAL	:	PUN	PUN	PUN	PUN
+Sáng	1	0	0	0	NONE	Sáng	N	N	N	N
+từ	0	0	0	0	NONE	từ	E	E	E	E
+7h30	0	1	0	0	NONE	7h30	M	M	M	M
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+11h	0	1	0	0	NONE	11h	M	M	M	M
+->	0	0	0	0	SPECIAL	->	PUN	PUN	PUN	M
+2tr2	0	1	0	0	NONE	2tr2	M	M	M	M
+.	0	0	0	0	SPECIAL	.	M	M	PUN	PUN
+
+Mê	1	0	0	0	NONE	Mê	V	V	V	V
+bả	0	0	0	0	NONE	bả	N	N	N	N
+quá_trời	0	0	0	0	NONE	quá_trời	R	R	R	R
+
+từ	0	0	0	0	NONE	từ	E	E	E	E
+cách	0	0	0	0	NONE	cách	N	N	N	N
+phát_âm	0	0	0	0	NONE	phát_âm	V	V	V	V
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+nối	0	0	0	0	NONE	nối	V	V	V	V
+từ	0	0	0	0	NONE	từ	E	E	E	E
+k	0	0	0	0	NONE	k	N	N	AB	AB
+chê	0	0	0	0	NONE	chê	V	V	V	V
+vào	0	0	0	0	NONE	vào	E	E	E	E
+đâu	0	0	0	0	NONE	đâu	P	P	T	P
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Cả	1	0	0	0	NONE	Cả	P	P	P	P
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+mỗi	0	0	0	0	NONE	mỗi	L	L	L	L
+thằng	0	0	0	0	NONE	thằng	N	N	N	N
+đeo	0	0	0	0	NONE	đeo	V	V	V	V
+kính	0	0	0	0	NONE	kính	N	N	N	N
+làm	0	0	0	0	NONE	làm	V	V	V	V
+tâm	0	0	0	0	NONE	tâm	N	N	N	N
+điểm	0	0	0	0	NONE	điểm	N	N	N	N
+
+Đánh_rơi	1	0	0	0	NONE	Đánh_rơi	N	N	V	N
+mất	0	0	0	0	NONE	mất	V	V	A	V
+điện_thoại	0	0	0	0	NONE	điện_thoại	N	N	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Nhất_định	1	0	0	0	NONE	Nhất_định	R	R	R	R
+rồi	0	0	0	0	NONE	rồi	C	C	C	C
+anh_trai	0	0	0	0	NONE	ANH_TR	N	N	N	N
+Duc	1	0	0	0	NONE	TK	Np	Np	Np	Np
+M_Luong	1	0	1	0	NONE	M_LNK	Np	Np	Np	Np
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Sản_phẩm	1	0	0	0	NONE	Sản_phẩm	N	N	N	N
+100	0	1	0	0	NONE	100	M	M	M	M
+%	0	0	0	0	SPECIAL	%	N	N	Nu	PUN
+cotton	0	0	0	0	NONE	KTN	N	N	Np	N
+siêu	0	0	0	0	NONE	siêu	Z	Z	R	R
+thấm	0	0	0	0	NONE	thấm	V	V	V	V
+hút	0	0	0	0	NONE	hút	V	V	V	V
+mồ_môi	0	0	0	0	NONE	mồ_môi	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+với	0	0	0	0	NONE	với	E	E	E	E
+hơn	0	0	0	0	NONE	hơn	R	R	R	R
+30	0	1	0	0	NONE	30	M	M	M	M
+màu_sắc	0	0	0	0	NONE	màu_sắc	N	N	N	N
+cho	0	0	0	0	NONE	K	E	E	E	E
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+tha_hồ	0	0	0	0	NONE	0_hồ	V	V	V	V
+lựa_chọn	0	0	0	0	NONE	lựa_chọn	V	V	V	V
+
+Đề	1	0	0	0	NONE	Đề	Np	Np	N	N
+thi	0	0	0	0	NONE	0	V	V	V	V
+năm	0	0	0	0	NONE	năm	N	N	N	N
+nay	0	0	0	0	NONE	N	P	P	P	P
+được	0	0	0	0	NONE	được	R	R	R	R
+đánh_giá	0	0	0	0	NONE	đánh_giá	V	V	V	V
+là	0	0	0	0	NONE	là	V	V	V	V
+vừa	0	0	0	0	NONE	vừa	R	R	R	R
+sức	0	0	0	0	NONE	sức	N	N	N	N
+với	0	0	0	0	NONE	với	E	E	E	E
+giáo_viên	0	0	0	0	NONE	giáo_viên	N	N	N	N
+
+Minh_Đăng	1	0	1	0	NONE	MNH_Đăng	Np	Np	Np	Np
+thích	0	0	0	0	NONE	thích	V	V	V	V
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+đoạn	0	0	0	0	NONE	đoạn	N	N	N	N
+kết	0	0	0	0	NONE	kết	V	V	N	V
+
+bọn	0	0	0	0	NONE	bọn	Nc	Nc	Nc	Nc
+bay	0	0	0	0	NONE	B	N	N	N	N
+ko	0	0	0	0	NONE	K	A	A	AB	AB
+up	0	0	0	0	NONE	UP	V	V	FL	FL
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+nào	0	0	0	0	NONE	nào	P	P	P	P
+có	0	0	0	0	NONE	có	V	V	V	V
+mặt	0	0	0	0	NONE	mặt	V	V	N	V
+t	0	0	0	0	NONE	t	A	A	AB	AB
+à	0	0	0	0	NONE	à	T	T	T	T
+tongue_emoticon	0	0	0	0	CF	TNK_EMTKN	N	CF	CF	CF
+
+Trung_tâm	1	0	0	0	NONE	TRNK_tâm	N	N	N	N
+điều_trị	0	0	0	0	NONE	điều_trị	V	V	V	V
+mụn	0	0	0	0	NONE	mụn	V	V	V	V
+thịt	0	0	0	0	NONE	thịt	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+nốt_ruồi	0	0	0	0	NONE	nốt_ruồi	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+tàn_nhang	0	0	0	0	NONE	tàn_NHNK	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+đồi_mồi	0	0	0	0	NONE	đồi_mồi	N	N	N	N
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+chị	0	0	0	0	NONE	chị	N	N	N	N
+nha	0	0	0	0	NONE	NH	I	I	T	T
+
+đập	0	0	0	0	NONE	đập	V	V	V	V
+chết	0	0	0	0	NONE	chết	V	V	V	V
+ngay	0	0	0	0	NONE	NK	R	R	R	R
+kẻo	0	0	0	0	NONE	kẻo	C	C	C	C
+nó	0	0	0	0	NONE	nó	P	P	P	P
+lại	0	0	0	0	NONE	lại	R	R	R	R
+gây	0	0	0	0	NONE	gây	V	V	V	V
+thêm	0	0	0	0	NONE	thêm	V	V	V	V
+giống	0	0	0	0	NONE	giống	A	A	N	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Hộp_Thư_Đến	1	0	1	0	NONE	Hộp_Thư_Đến	Np	Np	Np	Np
+bố	0	0	0	0	NONE	bố	N	N	N	N
+nhé	0	0	0	0	NONE	nhé	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+1	0	1	0	0	NONE	1	M	M	M	M
+m	0	0	0	0	NONE	m	Nu	Nu	Nu	Nu
+68	0	1	0	0	NONE	68	M	M	M	M
+60kg	0	1	0	0	NONE	60kg	M	M	M	M
+size	0	0	0	0	NONE	SS	N	N	N	N
+gì	0	0	0	0	NONE	gì	P	P	P	P
+shop	0	0	0	0	NONE	XP	V	V	N	N
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Uh	1	0	0	0	NONE	U	Np	Np	I	Np
+chúm_ngây	0	0	0	0	NONE	chúm_ngây	V	V	Np	V
+e	0	0	0	0	NONE	e	V	V	V	AB
+Nhẫn_Phạm	1	0	1	0	NONE	Nhẫn_Phạm	Np	Np	Np	Np
+
+chú	0	0	0	0	NONE	chú	N	N	N	N
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+khéo	0	0	0	0	NONE	khéo	V	V	V	V
+đùa	0	0	0	0	NONE	đùa	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+thế	0	0	0	0	NONE	thế	P	P	T	P
+uống	0	0	0	0	NONE	uống	V	V	V	V
+rượu	0	0	0	0	NONE	rượu	N	N	N	N
+có	0	0	0	0	NONE	có	V	V	V	V
+giàu	0	0	0	0	NONE	giàu	A	A	A	A
+đc	0	0	0	0	NONE	đc	N	N	AB	AB
+k	0	0	0	0	NONE	k	N	N	AB	AB
+
+nhận_định	0	0	0	0	NONE	nhận_định	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+m	0	0	0	0	NONE	m	Nu	Nu	AB	AB
+sai	0	0	0	0	NONE	S	A	A	A	A
+lè	0	0	0	0	NONE	lè	N	N	N	N
+mà	0	0	0	0	NONE	mà	C	C	C	C
+còn	0	0	0	0	NONE	còn	C	C	R	R
+phát_biểu	0	0	0	0	NONE	phát_biểu	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+tớ	0	0	0	0	NONE	tớ	N	N	N	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+lót	0	0	0	0	NONE	lót	V	V	V	V
+dép	0	0	0	0	NONE	dép	N	N	N	N
+hóng	0	0	0	0	NONE	hóng	V	V	V	V
+nhá	0	0	0	0	NONE	nhá	T	T	T	T
+mesumo	0	0	0	0	NONE	MSM	N	N	Np	N
+
+em	0	0	0	0	NONE	EM	N	N	N	N
+tự	0	0	0	0	NONE	tự	P	P	P	P
+nấu	0	0	0	0	NONE	nấu	V	V	V	V
+đó	0	0	0	0	NONE	đó	P	P	P	P
+à	0	0	0	0	NONE	à	T	T	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Đáng	1	0	0	0	NONE	Đáng	V	V	V	V
+quan_ngại	0	0	0	0	NONE	KN_ngại	N	N	V	N
+=))))	0	0	0	0	HP	=))))	V	HP	HP	HP
+
+Luôn	1	0	0	0	NONE	Luôn	R	R	R	R
+bên_cạnh	0	0	0	0	NONE	bên_cạnh	N	N	N	N
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+bảo_vệ	0	0	0	0	NONE	bảo_vệ	V	V	V	V
+vợ	0	0	0	0	NONE	vợ	N	N	N	N
+
+Cute	1	0	0	0	NONE	KT	A	A	FL	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+Hai_Anh_Nguyen	1	0	1	0	NONE	H_ANH_NKYN	Np	Np	Np	Np
+em	0	0	0	0	NONE	EM	N	N	N	N
+êiii	0	0	0	0	NONE	êiii	V	V	X	V
+
+Mấy	1	0	0	0	NONE	Mấy	L	L	L	L
+nay	0	0	0	0	NONE	N	N	N	N	N
+oi	0	0	0	0	NONE	O	V	V	A	V
+mà	0	0	0	0	NONE	mà	C	C	C	C
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+ngon	0	0	0	0	NONE	NKN	A	A	A	A
+dễ_sợ	0	0	0	0	NONE	dễ_sợ	R	R	R	R
+
+Người	1	0	0	0	NONE	Người	N	N	N	N
+k	0	0	0	0	NONE	k	A	A	AB	AB
+khen	0	0	0	0	NONE	KHN	V	V	V	V
+đi	0	0	0	0	NONE	đi	V	V	V	V
+khen	0	0	0	0	NONE	KHN	V	V	V	V
+áo	0	0	0	0	NONE	áo	N	N	N	N
+
+Nhìn	1	0	0	0	NONE	Nhìn	V	V	V	V
+ngon	0	0	0	0	NONE	NKN	A	A	A	A
+thế	0	0	0	0	NONE	thế	P	P	T	T
+
+2	0	1	0	0	NONE	2	M	M	M	M
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Cuộc_đời	1	0	0	0	NONE	Cuộc_đời	N	N	N	N
+bố	0	0	0	0	NONE	bố	N	N	N	N
+tăm_tối	0	0	0	0	NONE	tăm_tối	A	A	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+bố	0	0	0	0	NONE	bố	N	N	N	N
+thích	0	0	0	0	NONE	thích	V	V	V	V
+tìm	0	0	0	0	NONE	tìm	V	V	V	V
+đến	0	0	0	0	NONE	đến	E	E	E	E
+những	0	0	0	0	NONE	những	L	L	L	L
+ngày	0	0	0	0	NONE	ngày	N	N	N	N
+rực_rỡ	0	0	0	0	NONE	rực_rỡ	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+nam	0	0	0	0	NONE	NM	N	N	Np	N
+dương	0	0	0	0	NONE	dương	N	N	Np	N
+tiến	0	0	0	0	NONE	tiến	V	V	Np	V
+rủ	0	0	0	0	NONE	rủ	V	V	V	V
+nhau	0	0	0	0	NONE	NH	N	N	N	N
+xuống	0	0	0	0	NONE	xuống	V	V	V	V
+âm_phụ	0	0	0	0	NONE	âm_phụ	A	A	X	A
+chịu	0	0	0	0	NONE	chịu	V	V	V	V
+tội	0	0	0	0	NONE	tội	N	N	N	N
+nha	0	0	0	0	NONE	NH	I	I	T	T
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+M	1	0	1	0	NONE	M	Np	Np	AB	Np
+là	0	0	0	0	NONE	là	V	V	V	V
+fan	0	0	0	0	NONE	FN	N	N	FL	N
+trung_thành	0	0	0	0	NONE	TRNK_thành	V	V	V	V
+của	0	0	0	0	NONE	của	E	E	E	E
+loại	0	0	0	0	NONE	loại	N	N	N	N
+quần	0	0	0	0	NONE	quần	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+mn	0	0	0	0	NONE	MN	V	V	AB	V
+ạ	0	0	0	0	NONE	ạ	T	T	I	T
+
+t	0	0	0	0	NONE	t	N	N	AB	AB
+phải	0	0	0	0	NONE	phải	V	V	V	V
+sống	0	0	0	0	NONE	sống	V	V	V	V
+sao	0	0	0	0	NONE	S	P	P	P	P
+stun_emoticon	0	0	0	0	CF	STN_EMTKN	V	CF	CF	CF
+
+Chứ	1	0	0	0	NONE	Chứ	C	C	C	C
+h	0	0	0	0	NONE	h	N	N	AB	N
+mà	0	0	0	0	NONE	mà	N	N	C	N
+cả	0	0	0	0	NONE	cả	N	N	P	N
+1	0	1	0	0	NONE	1	M	M	M	M
+lớp	0	0	0	0	NONE	lớp	N	N	N	N
+thế	0	0	0	0	NONE	thế	P	P	T	P
+kèm	0	0	0	0	NONE	kèm	V	V	V	V
+e	0	0	0	0	NONE	e	V	V	AB	AB
+e	0	0	0	0	NONE	e	V	V	AB	AB
+chuyên	0	0	0	0	NONE	chuyên	A	A	A	A
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+khó	0	0	0	0	NONE	khó	A	A	A	A
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Ơ	1	0	1	0	NONE	Ơ	I	I	I	I
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+Bảo	1	0	0	0	NONE	Bảo	Np	Np	V	AB
+ngủ	0	0	0	0	NONE	ngủ	V	V	V	V
+vẫn	0	0	0	0	NONE	vẫn	R	R	R	R
+cố	0	0	0	0	NONE	cố	V	V	V	V
+rặn	0	0	0	0	NONE	rặn	V	V	V	V
+ra	0	0	0	0	NONE	R	R	R	R	R
+cái	0	0	0	0	NONE	cái	Nc	Nc	Nc	Nc
+stt	0	0	0	0	NONE	ST	N	N	AB	N
+à	0	0	0	0	NONE	à	T	T	T	T
+
+Cafe	1	0	0	0	NONE	KF	N	N	N	N
+đêm	0	0	0	0	NONE	đêm	N	N	N	N
+...	0	0	0	0	SPECIAL	...	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+Lém	1	0	0	0	NONE	Lém	Np	Np	A	Np
+thấy	0	0	0	0	NONE	thấy	V	V	V	V
+cưng	0	0	0	0	NONE	cưng	V	V	V	V
+quá	0	0	0	0	NONE	quá	R	R	R	R
+àhhh	0	0	0	0	NONE	àhhh	A	A	X	A
+
+Cả	1	0	0	0	NONE	Cả	P	P	P	P
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+hiện_tại	0	0	0	0	NONE	hiện_tại	N	N	N	N
+tớ	0	0	0	0	NONE	tớ	N	N	N	N
+muốn	0	0	0	0	NONE	muốn	V	V	V	V
+tìm	0	0	0	0	NONE	tìm	V	V	V	V
+một	0	0	0	0	NONE	một	M	M	M	M
+lớp_học	0	0	0	0	NONE	lớp_học	N	N	N	N
+thêm	0	0	0	0	NONE	thêm	V	V	V	V
+Toán	1	0	0	0	NONE	Toán	Np	Np	Np	Np
+cho	0	0	0	0	NONE	K	E	E	E	E
+hs	0	0	0	0	NONE	S	N	N	AB	N
+bị	0	0	0	0	NONE	bị	V	V	V	V
+mất_gốc	0	0	0	0	NONE	mất_gốc	V	V	V	V
+(	0	0	0	0	SPECIAL	(	V	V	PUN	PUN
+lớp	0	0	0	0	NONE	lớp	N	N	N	N
+11	0	1	0	0	NONE	11	M	M	M	M
+)	0	0	0	0	SPECIAL	)	N	N	PUN	PUN
+ai	0	0	0	0	NONE	A	P	P	P	P
+biết	0	0	0	0	NONE	biết	V	V	V	V
+thầy_cô	0	0	0	0	NONE	thầy_cô	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+dạy	0	0	0	0	NONE	dạy	V	V	V	V
+làm_ơn	0	0	0	0	NONE	làm_ơn	V	V	V	V
+giới_thiệu	0	0	0	0	NONE	giới_thiệu	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+tớ	0	0	0	0	NONE	tớ	N	N	N	N
+với	0	0	0	0	NONE	với	E	E	E	E
+frown_emoticon	0	0	0	0	SD	FRN_EMTKN	N	SD	SD	SD
+cảm_ơn	0	0	0	0	NONE	cảm_ơn	V	V	V	V
+cả	0	0	0	0	NONE	cả	P	P	P	P
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+
+C	1	0	1	0	NONE	C	N	N	AB	AB
+có	0	0	0	0	NONE	có	V	V	V	V
+quyển	0	0	0	0	NONE	quyển	N	N	N	N
+nào	0	0	0	0	NONE	nào	P	P	P	P
+nữa	0	0	0	0	NONE	nữa	R	R	R	R
+không	0	0	0	0	NONE	không	R	R	R	R
+ạ	0	0	0	0	NONE	ạ	I	I	I	I
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+Bạn	1	0	0	0	NONE	Bạn	N	N	N	N
+ấy	0	0	0	0	NONE	ấy	P	P	P	P
+thể_hiện	0	0	0	0	NONE	thể_hiện	V	V	V	V
+cảm_xúc	0	0	0	0	NONE	cảm_xúc	N	N	N	N
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+rất	0	0	0	0	NONE	rất	R	R	R	R
+tốt	0	0	0	0	NONE	tốt	A	A	A	A
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+đặc_biệt	0	0	0	0	NONE	đặc_biệt	A	A	A	A
+nhớ	0	0	0	0	NONE	nhớ	V	V	V	V
+rất	0	0	0	0	NONE	rất	R	R	R	R
+tốt	0	0	0	0	NONE	tốt	A	A	A	A
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+3	0	1	0	0	NONE	3	M	M	M	M
+tuổi	0	0	0	0	NONE	tuổi	N	N	N	N
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+ấy	0	0	0	0	NONE	ấy	P	P	P	P
+đã	0	0	0	0	NONE	đã	R	R	R	R
+thuộc	0	0	0	0	NONE	thuộc	V	V	V	V
+rất	0	0	0	0	NONE	rất	R	R	R	R
+nhiều	0	0	0	0	NONE	nhiều	A	A	A	A
+truyện	0	0	0	0	NONE	truyện	N	N	N	N
+mà	0	0	0	0	NONE	mà	C	C	C	C
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+kể	0	0	0	0	NONE	kể	V	V	V	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+chỉ	0	0	0	0	NONE	chỉ	R	R	R	R
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+1	0	1	0	0	NONE	1	M	M	M	M
+lần	0	0	0	0	NONE	lần	N	N	N	N
+là	0	0	0	0	NONE	là	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+ấy	0	0	0	0	NONE	ấy	P	P	P	P
+đã	0	0	0	0	NONE	đã	R	R	R	R
+có_thể	0	0	0	0	NONE	có_thể	R	R	R	R
+tự	0	0	0	0	NONE	tự	P	P	P	P
+kể	0	0	0	0	NONE	kể	V	V	V	V
+lại	0	0	0	0	NONE	lại	R	R	R	R
+nội_dung	0	0	0	0	NONE	nội_TNK	N	N	N	N
+truyện	0	0	0	0	NONE	truyện	V	V	N	V
+đến	0	0	0	0	NONE	đến	E	E	E	E
+lần	0	0	0	0	NONE	lần	N	N	N	N
+thứ	0	0	0	0	NONE	thứ	N	N	N	N
+2	0	1	0	0	NONE	2	M	M	M	M
+thì	0	0	0	0	NONE	thì	C	C	C	C
+thuộc	0	0	0	0	NONE	thuộc	V	V	V	V
+vanh_vách	0	0	0	0	NONE	FNH_vách	A	A	A	A
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+giở	0	0	0	0	NONE	giở	V	V	V	V
+sách	0	0	0	0	NONE	sách	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+sang	0	0	0	0	NONE	SNK	V	V	V	V
+trang	0	0	0	0	NONE	TRNK	N	N	N	N
+như	0	0	0	0	NONE	như	C	C	C	C
+biết	0	0	0	0	NONE	biết	V	V	V	V
+chữ	0	0	0	0	NONE	chữ	N	N	N	N
+rồi	0	0	0	0	NONE	rồi	C	C	R	C
+ấy	0	0	0	0	NONE	ấy	P	P	P	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+vậy	0	0	0	0	NONE	vậy	P	P	P	P
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+tốt	0	0	0	0	NONE	tốt	A	A	A	A
+rồi	0	0	0	0	NONE	rồi	C	C	C	R
+grin_emoticon	0	0	0	0	HP	KRN_EMTKN	V	HP	HP	HP
+
+đang	0	0	0	0	NONE	đang	R	R	R	R
+tính	0	0	0	0	NONE	tính	V	V	V	V
+chiều	0	0	0	0	NONE	chiều	N	N	N	N
+ốc	0	0	0	0	NONE	ốc	N	N	N	N
+với	0	0	0	0	NONE	với	E	E	E	E
+cháo	0	0	0	0	NONE	cháo	N	N	N	N
+quẩy	0	0	0	0	NONE	quẩy	V	V	N	V
+=)))))))	0	0	0	0	HP	=)))))))	A	HP	HP	HP
+
+tình_hình	0	0	0	0	NONE	tình_hình	N	N	N	N
+e	0	0	0	0	NONE	e	V	V	AB	AB
+vừa	0	0	0	0	NONE	vừa	R	R	R	R
+được	0	0	0	0	NONE	được	V	V	V	V
+nhận	0	0	0	0	NONE	nhận	V	V	V	V
+mận_hậu	0	0	0	0	NONE	mận_hậu	N	N	N	N
+mộc_châu	0	0	0	0	NONE	mộc_châu	N	N	Np	N
+chính	0	0	0	0	NONE	chính	T	T	T	T
+vườn	0	0	0	0	NONE	vườn	N	N	N	N
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	V	HP	HP	HP
+
+Đáng_iu	1	0	0	0	NONE	Đáng_I	V	V	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+ạ	0	0	0	0	NONE	ạ	T	T	I	I
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Theo_dõi	1	0	0	0	NONE	0_dõi	V	V	V	V
+trên	0	0	0	0	NONE	trên	E	E	E	E
+Thuý_Nga	1	0	1	0	NONE	Thuý_NK	Np	Np	Np	Np
+và	0	0	0	0	NONE	và	CC	CC	CC	CC
+ngoài	0	0	0	0	NONE	ngoài	N	N	E	N
+đời	0	0	0	0	NONE	đời	N	N	N	N
+chị	0	0	0	0	NONE	chị	N	N	N	N
+luôn	0	0	0	0	NONE	luôn	R	R	R	R
+thực_tế	0	0	0	0	NONE	thực_tế	A	A	A	A
+từ	0	0	0	0	NONE	từ	E	E	E	E
+lời_nói	0	0	0	0	NONE	lời_nói	N	N	N	N
+đến	0	0	0	0	NONE	đến	E	E	E	E
+cử_chỉ	0	0	0	0	NONE	cử_chỉ	N	N	N	N
+đúng	0	0	0	0	NONE	đúng	A	A	A	A
+với	0	0	0	0	NONE	với	E	E	E	E
+tinh_thần	0	0	0	0	NONE	TNH_thần	N	N	N	N
+Mỹ	1	0	0	0	NONE	Mỹ	Np	Np	Np	Np
+(	0	0	0	0	SPECIAL	(	V	V	PUN	PUN
+Dân_chủ	1	0	0	0	NONE	Dân_chủ	Np	Np	N	Np
+-	0	0	0	0	SPECIAL	-	PUN	PUN	PUN	PUN
+tiến_bộ	0	0	0	0	NONE	tiến_bộ	N	N	N	N
+)	0	0	0	0	SPECIAL	)	A	A	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+mặc	0	0	0	0	NONE	mặc	V	V	V	V
+size	0	0	0	0	NONE	SS	N	N	FL	FL
+S	1	0	1	0	NONE	S	Np	Np	Np	Np
+nha	0	0	0	0	NONE	NH	I	I	T	T
+
+Daisy	1	0	0	0	NONE	TS	Np	Np	Np	Np
+đáng_yêu	0	0	0	0	NONE	đáng_yêu	V	V	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+đọc	0	0	0	0	NONE	đọc	V	V	V	V
+truyện	0	0	0	0	NONE	truyện	N	N	N	N
+đúng	0	0	0	0	NONE	đúng	A	A	A	A
+là	0	0	0	0	NONE	là	C	C	C	C
+tuyệt_vờj	0	0	0	0	NONE	tuyệt_vờj	A	A	A	A
+k	0	0	0	0	NONE	k	N	N	AB	AB
+bjết	0	0	0	0	NONE	bjết	V	V	V	V
+phjm	0	0	0	0	NONE	FJM	V	V	N	V
+thì_sao	0	0	0	0	NONE	thì_S	X	X	X	X
+đây	0	0	0	0	NONE	đây	P	P	T	P
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+2	0	1	0	0	NONE	2	M	M	M	M
+thím	0	0	0	0	NONE	thím	N	N	N	N
+dựng	0	0	0	0	NONE	dựng	V	V	V	V
+cảnh	0	0	0	0	NONE	cảnh	N	N	N	N
+hỏng	0	0	0	0	NONE	hỏng	A	A	A	A
+mất	0	0	0	0	NONE	mất	V	V	V	V
+roài	0	0	0	0	NONE	roài	N	N	R	N
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Có	1	0	0	0	NONE	Có	V	V	V	V
+nha	0	0	0	0	NONE	NH	T	T	T	T
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+giá	0	0	0	0	NONE	giá	N	N	N	N
+280k	0	1	0	0	NONE	280k	M	M	M	M
+nha	0	0	0	0	NONE	NH	I	I	I	T
+
+sai_lầm	0	0	0	0	NONE	S_lầm	A	A	A	A
+khi	0	0	0	0	NONE	KH	N	N	N	N
+vào	0	0	0	0	NONE	vào	V	V	V	V
+chỗ	0	0	0	0	NONE	chỗ	N	N	N	N
+này	0	0	0	0	NONE	này	P	P	P	P
+ăn	0	0	0	0	NONE	ăn	V	V	V	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+!	0	0	0	0	SPECIAL	!	PUN	PUN	PUN	PUN
+
+Yêu	1	0	0	0	NONE	Yêu	V	V	V	V
+mẹ	0	0	0	0	NONE	mẹ	N	N	N	N
+của	0	0	0	0	NONE	của	E	E	E	E
+Daisy	1	0	0	0	NONE	TS	Np	Np	Np	Np
+quá	0	0	0	0	NONE	quá	R	R	R	R
+
+Cbi	1	0	0	0	NONE	KB	Np	Np	AB	Np
+đi	0	0	0	0	NONE	đi	V	V	V	V
+thi	0	0	0	0	NONE	0	V	V	V	V
+đến	0	0	0	0	NONE	đến	E	E	E	E
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+r	0	0	0	0	NONE	r	N	N	AB	AB
+smile_emoticon	0	0	0	0	HP	SML_EMTKN	V	HP	HP	HP
+
+Mặc	1	0	0	0	NONE	Mặc	V	V	V	V
+size	0	0	0	0	NONE	SS	N	N	FL	N
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+
+c	0	0	0	0	NONE	c	N	N	AB	AB
+ới	0	0	0	0	NONE	ới	V	V	I	V
+,	0	0	0	0	SPECIAL	,	PUN	PUN	PUN	PUN
+gửi	0	0	0	0	NONE	gửi	V	V	V	V
+cho	0	0	0	0	NONE	K	E	E	E	E
+em	0	0	0	0	NONE	EM	N	N	N	N
+nhiều_nhiều	0	0	0	0	NONE	nhiều_nhiều	A	A	A	A
+nhá	0	0	0	0	NONE	nhá	T	T	T	T
+colonthree_emoticon	0	0	0	0	CF	KLN0R_EMTKN	N	CF	CF	CF
+
+Tỉnh	1	0	0	0	NONE	Tỉnh	N	N	N	N
+rồi	0	0	0	0	NONE	rồi	C	C	R	C
+à	0	0	0	0	NONE	à	T	T	T	T
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Ship	1	0	0	0	NONE	XP	Np	Np	FL	FL
+về	0	0	0	0	NONE	về	V	V	V	V
+Hd	1	0	0	0	NONE	T	Np	Np	X	Np
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+k	0	0	0	0	NONE	k	N	N	AB	AB
+shop	0	0	0	0	NONE	XP	V	V	N	N
+
+Ông	1	0	0	0	NONE	Ông	N	N	N	N
+bắn	0	0	0	0	NONE	bắn	V	V	V	V
+t	0	0	0	0	NONE	t	N	N	AB	AB
+trước	0	0	0	0	NONE	trước	E	E	E	E
+còn	0	0	0	0	NONE	còn	R	R	R	R
+gì	0	0	0	0	NONE	gì	P	P	P	P
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+Tui	1	0	0	0	NONE	T	P	P	P	P
+đi	0	0	0	0	NONE	đi	V	V	V	V
+học	0	0	0	0	NONE	học	V	V	V	V
+đó	0	0	0	0	NONE	đó	P	P	P	P
+
+Cấu	1	0	0	0	NONE	Cấu	N	N	N	N
+3	0	1	0	0	NONE	3	M	M	M	M
+thằng	0	0	0	0	NONE	thằng	Nc	Nc	Nc	N
+
+Càng	1	0	0	0	NONE	Càng	R	R	R	R
+nhìn	0	0	0	0	NONE	nhìn	V	V	V	V
+càng	0	0	0	0	NONE	càng	R	R	R	R
+iu	0	0	0	0	NONE	I	V	V	V	V
+
+hay	0	0	0	0	NONE	H	C	C	A	A
+quá	0	0	0	0	NONE	quá	R	R	R	R
+má	0	0	0	0	NONE	má	N	N	N	N
+ơi	0	0	0	0	NONE	ơi	I	I	I	I
+
+Thằng	1	0	0	0	NONE	Thằng	Nc	Nc	Nc	Nc
+Tạ_Công_Tùng	1	0	1	0	NONE	Tạ_Công_Tùng	Np	Np	Np	Np
+này	0	0	0	0	NONE	này	P	P	P	P
+nhạt	0	0	0	0	NONE	nhạt	A	A	A	A
+vãi	0	0	0	0	NONE	vãi	V	V	T	T
+
+Học	1	0	0	0	NONE	Học	V	V	V	V
+lớp	0	0	0	0	NONE	lớp	N	N	N	N
+frown_emoticon	0	0	0	0	SD	FRN_EMTKN	V	SD	SD	SD
+
+còn	0	0	0	0	NONE	còn	R	R	R	R
+đâu	0	0	0	0	NONE	đâu	P	P	T	P
+toàn	0	0	0	0	NONE	toàn	R	R	L	R
+chung_chung	0	0	0	0	NONE	KNK_KNK	A	A	A	A
+ko	0	0	0	0	NONE	K	V	V	AB	AB
+hay	0	0	0	0	NONE	H	C	C	A	C
+cug	0	0	0	0	NONE	KK	N	N	X	N
+e	0	0	0	0	NONE	e	V	V	AB	AB
+dk	0	0	0	0	NONE	TK	N	N	X	AB
+lam	0	0	0	0	NONE	LM	V	V	X	X
+
+k	0	0	0	0	NONE	k	N	N	AB	AB
+biet	0	0	0	0	NONE	BT	V	V	V	V
+con	0	0	0	0	NONE	KN	N	N	N	N
+e	0	0	0	0	NONE	e	V	V	AB	AB
+lớn	0	0	0	0	NONE	lớn	A	A	A	A
+có	0	0	0	0	NONE	có	V	V	V	V
+xinh	0	0	0	0	NONE	SNH	A	A	A	A
+đc	0	0	0	0	NONE	đc	V	V	AB	AB
+như	0	0	0	0	NONE	như	C	C	C	C
+daisy	0	0	0	0	NONE	TS	N	N	Np	N
+k	0	0	0	0	NONE	k	N	N	AB	AB
+ạ	0	0	0	0	NONE	ạ	T	T	I	I
+
+Thanks	1	0	0	0	NONE	0NKS	Np	Np	FL	Np
+c	0	0	0	0	NONE	c	N	N	AB	AB
+nha	0	0	0	0	NONE	NH	I	I	T	T
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+
+chủ	0	0	0	0	NONE	chủ	N	N	N	N
+nhà	0	0	0	0	NONE	nhà	N	N	N	N
+thật	0	0	0	0	NONE	thật	A	A	A	A
+dễ_tính	0	0	0	0	NONE	dễ_tính	A	A	A	A
+ha	0	0	0	0	NONE	H	N	N	T	N
+pacman_emoticon	0	0	0	0	HP	PKMN_EMTKN	N	HP	HP	HP
+
+Hội	1	0	0	0	NONE	Hội	N	N	N	N
+tìm	0	0	0	0	NONE	tìm	V	V	V	V
+người_yêuuu	0	0	0	0	NONE	người_yêuuu	N	N	X	N
+:)))	0	0	0	0	HP	:)))	PUN	HP	HP	HP
+
+Cháu	1	0	0	0	NONE	Cháu	N	N	N	N
+t	0	0	0	0	NONE	t	N	N	AB	AB
+cũng	0	0	0	0	NONE	cũng	R	R	R	R
+yêu	0	0	0	0	NONE	yêu	V	V	V	V
+nắm	0	0	0	0	NONE	nắm	V	V	R	V
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+.	0	0	0	0	SPECIAL	.	PUN	PUN	PUN	PUN
+
+lại	0	0	0	0	NONE	lại	R	R	R	R
+có	0	0	0	0	NONE	có	V	V	V	V
+bạn	0	0	0	0	NONE	bạn	N	N	N	N
+zai	0	0	0	0	NONE	S	A	A	A	A
+mới	0	0	0	0	NONE	mới	R	R	R	R
+à	0	0	0	0	NONE	à	T	T	T	T
+?	0	0	0	0	SPECIAL	?	PUN	PUN	PUN	PUN
+:))	0	0	0	0	HP	:))	PUN	HP	HP	HP
+
+của	0	0	0	0	NONE	của	E	E	E	E
+t	0	0	0	0	NONE	t	N	N	AB	AB
+đâu	0	0	0	0	NONE	đâu	P	P	P	P
+grin_emoticon	0	0	0	0	HP	KRN_EMTKN	V	HP	HP	HP
+
+Vỡi	1	0	0	0	NONE	Vỡi	V	V	T	V
+những	0	0	0	0	NONE	những	L	L	L	L
+đứa	0	0	0	0	NONE	đứa	Nc	Nc	Nc	Nc
+phổi_bò	0	0	0	0	NONE	phổi_bò	N	N	N	N
+như	0	0	0	0	NONE	như	C	C	C	C
+mình	0	0	0	0	NONE	mình	P	P	P	P
+thỉnh_thoảng	0	0	0	0	NONE	thỉnh_thoảng	R	R	R	R
+cứ	0	0	0	0	NONE	cứ	R	R	R	R
+bị	0	0	0	0	NONE	bị	V	V	V	V
+hên_hên	0	0	0	0	NONE	hên_hên	V	V	V	V
+=))	0	0	0	0	HP	=))	M	HP	HP	HP
+

@@ -1,0 +1,87 @@
+Câu so sánh: vượt trước xe
+
+vượt xe khác 0.6666667
+không được vượt xe 0.5714286
+vượt xe cứu hỏa 0.5714286
+vượt xe cứu thương 0.5714286
+vượt xe ô tô 0.5714286
+
+============================
+
+Câu so sánh: chạy quá tốc độ
+
+chạy quá tốc độ 1.0
+chạy quá tốc độ quy định 0.8
+đi quá tốc độ 0.75
+chạy quá tốc độ gây tai nạn 0.72727275
+chạy quá tốc độ quy định thành nhóm 0.6666667
+chạy quá tốc độ gây tai nạn giao thông 0.61538464
+
+============================
+
+Câu so sánh: vượt quá tốc độ
+
+chạy quá tốc độ 0.75
+đi quá tốc độ 0.75
+chạy quá tốc độ quy định 0.6
+
+===========================
+
+Câu so sánh: đi quá nhanh
+
+đi quá tốc độ 0.5714286
+đi 0.5
+
+===========================
+
+Câu so sánh: rẽ bất ngờ
+
+rẽ phải 0.4
+rẽ trái 0.4
+rẽ đột ngột 0.33333334
+rẽ mà không xi nhan 0.25
+rẽ mà không giảm tốc độ 0.22222222
+
+===========================
+
+Câu so sánh: rẽ không báo trước
+
+chuyển làn không báo trước 0.6666667
+lùi không có tín hiệu báo trước 0.54545456
+đỗ không có báo hiệu 0.44444445
+đỗ không có biển báo 0.44444445
+đỗ nhưng không báo hiệu 0.44444445
+không chấp hành biển báo 0.44444445
+rẽ mà không xi nhan 0.44444445
+
+===========================
+
+Câu so sánh: rẽ không thông báo
+
+chuyển làn không có tín hiệu thông báo 0.5
+chuyển làn không báo trước 0.44444445
+đỗ không có báo hiệu 0.44444445
+đỗ không có biển báo 0.44444445
+đỗ nhưng không báo hiệu 0.44444445
+không chấp hành biển báo 0.44444445
+rẽ mà không xi nhan 0.44444445
+
+============================
+
+Câu so sánh: phạt ra sao
+
+bị phạt bao nhiêu 0.2857143
+bị phạt thế nào 0.2857143
+có bị phạt không 0.2857143
+phạt bao nhiêu tiền 0.2857143
+bị phạt bao nhiêu tiền 0.25
+
+============================
+
+Câu so sánh: phạt thế nào
+
+bị phạt thế nào 0.85714287
+thế nào 0.8
+như thế nào 0.6666667
+phải thế nào 0.6666667
+thế nào là 0.6666667
